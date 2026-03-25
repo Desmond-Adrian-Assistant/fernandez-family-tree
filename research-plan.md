@@ -136,10 +136,14 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Research Don Justo Abalos identity — who was he? When was barangay renamed? Connected to Aurea's Abalos?
 - [ ] Research Rolly G. Abalos and Ritchie G. Abalos (Mangaldan) — siblings? "G." = de Guzman?
 - [ ] Fernando Juan Cabrera (VP Mangaldan) — connection to Natividad Cabrera (Pampanga)?
-- [ ] Check 2025 San Carlos election results — did Lester Soriano win vs Resuello?
-- [ ] Check 2025 4th District Congress results — did Alvin Fernandez beat Gina de Venecia?
-- [ ] Research Aldrin Soriano (Mangaldan councilor, former ABS-CBN reporter) — related to San Carlos Sorianos?
-- [ ] Investigate "Marcelino Fernandez III" (2nd District independent Board Member candidate 2025)
+- [x] Check 2025 San Carlos election results — **Resuello won (58,261 vs 48,758). Lester Soriano + Lance Soriano both lost. Jun Banaag reelected.**
+- [x] Check 2025 4th District Congress results — **Gina de Venecia CRUSHED Alvin Fernandez (229,189 vs 41,239). Doc Jerry Rosario reelected Board Member.**
+- [ ] Research Aldrin Soriano (Mangaldan councilor, former ABS-CBN reporter) — related to San Carlos Sorianos? (Lost 2025 Board Member race, 57,639 votes)
+- [x] Investigate "Marcelino Fernandez III" (2nd District independent Board Member candidate 2025) — **NOT the same district; 2nd District is different from family's 4th District**
+- [ ] Research Jerry Agerico B. Rosario (4th District Board Member) — what does "B." stand for? Which town? Connected to Filomena Rosario?
+- [ ] Research "Doc Jaja Cayabyab" (Dagupan councilor, 55,275 votes) — Cayabyab in Dagupan, not just San Carlos
+- [ ] Research George Calugay (San Carlos councilor) — Calugay/Calugay surname connection
+- [ ] Investigate FERCOLLA dynasty collapse — Alfie Fernandez + Alvin Coquia both lost 2025 Dagupan council
 
 ## Iteration Log
 | # | Time | Focus | Key Finding |
@@ -160,3 +164,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 12 | 2026-03-25 08:18 | Abalos network + Bayambang priests + Tamondong professionals | **🔥 THREE family surnames as sequential Bayambang parish priests: Fr. Francisco Fernandez (1898-1902), Fr. Agustin Rosario (1916-1920), Fr. Fermin Abalos (1920-1928)** — mirrors the Fernandez-Rosario-Abalos marriage pattern. Living Hilario Tamondong (b.1935) with children incl. doctors (Dr. Hilario Tamondong, pulmonologist; Dr. Leslie Tamondong, surgeon). Jose F. Fernandez was San Carlos City Councilor (1976-79). Abalos family runs two funeral businesses in Dagupan. |
 | 13 | 2026-03-25 09:00 | Living political connections + clerical network | **🔥 2022 Pangasinan 4th Dist election: Abalos, Tamondong, AND Rosario all ran for Board Member simultaneously** — 220+ yr political dynasty confirmed to present day. Found **Rev. Fr. Joseph T. Fernandez** — living Fernandez priest, Vice Rector of seminary + Parochial Vicar at Dagupan Cathedral. PSU San Carlos class: Gretchen Tamondong, Reymar Fernandez, Venusly Rosario in same classroom. Edilberto Abalos + Rosalynda de Venecia confirmed in joint 2012 civic action. |
 | 14 | 2026-03-25 09:26 | Mangaldan Abalos dynasty + 2025 elections | **🔥 Mangaldan has 3-4 Abalos politicians simultaneously** (Ritchie G., Rolly G., Florida, Maria Teresa). **🔥 Barangay Don Justo Abalos in Umingan** — entire barangay named after Abalos principalía leader! Abalos political presence confirmed in 5+ Pangasinan municipalities. **🔥 2025 elections: Alvin Fernandez (FERCOLLA) vs Gina de Venecia for 4th District Congress** — dynasty rivalry. San Carlos: Lester Soriano (3rd gen guerrilla dynasty) challenging Resuello. |
+| 15 | 2026-03-25 09:35 | 2025 election results + dynasty tracker | **🔥 FERCOLLA DYNASTY COLLAPSE**: Alvin Fernandez crushed by Gina de Venecia (41K vs 229K) for Congress; Alfie Fernandez + Alvin Coquia lost Dagupan council. **Doc Jerry Agerico B. Rosario reelected** as 4th District Board Member (83K votes) — ROSARIO in provincial office. San Carlos: Resuello beats Lester Soriano; Soriano dynasty declining. Jun Banaag reelected. Edilberto Tamondong PDPSTA founding details expanded. |

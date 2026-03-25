@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 09:30 UTC (Iteration 14)
+Last updated: 2026-03-25 09:35 UTC (Iteration 15)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -938,3 +938,57 @@ Source: Rappler, "In Pangasinan, dynasties are still vying for control in 2025" 
 | Carmina Paningbatan | Councilor | Connected to Gabriel Paningbatan Rosario (Brgy Captain) |
 
 Source: PeoPlaid, Pangasinan provincial government website
+
+## 2025 Election Results — Dynastic Power Shift (Iteration 15)
+
+### 4th District Congressional Race
+- **Gina de Venecia (LAKAS) — 229,189** defeated **Alvin Fernandez (IND) — 41,239** (5.5:1 margin)
+- FERCOLLA dynasty routed in their bid for Congress
+- de Venecia dynasty reclaims seat (Gina = wife of former Speaker Jose de Venecia Jr.)
+
+### 4th District Board Members (Provincial)
+- **Noy de Guzman (NP) — 103,967** — reelected
+- **Jerry Agerico B. Rosario (NP) — 83,361** — reelected (ROSARIO surname in provincial office!)
+- Aldrin Soriano (API) — 57,639 — lost
+- Doc Jerry Rosario's full name confirmed: **Jerry Agerico B. Rosario**
+
+### San Carlos City 2025
+- **Mayor**: Resuello "Ayoy" (NP) 58,261 beats Lester Soriano (NPC) 48,758
+- Resuello dynasty holds; Soriano dynasty (3rd generation) failed to reclaim mayorship
+- **Jun Banaag** wins council again (47,926) — dynasty continues (Aquilino Banaag = Municipal President 1908)
+- **Lance Soriano** (NPC) lost council race (42,700) — 3rd gen Soriano declined
+- **George Calugay** (NP) won council (44,750)
+
+### Dagupan City 2025 — FERCOLLA COLLAPSE
+- **Mayor**: Belen Fernandez (PFP) 81,977 wins (NOT Fercolla branch)
+- **Michael Fernandez (PFP) — 72,462** — top vote-getter councilor (allied to Belen, not Fercolla)
+- **Alfie Fernandez (NP) — 48,043** — LOST (Alipio Serafin "Alfie" Fernandez = FERCOLLA branch)
+- **Alvin Coquia (NP) — 46,905** — LOST (FERCOLLA Coquia branch)
+- **Dra. Malou Fernandez (NP) — 44,798** — LOST
+- **Cayabyab, Doc Jaja (PFP) — 55,275** — WON (Cayabyab principalía surname, now in Dagupan too)
+- PFP swept 9 of 10 council seats — FERCOLLA dynasty effectively ousted from Dagupan council
+
+### Jorge Tamondong — 2022 4th District Board Member Results
+- Ran under PGRP, received only **837 votes** (last of 9 candidates)
+- Did not run again in 2025
+- Minor party candidacy, but Tamondong surname on provincial ballot confirms continued political awareness
+
+### Dynasty Power Tracker (2025 vs 2022)
+| Dynasty | Trend | Notes |
+|---------|-------|-------|
+| FERCOLLA Fernandez | ↓ | Lost Congress, lost Dagupan council seats (Alfie + Coquia) |
+| de Venecia | ↑ | Gina won Congress with 229K votes |
+| Rosario | ↑ | Doc Jerry Rosario reelected Board Member |
+| Resuello | → | Holds San Carlos mayorship |
+| Soriano | ↓ | Lost mayoral + council bids |
+| Banaag | → | Jun Banaag reelected to council |
+| Belen Fernandez (non-FERCOLLA) | ↑ | Dominant re-election, PFP swept 9/10 seats |
+| Tamondong | → | No 2025 candidates |
+
+## Edilberto A. Tamondong Sr. — PDPSTA Founding Details (Iteration 15)
+- Co-founded PDPSTA in **September 1968** at a meeting in **Urdaneta**
+- Served on Ad Interim Board alongside Mariano O. Hidalgo (President), Arturo M. Caronongan (VP)
+- **Elected first PDPSTA President on June 23, 1969**
+- Organization went through SEC registration (March 28, 1969) and court litigation vs rival teacher group (1969-71)
+- PDPSTA became the **PPSTMBA Inc.** (Pangasinan Public School Teachers Mutual Aid Benefits Association) — still active today
+- Source: ppstmba.com company profile
