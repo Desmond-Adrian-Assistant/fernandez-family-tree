@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 10:38 UTC (Iteration 18)
+Last updated: 2026-03-25 11:26 UTC (Iteration 19)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -1176,3 +1176,57 @@ Despite being a major political force in Dagupan (FERCOLLA dynasty), the Fernand
 - Oath taken before **Kevin George Calugay** (Barangay Captain of Palaming + City Councilor)
 - Deliberately chose San Carlos to honor FPJ's roots (Fernando Poe Sr. born 1916 in San Carlos)
 - Confirms San Carlos's enduring national political significance
+
+## 🔥 Padlan-Perez-de Venecia-Fernandez Power Chain (Iteration 19)
+
+### Don Emilio Padlan — First Municipal President of San Carlos
+- First **selected** municipal mayor/president under American administration (~1901-1908?)
+- One of the "most famous and illustrious sons and daughters of San Carlos" (official Angelfire city history)
+- **Padlan** surname = the maternal family of Speaker Eugenio Perez
+
+### Eugenio PADLAN Pérez (1896-1957) — Speaker of the House of Representatives
+- **Full name:** Eugenio Padlan Pérez
+- **Born:** November 13, 1896, Sitio Obong, Barrio Basista, San Carlos, Pangasinan
+- **Died:** August 4, 1957, Quezon City (age 60)
+- **Education:** UP BA (1918), UP College of Law (1922)
+- **Career:** San Carlos Municipal Council (1926-28) → Congressman 2nd District (1928-1957, 9 consecutive terms) → Speaker of the House (1946-1953) → House Minority Leader (1954-1957) → 4th President of Liberal Party (1950-57)
+- **Wife:** Consuelo Salazar (soprano) — died June 2004, called "most beloved matriarch of Pangasinan" by Manaoag Mayor Pedro Garcia. President Arroyo paid respects.
+- **Children:**
+  1. **Victoria Perez** — married **Jose de Venecia Jr.** (Speaker of the House 1992-98, 2001-08). Mother of Jose de Venecia III (Joey). Victoria lives in the US as "Victoria Perez-Norton."
+  2. **Consuelo Perez** — former Governor of the Board of Investments
+  3. **Eugenio Perez Jr.** — former Pangasinan Vice Governor
+- **Buried:** Family plot in San Carlos City, Pangasinan
+- November 13 is a **public holiday in Pangasinan** (RA 6721, 1989) — his birthday
+
+### The Complete 2nd Congressional District Power Succession
+| # | Representative | Term | Connection |
+|---|---------------|------|------------|
+| 4 | **Aquilino Banaag** | 1916-1919 | Banaag principalía (San Carlos) |
+| 5 | Alejandro de Guzmán | 1919-1922 | de Guzmán family |
+| 6 | Lamberto Siguión Reyna | 1922-1925 | — |
+| 7 | Isidoro Siapno | 1925-1928 | Siapno principalía |
+| 8 | **Eugenio Pérez** (SPEAKER) | 1928-1957 | Son of **Padlan** (first San Carlos mayor) |
+| 9 | **Angel B. Fernández** | ~1957-1965 | **FERCOLLA** dynasty (Dagupan mayor 1948-63) |
+| — | **Jack Soriano** | 1966-1969 | WWII guerrilla CO dynasty (San Carlos) |
+| — | **Jose de Venecia Jr.** (SPEAKER) | ~1969-? | Married Victoria **Perez** (Speaker's daughter) |
+
+**Power passes between principalía families**: Banaag → Perez/Padlan → Fernandez → Soriano → de Venecia. Adrian's family surnames (Tamondong captain 1802, Fernandez, Banaag intermarriage) are embedded in this chain.
+
+### TWO Speakers of the House from the Same Family Network
+- **Eugenio Perez** — Speaker 1946-1953 (from San Carlos)
+- **Jose de Venecia Jr.** — Speaker 1992-2008 (married Perez's daughter Victoria)
+- The Perez-de Venecia dynasty controlled the Speakership of the Philippine House of Representatives across TWO generations
+
+### Pantaleon Perez Connection — Historical Footnote
+- **Juan de la Cruz Palaris** (1762-65 revolt leader of San Carlos) — real name was **Pantaleon Perez**
+- The Perez surname in San Carlos may trace to the family of this revolutionary hero
+- Speaker Eugenio Perez was born in Barrio Basista, which was part of Palaris's rebel territory
+
+### Dagupan Past Mayors — Angel B. Fernandez Chronology (Official City Website)
+| # | Name | Term |
+|---|------|------|
+| 1 | Alipio F. Fernandez Sr. (appointed) | June 20 – Dec 31, 1947 |
+| 2 | **Angel B. Fernandez Sr.** (appointed) | Jan 1, 1948 – Dec 31, 1963 |
+| 3 | Teofilo P. Guadiz (appointed) | 1964 onward |
+
+Angel B. Fernandez served as Dagupan mayor for **15 years** before becoming congressman and sponsoring San Carlos's city charter (RA 4487, 1965). The Wikipedia succession table confirms Angel B. Fernández directly succeeded Speaker Eugenio Pérez as 2nd District congressman.

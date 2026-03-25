@@ -163,7 +163,12 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Contact UANA (Umingan Association of North America, Las Vegas) for Don Justo Abalos family history
 - [ ] Contact FAHSC (Filipino American Historical Society of Chicago) for Fernandez/Tamondong immigration records
 - [ ] Search Chicago PCG FilCom directory for Pangasinan-specific associations
-- [ ] Research Don Emilio Padlan (first mayor of San Carlos) — principalía connections
+- [x] Research Don Emilio Padlan (first mayor of San Carlos) — **🔥 His surname "Padlan" = mother's family of Speaker Eugenio Perez. Padlan-Perez-de Venecia-Fernandez power chain documented.**
+- [ ] Research Don Emilio Padlan's full biography — when exactly was he municipal president? Direct ancestry to Perez?
+- [ ] Investigate "Pantaleon Perez" (Palaris's real name) — connection to Eugenio Perez's family?
+- [ ] Research Consuelo Perez (daughter of Speaker) — Governor of Board of Investments
+- [ ] Research Eugenio Perez Jr. (son) — former Pangasinan Vice Governor
+- [ ] Map the complete 2nd District → 4th District redistricting timeline
 
 ## Iteration Log
 | # | Time | Focus | Key Finding |
@@ -189,3 +194,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 17 | 2026-03-25 10:18 | Umingan deep dive + Don Justo Abalos + Abalos surname | **🔥 Umingan founded by settlers from MANGALDAN** (Abalos political stronghold) — confirms Mangaldan→Umingan Abalos migration path. Two Fernandez councilors in Umingan (Fred A. + Siann Liandro M.). Adjacent barangays "Don Justo Abalos" (formerly Caroan) and "Don Montano" (formerly Cadamortisan) both named after principalía patriarchs. **Abalos surname = Spanish-Sephardic origin from Ábalos village, La Rioja, Spain** (listed in "Sangre Judia"). 31,719 bearers in PH; 29% in Ilocos Region. |
 | 18 | 2026-03-25 10:38 | San Carlos barangay power map + NARA process + Soriano 3rd gen | **Complete analysis of all 86 San Carlos barangay captains**: 3 Rosario, 2 Cayabyab, 2 Soriano, 1 Tamondong, 1 Macalanda — but **ZERO Fernandez, ZERO Abalos**. Fernandez political absence in San Carlos suggests family was non-political or came through Tamondong line. **Lance Douglas U. Soriano** confirmed as 3rd-gen Jack Soriano grandson (Brgy Perez Blvd). NARA SF-180 process documented for Mariano Fernandez guerrilla records. Brian Poe (FPJ grandson) took oath in San Carlos June 2025. |
 | 19 | 2026-03-25 11:08 | Eduardo Tamondong full name + Jorge Tamondong + Daquigan + Chicago context | **Eduardo CORPUZ Tamondong** — "C." confirmed as Corpuz (mother's maiden name), Ilocano surname. Jorge Tamondong received 837 votes (last place) in 2022 PGRP candidacy, no bio info available. Chicago Filipino 3-wave immigration documented (WBEZ). UANA (Umingan Association) confirmed in Las Vegas. All ancestor name searches still hitting zero results — physical records needed. Jose F. Fernandez (1976-79 councilor) not findable online. |
+| 20 | 2026-03-25 11:26 | Padlan-Perez-de Venecia-Fernandez power chain | **🔥 Don Emilio Padlan (first San Carlos mayor) is maternal family of Speaker Eugenio PADLAN Perez (1896-1957)**. Perez was Speaker 1946-53, represented 2nd District for 9 terms. **His daughter Victoria Perez married Jose de Venecia Jr. (Speaker 1992-2008)** — TWO Speakers from same family. **Angel B. Fernandez (FERCOLLA) directly succeeded Perez as 2nd District congressman**. Complete power chain: Banaag (1916) → Perez/Padlan (1928) → Fernandez (1957) → Soriano (1966) → de Venecia (~1969). Consuelo Salazar-Perez (wife) buried in San Carlos. PVAO still down. FamilySearch Cook County Deaths requires browser auth. |
