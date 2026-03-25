@@ -122,3 +122,23 @@ This iteration reveals **Freemasonry as the third pillar** of the principalía n
 - [ ] Research Edilberto Tamondong's "A." middle initial — same question as before
 - [ ] Check if the Tamondong Lodge member list includes any Fernandez/Abalos/Rosario names
 - [ ] Research the 32nd "Red Arrow" Infantry Division's liberation of San Nicolas — overlap with Mariano Fernandez service?
+
+## Iteration 25 — Continued FamilySearch Blitz
+
+### Jose Abalos + Carlina Tamondong — MAJOR FINDS
+1. **Jose Abalos' parents: Domingo Ávalos (Abalos) & Anacleta Peralta** — pushes tree back to early 1800s
+2. Jose & Carlina had at least 3 children: **Hilarion (Hilario), Hipolita, Camila**
+3. **Jose Abalos died June 30, 1947 in Dagupan City** — death record found
+4. No Bienvenido siblings found in indexed civil records (they're in unindexed San Carlos parish registers)
+5. Feliciano Fernandez married Angela Villanueva — another Fernandez-Villanueva connection in Pangasinan
+
+### Diosdado Cervantes' siblings found
+1. **Angelica Cervantes** — from marriage record (Isaac Cervantes & Engracia Nazario as parents)
+2. **Rebecca Cervantes Lucero** — found in US Social Security NUMIDENT records!
+
+### Running Totals
+- **35+ documented family members**
+- **7 generations** on the Abalos branch (deepest)
+- **5 marriage records** found on FamilySearch
+- **2 death records** found (Jose Abalos 1947, Venancio R Abalos 1965)
+- **Surnames now documented**: Fernandez, Daquigan, Villanueva, Abalos, Tamondong, Rosario, Paglingayen, Bacarro, Gutierrez, Peralta, Cervantes, Nazario, Cabrera, Banaag, Nerizon
