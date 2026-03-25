@@ -1,14 +1,52 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 13:49 UTC (Iteration 25)
+Last updated: 2026-03-25 15:32 UTC (Iteration 28)
+
+## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
+
+A complete family tree already exists on FamilySearch, contributed by "John Zander Magday", "Kristine8553" (active YESTERDAY 3/24/2026!), and "castilloRhoda". This provides sourced records going back to the 1870s.
+
+### Confirmed Paternal Lineage (FamilySearch Tree + Records)
+
+**Great-Great-Grandparents (Fernandez):**
+- **Pablo Fernandez** (GW9H-MP7): b. 1870-1880, d. Philippines
+- **Marta Villanueva** (GW94-YSV): b. 1870
+- Children: Josefa (1901), Eduardo (1903), **Mariano** (1905)
+
+**Great-Great-Grandparents (Daquigan):**
+- **Domingo Daquigan** (GW9H-NL4): b. 1880-1890, d. Philippines
+- **Benita Bacarro** (GW9C-ZNP): b. 1880
+- Children: Maria (1916), **Victoria/Victoriana** (1917), Antonia (1922), Francisco (~1923)
+- Daquigan surname traced to **Tagudin, Ilocos Sur** (1795 christening record of earlier Domingo Daquigan)
+
+**Great-Grandparents:**
+- **Mariano Fernandez** (GW9H-FMJ): b. 1905, d. Philippines
+- **Victoria Daquigan** (GW9C-S54): b. 1917 (= Victoriana)
+- Mariano also had 2nd wife: Dionicia Capinding (1906)
+
+**Grandparents:**
+- **Bienvenido Daquigan Fernandez** (GY2Z-3K9): b. **22 March 1937, Gerona, Tarlac** — d. **8 March 1994**, buried **Niles, Illinois**
+- **Aurea Rosario Abalos**: b. ~1939 (age 24 at 1963 marriage)
+- Married: **16 December 1963, San Carlos City, Pangasinan**
+- Bienvenido's occupation: **Accountant**
+- Immigration: **1981 to Chicago**
+- Aurea's parents: **Hilario Abalos** + **Filomena Rosario**
+
+### Key Corrections
+- Bienvenido born in **Gerona, Tarlac** (NOT Dagupan/Pangasinan)
+- Bienvenido born **22 March 1937** (NOT ~1933)
+- "Rosario" in Aurea's name is her **mother's maiden name** (Filipino naming convention)
+- Burial in **Niles, IL** (Chicago suburb)
 
 ## Confirmed Facts
-- Family is from **Pangasinan**, likely **Dagupan City**
-- Bienvenido Fernandez: born 1933, died 1994
-- Aurea Rosario Abalos: born ~1936, still living
-- Juan Tamondong & Juana Paglingayen are the oldest known ancestors (great-great-great-grandparents)
-- **Bienvenido died in CHICAGO, IL** (per Adrian, 2026-03-24) — corrects earlier assumption
-- Chicago death records and Cook County vital records should have his death certificate
+- Family has connections to both **Tarlac** (Fernandez-Daquigan) and **Pangasinan** (Abalos-Rosario, Tamondong)
+- Bienvenido Fernandez: born 22 March 1937 in Gerona, Tarlac; died 8 March 1994 in Chicago
+- Aurea Rosario Abalos: born ~1939, still living
+- Juan Tamondong & Juana Paglingayen are the oldest known ancestors (great-great-great-grandparents) on maternal side
+- Pablo Fernandez & Marta Villanueva are the oldest known Fernandez ancestors (~1870s)
+- Domingo Daquigan & Benita Bacarro are the oldest known Daquigan ancestors (~1880s)
+- **Bienvenido died in CHICAGO, IL** (confirmed — buried in Niles, IL)
+- **Cook County death record exists**: "Bien Fernandez" in Illinois, Cook County Deaths, 1871-1998
 - **Abalos family has deep roots in Dagupan** — Funeraria Abalos (funeral home) on Arellano Street, Abalos family in Bonuan Gueset barangay
 
 ## Surname Research
