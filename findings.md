@@ -413,6 +413,46 @@ From the Wikipedia article on the Minor Basilica of Saint Dominic (San Carlos):
 - **Died:** December 24, 2023
 - Confirms the Rosario-Fernandez social network in San Carlos City (different branch)
 
+## Cervantes Side — Adrian's Mother's Family (Track 7)
+
+### Cervantes Surname
+- **Origin:** Spanish, from Latin "cervus" (stag). Named after the town of Cervantes in Spain
+- **Philippines incidence:** 33,562 bearers (ranked 217th most common)
+- **NOT in the 1849 Catálogo de Apellidos** — predates the decree, suggesting possible Spanish ancestry or very early colonial adoption
+- **Pampanga presence confirmed:** Multiple Cervantes figures active in the province
+
+### Cabrera Surname (Natividad's Maiden Name)
+- **Origin:** Spanish/Catalan, from Latin "caprarius" (goatherd). Habitational name from places called Cabrera
+- **Philippines incidence:** 69,376 bearers (ranked 87th — very common)
+- **NOT in the 1849 Catálogo** — another pre-existing Spanish surname
+- **Both Cervantes AND Cabrera** being pre-decree surnames suggests possible actual Spanish ancestry in Janice's family
+
+### Diosdado Cervantes — Possible Match (NEEDS VERIFICATION)
+- **Diosdado Cervantes** owns **DL Cervantes Construction** in **San Simon, Pampanga** (near Angeles City)
+- Quoted in a 2018 Philstar article about a flood control project collapse on the Pampanga River
+- **San Simon is ~15 km from Angeles City** — Janice's family is from Angeles City, Pampanga
+- Same first name as Janice's father (Diosdados/Diosdado — likely variant spelling)
+- **QUESTION FOR ADRIAN**: Is this the same Diosdado Cervantes?
+
+### "Ding" Cervantes — Pampanga Journalist
+- Prominent Pampanga-based journalist, correspondent for Philippine Star, SunStar Pampanga, Banat News
+- Based in Central Luzon (San Fernando/Angeles area)
+- Received death threats in 2012 while covering news
+- May or may not be related to Janice's family
+
+### Angeles City Context
+- **Founded:** 1796 by Don Angel Pantaleon de Miranda
+- **Key parish:** Holy Rosary Parish Church (Santo Rosario / Pisamban Maragul) — founded 1877
+- **Archdiocese:** San Fernando (est. 1949)
+- **Clark Air Base:** US military installation 3 miles from Angeles City (1903-1991). Major employer for local families. Many Filipino employees emigrated to the US. Closed after Mt. Pinatubo eruption (1991).
+- The Cervantes family's immigration to the US (likely Chicago) may be connected to Clark Air Base employment or the post-1965 immigration wave
+
+### FamilySearch Resources for Pampanga
+- **Archdiocese of San Fernando** holds parish records for Pampanga province
+- FamilySearch has Pampanga civil registration records available (1888-1986)
+- Holy Rosary Parish records would cover Angeles City baptisms, marriages, burials
+- **Key next step:** Search FamilySearch for Cervantes/Cabrera birth and marriage records
+
 ## Gaps to Fill
 - [ ] Janice's maiden name and family
 - [ ] Raul's birth date and siblings

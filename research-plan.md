@@ -81,16 +81,20 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Investigate Roberto Fernandez Martinez (d. 2026, mother Aurora Fernandez from Dagupan) — possible relation?
 
 ### Track 7: Cervantes Side (Janice's Family — Mother's Side)
-- [ ] Search "Diosdados Cervantes" Philippines records
-- [ ] Search "Natividad Cabrera Cervantes" Philippines records
-- [ ] Research Cervantes surname origin in Philippines
-- [ ] Research Cabrera surname origin (Natividad's maiden name)
-- [ ] Search for Diosdados & Natividad marriage record
-- [ ] Search for Janice Cervantes birth record
-- [ ] Look for Cervantes family in Pangasinan/Philippines
-- [ ] Search FamilySearch for Cervantes + Cabrera records
-- [ ] Check if Cervantes family is also from Pangasinan or different province
+- [x] Search "Diosdados Cervantes" Philippines records — **No direct genealogy records. Found Diosdado Cervantes of DL Cervantes Construction in San Simon, Pampanga (2018 Philstar article) — possible match!**
+- [x] Search "Natividad Cabrera Cervantes" Philippines records — **No results. Multiple other Natividad Cabreras found but none matching.**
+- [x] Research Cervantes surname origin in Philippines — **Spanish origin (Latin "cervus" = stag), 33,562 bearers in PH, NOT in 1849 Catálogo**
+- [x] Research Cabrera surname origin (Natividad's maiden name) — **Spanish/Catalan (Latin "caprarius" = goatherd), 69,376 bearers in PH, NOT in Catálogo**
+- [ ] Search for Diosdados & Natividad marriage record (FamilySearch Pampanga records)
+- [ ] Search for Janice Cervantes birth record (FamilySearch Pampanga records)
+- [x] Look for Cervantes family in Pangasinan/Philippines — **Cervantes family is confirmed in PAMPANGA, not Pangasinan. Multiple Cervantes in San Simon/Angeles area.**
+- [ ] Search FamilySearch for Cervantes + Cabrera records in Pampanga
+- [x] Check if Cervantes family is also from Pangasinan or different province — **PAMPANGA (Angeles City). Different province entirely.**
 - [ ] Search for siblings of Janice
+- [ ] Verify if Diosdado Cervantes of DL Cervantes Construction = Janice's father (ask Adrian)
+- [ ] Research "Ding Cervantes" (Pampanga journalist) — possible family connection
+- [ ] Search for Cervantes/Cabrera in Angeles City Holy Rosary Parish records
+- [ ] Research Clark Air Base employment → US immigration pathway for Cervantes family
 
 ## Iteration Log
 | # | Time | Focus | Key Finding |
@@ -103,3 +107,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 4 | 2026-03-25 00:45 | Track 3 (Geni/trees) + Track 5 (parish records) | All ancestor name searches negative on Geni/MyHeritage. Identified Dagupan Cathedral as key parish. Found 3 critical FamilySearch collections requiring free account. Found Fercolla book 1983 edition (3 editions total). Abalos family deep roots confirmed (Dr. Sofronio Abalos, Fr. Fermin Abalos 1920). |
 | 5 | 2026-03-25 04:49 | Track 5 (PH historical context) | Documented Dagupan history, 1849 Catálogo (Fernandez predates decree = possible Spanish ancestry). Mapped Fernandez-de Venecia-Abalos triangle via Bonuan Gueset. WWII: Mariano Fernandez military age during occupation. Found PVAO guerrilla records resource. Roberto Fernandez Martinez obit (mother Aurora Fernandez, Dagupan). |
 | 6 | 2026-03-25 05:00 | San Carlos City deep dive | **🔥 MAJOR: Simon Tamondong was Captain (Gobernadorcillo) of San Carlos in 1802** — oversaw church reconstruction. Tamondong family = principalía (ruling elite). St. Dominic Basilica (1587) identified as key parish. Angel B. Fernandez (FERCOLLA) made San Carlos a city (RA 4487, 1966). Francisco Tamondong from Brgy Ano, San Carlos (Ancestry). Lourdes Rosario Fernandez obit (San Carlos). |
+| 7 | 2026-03-25 06:00 | Cervantes side (Track 7) | First research into Janice's family. Cervantes & Cabrera both pre-1849 Spanish surnames (not in Catálogo). Found **Diosdado Cervantes of DL Cervantes Construction in San Simon, Pampanga** — possible match for Janice's father. Angeles City parish (Holy Rosary, 1877) and Archdiocese of San Fernando identified. Clark Air Base (1903-1991) near Angeles City may explain US immigration pathway. |
