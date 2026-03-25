@@ -131,6 +131,15 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Research the elder Hilario Tamondong (b. 1935, wife Flora) — what town is he from?
 - [ ] Research Dr. Hilario Tamondong (pulmonologist, Medical City/Lung Center) — connection to elder Hilario?
 - [ ] Research Leslie Tamondong (surgeon/California) — child of elder Hilario?
+- [x] Research Mangaldan municipality for Abalos connections — **🔥 THREE Abalos politicians: Ritchie G., Rolly G., Florida + Maria Teresa Abalos. Abalos dominates Liga ng mga Barangay.**
+- [x] Discover Barangay Don Justo Abalos — **🔥 Barangay in Umingan named after Abalos principalía leader!**
+- [ ] Research Don Justo Abalos identity — who was he? When was barangay renamed? Connected to Aurea's Abalos?
+- [ ] Research Rolly G. Abalos and Ritchie G. Abalos (Mangaldan) — siblings? "G." = de Guzman?
+- [ ] Fernando Juan Cabrera (VP Mangaldan) — connection to Natividad Cabrera (Pampanga)?
+- [ ] Check 2025 San Carlos election results — did Lester Soriano win vs Resuello?
+- [ ] Check 2025 4th District Congress results — did Alvin Fernandez beat Gina de Venecia?
+- [ ] Research Aldrin Soriano (Mangaldan councilor, former ABS-CBN reporter) — related to San Carlos Sorianos?
+- [ ] Investigate "Marcelino Fernandez III" (2nd District independent Board Member candidate 2025)
 
 ## Iteration Log
 | # | Time | Focus | Key Finding |
@@ -150,3 +159,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 11 | 2026-03-25 07:30 | San Carlos WWII guerrilla + Tamondong Ancestry branches | **🔥 Col. Edwin Ramsey was hidden IN San Carlos by Judge Juan Benitez family** — guerrilla inductions happened in town. Jack Soriano was CO of 1st Bn Ramsey's guerrillas. PTMD/ECLGA records (NARA 308-23) would list individual San Carlos guerrillas. **Pillars of San Carlos City** archived page documents all principalía leaders. Three Tamondong Ancestry branches documented: Aniceto (m. Macalanda), Alberto (m. Raucio), Joseph (m. Garcia, Brgy Ano). Tamondong confirmed in 1849 Catálogo for both Pangasinan AND Tarlac. |
 | 12 | 2026-03-25 08:18 | Abalos network + Bayambang priests + Tamondong professionals | **🔥 THREE family surnames as sequential Bayambang parish priests: Fr. Francisco Fernandez (1898-1902), Fr. Agustin Rosario (1916-1920), Fr. Fermin Abalos (1920-1928)** — mirrors the Fernandez-Rosario-Abalos marriage pattern. Living Hilario Tamondong (b.1935) with children incl. doctors (Dr. Hilario Tamondong, pulmonologist; Dr. Leslie Tamondong, surgeon). Jose F. Fernandez was San Carlos City Councilor (1976-79). Abalos family runs two funeral businesses in Dagupan. |
 | 13 | 2026-03-25 09:00 | Living political connections + clerical network | **🔥 2022 Pangasinan 4th Dist election: Abalos, Tamondong, AND Rosario all ran for Board Member simultaneously** — 220+ yr political dynasty confirmed to present day. Found **Rev. Fr. Joseph T. Fernandez** — living Fernandez priest, Vice Rector of seminary + Parochial Vicar at Dagupan Cathedral. PSU San Carlos class: Gretchen Tamondong, Reymar Fernandez, Venusly Rosario in same classroom. Edilberto Abalos + Rosalynda de Venecia confirmed in joint 2012 civic action. |
+| 14 | 2026-03-25 09:26 | Mangaldan Abalos dynasty + 2025 elections | **🔥 Mangaldan has 3-4 Abalos politicians simultaneously** (Ritchie G., Rolly G., Florida, Maria Teresa). **🔥 Barangay Don Justo Abalos in Umingan** — entire barangay named after Abalos principalía leader! Abalos political presence confirmed in 5+ Pangasinan municipalities. **🔥 2025 elections: Alvin Fernandez (FERCOLLA) vs Gina de Venecia for 4th District Congress** — dynasty rivalry. San Carlos: Lester Soriano (3rd gen guerrilla dynasty) challenging Resuello. |

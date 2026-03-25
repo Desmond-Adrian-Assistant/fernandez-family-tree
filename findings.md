@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 09:05 UTC (Iteration 13)
+Last updated: 2026-03-25 09:30 UTC (Iteration 14)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -863,3 +863,78 @@ From Dagupan Punch (2012):
 - **Edilberto Abalos** (Education Supervisor, City Schools Division) and **Rosalynda de Venecia** (VP, Panangaro Foundation) jointly opposed an online casino in Dagupan
 - Confirms the Abalos-de Venecia civic alliance previously documented via Geni "de Venecia y Ábalos" surname
 - Strengthens the Fernandez ↔ de Venecia ↔ Abalos triangle
+
+## Mangaldan Municipality — Abalos Political Stronghold (Iteration 14)
+
+Mangaldan (4th District, borders Dagupan, 21 km from San Carlos) has an extraordinary concentration of Abalos politicians:
+
+| Name | Position | Term |
+|------|----------|------|
+| **Ritchie G. Abalos** | Barangay Captain (Bantayan), Liga President, 2022 Board Member candidate | 2012-2022 |
+| **Rolly G. Abalos** | Municipal Councilor | 2022-2025 |
+| **Florida Abalos** | Barangay Captain (Maasin) → Councilor + Liga President | 2023-present |
+| **Maria Teresa Abalos** | Municipal Councilor | 2019-2022 |
+
+The "G." middle initial shared by Ritchie and Rolly suggests they are siblings (likely de Guzman). The Abalos family dominates Mangaldan's Liga ng mga Barangay and municipal council positions.
+
+**Fernando Juan Cabrera** serves as Vice Mayor of Mangaldan — same Cabrera surname as Janice's mother Natividad Cabrera (though Natividad is from Pampanga).
+
+Source: Pangasinan provincial government website, Dagupan Punch, Aldrin Soriano's website
+
+## Barangay Don Justo Abalos — Umingan, Pangasinan (Iteration 14)
+
+A barangay in **Umingan municipality** is named after **Don Justo Abalos**, a principalía-class leader:
+- **Former name**: Caroan
+- **Renamed**: Don Justo Abalos (in honor of the local patriarch)
+- **Population**: 1,198 (2020 Census)
+- **Don Justo Abalos Elementary School** being established (House Bill 4036, filed by Rep. Marlyn Primicias-Agabas)
+- The "Don" honorific indicates principalía status — landed gentry / political leadership
+- Umingan is in eastern Pangasinan, ~40 km from San Carlos
+- Confirms Abalos as a principalía surname across multiple Pangasinan municipalities (not just Dagupan)
+
+### Updated Abalos Political Network Across Pangasinan (5+ municipalities)
+| Location | Abalos Figure | Role |
+|----------|--------------|------|
+| Umingan | Don Justo Abalos | Principalía leader (barangay namesake) |
+| Laoac | Antonio P. Abalos | Municipal Mayor (2007-10) |
+| Mangaldan | Ritchie, Rolly, Florida, Maria Teresa | Multiple councilors + Liga Presidents |
+| Dagupan | Armando Abalos, Edilberto Abalos | KC officer, Education Supervisor |
+| Agno | Rodolfo M. Abalos | Barangay SBM (2010-13) |
+
+Source: PhilAtlas, Zamboanga.com, Congressional records
+
+## 2025 Pangasinan Dynasty Politics — Fernandez vs de Venecia (Iteration 14)
+
+From Rappler (October 2024) — 2025 midterm elections:
+
+### 4th District Congressional Race: Fernandez vs de Venecia
+- **Alvin Fernandez** (former Dagupan City Vice Mayor) challenging **Gina de Venecia** (former representative)
+- Alvin = son of **Alipio "Al" Fernandez Jr.** (FERCOLLA dynasty) — same Alvin Fernandez already documented as city councilor
+- Gina = wife of Jose de Venecia Jr. (former Speaker of the House), replacing son Cristopher (3rd term limit)
+- "Fernandez has challenged the De Venecias in previous elections but failed"
+- This is the **FERCOLLA Fernandez dynasty directly competing against the de Venecia dynasty** for control of the 4th District
+- Confirms the Fernandez ↔ de Venecia political rivalry at the highest level
+
+### San Carlos City: Resuello vs Soriano Dynasty Battle
+- Mayor **Julier "Ayoy" Resuello** (Nacionalista) + half-brother VP Joseres seeking reelection
+- Challenger: **Lester Soriano** — son of Douglas Soriano, **grandson of Jack Laureano Soriano** (WWII guerrilla CO → Congressman → Judge → Mayor)
+- 3rd generation Soriano dynasty vs Resuello dynasty (Julian Resuello was assassinated mayor, 2007)
+- Two principalía families battling for control of the city where Adrian's family originated
+
+### Dagupan City: Fernandez vs Lim
+- Mayor **Belen Fernandez** + nephew VP Bryan Kua vs Celia Lim + son Marc Brian Lim
+- Belen Fernandez (NOT Fercolla branch, father: Jimmy Fernandez) — a SECOND Fernandez political family in Dagupan
+
+Source: Rappler, "In Pangasinan, dynasties are still vying for control in 2025" (Oct 2024)
+
+## San Carlos City Council (2022-2025) — Principalía Surnames (Iteration 14)
+
+| Official | Position | Dynasty Connection |
+|----------|----------|--------------------|
+| Julier "Ayoy" Resuello | Mayor | Son of Julian Resuello (assassinated 2007) |
+| Joseres "Bogs" S. Resuello | Vice Mayor | Half-brother of Julier |
+| Jack Lester Soriano | Councilor | Grandson of guerrilla CO Jack Laureano Soriano |
+| Jun Banaag | Councilor | Aquilino Banaag = Municipal President 1908-09, Congressman |
+| Carmina Paningbatan | Councilor | Connected to Gabriel Paningbatan Rosario (Brgy Captain) |
+
+Source: PeoPlaid, Pangasinan provincial government website
