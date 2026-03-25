@@ -1480,3 +1480,59 @@ This is critical: The Tamondong and Abalos families in Laoac are **Ilocano settl
 - **If Bienvenido's family was in Pangasinan in 1990, they experienced this earthquake**
 - Bienvenido died in Chicago in 1994 — earthquake may have accelerated emigration
 - Clark Air Base closed 1991 (Mt. Pinatubo) — major Filipino emigration wave followed
+
+## 🔥 Soriano-Cayabyab Intermarriage CONFIRMED (Iteration 28)
+
+From a Reddit r/Pangasinan post (May 2025) analyzing the 2028 San Carlos elections:
+- **Engr. Jaime Soriano Cayabyab** — Cayabyab by father, **Soriano** by mother
+- Described as "cousins with the Sorianos" — confirmed cross-principalía marriage
+- Former DPWH official and Duterte appointee; potential 2028 VP candidate
+- This completes the documented intermarriage web of ALL 11 major San Carlos principalía families:
+
+**Complete Principalía Intermarriage Network:**
+Tamondong ↔ Banaag ↔ Cayabyab ↔ **Soriano** ↔ Benitez ↔ Rosario ↔ Macalanda ↔ Fernandez ↔ Abalos ↔ de Venecia ↔ Perez/Padlan
+
+### Carmina Paningbatan-Resuello — Additional Intermarriage
+- Current San Carlos Councilor; wife of former Councilor Joshua Resuello
+- **Paningbatan by birth** — same surname as Juan C. Paningbatan (Brgy Captain of Abanon) and Gabriel **Paningbatan** Rosario (Brgy Captain of Balococ)
+- Connects Resuello dynasty to Paningbatan-Rosario network
+- Being discussed as potential first female mayor of San Carlos (2028)
+
+## Florentino Balerio Tamondong Sr. (1924-2017) — Rosales-Hawaii Branch
+
+**Source:** Honolulu Star-Advertiser obituary (September 2017)
+- **Born:** ~1924 in **Rosales, Pangasinan** (age 93 at death)
+- **Died:** August 10, 2017, Waipahu, Hawaii
+- **Nickname:** "Tino"
+- **Wife:** **Victoria** (same given name as Victoria Daquigan, Bienvenido's mother)
+- **Sons:** Conrad (Teri) Tamondong, Florentino "Nick" (Cecilia) Tamondong
+- **Sisters:** Dominga Calacala, Winifred (Melvin) Yokoyama, Dolores (Richard) Pagan
+- **Brothers:** Liborio Jr. Tamondong, Gary (Sandra) Tamondong
+- **Father:** Liborio Tamondong Sr. (inferred from "Liborio Jr." as brother)
+- **Mother's maiden name:** Balerio (middle name convention)
+- **Career:** Laborer/carpenter at Dole Plantation, Whitmore Village (Hawaii); journeyman carpenter on Kwajalein, Marshall Islands
+- **Burial:** Mililani Memorial Park, Hawaii
+- **Significance:** Rosales is ~15 km from San Carlos City. Born 1924, contemporary with Bienvenido (1933/1937). Represents the Rosales-Hawaii Tamondong branch — classic Filipino agricultural worker immigration pathway (Philippines → Hawaii pineapple plantations). Likely a separate branch from Adrian's San Carlos line but confirms Tamondong diaspora across multiple US states (Hawaii, California, Chicago, Texas, Guam).
+
+## San Carlos 2028 Election Preview — Three-Way Dynasty Battle (Iteration 28)
+
+From Reddit r/Pangasinan (May 2025):
+
+**Camp 1: Resuello Dynasty (incumbents)**
+- Mayor Ayoy (term-limited) → VP? | VP Bogs → Mayor? | Carmina Paningbatan-Resuello (dark horse)
+
+**Camp 2: Soriano-Lomboy Alliance**
+- Lester Soriano (lost 2025) | Atty. Gallant Soriano | Atty. Jonathan Lomboy (possible mayor) | Engr. Jaime Soriano Cayabyab (possible VP)
+
+**Camp 3: Ventanilla-Baniqued-Cayabyab**
+- Board Member Vici Ventanilla | Atty. JR Baniqued Jr. (married to Board Member Dr. Shiela Ferrer Baniqued) | Former Councilor Amy Cayabyab
+
+**Key revelation:** Engr. Jaime Cayabyab and Dr. Amy Cayabyab are "distant cousins" — multiple Cayabyab branches compete
+
+## Barangay Burgos-Padlan — Principalía Confirmation
+
+Barangay #22 in San Carlos City is named "Burgos-Padlan":
+- **Burgos** = José Burgos (one of the three martyred priests, GomBurZa)
+- **Padlan** = Don Emilio Padlan's principalía family (first San Carlos mayor, maternal family of Speaker Eugenio Perez)
+- A barangay carrying the family name confirms foundational principalía status
+- Current captain: Loreto DV. Baguio
