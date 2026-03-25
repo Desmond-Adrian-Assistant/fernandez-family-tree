@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 04:55 UTC (Iteration 5)
+Last updated: 2026-03-25 05:05 UTC (Iteration 6)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -356,6 +356,62 @@ The marriage was in San Carlos City. The Tamondong surname concentration in San 
 - **PVAO Archives**: collections.pvao.mil.ph (guerrilla records, searchable)
 - **Key insight**: Most Philippine vital records before 1889 come from Catholic parish/diocesan archives
 - Filipino genealogy uniquely challenging — Spanish surnames don't indicate Spanish ancestry due to 1849 decree
+
+## Simon Tamondong — Captain of San Carlos (1802) — MAJOR DISCOVERY
+From the Wikipedia article on the Minor Basilica of Saint Dominic (San Carlos):
+> "In 1802, the façade and the walls were strengthened and reinforced when **Simon Tamondong was the Captain**."
+
+- The title "Captain" (Capitan Municipal / Gobernadorcillo) was the highest local government position in a Spanish-era Philippine town
+- Simon Tamondong oversaw the reconstruction of the largest church in Pangasinan after devastating earthquakes (1789, 1796, 1799)
+- **Direct ancestral connection:** Adrian's ancestor Juan Tamondong (~1850) is likely Simon's grandson or great-grandson
+- Other captains from the same era: Juan de Vera, Gaspar de los Reyes, Juan Austria, Marcos Cayabyab (1770-1773)
+- The Tamondong family was part of **San Carlos's colonial-era ruling elite** — a principalía family
+- This extends documented Fernandez family history back to **at least 1802** through the maternal Tamondong line
+
+## Minor Basilica of St. Dominic — San Carlos City
+- **Founded:** 1587 — one of the first Dominican parishes in the Philippines
+- **Full name:** Minor Basilica and Parish of St. Dominic de Guzman
+- **Archdiocese:** Lingayen-Dagupan
+- **Current Rector:** Fr. Mario Dominic C. Sanchez
+- **Architecture:** Baroque, brick/stone masonry, present structure begun 1770
+- **History:** Transferred 3+ times; burned in 1718 (Caragay revolt), 1763 (Palaris revolt); earthquakes 1789/96/99; rebuilt 1802 under Captain Simon Tamondong
+- **Parish records:** FamilySearch Collection #1646454 (Lingayen-Dagupan Archdiocese Parish Registers, 1615-1982)
+- **Key:** All Fernandez/Tamondong/Daquigan/Abalos baptisms and marriages in San Carlos would be recorded here
+
+## Angel B. Fernandez & San Carlos City Charter
+- **Republic Act 4487** — made San Carlos a city, effective January 1, 1966
+- **Sponsored by:** Congressman Angel B. Fernandez (2nd District of Pangasinan, FERCOLLA clan)
+- Angel B. Fernandez was first the mayor of Dagupan, then congressman representing the district that includes San Carlos
+- The FERCOLLA Fernandez dynasty from Dagupan had **direct political authority over San Carlos City**
+- Strengthens the possible link between Bienvenido Fernandez and the broader FERCOLLA network
+
+## San Carlos City (Binalatongan) Historical Context
+- **Original name:** Binalatongan — capital of the ancient Kingdom of Caboloan (Luyag na Caboloan)
+- **Kingdom encompassed:** Tarlac, Zambales, Nueva Ecija, La Union, Pangasinan, Benguet
+- **Founded as town:** 1587 by Dominican missionaries
+- **Key revolts:** Andres Malong (1660), Juan de la Cruz Palaris (1762-64)
+- **Renamed:** "San Carlos" by King Carlos III of Spain after the Palaris revolt
+- **City charter:** 1966 (RA 4487, Angel B. Fernandez)
+- **Population:** 208,330 (2024) — most populous LGU in Pangasinan
+- **86 barangays** including Balaya, Ano, San Juan (site of Binalatongan ruins)
+- **Notable native:** Fernando Poe Sr. (born 1916, San Carlos City) — father of FPJ ("Da King"), Philippine National Artist
+
+## Francisco Garcia Tamondong — Another San Carlos Tamondong
+- **Born:** December 16, 1925, in **Barangay Ano, San Carlos, Pangasinan**
+- **Died:** December 21, 1983, in Carville, Iberville, Louisiana, USA
+- **Parents:** Joseph Tamondong & Regina Garcia
+- **Source:** Ancestry.com record
+- Born ~8 years before Bienvenido (1933) — roughly contemporary
+- Confirms Tamondong as an established San Carlos family
+- Emigrated to Louisiana (different US destination than Chicago)
+
+## Lourdes Rosario Fernandez — Rosario-Fernandez from San Carlos
+- **Born:** November 11, 1954, in **Balaya, San Carlos City, Pangasinan**
+- **Parents:** Tomas Paragas Rosario & Augusta Beltran Rosario
+- **Married:** Lorenzo Catungal Fernandez
+- **Migrated to US:** 1992 (California, then Las Vegas)
+- **Died:** December 24, 2023
+- Confirms the Rosario-Fernandez social network in San Carlos City (different branch)
 
 ## Gaps to Fill
 - [ ] Janice's maiden name and family

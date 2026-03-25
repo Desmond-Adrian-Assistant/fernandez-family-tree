@@ -61,10 +61,15 @@ Each iteration should: read previous findings → identify the highest-value une
 ### Track 5: Philippine Historical Context
 - [x] Research Dagupan City history and founding families — **Documented from official city gov page: Bacnotan→Dagupan, Spanish era→WWII→charter city 1947**
 - [x] Investigate the 1849 Catálogo de Apellidos for Pangasinan — **"Fernandez" predates decree (exempt). Native names (Tamondong, Daquigan, etc.) likely assigned from Catálogo.**
-- [ ] Research Catholic Church parish records in Dagupan — **Identified Dagupan Cathedral + Annunciation of the Lord (Bonuan Gueset) as key parishes**
+- [x] Research Catholic Church parish records in San Carlos City — **Minor Basilica of St. Dominic (founded 1587), FamilySearch Collection #1646454**
+- [x] Research San Carlos City (Binalatongan) historical context — **Ancient capital of Caboloan kingdom, Dominican mission from 1587**
+- [x] **MAJOR: Found Simon Tamondong as Captain/Gobernadorcillo of San Carlos in 1802** — Tamondong family was principalía (ruling class)
+- [x] **Found Angel B. Fernandez (FERCOLLA) sponsored San Carlos City charter (RA 4487, 1966)** — direct political link
 - [ ] Look for Pangasinan provincial records/archives
 - [x] Research Pangasinan genealogy Facebook groups and communities — **Identified filipinogenealogy.com, genealogy.ph, FamilySearch wiki as resources**
 - [ ] Check if any Filipino genealogy societies have Fernandez records
+- [ ] Search for more Tamondong gobernadorcillos/captains in San Carlos historical records
+- [ ] Research Barangay Ano (Francisco Tamondong connection) and other San Carlos barangays
 
 ### Track 6: DNA & Modern Resources
 - [ ] Identify Filipino genealogy Facebook groups
@@ -97,3 +102,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 3b | 2026-03-25 00:40 | Chicago deep dive: Cook County, probate, cemeteries | Searched Cook County Probate Docket + Will Search = no cases. Ancestry Cook County Death Index only covers 1908-1988. **Confirmed Aurea Fernandez lives in Chicago IL** (Whitepages/Spokeo). Catholic Cemeteries of Chicago identified as high-priority resource (email registration needed). |
 | 4 | 2026-03-25 00:45 | Track 3 (Geni/trees) + Track 5 (parish records) | All ancestor name searches negative on Geni/MyHeritage. Identified Dagupan Cathedral as key parish. Found 3 critical FamilySearch collections requiring free account. Found Fercolla book 1983 edition (3 editions total). Abalos family deep roots confirmed (Dr. Sofronio Abalos, Fr. Fermin Abalos 1920). |
 | 5 | 2026-03-25 04:49 | Track 5 (PH historical context) | Documented Dagupan history, 1849 Catálogo (Fernandez predates decree = possible Spanish ancestry). Mapped Fernandez-de Venecia-Abalos triangle via Bonuan Gueset. WWII: Mariano Fernandez military age during occupation. Found PVAO guerrilla records resource. Roberto Fernandez Martinez obit (mother Aurora Fernandez, Dagupan). |
+| 6 | 2026-03-25 05:00 | San Carlos City deep dive | **🔥 MAJOR: Simon Tamondong was Captain (Gobernadorcillo) of San Carlos in 1802** — oversaw church reconstruction. Tamondong family = principalía (ruling elite). St. Dominic Basilica (1587) identified as key parish. Angel B. Fernandez (FERCOLLA) made San Carlos a city (RA 4487, 1966). Francisco Tamondong from Brgy Ano, San Carlos (Ancestry). Lourdes Rosario Fernandez obit (San Carlos). |
