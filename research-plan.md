@@ -75,6 +75,18 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Search PVAO guerrilla records for Mariano Fernandez and other ancestors (site was down)
 - [ ] Investigate Roberto Fernandez Martinez (d. 2026, mother Aurora Fernandez from Dagupan) — possible relation?
 
+### Track 7: Cervantes Side (Janice's Family — Mother's Side)
+- [ ] Search "Diosdados Cervantes" Philippines records
+- [ ] Search "Natividad Cabrera Cervantes" Philippines records
+- [ ] Research Cervantes surname origin in Philippines
+- [ ] Research Cabrera surname origin (Natividad's maiden name)
+- [ ] Search for Diosdados & Natividad marriage record
+- [ ] Search for Janice Cervantes birth record
+- [ ] Look for Cervantes family in Pangasinan/Philippines
+- [ ] Search FamilySearch for Cervantes + Cabrera records
+- [ ] Check if Cervantes family is also from Pangasinan or different province
+- [ ] Search for siblings of Janice
+
 ## Iteration Log
 | # | Time | Focus | Key Finding |
 |---|------|-------|-------------|

@@ -11,8 +11,9 @@ You are running an automated research iteration for the Fernandez family tree pr
 5. **Document findings**: Write an iteration file `iterations/iteration-NN.md` with timestamp, focus area, searches performed, and findings
 6. **Update findings.md**: Add any new confirmed facts or leads
 7. **Update research-plan.md**: Check off completed items, add new leads discovered, update the iteration log
-8. **Git commit and push**: Stage all changes, commit with a descriptive message, push to origin
-9. **Report to Discord**: Send a brief update to Discord channel 1486213192127348919 only if you found something significant (not every iteration)
+8. **Update family-tree.md and family-tree.json**: If new people or dates are found, update the Mermaid diagram and JSON tree
+9. **Git commit and push**: Stage all changes, commit with a descriptive message, push to origin
+10. **Report to Discord**: Send a brief update to Discord channel 1486213192127348919 only if you found something significant (not every iteration)
 
 ## Key Search Strategies
 - Use FamilySearch, Ancestry, Geni, MyHeritage, FindAGrave, BillionGraves
@@ -38,4 +39,8 @@ You are running an automated research iteration for the Fernandez family tree pr
 - Great-grandparents: Mariano Fernandez + Victoria Daquigan, Hilario Abalos + Filomena Rosario
 - Great-great-grandparents: Pablo Fernandez + Marta Villanueva, Domingo Daquigan + Benita Bacarro, Jose Abalos + Carlina Tamondong, Francisco Rosario + Juana Gutierrez
 - Oldest known: Juan Tamondong + Juana Paglingayen (~1850)
+- **MATERNAL SIDE (Cervantes)**: Janice Cervantes married Raul Fernandez
+  - Janice's father: **Diosdados Cervantes**
+  - Janice's mother: **Natividad Cabrera Cervantes** (maiden name Cabrera)
+  - Research this side too! Search FamilySearch, Ancestry, etc for Cervantes + Cabrera records in Philippines
 - Key lead: The FERCOLLA Clan book (Fernandez-Cóquia-Llamas of Dagupan)

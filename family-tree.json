@@ -1,0 +1,133 @@
+{
+  "tree": {
+    "name": "Fernandez-Cervantes Family Tree",
+    "lastUpdated": "2026-03-25T00:00:00-05:00",
+    "persons": [
+      {
+        "id": "JT", "name": "Juan Tamondong", "birth": "~1850", "death": "deceased",
+        "gender": "M", "generation": 1, "side": "paternal", "branch": "tamondong"
+      },
+      {
+        "id": "JPag", "name": "Juana Paglingayen", "death": "deceased",
+        "gender": "F", "generation": 1, "side": "paternal", "branch": "tamondong"
+      },
+      {
+        "id": "PF", "name": "Pablo Fernandez", "birth": "~1875", "death": "deceased",
+        "gender": "M", "generation": 2, "side": "paternal", "branch": "fernandez"
+      },
+      {
+        "id": "MV", "name": "Marta Villanueva", "birth": "~1901", "death": "deceased",
+        "gender": "F", "generation": 2, "side": "paternal", "branch": "fernandez"
+      },
+      {
+        "id": "DD", "name": "Domingo Daquigan", "birth": "~1880", "death": "deceased",
+        "gender": "M", "generation": 2, "side": "paternal", "branch": "daquigan"
+      },
+      {
+        "id": "BB", "name": "Benita Bacarro", "birth": "~1880", "death": "deceased",
+        "gender": "F", "generation": 2, "side": "paternal", "branch": "daquigan"
+      },
+      {
+        "id": "JA", "name": "Jose Abalos", "death": "deceased",
+        "gender": "M", "generation": 2, "side": "paternal", "branch": "abalos"
+      },
+      {
+        "id": "CT", "name": "Carlina Tamondong", "death": "deceased",
+        "gender": "F", "generation": 2, "side": "paternal", "branch": "abalos",
+        "parents": ["JT", "JPag"]
+      },
+      {
+        "id": "FR", "name": "Francisco Rosario", "death": "deceased",
+        "gender": "M", "generation": 2, "side": "paternal", "branch": "rosario"
+      },
+      {
+        "id": "JGut", "name": "Juana Gutierrez", "death": "deceased",
+        "gender": "F", "generation": 2, "side": "paternal", "branch": "rosario"
+      },
+      {
+        "id": "MaF", "name": "Mariano Fernandez", "birth": "~1905", "death": "deceased",
+        "gender": "M", "generation": 3, "side": "paternal", "branch": "fernandez",
+        "parents": ["PF", "MV"]
+      },
+      {
+        "id": "VD", "name": "Victoriana Daquigan", "birth": "1917", "death": "deceased",
+        "gender": "F", "generation": 3, "side": "paternal", "branch": "daquigan",
+        "parents": ["DD", "BB"],
+        "notes": "Listed as 'Victoria' on family tree, 'Victoriana' on marriage record"
+      },
+      {
+        "id": "HA", "name": "Hilario Abalos", "death": "deceased",
+        "gender": "M", "generation": 3, "side": "paternal", "branch": "abalos",
+        "parents": ["JA", "CT"]
+      },
+      {
+        "id": "FilR", "name": "Filomena Rosario", "death": "deceased",
+        "gender": "F", "generation": 3, "side": "paternal", "branch": "rosario",
+        "parents": ["FR", "JGut"]
+      },
+      {
+        "id": "BF", "name": "Bienvenido Fernandez", "birth": "1933 or 1937", "death": "1994",
+        "deathPlace": "Chicago, IL",
+        "gender": "M", "generation": 4, "side": "paternal",
+        "parents": ["MaF", "VD"],
+        "marriageDate": "1963-12-16", "marriagePlace": "San Carlos City, Pangasinan",
+        "familySearchId": "GY2Z-3K9",
+        "notes": "Birth year discrepancy: tree says 1933, marriage record says 1937"
+      },
+      {
+        "id": "ARA", "name": "Aurea Rosario Abalos", "birth": "~1936", "living": true,
+        "gender": "F", "generation": 4, "side": "paternal",
+        "parents": ["HA", "FilR"]
+      },
+      {
+        "id": "DC", "name": "Diosdados Cervantes",
+        "gender": "M", "generation": 4, "side": "maternal", "branch": "cervantes",
+        "notes": "Janice's father. Needs research."
+      },
+      {
+        "id": "NC", "name": "Natividad Cabrera Cervantes",
+        "gender": "F", "generation": 4, "side": "maternal", "branch": "cervantes",
+        "notes": "Janice's mother. Maiden name Cabrera. Needs research."
+      },
+      {
+        "id": "RF", "name": "Raul Fernandez",
+        "gender": "M", "generation": 5,
+        "parents": ["BF", "ARA"]
+      },
+      {
+        "id": "JC", "name": "Janice Cervantes",
+        "gender": "F", "generation": 5,
+        "parents": ["DC", "NC"],
+        "notes": "Maiden name Cervantes"
+      },
+      {
+        "id": "AF", "name": "Adrian Fernandez", "birth": "1987-03-02",
+        "gender": "M", "generation": 6, "living": true,
+        "location": "Allen, TX",
+        "parents": ["RF", "JC"]
+      },
+      {
+        "id": "KF", "name": "Kristine Fernandez",
+        "gender": "F", "generation": 6, "living": true,
+        "parents": ["RF", "JC"]
+      },
+      {
+        "id": "KiF", "name": "Kiana Fernandez",
+        "gender": "F", "generation": 6, "living": true,
+        "parents": ["RF", "JC"]
+      }
+    ],
+    "marriages": [
+      { "spouse1": "JT", "spouse2": "JPag" },
+      { "spouse1": "PF", "spouse2": "MV" },
+      { "spouse1": "DD", "spouse2": "BB" },
+      { "spouse1": "JA", "spouse2": "CT" },
+      { "spouse1": "FR", "spouse2": "JGut" },
+      { "spouse1": "MaF", "spouse2": "VD" },
+      { "spouse1": "HA", "spouse2": "FilR" },
+      { "spouse1": "BF", "spouse2": "ARA", "date": "1963-12-16", "place": "San Carlos City, Pangasinan" },
+      { "spouse1": "DC", "spouse2": "NC" },
+      { "spouse1": "RF", "spouse2": "JC" }
+    ]
+  }
+}
