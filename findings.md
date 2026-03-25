@@ -156,12 +156,28 @@ The Daquigan surname — Bienvenido's mother Victoria Daquigan's family — is a
 | Daquigan (Victoria's family) | DAQUIGAN RONJIE (NPC) + DAQUIGAN NORMAN (PFP) | 17,304 (won) / 14,944 (lost) |
 | Fernandez (Danzo tenientes) | None | Emigrated |
 
+### 🔥 Ronjie Daquigan — Survived Six Bullet Wounds (2007 Election)
+From Philippine Star (June 3, 2007):
+> "Congratulations, too, to his running mate, our Vice Mayor Ranjie Daquigan, who survived six bullets and won handily in spite of ballot snatching."
+
+- Shot SIX times during/around the 2007 Gerona vice-mayoral election
+- **Same year San Carlos City Mayor Julian Resuello was assassinated** — endemic political violence across region
+- Despite assassination attempt + ballot snatching, still won handily
+- Running mate of Dennis Go Jr. (son of former Mayor Susan Tañedo-Go)
+- Go-Daquigan alliance controlled Gerona from 2007 onward
+- **PGBI (Philippine Guardians Brotherhood Inc.)** member — leads annual blood drives in Gerona
+- PGBI is part of the same political fraternity network as **PGRP** (Jorge Tamondong's party in 2022 Pangasinan election)
+
+### Christian & Ronjie — Both Attended "Gerona Institute Inc."
+Both Christian Daquigan (Facebook profile) and Ronjie Daquigan attended the same school in Gerona, confirming they grew up together and are almost certainly siblings or close cousins.
+
 ### Significance
 - Daquigan surname has only ~1,781 bearers worldwide — Ronjie/Christian are almost certainly relatives of Victoria Daquigan
 - The Daquigan family represents a LOCAL political dynasty (Vice Mayor + national BAI Director) separate from the San Carlos principalía network
 - **The Fernandez family emigrated; the Daquigan family stayed and built political power in Gerona**
 - Christian Daquigan's veterinary/agriculture career connects to Gerona's farming economy
-- Ronjie Daquigan (media professional + politician) would be an excellent contact for family history
+- Ronjie Daquigan (media professional + politician who survived assassination) would be an excellent contact for family history
+- The political violence pattern (Daquigan shot 2007, Resuello assassinated 2007, Abalos assassinated 2021, Eslao assassinated 2021) shows the extreme stakes of principalía politics in the region
 
 ### Gerona Civil Registration Contact
 - **Civil Registrar:** Joselito T. Enriquez
