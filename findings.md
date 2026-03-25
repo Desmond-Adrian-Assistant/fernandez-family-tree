@@ -479,6 +479,30 @@ From the Wikipedia article on the Minor Basilica of Saint Dominic (San Carlos):
 - The Cervantes family was likely **middle-class/professional**, not principalía
 - Contrasts sharply with Fernandez side (FERCOLLA dynasty, multiple barangay captains, priests)
 
+### Carlos Cervantes — Luzon Origins & Davao Migration (Iteration 26)
+- **Carlos Cervantes** married **Carlota de los Santos** — had **16 children**
+- Carlos died September 7, 1933, Davao
+- **"His forebears were originally from LUZON"** — migrated to Cateel (Davao Oriental) → Caraga → Davao City
+- The specific Luzon province is NOT stated — could be Pangasinan, Pampanga, Ilocos, or elsewhere
+- Cervantes Street in Barrio Obrero, Davao named after Carlos
+- Two notable sons: **Cenon** (Grand Master, PNB manager) and **Tiburcio** (4-time Davao City Councilor, 1948-51)
+- Source: Edge Davao "FAST BACKWARD: The Cervantes family of Davao" (March 2017)
+
+### Cenon Cervantes — 11 Children (from Geni.com, Iteration 26)
+- Wife: **Rosario Elizabeth Holcombe** (Zamboanga City)
+- Known children: **Lydia**, **Behn** (Benjamin Roberto, 1938-2013, famous director), **Esther Leah** (married Viloria)
+- 8 additional children have private Geni profiles
+- Behn was born in **Cabanatuan City, Nueva Ecija** (father's PNB posting) — NOT Davao or Pampanga
+- Behn had no documented children of his own
+
+### Cenon Cervantes — Pampanga Sugar Centrals (1958-60, Iteration 26)
+- After returning from New York sugar-sales operation (1952-58), managed sugar centrals in **Pampanga and Negros Occidental** (1958-60)
+- Pampanga centrals: PASUDECO (San Fernando) and/or PASUMIL (Floridablanca)
+- This was a 2-year corporate posting, NOT a family settlement
+- San Fernando is ~20 km from Angeles City; Floridablanca ~15 km
+- **No evidence** any Cervantes children settled in Pampanga
+- **Probability of connection to Janice's Angeles City Cervantes: LOW** — different region of origin, common surname (33K bearers)
+
 ### Clark Air Base — Cervantes Immigration Pathway (Iteration 22)
 - Clark Air Base: 3 miles west of Angeles City, operated 1903-1991
 - **70,000+ Filipino workers** directly employed or benefiting from base operations
