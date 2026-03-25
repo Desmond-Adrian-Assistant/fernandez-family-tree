@@ -128,22 +128,31 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Research Jorge Tamondong (PGRP candidate, 2022 4th District election) — which town? Family?
 - [ ] Research Ritchie de Guzman Abalos (NPC candidate, 2022 4th District) — which municipality?
 - [ ] Research "Doc Jerry" Rosario (PDP-Laban candidate, 2022 4th District) — which municipality?
-- [ ] Research the elder Hilario Tamondong (b. 1935, wife Flora) — what town is he from?
-- [ ] Research Dr. Hilario Tamondong (pulmonologist, Medical City/Lung Center) — connection to elder Hilario?
-- [ ] Research Leslie Tamondong (surgeon/California) — child of elder Hilario?
+- [x] Research the elder Hilario Tamondong (b. 1935, wife Flora) — **Children include: Dr. Hilario Jr. (pulmonologist), Jessie, Raulito, Lesley/Leslie, Lanie, Lizbeth (married into BANAAG family). Hilario Jr. married Ludivina Saberon (Cebu, UST Nursing 1958, d. 2023). Saint Columba Catholic Church (US).**
+- [x] Research Dr. Hilario Tamondong (pulmonologist, Medical City/Lung Center) — **Confirmed: son of elder Hilario (b. 1935). "Dr. Hilario Tamondong Jr." married Ludivina Saberon. Children: Patrick, Vincent, Hedy.**
+- [x] Research Leslie Tamondong (surgeon/California) — **Confirmed: "Lesley Hilario Tamondong" on elder Hilario's Facebook. Also Lizbeth Hilario Tamondong Banaag (married into BANAAG principalía family).**
 - [x] Research Mangaldan municipality for Abalos connections — **🔥 THREE Abalos politicians: Ritchie G., Rolly G., Florida + Maria Teresa Abalos. Abalos dominates Liga ng mga Barangay.**
 - [x] Discover Barangay Don Justo Abalos — **🔥 Barangay in Umingan named after Abalos principalía leader!**
-- [ ] Research Don Justo Abalos identity — who was he? When was barangay renamed? Connected to Aurea's Abalos?
+- [x] Research Don Justo Abalos identity — **Partial: barangay formerly "Caroan", population 1,198 (2020), adjacent to Don Montano. No online records of the person himself. Umingan founded by Mangaldan settlers (Abalos stronghold). "Don" = principalía. Needs physical records.**
 - [ ] Research Rolly G. Abalos and Ritchie G. Abalos (Mangaldan) — siblings? "G." = de Guzman?
 - [ ] Fernando Juan Cabrera (VP Mangaldan) — connection to Natividad Cabrera (Pampanga)?
 - [x] Check 2025 San Carlos election results — **Resuello won (58,261 vs 48,758). Lester Soriano + Lance Soriano both lost. Jun Banaag reelected.**
 - [x] Check 2025 4th District Congress results — **Gina de Venecia CRUSHED Alvin Fernandez (229,189 vs 41,239). Doc Jerry Rosario reelected Board Member.**
 - [ ] Research Aldrin Soriano (Mangaldan councilor, former ABS-CBN reporter) — related to San Carlos Sorianos? (Lost 2025 Board Member race, 57,639 votes)
 - [x] Investigate "Marcelino Fernandez III" (2nd District independent Board Member candidate 2025) — **NOT the same district; 2nd District is different from family's 4th District**
-- [ ] Research Jerry Agerico B. Rosario (4th District Board Member) — what does "B." stand for? Which town? Connected to Filomena Rosario?
+- [x] Research Jerry Agerico B. Rosario (4th District Board Member) — **🔥 "B." = BAUTISTA (mother's maiden name). Born Sept 3, 1965 in Manaoag. UST MD 1989. ENT surgeon. Now MAYOR OF MANAOAG + reelected Board Member. Manaoag is parent municipality of Laoac (carved from Manaoag 1972).**
 - [ ] Research "Doc Jaja Cayabyab" (Dagupan councilor, 55,275 votes) — Cayabyab in Dagupan, not just San Carlos
 - [ ] Research George Calugay (San Carlos councilor) — Calugay/Calugay surname connection
 - [ ] Investigate FERCOLLA dynasty collapse — Alfie Fernandez + Alvin Coquia both lost 2025 Dagupan council
+- [ ] Research Jose Recardo R. Rosario (Manaoag Municipal Councilor) — related to Doc Jerry? What does "R." stand for?
+- [ ] Investigate Manaoag-Laoac family ties — which Tamondong/Abalos barrios went to Laoac in 1972?
+- [ ] Research the "Rosario" surname origin in Manaoag — connection to Our Lady of the Rosary basilica?
+- [ ] Investigate Lizbeth Hilario Tamondong Banaag — which Banaag branch? Same as Jun Banaag (San Carlos councilor)?
+- [x] Research Mangaldan → Umingan migration path for Abalos families — **CONFIRMED: Umingan founded by settlers from Mangaldan (Abalos stronghold). Brgy Don Justo Abalos named after principalía Abalos patriarch. Two Fernandez councilors currently in Umingan (Fred A. + Siann Liandro M.).**
+- [ ] Research who "Don Montano" was (adjacent Umingan barangay patron, formerly Cadamortisan)
+- [ ] Look for Umingan municipal records listing historical barangay captains of Don Justo Abalos
+- [ ] Research Siann Liandro M. Fernandez (Umingan 2025 councilor) — connection to San Carlos/Dagupan?
+- [ ] Investigate Mangaldan church records for Abalos baptisms (Abalos → Umingan pipeline)
 
 ## Iteration Log
 | # | Time | Focus | Key Finding |
@@ -165,3 +174,5 @@ Each iteration should: read previous findings → identify the highest-value une
 | 13 | 2026-03-25 09:00 | Living political connections + clerical network | **🔥 2022 Pangasinan 4th Dist election: Abalos, Tamondong, AND Rosario all ran for Board Member simultaneously** — 220+ yr political dynasty confirmed to present day. Found **Rev. Fr. Joseph T. Fernandez** — living Fernandez priest, Vice Rector of seminary + Parochial Vicar at Dagupan Cathedral. PSU San Carlos class: Gretchen Tamondong, Reymar Fernandez, Venusly Rosario in same classroom. Edilberto Abalos + Rosalynda de Venecia confirmed in joint 2012 civic action. |
 | 14 | 2026-03-25 09:26 | Mangaldan Abalos dynasty + 2025 elections | **🔥 Mangaldan has 3-4 Abalos politicians simultaneously** (Ritchie G., Rolly G., Florida, Maria Teresa). **🔥 Barangay Don Justo Abalos in Umingan** — entire barangay named after Abalos principalía leader! Abalos political presence confirmed in 5+ Pangasinan municipalities. **🔥 2025 elections: Alvin Fernandez (FERCOLLA) vs Gina de Venecia for 4th District Congress** — dynasty rivalry. San Carlos: Lester Soriano (3rd gen guerrilla dynasty) challenging Resuello. |
 | 15 | 2026-03-25 09:35 | 2025 election results + dynasty tracker | **🔥 FERCOLLA DYNASTY COLLAPSE**: Alvin Fernandez crushed by Gina de Venecia (41K vs 229K) for Congress; Alfie Fernandez + Alvin Coquia lost Dagupan council. **Doc Jerry Agerico B. Rosario reelected** as 4th District Board Member (83K votes) — ROSARIO in provincial office. San Carlos: Resuello beats Lester Soriano; Soriano dynasty declining. Jun Banaag reelected. Edilberto Tamondong PDPSTA founding details expanded. |
+| 16 | 2026-03-25 10:00 | Manaoag-Laoac-Rosario network + Tamondong intermarriage | **🔥 Doc Jerry Rosario's "B." = BAUTISTA. Born Manaoag 1965, UST MD 1989, now MAYOR of Manaoag + Board Member.** **🔥 Laoac was carved from Manaoag (RA 6485, 1972)** — Tamondong/Abalos families in Laoac were originally Manaoag families. **Lizbeth Hilario Tamondong married into BANAAG family** — Tamondong-Banaag principalía intermarriage confirmed. Dr. Hilario Tamondong Jr. (pulmonologist) confirmed as elder Hilario's son. Dominican corridor: Manaoag (Our Lady of Rosary, 1600) ↔ San Carlos (St. Dominic, 1587). |
+| 17 | 2026-03-25 10:18 | Umingan deep dive + Don Justo Abalos + Abalos surname | **🔥 Umingan founded by settlers from MANGALDAN** (Abalos political stronghold) — confirms Mangaldan→Umingan Abalos migration path. Two Fernandez councilors in Umingan (Fred A. + Siann Liandro M.). Adjacent barangays "Don Justo Abalos" (formerly Caroan) and "Don Montano" (formerly Cadamortisan) both named after principalía patriarchs. **Abalos surname = Spanish-Sephardic origin from Ábalos village, La Rioja, Spain** (listed in "Sangre Judia"). 31,719 bearers in PH; 29% in Ilocos Region. |

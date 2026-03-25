@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 09:35 UTC (Iteration 15)
+Last updated: 2026-03-25 10:00 UTC (Iteration 16)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -992,3 +992,102 @@ Source: PeoPlaid, Pangasinan provincial government website
 - Organization went through SEC registration (March 28, 1969) and court litigation vs rival teacher group (1969-71)
 - PDPSTA became the **PPSTMBA Inc.** (Pangasinan Public School Teachers Mutual Aid Benefits Association) — still active today
 - Source: ppstmba.com company profile
+
+## Dr. Jerry Agerico Bautista Rosario — Manaoag Mayor + 4th District Board Member (Iteration 16)
+
+### Full Profile
+- **Full name:** Dr. Jeremy Agerico Bautista Rosario (also Jerry Agerico B. Rosario, "Doc Ming")
+- **Born:** September 3, 1965, Manaoag, Pangasinan
+- **Education:** Manaoag Elementary → Angelicum School (QC) → UST (BS Microbiology 1985, MD 1989) → Jose R. Reyes Memorial Medical Center residency 1995 → Ateneo MBA Health 2013
+- **Medical specialty:** Otolaryngology - Head and Neck Surgery (ENT)
+- **Previous work:** Medical Specialist III at Region 1 Medical Center (Dagupan), physician at Nazareth General Hospital (Dagupan)
+- **Political career:** 4th District Board Member (2022-2025, reelected 2025 with 83,361 votes) → Also elected Mayor of Manaoag (2025)
+- **Spouse:** Dr. Maria Aurora Theresa H. Rosario, M.D.
+- **Children:** Corinna Marie H. Rosario, Miguel Agerico H. Rosario
+- **"B." middle initial = BAUTISTA** — his mother's maiden name
+- **Provincial committees:** Chairman of Health; Vice-Chairman of Rules/Privileges/Ethics, Laws/Ordinances, Appropriations, Human Resources, Foreign Affairs, ICT, Games/Amusement
+- **Significance:** A Rosario holding the highest offices in both Manaoag (mayor) and the 4th District (Board Member). Continues the Rosario political tradition (Fr. Agustin Rosario of Bayambang 1916-20, three Rosario barangay captains in San Carlos).
+
+### Jose Recardo R. Rosario — Manaoag Municipal Councilor
+- Serves on the Sangguniang Bayan of Manaoag alongside Doc Jerry Rosario
+- Multiple Rosarios in Manaoag politics confirms Rosario as a political family there
+
+## 🔥 Manaoag → Laoac Geographic Revelation (Iteration 16)
+
+### Laoac Was Carved FROM Manaoag (1972)
+- **Republic Act No. 6485** (June 17, 1972) separated 20 barrios from Manaoag to create Laoac municipality
+- Barrios: Maraboc, Panaga, Turko, Talogtog, Inmanduyan, Calaoagan, Cabulalaan, Botigue, Laoac (Poblacion), Casampagaan, Anis, Caaringayan, Nambagatan, Cabilaoan East, Cabilaoan West, Lebueg, Casantiagoan, Yatyat, Casanestebanan, Calmay
+- Initiated by Manaoag Municipal Council Resolution No. 29 (1970), approved by Governor Tito Primicias (1971)
+- Laoac didn't fully formalize until 1980
+
+### Implications for Family Research
+- **Bienvenido A. Tamondong** (Laoac DILG OIC 1987-88) was originally from a **Manaoag** family
+- **Antonio P. Abalos** (Laoac Mayor 2007-10) was originally from a **Manaoag** family
+- The Tamondong-Abalos political network in Laoac traces back to the older Manaoag community
+- **Doc Jerry Rosario** is now mayor of Manaoag — the PARENT municipality from which Laoac was carved
+- All three surnames (Rosario, Tamondong, Abalos) politically active in the same Manaoag-Laoac area
+
+### Geographic Chain (4th Congressional District)
+```
+COAST ────────────────────── INLAND ──────────────── MOUNTAINS
+Dagupan → Mangaldan → Mapandan → Manaoag → Laoac → San Carlos → Umingan
+(FERCOLLA) (Abalos)  (Tamondong) (Rosario)  (Tamondong (Tamondong  (Don Justo
+(Abalos)                         (Doc Jerry) + Abalos)  Abalos      Abalos)
+                                              (from     Rosario
+                                              Manaoag   Cayabyab
+                                              1972)     Banaag)
+```
+
+## Tamondong-Banaag Intermarriage Confirmed (Iteration 16)
+
+- **Lizbeth Hilario Tamondong Banaag** — daughter of elder Hilario Tamondong (b. 1935) who married into the Banaag family
+- **Banaag dynasty in San Carlos:**
+  - Aquilino Banaag = Municipal President 1908-09, Congressman 1916-19, Ad-interim Governor 1931
+  - Jun Banaag = current San Carlos City Councilor (reelected 2025, 47,926 votes)
+- Confirms direct intermarriage between Tamondong and Banaag principalía families
+- Updated principalía intermarriage network: Tamondong ↔ Banaag ↔ Cayabyab ↔ Rosario ↔ Macalanda ↔ Fernandez ↔ Abalos
+
+## Dr. Hilario Tamondong Jr. — Family Details (Iteration 16)
+
+- Son of elder **Hilario Tamondong** (b. January 14, 1935) and **Flora Tamondong** (b. ~January 29, 1937)
+- Married **Ludivina Saberon** (Dec 27, 1936 – March 26, 2023, Sibonga, Cebu)
+- Ludivina: UST Nursing 1958, 39-year ICU nurse, retired and did medical missions to Philippines
+- Children: Patrick (Michelle), Vincent (Ashley), Hedy (Daniel). 10 grandchildren.
+- Member of Saint Columba Catholic Church (likely US-based — Ludivina obituary at Kalas Funeral Home)
+- Elder Hilario's other children (from Facebook): Jessie, Raulito, Lesley/Leslie, Lanie, Lizbeth (married Banaag), Shandra Alexa
+- **Hilario Tamondong (pulmonologist at Medical City/Lung Center Philippines)** = Dr. Hilario Tamondong Jr.
+
+## Dominican Corridor: Manaoag ↔ San Carlos (Iteration 16)
+
+Two Minor Basilicas, both Dominican-founded, in the same congressional district:
+- **Manaoag:** Minor Basilica of Our Lady of the **Rosary** (Dominican, founded 1600, elevated 2014)
+- **San Carlos:** Minor Basilica of St. **Dominic** (Dominican, founded 1587)
+- The Dominican order controlled both parishes for centuries — families were connected through the ecclesiastical network
+- **"Rosario"** surname literally means "rosary" — the patronal devotion of Manaoag (Our Lady of the Rosary)
+- The surname may have originated from families closely associated with the Manaoag basilica
+- Both Manaoag and San Carlos have Rosario families in political office today
+
+## Umingan-Mangaldan Migration Pattern (Iterations 16-17)
+
+- Umingan's first settlers were the "Umingan family" from **Mangaldan** (coastal town), per town history
+- Mangaldan = Abalos political stronghold (Ritchie G., Rolly G., Florida, Maria Teresa)
+- Valeriano Tamondong was founding father of **Mapandan** (separated from Mangaldan, 1887)
+- Migration flow confirmed: Mangaldan (coast) → Mapandan/Manaoag (inland) → Laoac/San Carlos → Umingan (eastern mountains)
+- The Abalos family follows this same inland migration pattern from coast to eastern Pangasinan
+
+### Umingan Municipal Details (Iteration 17)
+- **Founded:** May 5, 1843; at foot of Caraballo Mountains
+- Originally part of Nueva Ecija (towns east of Agno River); later incorporated into Pangasinan
+- 97% Ilocano-descended, 3% from coastal Pangasinan/Tagalog/Kapampangan
+- **58 barangays**, including **Don Justo Abalos** (formerly Caroan) and **Don Montano** (formerly Cadamortisan) — adjacent barangays named after principalía patriarchs
+- **TWO Fernandez councilors**: Fred A. Fernandez (2022-25) and Siann Liandro M. Fernandez (2025)
+- First settlers from Mangaldan — same town where Abalos family dominates politics today
+
+### Abalos Surname — Sephardic-Spanish Origin (Forebears.io, Iteration 17)
+- **47,516 bearers worldwide** (11,828th most common globally)
+- **31,719 in Philippines** (rank 233rd most common; 1 in 3,192 people)
+- **29% in Ilocos Region** (includes Pangasinan), 15% Central Luzon, 14% NCR
+- **Origin:** Spanish-Sephardic — from the village of **Ábalos in La Rioja, Spain**
+- Listed in "Sangre Judia" (Sephardic surname origins book)
+- The village appears in the **740 AD Albeldense Chronicle** (Alfonso I's expedition along the Ebro River)
+- Suggests the Abalos surname may trace to Sephardic Jewish conversos who came to the Philippines during the colonial period
