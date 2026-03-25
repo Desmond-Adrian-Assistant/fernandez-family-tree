@@ -945,22 +945,30 @@ From Dagupan Punch (2012):
 - Confirms the Abalos-de Venecia civic alliance previously documented via Geni "de Venecia y Ábalos" surname
 - Strengthens the Fernandez ↔ de Venecia ↔ Abalos triangle
 
-## Mangaldan Municipality — Abalos Political Stronghold (Iteration 14)
+## Mangaldan Municipality — Abalos Political Stronghold (Iterations 14, 27)
 
 Mangaldan (4th District, borders Dagupan, 21 km from San Carlos) has an extraordinary concentration of Abalos politicians:
 
 | Name | Position | Term |
 |------|----------|------|
 | **Ritchie G. Abalos** | Barangay Captain (Bantayan), Liga President, 2022 Board Member candidate | 2012-2022 |
-| **Rolly G. Abalos** | Municipal Councilor | 2022-2025 |
+| **Rolly G. Abalos** | Barangay Captain (Maasin) → Liga President → Municipal Councilor → **PCL Board Member** | 2018-present |
 | **Florida Abalos** | Barangay Captain (Maasin) → Councilor + Liga President | 2023-present |
 | **Maria Teresa Abalos** | Municipal Councilor | 2019-2022 |
+
+**CORRECTION (Iteration 27):** Rolly was Captain of Maasin (not just councilor); Ritchie was Captain of Bantayan. Both served as Liga Presidents at different times.
 
 The "G." middle initial shared by Ritchie and Rolly suggests they are siblings (likely de Guzman). The Abalos family dominates Mangaldan's Liga ng mga Barangay and municipal council positions.
 
 **Fernando Juan Cabrera** serves as Vice Mayor of Mangaldan — same Cabrera surname as Janice's mother Natividad Cabrera (though Natividad is from Pampanga).
 
-Source: Pangasinan provincial government website, Dagupan Punch, Aldrin Soriano's website
+### PCL (Philippine Councilors League) Network (Iteration 27)
+Rolly G. Abalos (Mangaldan) was elected to the **PCL Pangasinan Chapter Board of Directors** (Sept 2025) alongside:
+- **Carmina P. Resuello** (San Carlos City) — Resuello dynasty
+- **Nica A. Ching** (Manaoag) — further connecting Manaoag to the network
+This formally links Abalos (Mangaldan) and Resuello (San Carlos) in a provincial governance body.
+
+Source: Pangasinan provincial government website, Dagupan Punch, Aldrin Soriano's website, Manila Bulletin (2020)
 
 ## Barangay Don Justo Abalos — Umingan, Pangasinan (Iteration 14)
 

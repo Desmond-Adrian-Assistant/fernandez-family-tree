@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fernandez-Cervantes Family Tree</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #0f1923; font-family: 'Segoe UI', system-ui, sans-serif; overflow: hidden; }
+svg { width: 100vw; height: 100vh; }
+.node rect { rx: 8; ry: 8; stroke-width: 2; cursor: pointer; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3)); }
+.node text { fill: #eee; font-size: 11px; }
+.node .name { font-weight: 700; font-size: 12px; }
+.node .dates { font-size: 9px; fill: #aaa; }
+.node .source { font-size: 8px; fill: #777; font-style: italic; }
+.link { fill: none; stroke: #3a506b; stroke-width: 1.5; }
+.marriage-link { fill: none; stroke: #666; stroke-width: 2; stroke-dasharray: 4,3; }
+.legend { position: fixed; top: 10px; left: 50%; transform: translateX(-50%); z-index: 100;
+  background: rgba(15,25,35,0.95); border: 1px solid #333; border-radius: 8px; padding: 8px 16px;
+  display: flex; gap: 14px; font-size: 0.78em; color: #ccc; flex-wrap: wrap; justify-content: center; }
+.legend .dot { width: 12px; height: 12px; border-radius: 3px; display: inline-block; margin-right: 4px; vertical-align: middle; }
+.footer { position: fixed; bottom: 10px; left: 50%; transform: translateX(-50%); z-index: 100;
+  background: rgba(15,25,35,0.95); border: 1px solid #333; border-radius: 8px; padding: 8px 16px;
+  text-align: center; color: #888; font-size: 0.72em; }
+.footer strong { color: #c77dff; }
+/* Confidence colors */
+.confirmed rect { fill: #1b4332; stroke: #40916c; }
+.confirmed .name { fill: #95d5b2; }
+.tree-src rect { fill: #1a3a5c; stroke: #2a6496; }
+.tree-src .name { fill: #8ecae6; }
+.unverified rect { fill: #4a3728; stroke: #c47f17; stroke-dasharray: 4,2; }
+.unverified .name { fill: #f4a259; }
+.you-node rect { fill: #2a1a4e; stroke: #9d4edd; stroke-width: 3; filter: drop-shadow(0 0 10px rgba(157,78,221,0.4)); }
+.you-node .name { fill: #e0aaff; font-size: 13px; }
+.living rect { fill: #1b4332; stroke: #52b788; }
+.living .name { fill: #b7e4c7; }
+</style>
+</head>
+<body>
+
+<div class="legend">
+  <span><span class="dot" style="background:#40916c;"></span> Confirmed (records found)</span>
+  <span><span class="dot" style="background:#2a6496;"></span> From family tree</span>
+  <span><span class="dot" style="background:#c47f17; border: 1px dashed #c47f17;"></span> Needs verification</span>
+  <span><span class="dot" style="background:#52b788;"></span> Living</span>
+  <span><span class="dot" style="background:#9d4edd;"></span> You</span>
+</div>
+
+<div class="footer">
+  <strong>🌳 Fernandez-Cervantes Family Tree</strong> — 7 generations • 35+ ancestors • 220+ years<br>
+  Compiled by Desmond 🔷 • March 25, 2026 • Scroll to zoom, drag to pan, click nodes to expand
+</div>
+
+<svg id="tree"></svg>
+
+<script>
+// Family data as a hierarchy (ancestor-centric, root = Adrian)
+const treeData = {
+  name: "⭐ Adrian Fernandez", dates: "b. Mar 2, 1987", loc: "📍 Allen, TX", cls: "you-node",
+  children: [
+    { name: "Raul Fernandez", cls: "tree-src",
+      children: [
+        { name: "Bienvenido Fernandez", dates: "1933/37–1994", loc: "San Carlos → Chicago", cls: "confirmed",
+          children: [
+            { name: "Mariano Fernandez", dates: "~1905", loc: "✅ Marriage record", cls: "confirmed",
+              children: [
+                { name: "Pablo Fernandez", dates: "~1875", cls: "tree-src",
+                  children: [] },
+                { name: "Marta Villanueva", dates: "~1901", cls: "tree-src" }
+              ]},
+            { name: "Victoriana Daquigan", dates: "b. 1917", loc: "✅ Marriage record", cls: "confirmed",
+              children: [
+                { name: "Domingo Daquigan", dates: "~1880", cls: "tree-src" },
+                { name: "Benita Bacarro", dates: "~1880", cls: "tree-src" }
+              ]}
+          ]},
+        { name: "Aurea Rosario Abalos", dates: "~1939 (living)", loc: "✅ Marriage record", cls: "living",
+          children: [
+            { name: "Hilario Abalos", loc: "✅ FamilySearch records", cls: "confirmed",
+              children: [
+                { name: "Jose Abalos", dates: "d. 1947 Dagupan", loc: "✅ 3+ records", cls: "confirmed",
+                  children: [
+                    { name: "Domingo Ávalos", loc: "✅ Parish records", cls: "confirmed" },
+                    { name: "Anacleta Peralta", loc: "✅ Parish records", cls: "confirmed" }
+                  ]},
+                { name: "Carlina Tamondong", loc: "✅ FamilySearch", cls: "confirmed",
+                  children: [
+                    { name: "Juan Tamondong", dates: "~1850", loc: "San Carlos City", cls: "tree-src" },
+                    { name: "Juana Paglingayen", cls: "tree-src" }
+                  ]}
+              ]},
+            { name: "Filomena Rosario", loc: "✅ Marriage record", cls: "confirmed",
+              children: [
+                { name: "Francisco Rosario", cls: "tree-src" },
+                { name: "Juana Gutierrez", cls: "tree-src" }
+              ]}
+          ]}
+      ]},
+    { name: "Janice Cervantes", loc: "📍 Angeles City → TX", cls: "tree-src",
+      children: [
+        { name: "Diosdado Cervantes", dates: "b. 1925", loc: "✅ Marriage record", cls: "confirmed",
+          children: [
+            { name: "Isaac Cervantes", loc: "✅ Marriage record", cls: "confirmed" },
+            { name: "Engracia Nazario", loc: "✅ Marriage record", cls: "confirmed" }
+          ]},
+        { name: "Natividad Cabrera", dates: "b. 1923", loc: "✅ Marriage record", cls: "confirmed",
+          children: [
+            { name: "Teotimo Cabrera", loc: "✅ Marriage record", cls: "confirmed" },
+            { name: "Maria Banaag", loc: "✅ Marriage record", cls: "confirmed" }
+          ]}
+      ]}
+  ]
+};
+
+// Siblings shown as secondary info
+const siblingInfo = {
+  "⭐ Adrian Fernandez": ["Kristine Fernandez", "Kiana Fernandez"],
+  "Hilario Abalos": ["Hipolita Abalos ✅", "Camila Abalos ✅"],
+  "Aurea Rosario Abalos": ["Maria Concesa Abalos (m. Nerizon) ✅"],
+  "Diosdado Cervantes": ["Angelica Cervantes ✅", "Rebecca Cervantes Lucero ✅"],
+};
+
+const svg = d3.select("#tree");
+const g = svg.append("g");
+
+// Zoom
+const zoom = d3.zoom().scaleExtent([0.15, 3]).on("zoom", (e) => g.attr("transform", e.transform));
+svg.call(zoom);
+
+const width = window.innerWidth;
+const height = window.innerHeight;
+
+// Tree layout - bottom to top (ancestors go UP)
+const treeLayout = d3.tree().nodeSize([260, 140]);
+const root = d3.hierarchy(treeData);
+treeLayout(root);
+
+// Center the tree
+const initialTransform = d3.zoomIdentity.translate(width/2, 120).scale(0.55);
+svg.call(zoom.transform, initialTransform);
+
+// Draw links
+g.selectAll(".link")
+  .data(root.links())
+  .join("path")
+  .attr("class", "link")
+  .attr("d", d3.linkVertical().x(d => d.x).y(d => d.y));
+
+// Draw nodes
+const nodeWidth = 200;
+const nodeHeight = 56;
+
+const nodes = g.selectAll(".node")
+  .data(root.descendants())
+  .join("g")
+  .attr("class", d => `node ${d.data.cls || 'tree-src'}`)
+  .attr("transform", d => `translate(${d.x - nodeWidth/2},${d.y - nodeHeight/2})`);
+
+nodes.append("rect")
+  .attr("width", nodeWidth)
+  .attr("height", d => {
+    const sibs = siblingInfo[d.data.name];
+    return sibs ? nodeHeight + 14 * sibs.length : nodeHeight;
+  });
+
+nodes.append("text")
+  .attr("class", "name")
+  .attr("x", 10).attr("y", 18)
+  .text(d => d.data.name);
+
+nodes.append("text")
+  .attr("class", "dates")
+  .attr("x", 10).attr("y", 32)
+  .text(d => d.data.dates || "");
+
+nodes.append("text")
+  .attr("class", "source")
+  .attr("x", 10).attr("y", 44)
+  .text(d => d.data.loc || "");
+
+// Add sibling info
+nodes.each(function(d) {
+  const sibs = siblingInfo[d.data.name];
+  if (sibs) {
+    sibs.forEach((sib, i) => {
+      d3.select(this).append("text")
+        .attr("x", 10).attr("y", 56 + i * 14)
+        .attr("fill", "#888").attr("font-size", "8px")
+        .text(`└ ${sib}`);
+    });
+  }
+});
+
+// Historical note at the top
+g.append("text")
+  .attr("x", root.descendants().find(d => d.data.name === "Juan Tamondong")?.x || 0)
+  .attr("y", (root.height + 1) * 140 + 30)
+  .attr("text-anchor", "middle")
+  .attr("fill", "#c47f17").attr("font-size", "10px")
+  .text("⚠️ Capt. Simon Tamondong (Gobernadorcillo 1802) — likely ancestor, unverified exact connection");
+</script>
+</body>
+</html>
