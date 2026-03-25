@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 00:26 CDT
+Last updated: 2026-03-24 23:35 CDT
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -190,6 +190,44 @@ Detailed genealogy of the Fernandez-Cóquia-Llamas (FERCOLLA) clan:
 - **Francisco Garcia Tamondong** — born 1925 in "Ano, San Carlos, Pangasinan"
 - **Juan Tamondong Casupang** — found in "Jendro/Kastlunger Family Tree" on Ancestry
 - **Jose Tamondong** — born 1904 (Ancestry record)
+
+## Sibling & Cousin Research (By Branch)
+
+### Abalos Branch (Aurea's family)
+- **Valentin Abalos** (1861-1903) — WikiTree profile, born in **Lingayen, Pangasinan**. Connected to "Abalos-Villar family tree" on Ancestry (#5259231). Has DNA matches. Could be a distant ancestor of Hilario Abalos.
+- **Maximo Salvador Abalos** (1899-2000) — born Santa Maria, **Ilocos Sur**, died Pearl City, Hawaii. Emigrated to Hawaii (common Filipino migration path).
+- **Filomena Abalos Dafun** (1922-2013) — born **Ilocos Sur**. Note: a different Filomena Abalos than Filomena Rosario who married Hilario Abalos, but shows the name Filomena was common in Abalos families.
+- **Esperanza Villar Abalos Bonifacio** (1914-1984) — born San Jose, Nueva Ecija, died LA. From the "Villar" branch of Abalos.
+- **Funeraria Abalos** — funeral home on Arellano Street, Dagupan City. Still operating (1,097 Facebook likes). The Abalos family is established in Dagupan.
+- **Edilberto Abalos** — Education Supervisor, City Schools Division, Dagupan (2012). Actively involved in Dagupan civic affairs.
+- **Armando Abalos** — Deputy Grand Knight, Knights of Columbus Pangasinan Council 3711 (2006-07), alongside Michael B. Fernandez.
+
+### Geni.com Dagupan Project — Key Discovery
+The "Dagupan, Pangasinan, Philippines" genealogy project on Geni includes family names:
+- **Fernández** and **Fernández y Bernal** (FERCOLLA clan)
+- **de Venecia y Ábalos** — shows Abalos connected to the de Venecia political dynasty!
+- Also: Abuel, Celeste, Favila, Lambino, Parayno, Perez, Reyes, Romero, Siapno, Villamil
+
+### Court Case Fernandez Branch (from G.R. No. 143868)
+The five Fernandez siblings who co-owned Lot 2991 fishpond:
+1. **Antonio Fernandez** — sold his share in 1967
+2. **Santiago Fernandez**
+3. **Demetria Fernandez** — sold her share in 1967
+4. **Armando Fernandez** — died single, no children
+5. **Angel B. Fernandez** — married Corazon Cabal, kept most of the fishpond
+   - Children: Oscar C., Gil C., Armando C. Fernandez
+These were all children (or descendants) of Don Antonio Llamas Fernandez.
+
+### WikiTree Abalos Profiles Worth Investigating
+- Valentin Abalos (Lingayen, 1861) — Ancestry tree #5259231
+- Maximo Salvador Abalos (Ilocos Sur, 1899)
+- Julio Abalos (Philippines, 1897, died Colorado 1920)
+- Leoncio M. Abalos (1880s-1940s)
+
+### Illinois Death Index
+- **Illinois Statewide Death Index** available at apps.ilsos.gov — but only covers pre-1916 deaths
+- For 1994 deaths: need to search Cook County Clerk's office, or FamilySearch's Illinois Death Index
+- Chicago Tribune obituary archives may also have Bienvenido's death notice
 
 ## Gaps to Fill
 - [ ] Janice's maiden name and family

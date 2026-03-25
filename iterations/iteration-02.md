@@ -1,4 +1,4 @@
-# Iteration 01 — Track 4: US Records & Dagupan Fernandez Dynasty Research
+# Iteration 02 — Track 4 Deep Dive: US Records & Dagupan Fernandez Dynasty Research
 
 **Date:** 2026-03-24 23:25 CDT  
 **Focus:** Track 4 (US records for Bienvenido Fernandez d. 1994) + Track 2 (Dagupan & Fercolla connection)  
