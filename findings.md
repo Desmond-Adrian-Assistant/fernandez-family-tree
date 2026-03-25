@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 10:00 UTC (Iteration 16)
+Last updated: 2026-03-25 10:38 UTC (Iteration 18)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -1091,3 +1091,60 @@ Two Minor Basilicas, both Dominican-founded, in the same congressional district:
 - Listed in "Sangre Judia" (Sephardic surname origins book)
 - The village appears in the **740 AD Albeldense Chronicle** (Alfonso I's expedition along the Ebro River)
 - Suggests the Abalos surname may trace to Sephardic Jewish conversos who came to the Philippines during the colonial period
+
+## San Carlos City Complete Barangay Power Map (Iteration 18)
+
+### Family Surnames Among 86 Barangay Captains (2022-2025)
+| Surname | Captain | Barangay | Family Connection |
+|---------|---------|----------|-------------------|
+| **Tamondong** | Eduardo C. Tamondong | Sapinit | Adrian's maternal ancestor |
+| **Rosario** (×3) | Gabriel P. Rosario | Balococ | Aurea Rosario Abalos |
+| | Jerry M. Rosario | Buenglat | |
+| | Jovito Rosario | Nelintap | |
+| **Macalanda** | Ramil Macalanda | Tandoc | Tamondong intermarriage (Maria Macalanda) |
+| **Cayabyab** (×2) | Ricardo Cayabyab | Pangoloan | Captain of San Carlos 1770-73 |
+| | Samuel C. Cayabyab | Turac | |
+| **Soriano** (×2) | Jose R. Soriano | Cacaritan | Jack Soriano guerrilla dynasty |
+| | Lance Douglas U. Soriano | Perez Blvd | 3rd gen grandson of Jack |
+| **Resuello** | Paterno Resuello | Balaya | Mayor's dynasty |
+| **Paningbatan** | Juan C. Paningbatan | Abanon | Connected to Rosario (Gabriel Paningbatan Rosario) |
+
+**NOTABLE ABSENCES — Zero barangay captains with surnames: Fernandez, Abalos, Daquigan, Banaag**
+
+### Key Insight: Fernandez Absent from San Carlos Barangay Politics
+Despite being a major political force in Dagupan (FERCOLLA dynasty), the Fernandez surname holds ZERO out of 86 barangay captain positions in San Carlos. This suggests:
+1. Bienvenido's Fernandez branch was likely smaller/less politically connected within San Carlos
+2. Their political connections came primarily through the Tamondong maternal line (who DO hold Sapinit captaincy)
+3. The family may have been more merchant/professional class than political in San Carlos
+
+### San Carlos Principalía Power Rankings (2025)
+| Rank | Surname | Barangay Captains | City Officials | Total |
+|------|---------|-------------------|----------------|-------|
+| 1 | **Rosario** | 3 | 0 | 3 |
+| 2 | **Resuello** | 1 | 2 (Mayor+VP) | 3 |
+| 3 | **Cayabyab** | 2 | 0 | 2 |
+| 4 | **Soriano** | 2 | 0 (lost 2025) | 2 |
+| 5 | **Tamondong** | 1 | 0 | 1 |
+| 6 | **Macalanda** | 1 | 0 | 1 |
+
+## Lance Douglas U. Soriano — 3rd Generation Soriano Confirmed (Iteration 18)
+- **Full name:** Lance Douglas U. Soriano
+- **Position:** Barangay Captain of Perez Blvd, San Carlos City
+- **Lineage:** Jack Laureano Soriano (WWII guerrilla CO → Congressman → Mayor) → Douglas Soriano (son) → Lance Douglas U. Soriano (grandson)
+- "Douglas" in his first name taken directly from his father's name
+- Ran for city councilor in 2025 and LOST (42,700 votes)
+- **Soriano dynasty trajectory: Mayor (Jack) → failed mayor (Lester) → failed councilor (Lance) = declining**
+
+## NARA Philippine Army/Guerrilla Records Request Process (Iteration 18)
+- **Collection:** Philippine Commonwealth Army and recognized guerrilla forces (WWII)
+- **Contents:** Personal histories, unit histories, medical/death reports, guerrilla activities
+- **Request method:** eVetRecs (online) or SF-180 form (mail)
+- **Address:** National Personnel Records Center, 1 Archives Drive, St. Louis, MO 63138
+- **Next-of-kin requirements:** Death certificate + proof of relationship (birth certificate)
+- **ACTION ITEM FOR ADRIAN:** Ask Raul if Mariano Fernandez served in military/guerrillas. If yes, Raul could submit SF-180 as grandson with documentation.
+
+## Brian Poe Takes Oath in San Carlos (2025) — FPJ Connection
+- Brian Poe Llamanzares (grandson of FPJ, son of Sen. Grace Poe) sworn in as party-list rep
+- Oath taken before **Kevin George Calugay** (Barangay Captain of Palaming + City Councilor)
+- Deliberately chose San Carlos to honor FPJ's roots (Fernando Poe Sr. born 1916 in San Carlos)
+- Confirms San Carlos's enduring national political significance

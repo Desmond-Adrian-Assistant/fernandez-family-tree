@@ -153,6 +153,12 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Look for Umingan municipal records listing historical barangay captains of Don Justo Abalos
 - [ ] Research Siann Liandro M. Fernandez (Umingan 2025 councilor) — connection to San Carlos/Dagupan?
 - [ ] Investigate Mangaldan church records for Abalos baptisms (Abalos → Umingan pipeline)
+- [ ] Research Jose R. Soriano (Barangay Captain of Cacaritan) — what Soriano branch?
+- [ ] Investigate why Fernandez surname is absent from all 86 San Carlos barangay captaincies
+- [ ] Research Paningbatan-Rosario intermarriage (Juan C. Paningbatan + Gabriel Paningbatan Rosario)
+- [ ] Identify which San Carlos barangay Bienvenido's family lived in
+- [x] Document NARA SF-180 guerrilla record request process — **Documented: eVetRecs or mail to St. Louis, MO; requires death cert + proof of relationship**
+- [ ] Ask Adrian: Should Raul submit SF-180 to NARA for Mariano Fernandez WWII records?
 
 ## Iteration Log
 | # | Time | Focus | Key Finding |
@@ -176,3 +182,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 15 | 2026-03-25 09:35 | 2025 election results + dynasty tracker | **🔥 FERCOLLA DYNASTY COLLAPSE**: Alvin Fernandez crushed by Gina de Venecia (41K vs 229K) for Congress; Alfie Fernandez + Alvin Coquia lost Dagupan council. **Doc Jerry Agerico B. Rosario reelected** as 4th District Board Member (83K votes) — ROSARIO in provincial office. San Carlos: Resuello beats Lester Soriano; Soriano dynasty declining. Jun Banaag reelected. Edilberto Tamondong PDPSTA founding details expanded. |
 | 16 | 2026-03-25 10:00 | Manaoag-Laoac-Rosario network + Tamondong intermarriage | **🔥 Doc Jerry Rosario's "B." = BAUTISTA. Born Manaoag 1965, UST MD 1989, now MAYOR of Manaoag + Board Member.** **🔥 Laoac was carved from Manaoag (RA 6485, 1972)** — Tamondong/Abalos families in Laoac were originally Manaoag families. **Lizbeth Hilario Tamondong married into BANAAG family** — Tamondong-Banaag principalía intermarriage confirmed. Dr. Hilario Tamondong Jr. (pulmonologist) confirmed as elder Hilario's son. Dominican corridor: Manaoag (Our Lady of Rosary, 1600) ↔ San Carlos (St. Dominic, 1587). |
 | 17 | 2026-03-25 10:18 | Umingan deep dive + Don Justo Abalos + Abalos surname | **🔥 Umingan founded by settlers from MANGALDAN** (Abalos political stronghold) — confirms Mangaldan→Umingan Abalos migration path. Two Fernandez councilors in Umingan (Fred A. + Siann Liandro M.). Adjacent barangays "Don Justo Abalos" (formerly Caroan) and "Don Montano" (formerly Cadamortisan) both named after principalía patriarchs. **Abalos surname = Spanish-Sephardic origin from Ábalos village, La Rioja, Spain** (listed in "Sangre Judia"). 31,719 bearers in PH; 29% in Ilocos Region. |
+| 18 | 2026-03-25 10:38 | San Carlos barangay power map + NARA process + Soriano 3rd gen | **Complete analysis of all 86 San Carlos barangay captains**: 3 Rosario, 2 Cayabyab, 2 Soriano, 1 Tamondong, 1 Macalanda — but **ZERO Fernandez, ZERO Abalos**. Fernandez political absence in San Carlos suggests family was non-political or came through Tamondong line. **Lance Douglas U. Soriano** confirmed as 3rd-gen Jack Soriano grandson (Brgy Perez Blvd). NARA SF-180 process documented for Mariano Fernandez guerrilla records. Brian Poe (FPJ grandson) took oath in San Carlos June 2025. |
