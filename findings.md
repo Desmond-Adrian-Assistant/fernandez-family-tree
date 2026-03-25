@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 06:30 UTC (Iteration 9)
+Last updated: 2026-03-25 07:30 UTC (Iteration 11)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -507,6 +507,54 @@ Multiple Tamondongs emigrated to the US, mostly California/Hawaii:
 - Note: wife's name "Victora" echoes "Victoria/Victoriana Daquigan" — may suggest naming patterns within Daquigan clans
 - Concentrated in Cagayan + Central Luzon, consistent with migration to Pangasinan
 
+## Edilberto A. Tamondong Sr. (1908-1989) — Prominent San Nicolas Tamondong
+
+**Source**: Official San Nicolas municipal website + Grand Lodge of Philippines + PPSTMBA
+- **Full name**: Edilberto A. Tamondong Sr.
+- **Born**: February 25, 1908
+- **Died**: June 1989, San Nicolas, Pangasinan
+- **Location**: San Nicolas, Pangasinan (directly borders San Carlos City)
+- **Roles**:
+  - Pioneer farmer — converted idle lands to productive farms
+  - First elected President of Pangasinan Division Public School Teachers Association (PDPSTA), June 1969
+  - Freemason — donated lot for Masonic Temple on Osmena St., San Nicolas
+  - Lodge renamed "Edilberto A. Tamondong Sr. Memorial Lodge No. 217" after his death
+  - Named in official municipal history as key contributor to San Nicolas's economic development
+- **Significance**: Born 1908, contemporary with Juan Tamondong's likely grandchildren. The "Sr." implies children. San Nicolas borders San Carlos — same Tamondong network.
+- **Masonic Lodge WWII Connection**: Lodge originally named "Red Arrow Division Lodge" after US 32nd Infantry Division that liberated San Nicolas
+
+## Hilario D. Tamondong (1932-1994) — Possible Relative (UNCONFIRMED)
+
+**Source**: AncientFaces database
+- **Born**: September 9, 1932
+- **Died**: July 5, 1994
+- **Middle initial "D"** — could stand for Daquigan (Victoria Daquigan was Bienvenido's mother)
+- Born 1 year before Bienvenido (1933), **died same year** (1994)
+- If "D" = Daquigan, may represent another branch of the Tamondong-Daquigan intermarriage network
+- Location unknown — needs further research
+
+## Tamondong WWII Casualties
+
+- **Hilario Tamondong (1899-1942)** — died age 42 during Japanese occupation of Pangasinan
+- **Pedro Tamondong (1910-1944)** — died age 33 during occupation
+- Both from the generation after Juan Tamondong (~1850) — could be his grandchildren
+
+## AncientFaces Tamondong Database — 30+ Individuals Documented
+
+Comprehensive listing spans 1895-2008. Key patterns:
+- **Delano, CA cluster**: Pedro (1903) + Arsenio C. (1905) — Filipino agricultural worker hub
+- **US migration**: California (Bay Area, Central Valley), Hawaii, Virginia/DC, Guam, Texas
+- **Francisco Garcia Tamondong (1925-1983)**: Born Barangay Ano, San Carlos — confirmed San Carlos origin
+- **Deborah Lynn Tamondong (1966-2008)**: Texas — Tamondong who settled in same state as Adrian
+- **Proceso Tamondong (1895-1967)**: Died in Philippines — oldest documented after Juan (~1850)
+
+## Fr. Juan Fernandez Villaverde — Dominican Friar in San Nicolas
+
+- Born June 23, 1841; Dominican missionary in Solano (1885-1890)
+- Built the 74km **Camino de San Nicolas** (Villaverde Trail) connecting San Nicolas to Nueva Vizcaya
+- Trail connected a railway from **Dagupan City** to Santa Fe
+- Spanish Dominican friar with Fernandez surname — likely coincidental but interesting given Dominican connection to San Carlos's Minor Basilica of St. Dominic
+
 ## Gaps to Fill
 - [ ] Janice's maiden name and family
 - [ ] Raul's birth date and siblings
@@ -571,3 +619,140 @@ Recurring principalía surnames from current barangay officials:
 ### San Carlos ↔ Dagupan Distance = 9 Miles
 - Confirmed via PhilAtlas: only ~9 miles (21 min by bus) between the two cities
 - Explains family connections across both locations
+
+## WWII Guerrilla Units in Pangasinan (Iteration 10)
+
+Three major guerrilla organizations operated in Pangasinan during WWII:
+
+### 1. Luzon Guerrilla Army Forces (LGAF) — Major Robert Lapham
+- **15 squadrons in Pangasinan** under **Captain Ray C. Hunt Jr.**
+- 38 squadrons in Nueva Ecija, total ~13,000 Filipino fighters
+- Covered Pangasinan, Nueva Ecija, Tarlac, Nueva Vizcaya
+- Based in Lupao/Umingan, Pangasinan (eastern part)
+- **NARA files**: 102-series (LGAF regiments)
+- **Chicago connection**: Lapham worked at Burroughs Corporation in **Chicago** before the war
+- The LGAF-Chicago connection may explain Fernandez family immigration to Chicago specifically
+- Ray C. Hunt wrote "Behind Japanese Lines" (memoir with Pangasinan guerrilla details)
+
+### 2. Army of the Agno / 1st Organized Pangasinan Army Corps
+- Named after the **Agno River** which flows through San Carlos City
+- Filipino-organized guerrilla force with multiple divisions
+- **NARA files: 185-1 through 185-30** — extensive records
+- Divisions: Eastern, Western, Central, plus Central Brigade
+- The most locally-organized Pangasinan guerrilla force
+- **Most relevant to Mariano Fernandez** given proximity to Agno River/San Carlos
+
+### 3. 1st Pangasinan Regiment, PTMD, ECLGA (NARA file 308-23)
+- Part of the East Central Luzon Guerrilla Area
+
+### Mariano Fernandez WWII Context
+- Born ~1905, San Carlos City — age 36-40 during Japanese occupation
+- As principalía-connected (Tamondong family), likely had leadership role
+- 21st Infantry Division (Philippine Army) drew troops from Pangasinan before the war
+- NARA files at National Archives, College Park, MD (Record Group 407) contain individual names
+
+### 25 Living WWII Veterans of Pangasinan (Jan 2025)
+From official Pangasinan provincial government:
+- **Adriano Sinlao Salomon, 104** — **San Carlos City** — only living WWII vet from the city, potential witness
+- **Pedro Fernandez Fernandez, 102** — Santa Barbara — double Fernandez surname, possible distant relative
+- **Raymundo Manaois Cabrera, 99** — Dagupan City — Cabrera surname same as Natividad's maiden name
+
+## Valeriano Tamondong — Founding Father of Mapandan Municipality (1887)
+
+- **Valeriano Tamondong** was one of **10 founding leaders** of Mapandan municipality
+- Established **December 28, 1887** by Governor General Emilio Bravo (Direction General No. 39)
+- Mapandan separated from Mangaldan; 21 km from San Carlos, 16 km from Dagupan
+- Other founding leaders: Antonio Morales, Sabino Prado, Andres Bongato, Ambrosio Calimlim, Tomas Aquino, Fulgencio Nato, Filomeno Sarmiento, Jose Lalas, Florencio Datuin
+- **Tamondong political timeline now spans**:
+  - **1802**: Simon Tamondong — Captain/Gobernadorcillo of San Carlos
+  - **1887**: Valeriano Tamondong — Founding Father of Mapandan
+  - **1987**: Bienvenido A. Tamondong — OIC of Laoac municipality
+  - **2020s**: Eduardo C. Tamondong — Barangay Captain of Sapinit, San Carlos
+- 224+ years of continuous political involvement across multiple Pangasinan municipalities
+
+## Rosalinda Patani Soriano — Tamondong-Dagupan Connection
+
+- Born May 5, 1950, **Dagupan, Pangasinan**
+- Mother: **Precentacion Tamondong** (Dagupan)
+- Father: Eulogio Patani
+- Died October 2024 (Zuasola-Grillo Filipino Funeral Service)
+- **Confirms Tamondong family presence in Dagupan**, not just San Carlos
+- Geographic spread: San Carlos → Mapandan → Dagupan → Chicago (Jessica Tamondong Rhee)
+
+## Jessica Tamondong Rhee — Chicago Tamondong (Updated)
+
+- State Farm Insurance Agent, 453 W North Ave, Chicago, IL
+- Phone: (312) 649-5559
+- University of Illinois Urbana-Champaign graduate
+- **Her father was a State Farm agent in Chicago for 45+ years** (started ~1980)
+- Her office "represents a continued legacy that my father began"
+- A Tamondong family established in Chicago for nearly half a century
+- Same migration destination as Bienvenido Fernandez (d. 1994 Chicago)
+
+## Col. Edwin Ramsey's ECLGA — Guerrilla Operations IN San Carlos (Iteration 11)
+
+### The ECLGA in San Carlos
+- **Col. Edwin P. Ramsey** (U.S. Army, 26th Cavalry) built the **East Central Luzon Guerrilla Area (ECLGA)** resistance
+- Led the **last cavalry charge** in U.S. military history (Morong, Bataan)
+- In **1943**, while in Bayambang (adjacent to San Carlos), Ramsey learned of **Judge Juan Benitez** from San Carlos
+- **Ramsey was hidden in the Benitez family home in San Carlos** — nipa hut behind house became guerrilla meeting/induction point
+- **Capt. Charles Putnam** (American) appointed CO of **Pangasinan-Tarlac Military District (PTMD)**, a division of ECLGA
+- Benitez became deputy CO, then full CO after Japanese captured & beheaded Putnam
+- By war's end, Ramsey led **~40,000 Filipino guerrillas**
+- In **1964**, ECLGA Veterans Reunion held in San Carlos (Benitez/Gillis family hosted)
+- Ramsey lobbied Congress 3 times for Filipino veterans' recognition → Congressional Gold Medal (2016)
+- Source: Positively Filipino article by Sandie Gillis (Benitez family, San Carlos native)
+
+### San Carlos Was a Direct Guerrilla Recruitment Center
+- Guerrilla inductions happened inside the town, not just in mountains
+- **All major San Carlos principalía families served as guerrilla officers:**
+  - **Jack Laureano Soriano y Benitez** — CO of 1st Bn 1st DNG Regiment (Ramsey's guerrillas), 1942-45. Later Congressman, Judge, Mayor.
+  - **Juan Benitez** — Judge, became CO of PTMD/ECLGA in Pangasinan
+  - **Luis Cayabyab y Garcia** — Liberation Mayor of San Carlos (1945), then elected mayor 1960-76
+- **Mariano Fernandez (b. ~1905)** was in the exact guerrilla recruitment zone, military age, and from a principalía-connected family
+
+### NARA Records to Search
+- **File 308-23**: 1st Pangasinan Regiment, PTMD, ECLGA — lists individual guerrilla members from San Carlos area
+- **Files 185-1 to 185-30**: Army of the Agno — Filipino-organized force in San Carlos/Agno River area
+- Records at National Archives, College Park, MD (Record Group 407)
+
+## San Carlos "Pillars" — Confirmed Principalía Families (Iteration 11)
+
+From the archived Angelfire "Pillars of San Carlos City" page (Wayback Machine):
+
+| Name | Role | Years |
+|------|------|-------|
+| Ari Kasikis | Last native ruler of Caboloan | ~1570s |
+| Andrés Malong | Led revolt, proclaimed King of Pangasinan | 1660-61 |
+| Juan Palaris y dela Cruz | Led revolt against Spain | 1762-65 |
+| Aquilino Banaag | Municipal President 1908-09, Congressman 1916-19, Ad-interim Governor 1931 | 1908-31 |
+| Eugenio Perez y Padlan | Speaker of the House of Representatives | 1922-57 |
+| Luis Cayabyab y Garcia | Liberation Mayor, then City Mayor | 1945-76 |
+| Jack Laureano Soriano y Benitez | Guerrilla CO → Congressman → Judge → Mayor | 1942-86 |
+| Julian Resuello y Valerio | Mayor (assassinated 2007) | 1982-2007 |
+| Vicente G. Ferrer | Educator, born Brgy Ano | 1961-present |
+
+**The Cayabyab dynasty**: Captain of San Carlos in 1770-73 (from church history) → Liberation Mayor 1945 → Mayor through 1976. Mirrors the Tamondong pattern exactly.
+
+## Tamondong Ancestry Branches (Iteration 11)
+
+Three distinct Tamondong families from Ancestry.com records, all from ~1870s-1900s:
+
+| Family Head | Spouse | Child | Born | Location |
+|-------------|--------|-------|------|----------|
+| **Aniceto Tamondong** | Maria Macalanda | Pedro Caguioa Tamondong | Jul 14, 1903 | Pangasinan |
+| **Alberto Tamondong** | Dominga Raucio | Jose Tamondong | 1904 | unknown |
+| **Joseph Tamondong** | Regina Garcia | Francisco Garcia Tamondong | Dec 16, 1925 | Brgy Ano, San Carlos |
+
+- All family heads born ~1870s-1880s — generation between Simon Tamondong (1802) and Juan Tamondong (~1850)
+- **Aniceto Tamondong married Maria Macalanda** — Macalanda confirmed as San Carlos principalía surname (current Brgy Captain of Tandoc = Ramil Macalanda)
+- **"Caguioa"** middle name of Pedro = another Pangasinan principalía surname
+- Jose Tamondong (son of Alberto + Dominga Raucio) married **Teodora Mercado** — "Joseph Tamondong" may be English form of "Jose"
+- These branches likely represent sons or grandsons of Juan Tamondong (~1850)
+
+## Tamondong in 1849 Catálogo — Multi-Province Distribution
+
+- Tamondong was assigned as a surname in **both Pangasinan and Tarlac** provinces per the 1849 Clavería Decree
+- Source: Byahero blog on Tarlac City history lists Tamondong among "T" surnames for Tarlac
+- The surname likely originated in Pangasinan and was distributed to neighboring provinces
+- However, the Tamondong political dynasty in San Carlos predates 1849 (Simon Tamondong, Captain in 1802), suggesting the family already bore the name

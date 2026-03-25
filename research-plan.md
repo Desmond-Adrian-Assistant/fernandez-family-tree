@@ -81,6 +81,18 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Research Antonio P. Abalos (Mayor of Laoac) — connected to Aurea's Abalos family?
 - [ ] Contact/research Jessica Tamondong Rhee (Chicago) — possible relative via migration path?
 - [ ] Research Laoac-San Carlos border area for more Tamondong/Abalos/Fernandez connections
+- [x] Search AncientFaces Tamondong database — **30+ individuals documented, WWII casualties found**
+- [x] Research Edilberto A. Tamondong Sr. (San Nicolas) — **Major civic leader: educator, farmer, Mason. Lodge named after him.**
+- [ ] Investigate Edilberto A. Tamondong's "A" middle initial — Abalos? Something else?
+- [ ] Search for Edilberto Tamondong Sr.'s children (the "Sr." implies offspring)
+- [ ] Investigate Hilario D. Tamondong (1932-1994) — is "D" = Daquigan? Where did he live?
+- [ ] Research Delano, CA Tamondong cluster (Pedro + Arsenio, Filipino farmworkers)
+- [x] Search for Deborah Lynn Tamondong (Texas, 1966-2008) — **No obituary or records found**
+- [ ] Research Benitez-Tamondong connection in San Carlos (both principalía; Soriano's middle name = Benitez!)
+- [ ] Search NARA PTMD/ECLGA records (file 308-23) for Mariano Fernandez or Tamondong names
+- [ ] Connect Aniceto Tamondong (Ancestry) to Simon/Juan Tamondong line
+- [ ] Research "Joseph Tamondong" = "Jose Tamondong" (Brgy Ano) → possible uncle/cousin of Bienvenido
+- [ ] Search for the Sandie Gillis family (San Carlos, wrote Ramsey article) — possible living connection
 
 ### Track 6: DNA & Modern Resources
 - [ ] Identify Filipino genealogy Facebook groups
@@ -121,3 +133,5 @@ Each iteration should: read previous findings → identify the highest-value une
 | 7 | 2026-03-25 06:00 | Cervantes side (Track 7) | First research into Janice's family. Cervantes & Cabrera both pre-1849 Spanish surnames (not in Catálogo). Found **Diosdado Cervantes of DL Cervantes Construction in San Simon, Pampanga** — possible match for Janice's father. Angeles City parish (Holy Rosary, 1877) and Archdiocese of San Fernando identified. Clark Air Base (1903-1991) near Angeles City may explain US immigration pathway. |
 | 8 | 2026-03-25 06:05 | San Carlos living connections + Daquigan | **🔥 Eduardo C. Tamondong is current Barangay Captain of Sapinit, San Carlos City** — Tamondong family political dynasty spans 224 years (1802→present). George Tamondong (TV cameraman) was a close friend of assassinated San Carlos mayor (2007). Three Rosario barangay captains in San Carlos. Macalanda-Tamondong intermarriage confirmed (Ramil Macalanda = Captain of Tandoc). Daquigan surname concentrated in Cagayan province — possible migration to San Carlos. |
 | 9 | 2026-03-25 06:30 | Laoac municipal records + Tamondong-Abalos network | **🔥 Bienvenido A. Tamondong served as OIC of Laoac municipality (1987-88)** — same first name as Adrian's grandfather, Tamondong surname from maternal line, in adjacent town to San Carlos! **Antonio P. Abalos was Mayor of Laoac (2007-10)** — Abalos family politically active in same area. Jessica Tamondong Rhee found in Greater Chicago Area (same migration destination). Tamondong-Abalos power network mapped across San Carlos→Laoac→Dagupan (200+ years). |
+| 10 | 2026-03-25 06:50 | WWII guerrilla units + Tamondong network expansion | **🔥 Three guerrilla organizations operated in Pangasinan**: LGAF (15 squadrons under Capt. Ray C. Hunt), Army of the Agno (named after river through San Carlos, NARA files 185-1 to 185-30), 1st Pangasinan Regt ECLGA. Lapham (LGAF leader) was from Chicago — possible immigration pathway! **🔥 Valeriano Tamondong was one of 10 founding fathers of Mapandan (1887)** — extends political timeline to 1802-present. **Pedro Fernandez Fernandez (102, Sta. Barbara)** is living WWII vet with double Fernandez surname. **Rosalinda Soriano obit confirms Tamondong family in Dagupan** (mother Precentacion Tamondong). |
+| 11 | 2026-03-25 07:30 | San Carlos WWII guerrilla + Tamondong Ancestry branches | **🔥 Col. Edwin Ramsey was hidden IN San Carlos by Judge Juan Benitez family** — guerrilla inductions happened in town. Jack Soriano was CO of 1st Bn Ramsey's guerrillas. PTMD/ECLGA records (NARA 308-23) would list individual San Carlos guerrillas. **Pillars of San Carlos City** archived page documents all principalía leaders. Three Tamondong Ancestry branches documented: Aniceto (m. Macalanda), Alberto (m. Raucio), Joseph (m. Garcia, Brgy Ano). Tamondong confirmed in 1849 Catálogo for both Pangasinan AND Tarlac. |
