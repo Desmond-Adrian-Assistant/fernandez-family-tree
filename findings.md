@@ -1303,6 +1303,52 @@ Angel B. Fernandez served as Dagupan mayor for **15 years** before becoming cong
 - Part of Chicago Collections (explore.chicagocollections.org)
 - **Potential resource**: May contain records/photos of Fernandez/Tamondong family in Chicago Filipino community
 
+## 🔥 Pangasinan Masonic Network — Fernandez, Tamondong, Cervantes (Iteration 24)
+
+### Freemasonry as the Third Pillar of Principalía Power
+
+The Masonic lodge system in Pangasinan functions alongside Church and State as the fraternal arm of the principalía:
+
+| Lodge | Location | Family Connections |
+|-------|----------|--------------------|
+| **Pangasinan Lodge No. 56** | Dagupan | Fernandez (×4 members), Cervantes (Grand Master 1951), Benitez |
+| **Edilberto Tamondong Sr. Memorial Lodge No. 217** | San Nicolas | Tamondong (namesake + lot donor) |
+| **Agno Lodge No. 75** | Tayug/Rosales | Parent of Tamondong Lodge, eastern Pangasinan |
+
+### Fernandez Members in Pangasinan Lodge No. 56 (Dagupan)
+- **WB Guillermo Fernandez** — Past Master, proposed temple relocation (1995)
+- **Bro. Alipio F. Fernandez Jr.** — FERCOLLA Mayor of Dagupan, donated land for new temple
+- **Johnson Fernandez** — Masonic District RI-A officer (2015)
+- **Francisco Fernandez** — **Current Worshipful Master** (2024)
+
+### MW Cenon de los Santos Cervantes — Grand Master of Philippine Freemasonry (1951)
+- **Full name:** Cenon de los Santos Cervantes
+- **Born:** March 29, 1903, Davao City
+- **Died:** December 1, 1978 (age 75)
+- **Parents:** Carlos Cervantes & Carlota de los Santos — **16 children**
+- **Wife:** Rosario E. Holcomb (Zamboanga City) — **11 children**
+- **Career:** PNB employee (Davao 1918) → PNB Branch Manager **Dagupan** (1930s) → WWII resistance agent (Iloilo, hid P1.7M from Japanese) → National Abaca Corp. Chairman → Sugar sales in NYC (1952-58) → **Sugar centrals manager in PAMPANGA** (1958-60)
+- **Masonic:** Initiated Pangasinan Lodge No. 56 (1933) → Master (1938) → **34th Grand Master** (1951) → SGIG Scottish Rite (1965)
+- **Famous son:** Behn Cervantes (1938-2013) — theater pioneer, anti-Marcos activist, Bantayog ng mga Bayani honoree
+- **Installed by:** MW Conrado BENITEZ — same Benitez principalía as San Carlos's Judge Juan Benitez (hid Col. Ramsey)
+
+**Significance:** A Cervantes at the apex of Philippine Freemasonry, based in Dagupan, overlapping with the Fernandez Masonic network. While Cenon was born in Davao (not Pampanga), his career included Pampanga sugar work (1958-60). Connection to Janice's Angeles City Cervantes family unconfirmed but geographically plausible.
+
+### Edilberto A. Tamondong Sr. Memorial Lodge No. 217
+- **Original name:** Red Arrow Division Lodge No. 217 — honoring US 32nd Infantry Division that liberated San Nicolas
+- **Created:** Feb 17, 1977 (dispensation), chartered June 26, 1977
+- **Origin:** Members seceded from Agno Lodge No. 75 after officer election controversy
+- **Renamed:** June 13, 1989, shortly after Edilberto's death, to honor his donation of the temple lot
+- **Location:** Osmena St., San Nicolas, Pangasinan (borders San Carlos City)
+- **District:** RI Pangasinan (East) — eastern Pangasinan = San Carlos/San Nicolas territory
+- Edilberto served as "Masonic dignitary" at the lodge's constitution ceremony
+
+### Three-Pillar Principalía Power Structure
+The same intermarried families control all three pillars in eastern Pangasinan:
+- **CHURCH:** Fr. Francisco Fernandez, Fr. Agustin Rosario, Fr. Fermin Abalos (Bayambang priests); Fr. Joseph T. Fernandez (Chancellor, Archdiocese)
+- **STATE:** Simon Tamondong (Captain 1802), Eduardo Tamondong (Brgy Captain 2020s), Angel B. Fernandez (Mayor/Congressman), Doc Jerry Rosario (Board Member/Mayor)
+- **LODGE:** Edilberto Tamondong (Lodge namesake), Guillermo/Alipio/Francisco Fernandez (Lodge Masters), Cenon Cervantes (Grand Master)
+
 ## 1990 Luzon Earthquake — Impact on Dagupan & Family Timeline
 
 - July 16, 1990, Intensity 7.7
