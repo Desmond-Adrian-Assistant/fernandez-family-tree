@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 00:45 CDT (Iteration 4)
+Last updated: 2026-03-25 04:55 UTC (Iteration 5)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -317,6 +317,45 @@ The marriage was in San Carlos City. The Tamondong surname concentration in San 
 - **Cathy Fernandez** — still in Dagupan (needs more research)
 - **Edmalyn Villamayor** — Dagupan area (Villamayor = Spanish, "greater village/town")
 - **Villamayor** could connect to Villanueva branch (both "Villa-" Spanish surnames)
+
+## 1849 Catálogo de Apellidos — Surname Origins
+- The Clavería Decree of November 21, 1849 assigned 61,000 surnames to Filipino families
+- Surnames starting with "A" went to provincial capitals; "B" to secondary towns; "C" to tertiary towns
+- **"Fernandez" is NOT in the Catálogo** — it's a pre-existing Spanish patronymic ("son of Fernando")
+- Families with prior surnames were **exempt** from the decree
+- **Implication**: The Fernandez name in Dagupan predates 1849, suggesting possible Spanish ancestry or very early colonial adoption (1600s-1700s)
+- Native/indigenous surnames in the family (Tamondong, Daquigan, Paglingayen, Bacarro) were likely assigned from the Catálogo
+- Other Spanish-origin surnames (Abalos, Rosario, Villanueva, Gutierrez) may also predate the decree
+
+## Fernandez-de Venecia-Abalos Triangle
+- The FERCOLLA Fernandez connected to de Venecia through **Paz Fernandez** marrying **Eng. Isidoro de Venecia**
+- Geni.com Dagupan project lists **"de Venecia y Ábalos"** as a family surname — indicating an Abalos married into de Venecia
+- **Bonuan Gueset** barangay connects all three families: Abalos family roots there, de Venecia Jr. funeral there (Feb 2026)
+- **Network**: Fernandez ↔ de Venecia (marriage) ↔ Ábalos (marriage) — and independently Fernandez ↔ Abalos (Bienvenido & Aurea)
+- Suggests these are interconnected elite Dagupan families, not random matches
+
+## Roberto Fernandez Martinez — Another Dagupan Fernandez Branch
+- Born Nov 15, 1939, Dagupan, Pangasinan; died Jan 25, 2026
+- Parents: **Quirino Martinez** and **Aurora Fernandez**
+- His mother's maiden name was Fernandez — shows yet another Dagupan Fernandez lineage
+- Born 6 years after Bienvenido (1933) — Aurora Fernandez could be related to Bienvenido's family
+- Buried at Green Hills Memorial, LA
+
+## WWII Context for Family
+- Dagupan served as Japanese provincial capital during occupation
+- **January 9, 1945**: Lingayen Gulf Landing — 203,608 Allied soldiers landed at Dagupan beaches
+- Gen. MacArthur set up his Luzon HQ in Dagupan
+- **Mariano Fernandez** (b. ~1905, Adrian's great-grandfather) would have been ~36-40 during occupation — military age
+- PVAO Philippine Archives Collection has guerrilla records searchable by name and location (Pangasinan)
+- FilVetREP National Veterans Registry exists but is not publicly searchable
+
+## Filipino Genealogy Resources
+- **Filipino Genealogy Project**: filipinogenealogy.com
+- **Genealogy Philippines**: genealogy.ph
+- **FamilySearch Pangasinan wiki**: detailed record guides
+- **PVAO Archives**: collections.pvao.mil.ph (guerrilla records, searchable)
+- **Key insight**: Most Philippine vital records before 1889 come from Catholic parish/diocesan archives
+- Filipino genealogy uniquely challenging — Spanish surnames don't indicate Spanish ancestry due to 1849 decree
 
 ## Gaps to Fill
 - [ ] Janice's maiden name and family

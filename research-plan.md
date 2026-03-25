@@ -59,11 +59,11 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Ask Adrian: Does Raul know Romeo/Optaciano Fernandez from Pangasinan?
 
 ### Track 5: Philippine Historical Context
-- [ ] Research Dagupan City history and founding families
-- [ ] Investigate the 1849 Catálogo de Apellidos for Pangasinan
-- [ ] Research Catholic Church parish records in Dagupan
+- [x] Research Dagupan City history and founding families — **Documented from official city gov page: Bacnotan→Dagupan, Spanish era→WWII→charter city 1947**
+- [x] Investigate the 1849 Catálogo de Apellidos for Pangasinan — **"Fernandez" predates decree (exempt). Native names (Tamondong, Daquigan, etc.) likely assigned from Catálogo.**
+- [ ] Research Catholic Church parish records in Dagupan — **Identified Dagupan Cathedral + Annunciation of the Lord (Bonuan Gueset) as key parishes**
 - [ ] Look for Pangasinan provincial records/archives
-- [ ] Research Pangasinan genealogy Facebook groups and communities
+- [x] Research Pangasinan genealogy Facebook groups and communities — **Identified filipinogenealogy.com, genealogy.ph, FamilySearch wiki as resources**
 - [ ] Check if any Filipino genealogy societies have Fernandez records
 
 ### Track 6: DNA & Modern Resources
@@ -71,7 +71,9 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Search for Fernandez family reunions in Dagupan
 - [ ] Look for newspaper archives mentioning family members
 - [ ] Check Philippine Statistics Authority online records
-- [ ] Research WWII records (Japanese occupation of Pangasinan)
+- [x] Research WWII records (Japanese occupation of Pangasinan) — **Identified PVAO guerrilla records (collections.pvao.mil.ph), FilVetREP registry, NARA Philippine Archives. Dagupan was Japanese provincial capital; Lingayen Gulf Landing Jan 9, 1945. Mariano Fernandez (b.~1905) was military age.**
+- [ ] Search PVAO guerrilla records for Mariano Fernandez and other ancestors (site was down)
+- [ ] Investigate Roberto Fernandez Martinez (d. 2026, mother Aurora Fernandez from Dagupan) — possible relation?
 
 ## Iteration Log
 | # | Time | Focus | Key Finding |
@@ -82,3 +84,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 3 | 2026-03-25 04:35 | Chicago death records + FamilySearch + eLib | No online death records found for Bienvenido. Identified FamilySearch "Cook County Deaths 1878-1994" as key collection (requires account). Found Fercolla book at NLP Manila (2 copies, no digital). All 7 great-great-grandparent pair searches negative. Mapped Arellano-Bani district as geographic hub. Chicago Filipino immigration context documented. |
 | 3b | 2026-03-25 00:40 | Chicago deep dive: Cook County, probate, cemeteries | Searched Cook County Probate Docket + Will Search = no cases. Ancestry Cook County Death Index only covers 1908-1988. **Confirmed Aurea Fernandez lives in Chicago IL** (Whitepages/Spokeo). Catholic Cemeteries of Chicago identified as high-priority resource (email registration needed). |
 | 4 | 2026-03-25 00:45 | Track 3 (Geni/trees) + Track 5 (parish records) | All ancestor name searches negative on Geni/MyHeritage. Identified Dagupan Cathedral as key parish. Found 3 critical FamilySearch collections requiring free account. Found Fercolla book 1983 edition (3 editions total). Abalos family deep roots confirmed (Dr. Sofronio Abalos, Fr. Fermin Abalos 1920). |
+| 5 | 2026-03-25 04:49 | Track 5 (PH historical context) | Documented Dagupan history, 1849 Catálogo (Fernandez predates decree = possible Spanish ancestry). Mapped Fernandez-de Venecia-Abalos triangle via Bonuan Gueset. WWII: Mariano Fernandez military age during occupation. Found PVAO guerrilla records resource. Roberto Fernandez Martinez obit (mother Aurora Fernandez, Dagupan). |
