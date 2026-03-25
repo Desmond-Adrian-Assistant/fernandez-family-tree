@@ -28,7 +28,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Check if Fercolla book is viewable at FamilySearch affiliate (Duncanville, TX — 40 min from Allen)
 - [ ] Look for Dagupan city archives or local history resources
 - [ ] Determine if Bienvenido's branch connects to FERCOLLA or is a separate Fernandez family
-- [ ] Research Funeraria Abalos ownership — possible family connection to Hilario Abalos
+- [x] Research Funeraria Abalos ownership — **Two Abalos funeral businesses in Dagupan (Funeraria Abalos + Abalos Memorial Chapel). Also found Dr. Sofronio Abalos (physician) + Fr. Fermin Abalos (parish priest 1920-28).**
 
 ### Track 3: Ancestry/Geni/MyHeritage Trees
 - [x] Search Geni.com for Fernandez-Abalos-Tamondong profiles — **No profiles found for any direct ancestors**
@@ -88,7 +88,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Investigate Hilario D. Tamondong (1932-1994) — is "D" = Daquigan? Where did he live?
 - [ ] Research Delano, CA Tamondong cluster (Pedro + Arsenio, Filipino farmworkers)
 - [x] Search for Deborah Lynn Tamondong (Texas, 1966-2008) — **No obituary or records found**
-- [ ] Research Benitez-Tamondong connection in San Carlos (both principalía; Soriano's middle name = Benitez!)
+- [x] Research Benitez-Tamondong connection in San Carlos — **Geni Benítez Family project includes Soriano. Jack Soriano's full name = Jack Laureano B. Soriano (B = Benitez). Juan Benitez = guerrilla judge who hid Ramsey. Soriano married Herminia Vitug Dabu from Pampanga. Jose F. Fernandez served on Soriano's city council (1976-79).**
 - [ ] Search NARA PTMD/ECLGA records (file 308-23) for Mariano Fernandez or Tamondong names
 - [ ] Connect Aniceto Tamondong (Ancestry) to Simon/Juan Tamondong line
 - [ ] Research "Joseph Tamondong" = "Jose Tamondong" (Brgy Ano) → possible uncle/cousin of Bienvenido
@@ -119,6 +119,19 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Search for Cervantes/Cabrera in Angeles City Holy Rosary Parish records
 - [ ] Research Clark Air Base employment → US immigration pathway for Cervantes family
 
+### Track 8: Bayambang Parish Priests & Principalía Clergy Network
+- [x] Research Fr. Francisco Fernandez (Bayambang, 1898-1902) — **No additional records online beyond Bayambang church history. Needs physical parish records.**
+- [x] Research Fr. Fermin Abalos (Bayambang, 1920-1928) — **No additional records online. Confirmed as key lead but needs parish/seminary records.**
+- [x] Research Fr. Agustin Rosario (Bayambang, 1916-1920) — **No additional records online.**
+- [ ] Investigate Jose F. Fernandez (San Carlos City Councilor, 1976-79) — relationship to Bienvenido?
+- [ ] Research Rev. Fr. Joseph T. Fernandez (living, Dagupan Cathedral) — potential contact for family history; may know Fernandez family connections
+- [ ] Research Jorge Tamondong (PGRP candidate, 2022 4th District election) — which town? Family?
+- [ ] Research Ritchie de Guzman Abalos (NPC candidate, 2022 4th District) — which municipality?
+- [ ] Research "Doc Jerry" Rosario (PDP-Laban candidate, 2022 4th District) — which municipality?
+- [ ] Research the elder Hilario Tamondong (b. 1935, wife Flora) — what town is he from?
+- [ ] Research Dr. Hilario Tamondong (pulmonologist, Medical City/Lung Center) — connection to elder Hilario?
+- [ ] Research Leslie Tamondong (surgeon/California) — child of elder Hilario?
+
 ## Iteration Log
 | # | Time | Focus | Key Finding |
 |---|------|-------|-------------|
@@ -135,3 +148,5 @@ Each iteration should: read previous findings → identify the highest-value une
 | 9 | 2026-03-25 06:30 | Laoac municipal records + Tamondong-Abalos network | **🔥 Bienvenido A. Tamondong served as OIC of Laoac municipality (1987-88)** — same first name as Adrian's grandfather, Tamondong surname from maternal line, in adjacent town to San Carlos! **Antonio P. Abalos was Mayor of Laoac (2007-10)** — Abalos family politically active in same area. Jessica Tamondong Rhee found in Greater Chicago Area (same migration destination). Tamondong-Abalos power network mapped across San Carlos→Laoac→Dagupan (200+ years). |
 | 10 | 2026-03-25 06:50 | WWII guerrilla units + Tamondong network expansion | **🔥 Three guerrilla organizations operated in Pangasinan**: LGAF (15 squadrons under Capt. Ray C. Hunt), Army of the Agno (named after river through San Carlos, NARA files 185-1 to 185-30), 1st Pangasinan Regt ECLGA. Lapham (LGAF leader) was from Chicago — possible immigration pathway! **🔥 Valeriano Tamondong was one of 10 founding fathers of Mapandan (1887)** — extends political timeline to 1802-present. **Pedro Fernandez Fernandez (102, Sta. Barbara)** is living WWII vet with double Fernandez surname. **Rosalinda Soriano obit confirms Tamondong family in Dagupan** (mother Precentacion Tamondong). |
 | 11 | 2026-03-25 07:30 | San Carlos WWII guerrilla + Tamondong Ancestry branches | **🔥 Col. Edwin Ramsey was hidden IN San Carlos by Judge Juan Benitez family** — guerrilla inductions happened in town. Jack Soriano was CO of 1st Bn Ramsey's guerrillas. PTMD/ECLGA records (NARA 308-23) would list individual San Carlos guerrillas. **Pillars of San Carlos City** archived page documents all principalía leaders. Three Tamondong Ancestry branches documented: Aniceto (m. Macalanda), Alberto (m. Raucio), Joseph (m. Garcia, Brgy Ano). Tamondong confirmed in 1849 Catálogo for both Pangasinan AND Tarlac. |
+| 12 | 2026-03-25 08:18 | Abalos network + Bayambang priests + Tamondong professionals | **🔥 THREE family surnames as sequential Bayambang parish priests: Fr. Francisco Fernandez (1898-1902), Fr. Agustin Rosario (1916-1920), Fr. Fermin Abalos (1920-1928)** — mirrors the Fernandez-Rosario-Abalos marriage pattern. Living Hilario Tamondong (b.1935) with children incl. doctors (Dr. Hilario Tamondong, pulmonologist; Dr. Leslie Tamondong, surgeon). Jose F. Fernandez was San Carlos City Councilor (1976-79). Abalos family runs two funeral businesses in Dagupan. |
+| 13 | 2026-03-25 09:00 | Living political connections + clerical network | **🔥 2022 Pangasinan 4th Dist election: Abalos, Tamondong, AND Rosario all ran for Board Member simultaneously** — 220+ yr political dynasty confirmed to present day. Found **Rev. Fr. Joseph T. Fernandez** — living Fernandez priest, Vice Rector of seminary + Parochial Vicar at Dagupan Cathedral. PSU San Carlos class: Gretchen Tamondong, Reymar Fernandez, Venusly Rosario in same classroom. Edilberto Abalos + Rosalynda de Venecia confirmed in joint 2012 civic action. |

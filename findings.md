@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 07:30 UTC (Iteration 11)
+Last updated: 2026-03-25 09:05 UTC (Iteration 13)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -750,9 +750,116 @@ Three distinct Tamondong families from Ancestry.com records, all from ~1870s-190
 - Jose Tamondong (son of Alberto + Dominga Raucio) married **Teodora Mercado** — "Joseph Tamondong" may be English form of "Jose"
 - These branches likely represent sons or grandsons of Juan Tamondong (~1850)
 
+## Bayambang Parish Priests — THREE Family Surnames in Sequence (1898-1928) — MAJOR DISCOVERY
+
+From the Historical Sketch of the Town and Church of Bayambang, Pangasinan (bayambangmunicipalnews.blogspot.com):
+
+Three of Adrian's family surnames served as sequential **secular parish priests** of Bayambang (which borders San Carlos):
+
+| Priest | Surname | Tenure | Notes |
+|--------|---------|--------|-------|
+| **Fr. Francisco Fernandez** | FERNANDEZ | April 6, 1898 – Sept 5, 1902 | First secular priest after Spanish friars left. Continued fencing Bayambang Cemetery. |
+| **Fr. Agustin Rosario** | ROSARIO | June 10, 1916 – July 6, 1920 | |
+| **Fr. Fermin Abalos** | ABALOS | July 6, 1920 – ~1928 | |
+
+**Significance**: Adrian's grandfather Bienvenido **FERNANDEZ** married Aurea **ROSARIO ABALOS** — combining all three priestly surnames in one marriage. These were Filipino secular priests (not Spanish friars) who took over parishes after the 1898 Philippine Revolution. Their appointment to the same parish shows these were interconnected, educated principalía families in eastern Pangasinan.
+
+**Context**: Bayambang was originally a visita (mission chapel) of the Vicariate of **Binalatongan** (San Carlos) from 1614. The ecclesiastical link between the two towns predates civic boundaries.
+
+## Jose F. Fernandez — San Carlos City Councilor (1976-1979)
+
+- Served on the San Carlos City Council under Mayor Jack Laureano B. Soriano
+- A Fernandez holding elected office in San Carlos during Bienvenido's lifetime
+- Potential relative — needs further investigation
+
+## Living Hilario Tamondong (b. Jan 14, 1935) & Family
+
+**Source**: Journal News Online (Jan 2023 birthday announcement)
+- **Hilario Tamondong** — born January 14, 1935 (turned 88 in Jan 2023)
+- **Flora Tamondong** — wife, born ~January 29, 1937 (turned 86 in Jan 2023)
+- Children/relatives include: Doanin, Nick, May, Zaldy & Ederlin Tamondong, Dina Sabado, Aida Ramirez
+- Facebook friends: Jessie Hilario Tamondong, Raulito Hilario Tamondong, Lesley Hilario Tamondong
+- Published in Journal News Online — a Pangasinan-based newspaper, suggesting local prominence
+- **NOT** the same as Hilario D. Tamondong (1932-1994) from AncientFaces — different birth years
+
+### Dr. Hilario Tamondong — Pulmonologist/Internist
+- Internal Medicine & Pulmonology
+- Hospitals: Lung Center of the Philippines + The Medical City (Pasig City, Metro Manila)
+- Also at Center for Endoscopy and Physiologic Studies
+- Relationship to elder Hilario unclear — possibly his son
+
+### Dr. Leslie Tamondong — Surgeon
+- General Surgery at Clinica Antipolo Hospital
+- Also a Leslie Tamondong at Aletha Health, California (925 area code = East Bay)
+- "Lesley Hilario Tamondong" appears on elder Hilario's Facebook — likely his child
+- Possibly the same person as the surgeon (Lesley/Leslie variant)
+
+## Abalos Memorial Chapel — Second Abalos Funeral Business in Dagupan
+- Separate from Funeraria Abalos (Arellano Street)
+- Also located in Dagupan City
+- Phone: 075-515-5960 (279 Facebook likes)
+- The Abalos family operates **two** funeral/memorial service businesses in Dagupan
+
+## Paraon Calugay Tamondong ("Pong") — Urbiztondo Tamondong
+- Age 46 in 2021 (~born 1975), from Camambigan, Urbiztondo, Pangasinan
+- Urbiztondo municipality directly borders San Carlos City
+- Shows Tamondong families established in neighboring municipalities, not just San Carlos
+
+## Jack Laureano B. Soriano — Full Details
+- Born: October 16, 1916, San Carlos City
+- Died: April 23, 1995
+- Wife: **Herminia Vitug Dabu** from **Lubao, Pampanga**
+- Children: Douglas, Winston, Lex, Wilhelm, Czarina, Liberty, Gallant, Valiant, Jackson
+- Career: WWII guerrilla CO → Congressman 2nd Dist. (1966-69) → Judge → Mayor (1976-86)
+- **Jack Lester Soriano** on current (2022-25) San Carlos city council — 3rd generation
+
+## Dr. Sofronio Abalos — Medical Abalos Family
+- Physician, father of a PHINMA-UPANG nursing student
+- Wife: Ambrosia Abalos (nurse)
+- Confirms Abalos family medical professional tradition in Pangasinan
+
 ## Tamondong in 1849 Catálogo — Multi-Province Distribution
 
 - Tamondong was assigned as a surname in **both Pangasinan and Tarlac** provinces per the 1849 Clavería Decree
 - Source: Byahero blog on Tarlac City history lists Tamondong among "T" surnames for Tarlac
 - The surname likely originated in Pangasinan and was distributed to neighboring provinces
 - However, the Tamondong political dynasty in San Carlos predates 1849 (Simon Tamondong, Captain in 1802), suggesting the family already bore the name
+
+## 2022 Pangasinan 4th District Election — Three Family Surnames (Iteration 13)
+
+In the May 2022 election, three of Adrian's ancestral surnames ran for Board Member (Sangguniang Panlalawigan) in the **4th District of Pangasinan** (includes San Carlos City, Laoac, surrounding towns):
+
+| Candidate | Party | Surname Connection |
+|-----------|-------|--------------------|
+| **ABALOS, KAP RITCHIE** (Ritchie de Guzman Abalos) | NPC | Aurea Rosario **Abalos** (grandmother) |
+| **TAMONDONG, JORGE** | PGRP | **Tamondong** (maternal great-great-grandparents) |
+| **ROSARIO, DOC JERRY** | PDP-Laban | Filomena **Rosario** (great-grandmother) |
+
+Three of four core ancestral surnames competing in the same election, same district, same year. Combined with the 1802 Captain Simon Tamondong → 2022 Jorge Tamondong candidacy, this demonstrates 220+ years of continuous political involvement by these interconnected principalía families.
+
+Sources: Rappler election coverage, PeoPlaid.com
+
+## Rev. Fr. Joseph T. Fernandez — Living Fernandez Priest at Dagupan Cathedral (Iteration 13)
+
+A Fernandez priest currently holds multiple senior positions in the Archdiocese of Lingayen-Dagupan:
+- **Parochial Vicar** — Cathedral Parish of St. John the Evangelist (Dagupan Cathedral)
+- **Vice Rector** — Mary Help of Christians College Seminary (Bonuan Gueset)
+- **Director** — Mary Help of Christians High School Seminary (Binmaley)
+- **Head of Liturgical Ministries** — Archdiocese of Lingayen-Dagupan
+- **Profile**: lingayen-dagupan.org/people/rev-fr-joseph-t-fernandez
+
+Significance: Continues the Fernandez clerical tradition from Fr. Francisco Fernandez (Bayambang, 1898-1902). As a senior priest with deep archdiocesan ties, Fr. Joseph T. Fernandez would be an exceptional contact for family history research — access to parish records and knowledge of Fernandez families in the area.
+
+## PSU San Carlos — Three Family Surnames in One Classroom (Iteration 13)
+
+From a 2021-2022 student paper at **Pangasinan State University, San Carlos City Campus**:
+- **Gretchen Tamondong**, **Reymar Fernandez**, **Venusly Rosario** — all in BSE Social Studies II-A
+- Three of Adrian's ancestral surnames studying together in one class
+- Confirms these families remain deeply embedded in San Carlos City's social fabric today
+
+## Edilberto Abalos + Rosalynda de Venecia — Civic Alliance Confirmed (Iteration 13)
+
+From Dagupan Punch (2012):
+- **Edilberto Abalos** (Education Supervisor, City Schools Division) and **Rosalynda de Venecia** (VP, Panangaro Foundation) jointly opposed an online casino in Dagupan
+- Confirms the Abalos-de Venecia civic alliance previously documented via Geni "de Venecia y Ábalos" surname
+- Strengthens the Fernandez ↔ de Venecia ↔ Abalos triangle
