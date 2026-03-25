@@ -18,6 +18,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Search Juan Tamondong, Juana Paglingayen
 - [ ] Browse Pangasinan civil registration image collections
 - [ ] Search for Bienvenido & Aurea marriage record
+- [x] Search all 7 great-great-grandparent pairs online — **ALL NEGATIVE** (Iteration 3). These are only in physical records.
 
 ### Track 2: Dagupan & Fercolla Connection
 - [x] Research the FERCOLLA clan families in more detail — **Full lineage documented from Antonio Llamas Fernandez through Alipio Jr.**
@@ -68,3 +69,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 0 | 2026-03-24 23:20 | Initial setup | Established baseline from conversation |
 | 1 | 2026-03-25 00:26 | Track 4: US records + FERCOLLA | No US death records for Bienvenido (likely died in PH). Found Romeo Fernandez obit (Plano TX, Pangasinan origin, brother Raul — different family). Mapped full FERCOLLA political dynasty. Found Abalos family roots in Dagupan (Funeraria Abalos). |
 | 2 | 2026-03-24 23:30 | Track 4 deep dive + Fercolla details | Confirmed Armando C. Fernandez = PH consul general LA + PB-USA founder. Found Fernandez-Coquia fishpond court case (G.R. 143868). Found Fernandez-Abalos KC connection. Detailed Dagupan Fernandez dynasty from Deo Antonio blog. |
+| 3 | 2026-03-25 04:35 | Chicago death records + FamilySearch + eLib | No online death records found for Bienvenido. Identified FamilySearch "Cook County Deaths 1878-1994" as key collection (requires account). Found Fercolla book at NLP Manila (2 copies, no digital). All 7 great-great-grandparent pair searches negative. Mapped Arellano-Bani district as geographic hub. Chicago Filipino immigration context documented. |

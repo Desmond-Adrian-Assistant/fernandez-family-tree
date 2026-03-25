@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-24 23:35 CDT
+Last updated: 2026-03-25 04:35 UTC (Iteration 3)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -228,6 +228,49 @@ These were all children (or descendants) of Don Antonio Llamas Fernandez.
 - **Illinois Statewide Death Index** available at apps.ilsos.gov — but only covers pre-1916 deaths
 - For 1994 deaths: need to search Cook County Clerk's office, or FamilySearch's Illinois Death Index
 - Chicago Tribune obituary archives may also have Bienvenido's death notice
+
+## FamilySearch Record Collections Available
+### Key Collections for This Research
+1. **Illinois, Cook County Deaths, 1878-1994** — Name index, should contain Bienvenido's 1994 death record. Requires free FamilySearch account to search.
+2. **Philippines, Lingayen-Dagupan Catholic Archdiocese Parish Registers, 1615-1982** — Browsable images, partial index. Baptism records only for 1900-1914.
+3. **Philippines, Pangasinan, Civil Registration** — Birth/marriage/death from NCSO Manila (1706-1911 images, 1888-1986 index+images)
+4. **Philippines Births and Baptisms, 1642-1994** — Index, incomplete
+5. **Philippines Marriages, 1723-1957** — Index, incomplete
+6. **Philippines, Catholic Church Records, 1520-2014** — Very limited, some church records
+
+## Arellano-Bani District — Geographic Hub
+Multiple family connections converge on the **Arellano-Bani** area of Dagupan City:
+- The **Fernandez fishpond property** (Lot 2991, 8,209 sqm) was in Arellano-Bani (court case G.R. No. 143868)
+- **Funeraria Abalos** is on Arellano Street
+- **Juan Coquia** (son of Don Modesto, who married Genoveva Fernandez) lived on Arellano Street in Bani District
+- This geographic clustering suggests the Fernandez and Abalos families were literal neighbors, which would explain the marriage of Bienvenido Fernandez to Aurea Rosario Abalos
+
+## Fercolla Book Physical Copies
+- **National Library of the Philippines (NLP)**: 2 copies — NLP Filipiniana General Book, T.M. Kalaw St., Ermita, Manila (call number: Fil 929.2 P412 1985)
+- **FamilySearch Library**: Salt Lake City, UT (catalog #2350774)
+- **FamilySearch Center (nearest to Adrian)**: Duncanville, TX (~40 min from Allen)
+- **No digital copy exists** — must be accessed in person
+- Note: Philippine eLib catalogs it as "Percolla" (likely OCR error)
+
+## Chicago Filipino Immigration Context
+- Filipino population in Chicago metro: 9,497 (1970) → 41,283 (1980) → 95,298 (2000)
+- Post-1965 Immigration Act enabled massive wave of Filipino professionals (nurses, physicians)
+- Family reunification became dominant pathway over time
+- Filipino American Council of Chicago (FACC) — umbrella org since late 1940s
+- Rizal Memorial Center (1332 W Irving Park Rd) — main Filipino gathering place
+- The Fernandez family likely arrived in Chicago in the 1970s-1980s as part of this wave
+
+## Ancestor Pair Search Results (All Negative — Iteration 3)
+None of the following great-great-grandparent pairs returned any online results:
+- Pablo Fernandez + Marta Villanueva
+- Domingo Daquigan + Benita Bacarro
+- Jose Abalos + Carlina Tamondong
+- Francisco Rosario + Juana Gutierrez
+- Juan Tamondong + Juana Paglingayen
+- Hilario Abalos + Filomena Rosario
+- Mariano Fernandez + Victoria Daquigan
+
+**Assessment**: These ancestors (born ~1870s-1910s) are likely only findable in physical records: church registers, FamilySearch microfilm/image collections, or Philippine civil registration records.
 
 ## Gaps to Fill
 - [ ] Janice's maiden name and family
