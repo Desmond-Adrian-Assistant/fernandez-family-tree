@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 04:35 UTC (Iteration 3)
+Last updated: 2026-03-25 00:45 CDT (Iteration 4)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -117,9 +117,9 @@ Detailed genealogy of the Fernandez-Cóquia-Llamas (FERCOLLA) clan:
 - **Full title**: "The Fercolla Clan: A Genealogy of the Families of Fernandez-Cóquia-Llamas of the City of Dagupan, Philippines"
 - **Author**: Teresita Cóquia Sison
 - **History by**: Armando Cabal Fernandez
-- **Published**: 1st ed. 1985 (107 pages), 2nd ed. 1988
-- **Publisher**: A.C. Fernandez
-- **LCCN**: 86141527
+- **Editions**: 1st ed. 1983 (115 leaves, LCCN 85229111), 2nd ed. 1985 (107 pages, LCCN 86141527), 3rd ed. 1988
+- **Publisher**: T.C. Sison (1983), A.C. Fernandez (1985+)
+- **LCCN**: 86141527 (1985 ed.); 85229111 (1983 ed.)
 - **FamilySearch Catalog**: #2350774
 - **WorldCat OCLC**: #14098003
 - **Google Books ID**: FOd2PAAACAAJ
@@ -156,12 +156,16 @@ Detailed genealogy of the Fernandez-Cóquia-Llamas (FERCOLLA) clan:
 - The Fernandez and Abalos families are closely connected in Dagupan's social/religious/political circles
 - This social proximity may explain the marriage of Bienvenido Fernandez to Aurea Rosario Abalos
 
-## US Records Search (Iteration 1)
+## US Records Search (Iterations 1-3)
 - **CONFIRMED: Bienvenido died in CHICAGO, IL** (per Adrian)
 - This means the family was living in the Chicago area by 1994 at latest
-- Still not found in SSDI or FindAGrave — need to search Cook County death records specifically
-- Chicago had a large Filipino community, especially from Pangasinan
-- **Next searches**: Cook County Clerk death records, Chicago Tribune obituary archives, Illinois Statewide Death Index
+- **Aurea Fernandez confirmed living in Chicago, IL** (Whitepages, Spokeo)
+- Not found in SSDI, FindAGrave, Cook County Probate Docket, or Cook County Will Search
+- **Ancestry Cook County Death Index only covers 1908-1988** — does NOT include 1994
+- **FamilySearch Cook County Deaths 1871-1998** covers 1994 but requires free account login
+- Chicago Sun-Times Obituary Index (1988-1995) and Chicago Tribune Obituary Index (1988-1997) both behind Ancestry paywall
+- **Catholic Cemeteries of Chicago** "Locate a Loved One" tool available (email registration required) — HIGH PRIORITY for Catholic Filipino family
+- Chicago was 5th largest US metro area for Filipino immigrants; large Pangasinan community present
 
 ## Philippine Supreme Court Case — MAJOR FIND (G.R. No. 143868)
 - **Source**: https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/51697
@@ -179,11 +183,27 @@ Detailed genealogy of the Fernandez-Cóquia-Llamas (FERCOLLA) clan:
 - **This confirms the Fernandez family owned fishpond property in Arellano-Bani area of Dagupan**
 - **QUESTION FOR ADRIAN**: Does this Angel Fernandez → Oscar/Gil/Armando branch connect to your grandfather Bienvenido? Were they siblings, cousins, or a different branch?
 
+## Dagupan Cathedral — Key Parish
+- **Full name**: Metropolitan Cathedral Parish of St. John the Evangelist (Dagupan Cathedral)
+- **Location**: Burgos Street, Dagupan City
+- **Cathedral of**: Archdiocese of Lingayen-Dagupan
+- **Founded**: Late 1590s/early 1610s (Augustinian era)
+- **Records on FamilySearch**: 1615-1982 (baptism, confirmation, marriage, burial)
+- Bienvenido and Aurea were almost certainly baptized and married here
+
 ## FamilySearch Record Collections Available
-1. **Pangasinan Civil Registration (Spanish Period)** — 1706-1911 (images, incomplete)
-2. **Philippines Civil Registration (Local)** — 1888-1986 (index + images)
-3. **Philippines Civil Registration (National)** — 1945-1980 (images)
-4. **Philippines Catholic Church Records** — varies by parish
+### Critical Collections (require free FamilySearch account)
+1. **Philippines, Lingayen-Dagupan Catholic Archdiocese Parish Registers, 1615-1982** (#1646454) — baptism/marriage/burial for Dagupan Cathedral and all parishes in the archdiocese
+2. **Illinois, Cook County Deaths, 1871-1998** (#1463134) — should contain Bienvenido's 1994 death record
+3. **Philippines, Pangasinan, Civil Registration, 1945-1981** (#1989160) — civil birth/marriage/death records
+
+### Additional Collections
+4. **Pangasinan Civil Registration (Spanish Period)** — 1706-1911 (images, incomplete)
+5. **Philippines Civil Registration (Local)** — 1888-1986 (index + images)
+6. **Philippines Civil Registration (National)** — 1945-1980 (images)
+7. **Philippines Catholic Church Records** — varies by parish
+8. **Philippines Births and Baptisms, 1642-1994** (#1500711) — partial index
+9. **Philippines Marriages, 1723-1957** (#1500713) — partial index
 
 ## Ancestry.com Leads
 - **Pedro Caguioa Tamondong** — born 14 Jul 1903, Pangasinan (parents: Aniceto Tamondong & Maria Macalanda)
