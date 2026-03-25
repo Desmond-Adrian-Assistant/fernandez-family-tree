@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 15:32 UTC (Iteration 28)
+Last updated: 2026-03-25 18:16 UTC (Iteration 31)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -37,6 +37,74 @@ A complete family tree already exists on FamilySearch, contributed by "John Zand
 - Bienvenido born **22 March 1937** (NOT ~1933)
 - "Rosario" in Aurea's name is her **mother's maiden name** (Filipino naming convention)
 - Burial in **Niles, IL** (Chicago suburb)
+
+## 🔥🔥🔥 Gerona-Bayambang-San Carlos Dominican Ecclesiastical Chain (Iteration 29)
+
+The discovery that Bienvenido was born in **Gerona, Tarlac** (not Pangasinan) is explained by a 400-year ecclesiastical chain:
+
+1. **San Carlos (Binalatongan)** — Dominican vicariate founded 1587
+2. **Bayambang** — visita of San Carlos from 1614, independent vicariate 1619
+3. **Gerona (Paontalon)** — under Bayambang's Dominican jurisdiction from 1704
+
+**Bayambang's official profile confirms**: "Bayambang used to encompass the towns of Alcala and Santo Tomas, Pangasinan and those of **Paniqui, Gerona and Camiling, Tarlac**."
+
+**Gerona's official history confirms**: "The Dominicans placed the Vicar of **Malanguey (now Bayambang, Pangasinan)** is charged with the mission of converting the local inhabitants of 'Paontalon' (original name of Gerona)"
+
+### Why Bienvenido Was Born in Gerona
+- Gerona's first settlers were "Ilocanos and Pangasinenses" — exactly matching the Fernandez-Daquigan family
+- San Carlos is one of the closest cities to Gerona (per PhilAtlas)
+- The road from San Carlos to Gerona passes through Bayambang (where 3 family-surname priests served)
+- **Two Fernandez tenientes del barrio** documented in Gerona barangay histories (Eulalia Fernandez + Exequiel Fernandez)
+- Mariano Fernandez (b. ~1905) likely moved from San Carlos area to Gerona for agricultural land in 1920s-30s
+- **Mariano's 2nd wife Dionicia Capinding** has a distinctly Tarlac surname — confirms he settled in Tarlac
+
+### Bayambang = The Bridge Town
+Bayambang connects everything: original visita of San Carlos (1614), jurisdiction over Gerona, THREE family-surname priests (Fr. Francisco Fernandez 1898-1902, Fr. Agustin Rosario 1916-1920, Fr. Fermin Abalos 1920-1928), and on the direct road from San Carlos to Gerona.
+
+### Tarlac Province Created 1873
+When Tarlac province was carved out in 1873, Gerona was transferred from Pangasinan territory. Records before 1873 are in Pangasinan provincial records. Church records before 1894 (Gerona parish founding) are under Bayambang parish.
+
+## 🔥🔥 Barangay Danzo = Fernandez Territory in Gerona (Iteration 31 — CORRECTION)
+
+Previous iterations incorrectly stated the Fernandez tenientes were in Barangay Don Basilio. **They are in Barangay DANZO.**
+
+### Danzo Key Facts
+- **Name origin:** From "Ransouan, the **Pangasinan name** for a hiding or resting place"
+- **First settlers explicitly from Pangasinan** (official municipal history)
+- **Borders Tagumbao** (Capinding family territory) directly to the west
+- **Two Fernandez tenientes del barrio:** Eulalia Fernandez (4th), Exequiel Fernandez (15th/last listed)
+
+### Danzo-Tagumbao Geographic Cluster
+```
+        Don Basilio (N)
+            |
+Tagumbao (W) — DANZO — Pinasling (E)
+            |
+        Malayep (S)
+```
+- **Danzo:** Fernandez tenientes, founded by Pangasinan settlers
+- **Tagumbao:** Capinding founding family; **Chester S. Capinding** = current Kagawad (2022+)
+- **Don Basilio:** Formerly sitio of Buenlag; became independent 1956
+
+### Significance
+Mariano Fernandez (b. ~1905, San Carlos) migrated to Gerona's Danzo area, settling among fellow Pangasinan migrants. His 2nd wife Dionicia Capinding (b. 1906) was from the founding political family of adjacent Tagumbao. This was a marriage between **neighboring barrio elites** — the same principalía intermarriage pattern seen in San Carlos/Pangasinan.
+
+### Rev. Fr. Christian Ian A. Fernandez — Fernandez Priest in Diocese of Tarlac
+- Serves at Rizal Pastoral Station (F-2018), Brgy. Rizal, La Paz, Tarlac
+- Part of the **Vicariate of St. Catherine of Alexandria** (covers Gerona)
+- **Second** Fernandez priest in family's territory (alongside Fr. Joseph T. Fernandez in Lingayen-Dagupan)
+
+### St. Catherine of Alexandria Parish — Gerona Record Source
+- **Founded:** 1894
+- **Diocese:** Tarlac (records NOT digitized on FamilySearch — need physical contact)
+- Bienvenido's 1937 baptism record would be here
+- Pre-1894 records under Bayambang parish (Pangasinan)
+
+## Niles, Illinois — Burial Location (Iteration 29)
+
+- Two Catholic cemeteries in Niles: **Maryhill Catholic Cemetery** (8600 Milwaukee Ave, 251 acres, 63K+ interments) and **St. Adalbert Catholic Cemetery**
+- FindAGrave search for Bienvenido Fernandez at Maryhill = NEGATIVE (not yet cataloged)
+- Catholic Cemeteries of Chicago "Locate a Loved One" tool (catholiccemeterieschicago.org) is the best path to find the exact grave
 
 ## Confirmed Facts
 - Family has connections to both **Tarlac** (Fernandez-Daquigan) and **Pangasinan** (Abalos-Rosario, Tamondong)
