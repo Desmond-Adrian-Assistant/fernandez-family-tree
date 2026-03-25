@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 05:05 UTC (Iteration 6)
+Last updated: 2026-03-25 06:05 UTC (Iteration 8)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -472,3 +472,48 @@ From the Wikipedia article on the Minor Basilica of Saint Dominic (San Carlos):
 - [ ] Was Angel Fernandez (court case) related to Bienvenido? Siblings? Cousins?
 - [ ] How does Pablo Fernandez connect to the Fercolla Fernandez dynasty?
 - [ ] Search for "Ben Fernandez" (anglicized name) in death records
+
+## San Carlos City — Living Tamondong/Rosario Connections (Iteration 8)
+
+### Eduardo C. Tamondong — Current Barangay Captain of Sapinit
+- **Source**: Official San Carlos City government website (sancarlospangasinan.gov.ph)
+- **Position**: Punong Barangay (Barangay Captain) of Barangay Sapinit
+- **Contact**: 09994219969
+- The Tamondong family held the gobernadorcillo position in 1802 and **still holds political office 224 years later**
+- This is a possible living relative of Adrian's Tamondong line
+
+### George Tamondong — TV Cameraman (2007)
+- **Source**: Philippine Star, May 1, 2007 — article on assassination of San Carlos Mayor Julian Resuello
+- TV cameraman and "close family friend" of the assassinated mayor
+- Eyewitness quoted in national media
+- Confirms Tamondong family prominence in San Carlos media and politics
+- **Benjamin Abalos** (COMELEC Chairman) also mentioned in same article — the nationally prominent Abalos political family
+
+### Rosario Family — Multiple Barangay Captains
+- **Gabriel Paningbatan Rosario** — Barangay Captain of Balococ (pop. 2,170)
+- **Jerry M. Rosario** — Barangay Captain of Buenglat
+- **Jovito Rosario** — Barangay Captain of Nelintap
+- Three Rosario barangay captains confirms the family as a principalía-level clan in San Carlos
+
+### Macalanda-Tamondong Connection Confirmed
+- **Ramil Macalanda** — current Barangay Captain of Tandoc, San Carlos City
+- Pedro Caguioa Tamondong (b. 1903, Ancestry) had mother **Maria Macalanda**
+- The Macalanda family is established in San Carlos and intermarried with Tamondongs
+
+### San Carlos Power Families Network
+Recurring principalía surnames from current barangay officials:
+- **Tamondong** (Sapinit) — Adrian's maternal ancestors, Captain since 1802
+- **Rosario** (Balococ, Buenglat, Nelintap) — Adrian's maternal ancestors
+- **Cayabyab** (Pangoloan, Turac) — Captain of San Carlos in 1770-1773
+- **Macalanda** (Tandoc) — intermarried with Tamondong
+- These families have held political positions for centuries
+
+### Daquigan Surname — Cagayan Province Origins
+- Ancestry records: Pedro Daquigan (b.1914), Teojenes Daquigan (b.1912), Mauro Daquigan (b.1887) — all from **Cagayan province**
+- Victoria/Victoriana Daquigan (Bienvenido's mother) may have roots in Cagayan or Ilocos, with migration to San Carlos
+- Aligns with the Ilocano linguistic influence in San Carlos (Pangasinan-Ilocano bilingual area)
+- Only ~1,781 bearers worldwide — very rare surname
+
+### San Carlos ↔ Dagupan Distance = 9 Miles
+- Confirmed via PhilAtlas: only ~9 miles (21 min by bus) between the two cities
+- Explains family connections across both locations

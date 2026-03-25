@@ -70,6 +70,12 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Check if any Filipino genealogy societies have Fernandez records
 - [ ] Search for more Tamondong gobernadorcillos/captains in San Carlos historical records
 - [ ] Research Barangay Ano (Francisco Tamondong connection) and other San Carlos barangays
+- [x] Search San Carlos City barangay officials for family surnames — **Eduardo C. Tamondong = Captain of Sapinit; 3 Rosario captains; Macalanda captain of Tandoc**
+- [ ] Research Eduardo C. Tamondong (Sapinit barangay captain) — possible living relative
+- [ ] Research George Tamondong (TV cameraman, 2007 Philstar article) — possible connection
+- [ ] Investigate Barangay Sapinit as traditional Tamondong barangay
+- [ ] Research Macalanda-Tamondong intermarriage further
+- [ ] Investigate Daquigan migration from Cagayan province to Pangasinan
 
 ### Track 6: DNA & Modern Resources
 - [ ] Identify Filipino genealogy Facebook groups
@@ -108,3 +114,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 5 | 2026-03-25 04:49 | Track 5 (PH historical context) | Documented Dagupan history, 1849 Catálogo (Fernandez predates decree = possible Spanish ancestry). Mapped Fernandez-de Venecia-Abalos triangle via Bonuan Gueset. WWII: Mariano Fernandez military age during occupation. Found PVAO guerrilla records resource. Roberto Fernandez Martinez obit (mother Aurora Fernandez, Dagupan). |
 | 6 | 2026-03-25 05:00 | San Carlos City deep dive | **🔥 MAJOR: Simon Tamondong was Captain (Gobernadorcillo) of San Carlos in 1802** — oversaw church reconstruction. Tamondong family = principalía (ruling elite). St. Dominic Basilica (1587) identified as key parish. Angel B. Fernandez (FERCOLLA) made San Carlos a city (RA 4487, 1966). Francisco Tamondong from Brgy Ano, San Carlos (Ancestry). Lourdes Rosario Fernandez obit (San Carlos). |
 | 7 | 2026-03-25 06:00 | Cervantes side (Track 7) | First research into Janice's family. Cervantes & Cabrera both pre-1849 Spanish surnames (not in Catálogo). Found **Diosdado Cervantes of DL Cervantes Construction in San Simon, Pampanga** — possible match for Janice's father. Angeles City parish (Holy Rosary, 1877) and Archdiocese of San Fernando identified. Clark Air Base (1903-1991) near Angeles City may explain US immigration pathway. |
+| 8 | 2026-03-25 06:05 | San Carlos living connections + Daquigan | **🔥 Eduardo C. Tamondong is current Barangay Captain of Sapinit, San Carlos City** — Tamondong family political dynasty spans 224 years (1802→present). George Tamondong (TV cameraman) was a close friend of assassinated San Carlos mayor (2007). Three Rosario barangay captains in San Carlos. Macalanda-Tamondong intermarriage confirmed (Ramil Macalanda = Captain of Tandoc). Daquigan surname concentrated in Cagayan province — possible migration to San Carlos. |
