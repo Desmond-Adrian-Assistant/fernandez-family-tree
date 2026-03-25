@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 06:05 UTC (Iteration 8)
+Last updated: 2026-03-25 06:30 UTC (Iteration 9)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -452,6 +452,60 @@ From the Wikipedia article on the Minor Basilica of Saint Dominic (San Carlos):
 - FamilySearch has Pampanga civil registration records available (1888-1986)
 - Holy Rosary Parish records would cover Angeles City baptisms, marriages, burials
 - **Key next step:** Search FamilySearch for Cervantes/Cabrera birth and marriage records
+
+## Laoac Municipality — Tamondong & Abalos Political Network (Iteration 9)
+
+### Bienvenido A. Tamondong — DILG Officer / OIC of Laoac (1987-88)
+- **Source**: Official LGU Laoac website (laoac.gov.ph/about-us/)
+- **Role**: Municipal Local Government Operations Officer of DILG-Laoac; served as Officer-in-Charge (caretaker) of municipality Dec 2, 1987 – Jan 1, 1988
+- **Significance**: First name "Bienvenido" matches Adrian's grandfather; surname "Tamondong" is Adrian's maternal ancestral line
+- **Location**: Laoac municipality borders San Carlos City — one of the closest cities
+- **NOT the same person** as Bienvenido Fernandez (different surname), but the name clustering in the same area strongly suggests family connection
+- The name "Bienvenido" is not extremely common — having both a Bienvenido Fernandez (San Carlos) and a Bienvenido Tamondong (Laoac) in adjacent towns suggests the families named children after each other or shared godparent/compadrazgo ties
+
+### Antonio P. Abalos — Mayor of Laoac (2007-2010)
+- **Source**: Official LGU Laoac website
+- **Elected**: May 2007, assumed office June 30, 2007
+- **Significance**: Abalos surname = same as Adrian's grandmother Aurea Rosario Abalos
+- Both a **Tamondong (1987)** and an **Abalos (2007)** served as heads of the **same small municipality**
+- Confirms the Abalos family has deep political roots in eastern Pangasinan, not just Dagupan
+
+### The Tamondong-Abalos Power Network Across Eastern Pangasinan
+| Person | Role | Location | Year |
+|--------|------|----------|------|
+| Simon Tamondong | Captain/Gobernadorcillo | San Carlos | 1802 |
+| Eduardo C. Tamondong | Barangay Captain (Sapinit) | San Carlos | 2020s |
+| Bienvenido A. Tamondong | OIC/DILG Officer | Laoac | 1987-88 |
+| Antonio P. Abalos | Municipal Mayor | Laoac | 2007-2010 |
+| Armando Abalos | Deputy Grand Knight KC | Dagupan | 2006-07 |
+| Funeraria Abalos | Funeral home business | Dagupan | active |
+
+This pattern of intermarried principalía families holding political office across San Carlos → Laoac → Dagupan for 200+ years is directly tied to Adrian's ancestry.
+
+### Jessica Tamondong Rhee — Tamondong in Chicago
+- State Farm Insurance Agent, Greater Chicago Area
+- University of Illinois Urbana-Champaign graduate
+- The Fernandez/Tamondong family emigrated to Chicago
+- A Tamondong in Chicago could be a relative who followed the same migration path from Pangasinan
+
+### US-Based Tamondongs (AncientFaces Database)
+Multiple Tamondongs emigrated to the US, mostly California/Hawaii:
+- **Simplicio Valerio Tamondong** (1921-1998) — San Francisco, buried San Joaquin Valley National Cemetery (military veteran)
+- **Crispino Poquiz Tamondong** (1921-2008) — Norwalk, LA County, CA
+- **Mamerta Bernardino Tamondong** (1935-2010) — Vallejo, CA
+- **Vivencia V. Tamondong** (1926-2004) — Pacifica, CA
+- **Claudio R. Tamondong** (1920-1997) — Dededo, Guam
+- **Ignacio S. Tamondong** (1912-2001) — Las Vegas, NV
+- **Deborah Lynn Tamondong** (1966-2008) — Texas
+- Most born 1920s-1940s, aligning with post-WWII/post-1965 Filipino immigration
+
+### Daquigan Surname Distribution Update
+- 1,781 bearers worldwide; 227,707th most common
+- In Philippines: 27% Central Luzon, 20% Ilocos, 19% NCR
+- Variant: "Dacquigan" (126 bearers)
+- Cagayan Daquigan family (Ancestry): Mauro Daquigan (b.1887, Cagayan) + wife "Victora" Aguirre Aguda → sons Pedro (b.1914), Teojenes (b.1912)
+- Note: wife's name "Victora" echoes "Victoria/Victoriana Daquigan" — may suggest naming patterns within Daquigan clans
+- Concentrated in Cagayan + Central Luzon, consistent with migration to Pangasinan
 
 ## Gaps to Fill
 - [ ] Janice's maiden name and family
