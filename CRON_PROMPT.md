@@ -27,7 +27,11 @@ You are running an automated research iteration for the Fernandez family tree pr
 
 ## Family Details for Reference
 - **Bienvenido Fernandez** (1933-1994) married **Aurea Rosario Abalos** (~1936)
-- From **Dagupan City, Pangasinan, Philippines**
+- From **San Carlos City, Pangasinan, Philippines** (confirmed via marriage record — NOT Dagupan)
+- Marriage record found: Dec 16, 1963, San Carlos City. FamilySearch ARK: /ark:/61903/1:1:6B7K-YPD6
+- FamilySearch account created: username Adrian26448 (via Google/adrianfernandezassistant@gmail.com)
+- PRIORITY: Search San Carlos City church & civil records for siblings, earlier generations
+- Dagupan connection is secondary — Cathy Fernandez and Edmalyn Villamayor (Facebook relatives) are in Dagupan area
 - **Bienvenido died in CHICAGO, IL** — search Cook County death records, Illinois death index, Chicago Tribune obituaries
 - Philippine Supreme Court case G.R. No. 143868 reveals Fernandez fishpond property in Arellano-Bani, Dagupan (Angel Fernandez + siblings Antonio, Santiago, Demetria, Armando). Angel married Corazon Cabal. His son Armando Cabal Fernandez co-authored the Fercolla book.
 - Son **Raul Fernandez** married **Janice**, has kids Adrian, Kristine, Kiana
