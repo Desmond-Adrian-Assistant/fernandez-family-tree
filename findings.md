@@ -273,12 +273,30 @@ Multiple family connections converge on the **Arellano-Bani** area of Dagupan Ci
 - Note: Philippine eLib catalogs it as "Percolla" (likely OCR error)
 
 ## Chicago Filipino Immigration Context
-- Filipino population in Chicago metro: 9,497 (1970) → 41,283 (1980) → 95,298 (2000)
+- Filipino population in Chicago metro: 9,497 (1970) → 41,283 (1980) → 95,298 (2000) → 100,338 (2000 census)
 - Post-1965 Immigration Act enabled massive wave of Filipino professionals (nurses, physicians)
 - Family reunification became dominant pathway over time
 - Filipino American Council of Chicago (FACC) — umbrella org since late 1940s
-- Rizal Memorial Center (1332 W Irving Park Rd) — main Filipino gathering place
+- Rizal Memorial Center (1332 W Irving Park Rd) — main Filipino gathering place since 1974
 - The Fernandez family likely arrived in Chicago in the 1970s-1980s as part of this wave
+
+### Three Waves of Filipino Immigration to Chicago (WBEZ 2025)
+1. **Pensionados (1903+)**: Wealthy young men on U.S. government scholarships → Hyde Park, South Side
+2. **Workers (1920s-30s)**: Service workers, Pullman porters → McKinley Park, Bridgeport, Archer Heights
+3. **Professionals (post-1965)**: Nurses, skilled workers → Edgewater, Lincoln Square, Albany Park, northern suburbs
+- Source: WBEZ "Is there a Filipino neighborhood in Chicago?" (Feb 2025)
+
+### Key Chicago Filipino Organizations
+- **FAHSC** (Filipino American Historical Society of Chicago) — est. 1986, Hyde Park. May have immigration records/photos.
+- **Filipino American Council of Greater Chicago** — Tito Jerry Clarito, chairman (arrived 1980)
+- **PACF** (Philippine American Cultural Foundation) — est. 1996, Midwest-wide
+- **MAFA** (Midwest Association of Filipino Americans) — umbrella org for Midwest Filipino groups
+
+### Umingan Association of North America (UANA)
+- Based in Las Vegas, NV
+- Awards "Most Outstanding Citizen of Umingan" — confirms active Umingan diaspora
+- Relevant because Barangay Don Justo Abalos is in Umingan
+- May have Abalos family records/contacts
 
 ## Ancestor Pair Search Results (All Negative — Iteration 3)
 None of the following great-great-grandparent pairs returned any online results:
@@ -499,10 +517,13 @@ Multiple Tamondongs emigrated to the US, mostly California/Hawaii:
 - **Deborah Lynn Tamondong** (1966-2008) — Texas
 - Most born 1920s-1940s, aligning with post-WWII/post-1965 Filipino immigration
 
-### Daquigan Surname Distribution Update
-- 1,781 bearers worldwide; 227,707th most common
-- In Philippines: 27% Central Luzon, 20% Ilocos, 19% NCR
-- Variant: "Dacquigan" (126 bearers)
+### Daquigan Surname Distribution — Deep Analysis
+- **1,688 bearers in Philippines** (1 in 59,975 people); 1,781 worldwide; 227,707th most common globally
+- In Philippines: **27% Central Luzon, 20% Ilocos Region, 19% NCR**
+- Variant: "Dacquigan" (126 bearers), "Dacugan" (30), "Daquegan" (9), "Daguigan" (2)
+- **NOT found in 1849 Catálogo de Apellidos** searchable lists — likely indigenous/Ilocano surname
+- **Etymology unknown** — Forebears lists no meaning, but Ilocos Region concentration suggests Ilocano origin
+- **US Daquigans**: 67 bearers in USA; 76.47% registered Democrats; earn $64,695/yr (49.93% above avg)
 - Cagayan Daquigan family (Ancestry): Mauro Daquigan (b.1887, Cagayan) + wife "Victora" Aguirre Aguda → sons Pedro (b.1914), Teojenes (b.1912)
 - Note: wife's name "Victora" echoes "Victoria/Victoriana Daquigan" — may suggest naming patterns within Daquigan clans
 - Concentrated in Cagayan + Central Luzon, consistent with migration to Pangasinan
@@ -577,10 +598,13 @@ Comprehensive listing spans 1895-2008. Key patterns:
 
 ## San Carlos City — Living Tamondong/Rosario Connections (Iteration 8)
 
-### Eduardo C. Tamondong — Current Barangay Captain of Sapinit
-- **Source**: Official San Carlos City government website (sancarlospangasinan.gov.ph)
+### Eduardo Corpuz Tamondong — Current Barangay Captain of Sapinit
+- **Source**: Official San Carlos City government website + zamboanga.com barangay database
+- **Full name**: Eduardo **Corpuz** Tamondong — the "C." middle initial = **Corpuz** (mother's maiden name)
 - **Position**: Punong Barangay (Barangay Captain) of Barangay Sapinit
 - **Contact**: 09994219969
+- **Corpuz** is a common Ilocano surname (from Latin "corpus" = body), strongly associated with Ilocos Region
+- Corpuz-Tamondong intermarriage confirms continued connection to Ilocano families
 - The Tamondong family held the gobernadorcillo position in 1802 and **still holds political office 224 years later**
 - This is a possible living relative of Adrian's Tamondong line
 
@@ -969,9 +993,13 @@ Source: PeoPlaid, Pangasinan provincial government website
 - PFP swept 9 of 10 council seats — FERCOLLA dynasty effectively ousted from Dagupan council
 
 ### Jorge Tamondong — 2022 4th District Board Member Results
-- Ran under PGRP, received only **837 votes** (last of 9 candidates)
+- Ran under **PGRP** (Partido ng Ginintuang Rebolusyon ng Pilipinas — former Marcos-era party)
+- Received only **837 votes** — last of 9 candidates
+- Full results: De Guzman 80,658 / Rosario 53,848 / Gubatan 51,723 / Abalos 45,943 / Bautista 26,272 / Libunao 22,362 / Marcella Jr. 2,536 / Tecson 2,168 / Tamondong 837
 - Did not run again in 2025
-- Minor party candidacy, but Tamondong surname on provincial ballot confirms continued political awareness
+- **No biographical information found online** — extremely limited digital footprint
+- Minor/symbolic candidacy, but Tamondong surname on provincial ballot confirms continued political awareness
+- Research status: EFFECTIVELY EXHAUSTED without direct contact
 
 ### Dynasty Power Tracker (2025 vs 2022)
 | Dynasty | Trend | Notes |

@@ -71,7 +71,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Search for more Tamondong gobernadorcillos/captains in San Carlos historical records
 - [ ] Research Barangay Ano (Francisco Tamondong connection) and other San Carlos barangays
 - [x] Search San Carlos City barangay officials for family surnames — **Eduardo C. Tamondong = Captain of Sapinit; 3 Rosario captains; Macalanda captain of Tandoc**
-- [ ] Research Eduardo C. Tamondong (Sapinit barangay captain) — possible living relative
+- [x] Research Eduardo C. Tamondong (Sapinit barangay captain) — **Full name: Eduardo CORPUZ Tamondong. "C." = Corpuz (mother's maiden name). Contact: 09994219969. Possible living relative.**
 - [ ] Research George Tamondong (TV cameraman, 2007 Philstar article) — possible connection
 - [ ] Investigate Barangay Sapinit as traditional Tamondong barangay
 - [ ] Research Macalanda-Tamondong intermarriage further
@@ -125,7 +125,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [x] Research Fr. Agustin Rosario (Bayambang, 1916-1920) — **No additional records online.**
 - [ ] Investigate Jose F. Fernandez (San Carlos City Councilor, 1976-79) — relationship to Bienvenido?
 - [ ] Research Rev. Fr. Joseph T. Fernandez (living, Dagupan Cathedral) — potential contact for family history; may know Fernandez family connections
-- [ ] Research Jorge Tamondong (PGRP candidate, 2022 4th District election) — which town? Family?
+- [x] Research Jorge Tamondong (PGRP candidate, 2022 4th District election) — **837 votes (last of 9), PGRP party, no biographical info online. Minimal digital footprint.**
 - [ ] Research Ritchie de Guzman Abalos (NPC candidate, 2022 4th District) — which municipality?
 - [ ] Research "Doc Jerry" Rosario (PDP-Laban candidate, 2022 4th District) — which municipality?
 - [x] Research the elder Hilario Tamondong (b. 1935, wife Flora) — **Children include: Dr. Hilario Jr. (pulmonologist), Jessie, Raulito, Lesley/Leslie, Lanie, Lizbeth (married into BANAAG family). Hilario Jr. married Ludivina Saberon (Cebu, UST Nursing 1958, d. 2023). Saint Columba Catholic Church (US).**
@@ -159,6 +159,11 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Identify which San Carlos barangay Bienvenido's family lived in
 - [x] Document NARA SF-180 guerrilla record request process — **Documented: eVetRecs or mail to St. Louis, MO; requires death cert + proof of relationship**
 - [ ] Ask Adrian: Should Raul submit SF-180 to NARA for Mariano Fernandez WWII records?
+- [ ] Research Corpuz-Tamondong intermarriage — Ilocano surname pattern
+- [ ] Contact UANA (Umingan Association of North America, Las Vegas) for Don Justo Abalos family history
+- [ ] Contact FAHSC (Filipino American Historical Society of Chicago) for Fernandez/Tamondong immigration records
+- [ ] Search Chicago PCG FilCom directory for Pangasinan-specific associations
+- [ ] Research Don Emilio Padlan (first mayor of San Carlos) — principalía connections
 
 ## Iteration Log
 | # | Time | Focus | Key Finding |
@@ -183,3 +188,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 16 | 2026-03-25 10:00 | Manaoag-Laoac-Rosario network + Tamondong intermarriage | **🔥 Doc Jerry Rosario's "B." = BAUTISTA. Born Manaoag 1965, UST MD 1989, now MAYOR of Manaoag + Board Member.** **🔥 Laoac was carved from Manaoag (RA 6485, 1972)** — Tamondong/Abalos families in Laoac were originally Manaoag families. **Lizbeth Hilario Tamondong married into BANAAG family** — Tamondong-Banaag principalía intermarriage confirmed. Dr. Hilario Tamondong Jr. (pulmonologist) confirmed as elder Hilario's son. Dominican corridor: Manaoag (Our Lady of Rosary, 1600) ↔ San Carlos (St. Dominic, 1587). |
 | 17 | 2026-03-25 10:18 | Umingan deep dive + Don Justo Abalos + Abalos surname | **🔥 Umingan founded by settlers from MANGALDAN** (Abalos political stronghold) — confirms Mangaldan→Umingan Abalos migration path. Two Fernandez councilors in Umingan (Fred A. + Siann Liandro M.). Adjacent barangays "Don Justo Abalos" (formerly Caroan) and "Don Montano" (formerly Cadamortisan) both named after principalía patriarchs. **Abalos surname = Spanish-Sephardic origin from Ábalos village, La Rioja, Spain** (listed in "Sangre Judia"). 31,719 bearers in PH; 29% in Ilocos Region. |
 | 18 | 2026-03-25 10:38 | San Carlos barangay power map + NARA process + Soriano 3rd gen | **Complete analysis of all 86 San Carlos barangay captains**: 3 Rosario, 2 Cayabyab, 2 Soriano, 1 Tamondong, 1 Macalanda — but **ZERO Fernandez, ZERO Abalos**. Fernandez political absence in San Carlos suggests family was non-political or came through Tamondong line. **Lance Douglas U. Soriano** confirmed as 3rd-gen Jack Soriano grandson (Brgy Perez Blvd). NARA SF-180 process documented for Mariano Fernandez guerrilla records. Brian Poe (FPJ grandson) took oath in San Carlos June 2025. |
+| 19 | 2026-03-25 11:08 | Eduardo Tamondong full name + Jorge Tamondong + Daquigan + Chicago context | **Eduardo CORPUZ Tamondong** — "C." confirmed as Corpuz (mother's maiden name), Ilocano surname. Jorge Tamondong received 837 votes (last place) in 2022 PGRP candidacy, no bio info available. Chicago Filipino 3-wave immigration documented (WBEZ). UANA (Umingan Association) confirmed in Las Vegas. All ancestor name searches still hitting zero results — physical records needed. Jose F. Fernandez (1976-79 councilor) not findable online. |
