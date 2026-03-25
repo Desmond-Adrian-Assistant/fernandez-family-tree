@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 18:25 UTC (Iteration 32)
+Last updated: 2026-03-25 18:40 UTC (Iteration 33)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -120,6 +120,81 @@ The neighboring barangay Pinasling was founded by settlers from **San Nicolas, I
 
 ### USAFFE 21st Division Retreat Through Gerona
 Barangay Calayaan documents the 23rd Regiment, 21st Division USAFFE retreat through Gerona under Col. Liberato Littawa — confirming Gerona was a WWII combat zone that Mariano Fernandez (b. ~1905) experienced directly.
+
+## 🔥🔥🔥 Daquigan Political Dynasty in Gerona, Tarlac (Iteration 33)
+
+The Daquigan surname — Bienvenido's mother Victoria Daquigan's family — is a **political dynasty in Gerona, Tarlac**, the exact town where Bienvenido was born in 1937.
+
+### Ronjie Daquigan — Former Vice Mayor, Current Municipal Councilor
+- **Position:** Former Vice Mayor of Gerona → Municipal Councilor (NPC)
+- **Education:** University of the East, Gerona Institute Inc.
+- **Profession:** Publisher, Editor-in-Chief (media practitioner)
+- **2009:** Vice Mayor alongside Mayor Dennis Go
+- **2022 election:** Won councilor seat — 23,705 votes
+- **2025 election:** Won councilor seat — 17,304 votes (8th/last winning)
+- **Active in law enforcement:** Helped solve 2023 double murder case
+
+### Christian P. Daquigan — Acting Director, Bureau of Animal Industry (National Government)
+- **Position:** Acting BAI Director (Dept. of Agriculture) — June 2025
+- **Previous:** Chief, National Veterinary Quarantine Services Division (Feb 2024)
+- **Before government:** Poultry Specialist at Sunjin Philippines Corp.
+- **Profession:** Veterinarian
+- **From:** Gerona, Tarlac → lives in Muñoz, Nueva Ecija
+- **Wife:** Margaret Buenaventura Daquigan
+- **In 2026 Philippine Government Directory** (DBM listing)
+
+### Norman Daquigan — 2025 Councilor Candidate
+- **2025 election:** Ran under PFP — 14,944 votes (10th place, lost)
+- Relationship to Ronjie/Christian unknown — likely brother/cousin
+
+### Danzo Barrio Families ALL Active in Modern Gerona Elections (2025)
+| Historical Family (Danzo tenientes) | 2025 Candidate | Result |
+|---|---|---|
+| Arciaga (Danzo founders) | ARCIAGA, SIR CASIE (IND) | 10,218 (lost) |
+| Tabago (3rd teniente) | TABAGO, ARTURO (IND) — ran Mayor 2022 | 527 (lost) |
+| Capinding (Tagumbao founders) | NOOL, SER DAVE CAPINDING (PFP) | 8,815 (lost) |
+| Daquigan (Victoria's family) | DAQUIGAN RONJIE (NPC) + DAQUIGAN NORMAN (PFP) | 17,304 (won) / 14,944 (lost) |
+| Fernandez (Danzo tenientes) | None | Emigrated |
+
+### Significance
+- Daquigan surname has only ~1,781 bearers worldwide — Ronjie/Christian are almost certainly relatives of Victoria Daquigan
+- The Daquigan family represents a LOCAL political dynasty (Vice Mayor + national BAI Director) separate from the San Carlos principalía network
+- **The Fernandez family emigrated; the Daquigan family stayed and built political power in Gerona**
+- Christian Daquigan's veterinary/agriculture career connects to Gerona's farming economy
+- Ronjie Daquigan (media professional + politician) would be an excellent contact for family history
+
+### Gerona Civil Registration Contact
+- **Civil Registrar:** Joselito T. Enriquez
+- **Email:** lcro@geronatarlac.gov.ph
+- **Key record needed:** Bienvenido's 1937 birth certificate
+
+## 🔥🔥 Eclar Dynasty + 2025 Gerona Complete Election Map (Iteration 35)
+
+### Eclar Dynasty: Husband-Wife Mayor/VP Swap
+- **Engr. Eloy Castillo Eclar** — BS Civil Engineering (St. Louis University, Baguio). Municipal Engineer ~1990. NPC. Mayor 2019-2025 (2 terms). Hit 3-term limit → ran for VP in 2025.
+- **May Batenga Eclar, Ph.D.** — Wife. Won Mayor 2025 (30,836 vs Nonoy Go 22,842). Eloy won VP (39,858 vs Atty. Manny Gragasin 13,170).
+- **Doc Gerry Batenga** (PFP, 12,406, lost councilor) — shares May's maiden name, likely relative.
+- Eclar compound visible from TPLEx highway. Family spans Gerona (Tarlac) + San Manuel (Isabela).
+
+### ALL Danzo Founding Families in 2025 Election — Except Fernandez
+| Family | Barangay Origin | 2025 Candidate(s) | Result |
+|--------|----------------|-------------------|--------|
+| Arciaga | Danzo (founder, multiple tenientes) | Sir Casie Arciaga (IND) | 10,218 (lost) |
+| Capinding | Tagumbao (founders) | Nool, Ser Dave Capinding (PFP) | 8,815 (lost) |
+| Daquigan | Gerona-wide (Victoria's family) | Ronjie Daquigan (NPC) + Norman Daquigan (PFP) | 17,304 (WON 3rd term) / 14,944 (lost) |
+| Tabago | Danzo (3rd teniente) | Arturo Tabago (ran Mayor 2022) | Lost |
+| Acob | Old Gerona family | Alfred Acob Jr. (NPC) | 23,269 (WON) |
+| **Fernandez** | **Danzo (2 tenientes)** | **NONE ON ANY BALLOT** | **Emigrated** |
+
+### Ortiz-Arciaga-Simeon-Acob Intermarriage Network (bonarae.net)
+The Ortiz family tree (bonarae.net) documents Gerona families back to 1841:
+- **Eulalia Ortiz Novesteras** (1914-1992) married **Pedro Arciaga Simeon** (1910-1982), son of Segundo Simeon + **Nicolasa Arciaga**
+- **Carolina Acob Simeon** (1905-1989) married Buenaventura Ortiz (1895-1985) — Acob = old Gerona family (Alfred Acob Jr. = 2025 winning councilor)
+- Multiple Ortiz/Arciaga emigrated to California (San Mateo County, Daly City) — same US emigration pattern as Fernandez to Chicago
+- Ortiz tree maintainer has deep Gerona parish records — **potential contact for Fernandez records**
+
+### NPC Dominance in Gerona (2025)
+NPC swept: Mayor (May Eclar), VP (Eloy Eclar), 6 of 8 councilors. Only PFP winner: Yamoyam. Parallels NPC strength in Pangasinan.
 
 ## Niles, Illinois — Burial Location (Iteration 29)
 

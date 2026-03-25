@@ -145,7 +145,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Research George Calugay (San Carlos councilor) — Calugay/Calugay surname connection
 - [ ] Investigate FERCOLLA dynasty collapse — Alfie Fernandez + Alvin Coquia both lost 2025 Dagupan council
 - [ ] Research Jose Recardo R. Rosario (Manaoag Municipal Councilor) — related to Doc Jerry? What does "R." stand for?
-- [ ] Investigate Manaoag-Laoac family ties — which Tamondong/Abalos barrios went to Laoac in 1972?
+- [x] Investigate Manaoag-Laoac family ties — which Tamondong/Abalos barrios went to Laoac in 1972? — **Complete Laoac barangay power map: Soriano captain (Anis), Rebugio dominates (2 captains), Perez captain (Cabilaoan West). ZERO Tamondong/Abalos/Fernandez captains. Eslao Jr succeeded assassinated father.**
 - [ ] Research the "Rosario" surname origin in Manaoag — connection to Our Lady of the Rosary basilica?
 - [ ] Investigate Lizbeth Hilario Tamondong Banaag — which Banaag branch? Same as Jun Banaag (San Carlos councilor)?
 - [x] Research Mangaldan → Umingan migration path for Abalos families — **CONFIRMED: Umingan founded by settlers from Mangaldan (Abalos stronghold). Brgy Don Justo Abalos named after principalía Abalos patriarch. Two Fernandez councilors currently in Umingan (Fred A. + Siann Liandro M.).**
@@ -154,7 +154,10 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Research Siann Liandro M. Fernandez (Umingan 2025 councilor) — connection to San Carlos/Dagupan?
 - [ ] Investigate Mangaldan church records for Abalos baptisms (Abalos → Umingan pipeline)
 - [ ] Research Jose R. Soriano (Barangay Captain of Cacaritan) — what Soriano branch?
-- [ ] Investigate why Fernandez surname is absent from all 86 San Carlos barangay captaincies
+- [x] Investigate why Fernandez surname is absent from all 86 San Carlos barangay captaincies — **Pattern confirmed in BOTH San Carlos (86 captains) AND Gerona (2025 election): ALL other Danzo founding families (Arciaga, Capinding, Daquigan, Tabago, Acob) ran candidates. Only Fernandez is absent from both locations. Family fully emigrated.**
+- [ ] Contact bonarae.net Ortiz family tree maintainer — has deep Gerona parish records, may know Fernandez/Arciaga/Daquigan families
+- [ ] Research Sir Casie Arciaga (2025 independent councilor candidate, 10,218 votes) — which Arciaga branch? Connection to Ignacio Arciaga (Danzo founder)?
+- [ ] Research "Doc Gerry Batenga" (May Eclar's family?) — Batenga surname distribution in Tarlac
 - [ ] Research Paningbatan-Rosario intermarriage (Juan C. Paningbatan + Gabriel Paningbatan Rosario)
 - [ ] Identify which San Carlos barangay Bienvenido's family lived in
 - [x] Document NARA SF-180 guerrilla record request process — **Documented: eVetRecs or mail to St. Louis, MO; requires death cert + proof of relationship**
@@ -169,7 +172,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Investigate Nellie Cabrera Buscaino (Poblacion Laoac Kagawad) — Cabrera surname connection to Pampanga?
 - [ ] Research Frederick Abalos (Balococ, Lingayen captain, killed 2021) — which Abalos branch?
 - [x] Map Laoac 2022-2025 officials for family surnames — **No Tamondong/Fernandez/Rosario on council. One Abalos (Regine, SK Chair). One Tabayoyong (Chato/Charito). Soriano added 2025 (Faustino Q. Soriano Jr.).**
-- [ ] Research Faustino Q. Soriano Jr. (2025 Laoac councilor) — which Soriano branch? Connected to San Carlos Sorianos?
+- [x] Research Faustino Q. Soriano Jr. (2025 Laoac councilor) — which Soriano branch? Connected to San Carlos Sorianos? — **Soriano PREDATES 2025 in Laoac: Jovito Quevedo Soriano = Captain of Anis (2018-2023 term). Soriano confirmed across San Carlos, Manaoag, and Laoac.**
 - [x] Research Soriano-Cayabyab intermarriage — **🔥 Engr. Jaime SORIANO Cayabyab confirmed as Cayabyab by father, Soriano by mother — "cousins with the Sorianos" per Reddit r/Pangasinan 2025. All 11 principalía families now documented as intermarried.**
 - [x] Research Florentino Balerio Tamondong Sr. (Rosales, Pangasinan → Hawaii) — **Died 2017 age 93. Wife Victoria, sons Conrad + Nick. Father Liborio Sr. Worked Dole Plantation Whitmore Village. Rosales branch, separate from San Carlos line.**
 - [ ] Research Liborio Tamondong Sr. (Rosales) — father of Florentino, connection to Valeriano Tamondong (Mapandan founder 1887)?
@@ -195,7 +198,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [x] Chester S. Capinding = current Kagawad 5 of Tagumbao — **Capinding political dynasty continues ~90 years later**
 - [ ] Research Mariano Fernandez's migration from San Carlos to Gerona (~1920s-30s)
 - [ ] Search for other Fernandez/Daquigan/Villanueva families in Gerona barangay records
-- [ ] Check if the Ortiz family of Gerona (documented on bonarae.net) has any Fernandez connections
+- [x] Check if the Ortiz family of Gerona (documented on bonarae.net) has any Fernandez connections — **Ortiz tree (back to 1841) documents Arciaga-Simeon-Acob intermarriages. Eulalia Ortiz married Pedro Arciaga Simeon (Nicolasa Arciaga = his mother). Carolina Acob Simeon married Buenaventura Ortiz. No direct Fernandez mention but tree maintainer has deep Gerona parish records.**
 - [ ] Register with Catholic Cemeteries of Chicago "Locate a Loved One" to find Bienvenido's exact grave
 - [ ] Determine if Bienvenido is buried at Maryhill or St. Adalbert cemetery in Niles, IL
 
@@ -209,6 +212,14 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Check Padapada-Danzo geographic adjacency on PhilAtlas
 - [ ] Research Col. Liberato Littawa (21st Division USAFFE) — any connection to Gerona families?
 - [ ] Investigate San Nicolas Ilocos Norte → Pinasling → San Nicolas Pangasinan migration path
+- [x] Research Daquigan surname in Gerona Tarlac politics — **🔥🔥🔥 Ronjie Daquigan = Vice Mayor/Councilor, Christian P. Daquigan = Acting BAI Director**
+- [x] Research Eclar dynasty in Gerona (Eloy + May Batenga Eclar = husband-wife mayor/VP swap) — **Eloy = civil engineer + mayor 2019-25, May = Ph.D. + mayor 2025-28, Eloy dropped to VP. "Doc Gerry Batenga" (May's family?) also ran councilor. Eclar compound visible from TPLEx.**
+- [ ] Contact Ronjie Daquigan (Facebook, media professional) for Daquigan family genealogy
+- [ ] Research Christian and Ronjie Daquigan's relationship — siblings? Cousins?
+- [ ] Search FamilySearch Central Luzon Civil Registration for Daquigan births in Gerona
+- [x] Research "Nool, Ser Dave Capinding" (2025 candidate) — **8,815 votes (lost). Capinding = mother's maiden name (Tagumbao founding family). Confirms Capinding dynasty still politically active.**
+- [ ] Investigate Norman Daquigan — 2025 PFP councilor candidate, relationship to Ronjie
+- [x] Research Eclar dynasty in Gerona (Eloy + May Batenga Eclar = husband-wife mayor/VP swap) — **COMPLETED in Track 12**
 
 ### Track 10: Masonic Network — Fernandez, Tamondong, Cervantes
 - [x] Research Edilberto A. Tamondong Memorial Lodge No. 217 — **Full history documented: Red Arrow Division Lodge → renamed 1989, San Nicolas location, created from Agno Lodge 75 secession**
@@ -277,3 +288,6 @@ Each iteration should: read previous findings → identify the highest-value une
 | 30 | 2026-03-25 15:17 | Capinding family deep dive + Gerona Tagumbao | **🔥🔥🔥 Capinding = founding political family of Barangay Tagumbao, Gerona!** Juan Capinding (barrio lieutenant, American era), Patricio Capinding (barrio lieutenant 1937-47, WWII protector of civilians), Vicente Capinding (pioneer teacher, Spanish era). Dionicia Capinding (Mariano's 2nd wife, b.1906) from this elite family. **Bienvenido born same year (1937) Patricio became barrio lieutenant.** Tagumbao first settled by Pangasinan hunters. Antonio Capinding owned riceland in Capas, Tarlac — in land dispute with CAYABYAB family (principalía). |
 | 31 | 2026-03-25 18:16 | Gerona barangay deep dive: Danzo-Tagumbao correction | **🔥🔥 CORRECTION: Fernandez tenientes are in Barangay DANZO (not Don Basilio).** Full teniente list: Eulalia Fernandez (4th) + Exequiel Fernandez (15th/last). **Danzo was FOUNDED BY PANGASINAN SETTLERS** and its name derives from Pangasinan word "Ransouan." **Danzo borders Tagumbao directly** — Fernandez and Capinding families were literal neighbors. **Chester S. Capinding = current Kagawad 5 of Tagumbao** — Capinding dynasty continues ~90 years. Rev. Fr. Christian Ian A. Fernandez found in Diocese of Tarlac (Vicariate of St. Catherine of Alexandria). St. Catherine parish founded 1894, records NOT on FamilySearch. |
 | 32 | 2026-03-25 18:25 | Magday-Fernandez-Gerona connection + full Danzo history | **🔥🔥 FamilySearch tree contributor "John Zander Magday" linked to Gerona!** Mariano Magday was teniente del barrio of Barangay Padapada (neighbor of Danzo). Magday surname: 3,422 bearers, 41% in Central Luzon (Tarlac). **Magday and Fernandez families were Gerona neighbors** — explains how tree was built. **Mariano Benitez = FIRST teniente of Danzo** — same Benitez principalía as San Carlos Judge Juan Benitez. **Pinasling (east of Danzo) founded by San Nicolas, Ilocos Norte settlers** — same town as Tamondong Lodge No. 217. USAFFE 21st Division retreat through Gerona confirmed (Col. Littawa). |
+| 33 | 2026-03-25 18:40 | 🔥🔥🔥 Daquigan political dynasty in Gerona + Danzo families in elections | **RONJIE DAQUIGAN = Former Vice Mayor of Gerona, current Municipal Councilor (NPC).** Media professional, UE grad. Won 2022 (23,705 votes) and 2025 (17,304 votes). **CHRISTIAN P. DAQUIGAN = Acting Director of Bureau of Animal Industry (national government!)**. Veterinarian, from Gerona, promoted Feb 2024. **NORMAN DAQUIGAN** also ran 2025 (14,944, lost). **ALL Danzo barrio families on 2025 ballot**: Arciaga (10,218), Capinding via "Nool, Ser Dave Capinding" (8,815), Tabago (ran 2022 Mayor). Only Fernandez ABSENT — emigrated. Gerona LCR contact: lcro@geronatarlac.gov.ph. |
+| 34 | 2026-03-25 18:55 | Complete Laoac barangay power map (all 22 brgys) | **Jovito Quevedo SORIANO = Captain of Anis** — Soriano dynasty extends to Laoac BEFORE 2025 election. **Rebugio dominates** (2 captains + 1 kagawad). Rodolfo Avenida PEREZ = Captain of Cabilaoan West. **Eleseo Eslao JR succeeded his assassinated father** as Talogtog captain. **Tabayoyong** = 2 kagawads in Banuar. ZERO Tamondong/Abalos/Fernandez/Rosario captains — same absence pattern as San Carlos (for Fernandez/Abalos). Poblacion has Cabrera + Abalos + Corpuz officials together. |
+| 35 | 2026-03-25 19:08 | Eclar dynasty + 2025 Gerona election map + Ortiz-Arciaga intermarriage | **🔥 Eclar dynasty: husband-wife mayor/VP swap (Eloy → May Batenga Eclar 2025). Complete 2025 Gerona election results: ALL Danzo founding families on ballot (Arciaga 10,218 / Capinding 8,815 / Daquigan 17,304 won / Acob 23,269 won / Tabago 2022) — ONLY Fernandez absent = confirmed full emigration.** Ortiz family tree (bonarae.net, back to 1841) documents Arciaga-Simeon-Acob intermarriages. NPC swept Gerona. |
