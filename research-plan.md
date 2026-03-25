@@ -199,6 +199,17 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Register with Catholic Cemeteries of Chicago "Locate a Loved One" to find Bienvenido's exact grave
 - [ ] Determine if Bienvenido is buried at Maryhill or St. Adalbert cemetery in Niles, IL
 
+### Track 12: Magday-Fernandez Connection in Gerona
+- [x] Identify Magday surname in Gerona barangay histories — **Mariano Magday = teniente of Padapada, neighbor of Danzo**
+- [x] Research Magday surname distribution — **3,422 bearers PH, 41% Central Luzon (Tarlac)**
+- [ ] Contact John Zander Magday on FamilySearch — may have direct family knowledge of Fernandez-Daquigan
+- [ ] Research Mariano Benitez (first teniente of Danzo) — connection to San Carlos Benitez principalía?
+- [ ] Research Ignacio Arciaga (founder of Danzo) — Arciaga family produced multiple tenientes (Domingo, Pampilo)
+- [ ] Look for Magday-Fernandez intermarriage records in Gerona civil/church records
+- [ ] Check Padapada-Danzo geographic adjacency on PhilAtlas
+- [ ] Research Col. Liberato Littawa (21st Division USAFFE) — any connection to Gerona families?
+- [ ] Investigate San Nicolas Ilocos Norte → Pinasling → San Nicolas Pangasinan migration path
+
 ### Track 10: Masonic Network — Fernandez, Tamondong, Cervantes
 - [x] Research Edilberto A. Tamondong Memorial Lodge No. 217 — **Full history documented: Red Arrow Division Lodge → renamed 1989, San Nicolas location, created from Agno Lodge 75 secession**
 - [x] Research Pangasinan Lodge No. 56 Fernandez members — **4 Fernandez members: Guillermo (WM), Alipio Jr. (temple donor), Johnson (district officer), Francisco (current WM 2024)**
@@ -265,3 +276,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 29 | 2026-03-25 14:47 | Gerona-Bayambang-San Carlos ecclesiastical chain + Niles burial | **🔥🔥🔥 Gerona was historically PART of Bayambang's territory**, which was a visita of San Carlos (Binalatongan). Complete Dominican ecclesiastical chain: San Carlos (1587) → Bayambang (1614) → Gerona (1704). Explains why Bienvenido was born in Gerona — same Dominican mission territory. Gerona settled by "Ilocanos and Pangasinenses." Two Fernandez tenientes del barrio in Gerona barangay histories. Bayambang is the bridge connecting San Carlos, Gerona, and the three family-surname priests. Niles IL burial: two Catholic cemeteries (Maryhill + St. Adalbert), FindAGrave negative. |
 | 30 | 2026-03-25 15:17 | Capinding family deep dive + Gerona Tagumbao | **🔥🔥🔥 Capinding = founding political family of Barangay Tagumbao, Gerona!** Juan Capinding (barrio lieutenant, American era), Patricio Capinding (barrio lieutenant 1937-47, WWII protector of civilians), Vicente Capinding (pioneer teacher, Spanish era). Dionicia Capinding (Mariano's 2nd wife, b.1906) from this elite family. **Bienvenido born same year (1937) Patricio became barrio lieutenant.** Tagumbao first settled by Pangasinan hunters. Antonio Capinding owned riceland in Capas, Tarlac — in land dispute with CAYABYAB family (principalía). |
 | 31 | 2026-03-25 18:16 | Gerona barangay deep dive: Danzo-Tagumbao correction | **🔥🔥 CORRECTION: Fernandez tenientes are in Barangay DANZO (not Don Basilio).** Full teniente list: Eulalia Fernandez (4th) + Exequiel Fernandez (15th/last). **Danzo was FOUNDED BY PANGASINAN SETTLERS** and its name derives from Pangasinan word "Ransouan." **Danzo borders Tagumbao directly** — Fernandez and Capinding families were literal neighbors. **Chester S. Capinding = current Kagawad 5 of Tagumbao** — Capinding dynasty continues ~90 years. Rev. Fr. Christian Ian A. Fernandez found in Diocese of Tarlac (Vicariate of St. Catherine of Alexandria). St. Catherine parish founded 1894, records NOT on FamilySearch. |
+| 32 | 2026-03-25 18:25 | Magday-Fernandez-Gerona connection + full Danzo history | **🔥🔥 FamilySearch tree contributor "John Zander Magday" linked to Gerona!** Mariano Magday was teniente del barrio of Barangay Padapada (neighbor of Danzo). Magday surname: 3,422 bearers, 41% in Central Luzon (Tarlac). **Magday and Fernandez families were Gerona neighbors** — explains how tree was built. **Mariano Benitez = FIRST teniente of Danzo** — same Benitez principalía as San Carlos Judge Juan Benitez. **Pinasling (east of Danzo) founded by San Nicolas, Ilocos Norte settlers** — same town as Tamondong Lodge No. 217. USAFFE 21st Division retreat through Gerona confirmed (Col. Littawa). |

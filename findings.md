@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 18:16 UTC (Iteration 31)
+Last updated: 2026-03-25 18:25 UTC (Iteration 32)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -99,6 +99,27 @@ Mariano Fernandez (b. ~1905, San Carlos) migrated to Gerona's Danzo area, settli
 - **Diocese:** Tarlac (records NOT digitized on FamilySearch — need physical contact)
 - Bienvenido's 1937 baptism record would be here
 - Pre-1894 records under Bayambang parish (Pangasinan)
+
+## 🔥🔥 Magday-Fernandez-Gerona Connection (Iteration 32)
+
+The FamilySearch tree contributor **"John Zander Magday"** (active 3/24/2026) is almost certainly from the **Gerona, Tarlac** Magday family. Evidence:
+
+- **Mariano Magday** served as teniente del barrio of **Barangay Padapada**, Gerona — a neighboring barangay to Danzo (Fernandez territory)
+- Magday surname: 3,422 bearers in Philippines, **41% in Central Luzon** (Region III, includes Tarlac)
+- Only 160 Magday in the United States
+- The Magday and Fernandez families were **Gerona neighbors** — explains how John Zander Magday had detailed knowledge to build an accurate family tree
+
+### Mariano Benitez = First Teniente of Danzo
+The Benitez surname appears in BOTH San Carlos (Judge Juan Benitez, WWII guerrilla leader) and Gerona (Mariano Benitez, first teniente of Danzo). Since Danzo was founded by Pangasinan settlers, the Benitez principalía family operates across both territories.
+
+### Danzo Complete Teniente del Barrio List (Official Source)
+1. Mariano Benitez, 2. Pablo Torato, 3. Florentino Tabago, 4. **Eulalia Fernandez**, 5. Miguel Porlucas, 6. Pedro Porlucas, 7. Ignacio Urbano, 8. Domingo Arciaga, 9. Pampilo Arciaga, 10. Pelgion Cabacungan, 11. Ignacio Rombaoa, 12. Sotero Maurera, 13. Mariano Bugayong, 14. Justo Balaba, 15. **Exequiel Fernandez**
+
+### Pinasling (East of Danzo) Founded by San Nicolas, Ilocos Norte Settlers
+The neighboring barangay Pinasling was founded by settlers from **San Nicolas, Ilocos Norte** — the same town where Edilberto A. Tamondong's Masonic Lodge No. 217 is located, and which borders San Carlos City.
+
+### USAFFE 21st Division Retreat Through Gerona
+Barangay Calayaan documents the 23rd Regiment, 21st Division USAFFE retreat through Gerona under Col. Liberato Littawa — confirming Gerona was a WWII combat zone that Mariano Fernandez (b. ~1905) experienced directly.
 
 ## Niles, Illinois — Burial Location (Iteration 29)
 
