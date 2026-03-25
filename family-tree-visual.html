@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fernandez-Cervantes Family Tree</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Segoe UI', system-ui, sans-serif; background: #1a1a2e; color: #eee; padding: 20px; min-height: 100vh; }
+h1 { text-align: center; margin-bottom: 5px; font-size: 1.8em; color: #e0e0ff; }
+h2 { text-align: center; margin-bottom: 20px; font-size: 1em; color: #888; font-weight: normal; }
+.legend { display: flex; gap: 20px; justify-content: center; margin-bottom: 30px; flex-wrap: wrap; }
+.legend-item { display: flex; align-items: center; gap: 6px; font-size: 0.85em; }
+.legend-dot { width: 14px; height: 14px; border-radius: 3px; }
+.section-title { text-align: center; font-size: 1.3em; margin: 30px 0 15px; padding: 8px; border-bottom: 2px solid #333; color: #aaa; }
+.tree-container { display: flex; flex-direction: column; align-items: center; gap: 8px; }
+.gen-row { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; align-items: flex-start; margin-bottom: 6px; }
+.couple { display: flex; align-items: center; gap: 0; background: #222; border-radius: 8px; padding: 2px; }
+.couple .connector { color: #666; font-size: 1.2em; padding: 0 4px; }
+.person { padding: 8px 12px; border-radius: 6px; text-align: center; min-width: 120px; max-width: 180px; font-size: 0.8em; line-height: 1.3; position: relative; }
+.person .name { font-weight: 700; font-size: 0.95em; }
+.person .dates { font-size: 0.75em; opacity: 0.8; }
+.person .location { font-size: 0.7em; opacity: 0.6; margin-top: 2px; }
+.person .source { font-size: 0.6em; opacity: 0.5; margin-top: 2px; font-style: italic; }
+
+/* Confirmed by official records */
+.confirmed { background: #1b4332; border: 2px solid #2d6a4f; }
+.confirmed .name { color: #95d5b2; }
+
+/* From Kristine's FamilySearch tree (sister's research) */
+.tree-source { background: #1a3a5c; border: 2px solid #2a6496; }
+.tree-source .name { color: #8ecae6; }
+
+/* Needs verification */
+.unverified { background: #4a3728; border: 2px dashed #c47f17; }
+.unverified .name { color: #f4a259; }
+
+/* Living */
+.living { background: #1b4332; border: 2px solid #52b788; }
+.living .name { color: #b7e4c7; }
+
+/* You */
+.you { background: #2a1a4e; border: 3px solid #9d4edd; box-shadow: 0 0 15px rgba(157,78,221,0.3); }
+.you .name { color: #e0aaff; font-size: 1.05em; }
+
+/* Siblings row */
+.siblings { display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+.sibling { padding: 6px 10px; border-radius: 5px; font-size: 0.75em; text-align: center; }
+
+/* Branch labels */
+.branch-label { background: #333; color: #aaa; padding: 3px 10px; border-radius: 12px; font-size: 0.7em; margin: 4px; display: inline-block; }
+
+/* Arrow connectors */
+.arrow { text-align: center; color: #555; font-size: 1.5em; line-height: 1; }
+.arrow-small { text-align: center; color: #444; font-size: 1em; line-height: 1; }
+
+/* Side by side sections */
+.dual-section { display: flex; gap: 40px; justify-content: center; flex-wrap: wrap; }
+.side { flex: 1; min-width: 350px; max-width: 600px; }
+.side h3 { text-align: center; color: #aaa; margin-bottom: 12px; font-size: 1em; padding: 5px; background: #252535; border-radius: 6px; }
+
+.stats { text-align: center; margin-top: 30px; padding: 15px; background: #252535; border-radius: 8px; }
+.stats span { color: #9d4edd; font-weight: bold; }
+</style>
+</head>
+<body>
+
+<h1>🌳 Fernandez-Cervantes Family Tree</h1>
+<h2>Adrian Fernandez • Compiled March 25, 2026</h2>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot" style="background:#2d6a4f; border: 2px solid #52b788;"></div> Confirmed (official records found)</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#1a3a5c; border: 2px solid #2a6496;"></div> From FamilySearch tree (Kristine's research)</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#4a3728; border: 2px dashed #c47f17;"></div> Needs verification</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#2a1a4e; border: 2px solid #9d4edd;"></div> You / Living</div>
+</div>
+
+<!-- ===== GENERATION 6: ADRIAN ===== -->
+<div class="section-title">You — Generation 6</div>
+<div class="tree-container">
+  <div class="siblings">
+    <div class="person you"><div class="name">⭐ Adrian Fernandez</div><div class="dates">b. Mar 2, 1987</div><div class="location">📍 Allen, TX</div></div>
+    <div class="person living"><div class="name">Kristine Fernandez</div></div>
+    <div class="person living"><div class="name">Kiana Fernandez</div></div>
+  </div>
+</div>
+
+<div class="arrow">↑</div>
+
+<!-- ===== GENERATION 5: PARENTS ===== -->
+<div class="section-title">Parents — Generation 5</div>
+<div class="tree-container">
+  <div class="couple">
+    <div class="person tree-source"><div class="name">Raul Fernandez</div><div class="source">from family knowledge</div></div>
+    <div class="connector">⚭</div>
+    <div class="person tree-source"><div class="name">Janice Cervantes</div><div class="location">📍 from Angeles City, Pampanga</div><div class="source">maiden name confirmed</div></div>
+  </div>
+</div>
+
+<div class="arrow">↑</div>
+
+<!-- ===== GENERATION 4: GRANDPARENTS ===== -->
+<div class="section-title">Grandparents — Generation 4</div>
+<div class="dual-section">
+  <div class="side">
+    <h3>🇵🇭 Fernandez Side (San Carlos City, Pangasinan)</h3>
+    <div class="tree-container">
+      <div class="couple">
+        <div class="person confirmed"><div class="name">Bienvenido Fernandez</div><div class="dates">b. 1933/1937 — d. 1994</div><div class="location">📍 San Carlos City → Chicago, IL</div><div class="source">✅ FamilySearch marriage record</div></div>
+        <div class="connector">⚭</div>
+        <div class="person confirmed"><div class="name">Aurea Rosario Abalos</div><div class="dates">b. ~1939 — living</div><div class="location">📍 San Carlos City</div><div class="source">✅ FamilySearch marriage record</div></div>
+      </div>
+      <div class="branch-label">Married Dec 16, 1963 • San Carlos City</div>
+      <div style="margin-top:8px; font-size:0.75em; color:#888; text-align:center;">
+        Aurea's sister: <span style="color:#f4a259;">Maria Concesa Abalos</span> (b.1935, m. Pedro Nerizon 1959) ✅
+      </div>
+    </div>
+  </div>
+  <div class="side">
+    <h3>🇵🇭 Cervantes Side (Angeles City, Pampanga)</h3>
+    <div class="tree-container">
+      <div class="couple">
+        <div class="person confirmed"><div class="name">Diosdado Cervantes</div><div class="dates">b. 1925</div><div class="location">📍 Angeles City, Pampanga</div><div class="source">✅ FamilySearch marriage record</div></div>
+        <div class="connector">⚭</div>
+        <div class="person confirmed"><div class="name">Natividad Cabrera</div><div class="dates">b. 1923</div><div class="location">📍 Angeles City, Pampanga</div><div class="source">✅ FamilySearch marriage record</div></div>
+      </div>
+      <div class="branch-label">Married Nov 11, 1950 • Manila</div>
+      <div style="margin-top:8px; font-size:0.75em; color:#888; text-align:center;">
+        Diosdado's siblings: <span style="color:#f4a259;">Angelica Cervantes</span>, <span style="color:#f4a259;">Rebecca Cervantes Lucero</span> (US) ✅
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="arrow">↑</div>
+
+<!-- ===== GENERATION 3: GREAT-GRANDPARENTS ===== -->
+<div class="section-title">Great-Grandparents — Generation 3</div>
+<div class="dual-section">
+  <div class="side">
+    <h3>Fernandez & Abalos Lines</h3>
+    <div class="tree-container">
+      <div class="couple" style="margin-bottom:8px;">
+        <div class="person confirmed"><div class="name">Mariano Fernandez</div><div class="dates">b. ~1905</div><div class="source">✅ on Bienvenido's marriage record</div></div>
+        <div class="connector">⚭</div>
+        <div class="person confirmed"><div class="name">Victoriana Daquigan</div><div class="dates">b. 1917</div><div class="source">✅ on Bienvenido's marriage record</div></div>
+      </div>
+      <div class="couple">
+        <div class="person confirmed"><div class="name">Hilario Abalos</div><div class="source">✅ on Bienvenido's marriage record</div></div>
+        <div class="connector">⚭</div>
+        <div class="person confirmed"><div class="name">Filomena Rosario</div><div class="source">✅ on Bienvenido's marriage record</div></div>
+      </div>
+      <div style="margin-top:6px; font-size:0.7em; color:#888; text-align:center;">
+        Hilario's siblings: <span style="color:#95d5b2;">Hipolita Abalos</span>, <span style="color:#95d5b2;">Camila Abalos</span> ✅
+      </div>
+    </div>
+  </div>
+  <div class="side">
+    <h3>Cervantes & Cabrera Lines</h3>
+    <div class="tree-container">
+      <div class="couple" style="margin-bottom:8px;">
+        <div class="person confirmed"><div class="name">Isaac Cervantes</div><div class="source">✅ on Diosdado's marriage record</div></div>
+        <div class="connector">⚭</div>
+        <div class="person confirmed"><div class="name">Engracia Nazario</div><div class="source">✅ on Diosdado's marriage record</div></div>
+      </div>
+      <div class="couple">
+        <div class="person confirmed"><div class="name">Teotimo Cabrera</div><div class="source">✅ on Natividad's marriage record</div></div>
+        <div class="connector">⚭</div>
+        <div class="person confirmed"><div class="name">Maria Banaag</div><div class="source">✅ on Natividad's marriage record</div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="arrow">↑</div>
+
+<!-- ===== GENERATION 2: GREAT-GREAT-GRANDPARENTS ===== -->
+<div class="section-title">Great-Great-Grandparents — Generation 2</div>
+<div class="tree-container">
+  <div class="gen-row">
+    <div class="couple">
+      <div class="person tree-source"><div class="name">Pablo Fernandez</div><div class="dates">b. ~1875</div><div class="source">from Kristine's tree</div></div>
+      <div class="connector">⚭</div>
+      <div class="person tree-source"><div class="name">Marta Villanueva</div><div class="dates">b. ~1901</div><div class="source">from Kristine's tree</div></div>
+    </div>
+    <div class="couple">
+      <div class="person tree-source"><div class="name">Domingo Daquigan</div><div class="dates">b. ~1880</div><div class="source">from Kristine's tree</div></div>
+      <div class="connector">⚭</div>
+      <div class="person tree-source"><div class="name">Benita Bacarro</div><div class="dates">b. ~1880</div><div class="source">from Kristine's tree</div></div>
+    </div>
+  </div>
+  <div class="gen-row">
+    <div class="couple">
+      <div class="person confirmed"><div class="name">Jose Abalos</div><div class="dates">d. Jun 30, 1947</div><div class="location">📍 Dagupan City</div><div class="source">✅ FamilySearch records (3+)</div></div>
+      <div class="connector">⚭</div>
+      <div class="person confirmed"><div class="name">Carlina Tamondong</div><div class="source">✅ FamilySearch parish + civil</div></div>
+    </div>
+    <div class="couple">
+      <div class="person tree-source"><div class="name">Francisco Rosario</div><div class="source">from Kristine's tree</div></div>
+      <div class="connector">⚭</div>
+      <div class="person tree-source"><div class="name">Juana Gutierrez</div><div class="source">from Kristine's tree</div></div>
+    </div>
+  </div>
+</div>
+
+<div class="arrow">↑</div>
+
+<!-- ===== GENERATION 1: GREAT-GREAT-GREAT-GRANDPARENTS ===== -->
+<div class="section-title">Great-Great-Great-Grandparents — Generation 1 (oldest known)</div>
+<div class="tree-container">
+  <div class="gen-row">
+    <div class="couple">
+      <div class="person tree-source"><div class="name">Juan Tamondong</div><div class="dates">b. ~1850</div><div class="location">📍 San Carlos City</div><div class="source">from Kristine's tree</div></div>
+      <div class="connector">⚭</div>
+      <div class="person tree-source"><div class="name">Juana Paglingayen</div><div class="source">from Kristine's tree</div></div>
+    </div>
+    <div class="couple">
+      <div class="person confirmed"><div class="name">Domingo Ávalos (Abalos)</div><div class="source">✅ FamilySearch parish records</div></div>
+      <div class="connector">⚭</div>
+      <div class="person confirmed"><div class="name">Anacleta Peralta</div><div class="source">✅ FamilySearch parish records</div></div>
+    </div>
+  </div>
+</div>
+
+<div class="arrow" style="margin-top:15px;">↑ ~1800s</div>
+
+<!-- ===== HISTORICAL ===== -->
+<div class="section-title">Historical Connection (~1802)</div>
+<div class="tree-container">
+  <div class="person unverified" style="max-width:300px;">
+    <div class="name">Captain Simon Tamondong</div>
+    <div class="dates">Gobernadorcillo of San Carlos, 1802</div>
+    <div class="location">📍 Oversaw reconstruction of Minor Basilica of St. Dominic</div>
+    <div class="source">⚠️ Wikipedia — likely ancestor of Juan Tamondong but exact connection unverified</div>
+  </div>
+</div>
+
+<!-- ===== STATS ===== -->
+<div class="stats">
+  <p><span>35+</span> documented family members • <span>7</span> generations • <span>220+</span> years of history</p>
+  <p style="margin-top:5px;"><span>5</span> marriage records found • <span>2</span> death records • <span>15+</span> unique surnames</p>
+  <p style="margin-top:5px; font-size:0.8em; color:#888;">
+    📍 San Carlos City, Pangasinan (Fernandez) | Angeles City, Pampanga (Cervantes) | Manila | Chicago, IL
+  </p>
+  <p style="margin-top:8px; font-size:0.7em; color:#666;">
+    Sources: FamilySearch.org, Philippine Supreme Court e-Library, Ancestry.com, WikiTree, 
+    Lingayen-Dagupan Archdiocese Parish Registers, Philippines Civil Registration (Local & National)
+  </p>
+</div>
+
+</body>
+</html>
