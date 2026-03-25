@@ -292,6 +292,32 @@ None of the following great-great-grandparent pairs returned any online results:
 
 **Assessment**: These ancestors (born ~1870s-1910s) are likely only findable in physical records: church registers, FamilySearch microfilm/image collections, or Philippine civil registration records.
 
+## FamilySearch Records Found (Browser Search)
+
+### ✅ CONFIRMED: Bienvenido Fernandez Marriage Record
+- **Source**: Philippines, Civil Registration (Local), 1888-1986
+- **FamilySearch ARK**: /ark:/61903/1:1:6B7K-YPD6
+- **Marriage**: December 16, 1963, San Carlos City, Pangasinan
+- **Birth year**: 1937 (per this record — tree says 1933, discrepancy)
+- **Parents**: Mariano Fernandez & Victoriana Daquigan (confirms tree!)
+- **Spouse**: Aurea Rosario Abalos (confirms tree!)
+- **Also on record**: Hilario Abalos & Filomena Rosario (Aurea's parents!)
+- **FamilySearch Tree ID**: GY2Z-3K9 (attached to Kristine's tree)
+- **Image**: San Carlos City Marriage Register book, 1960-1964, image 189/203
+
+### Key Correction: Family is from SAN CARLOS CITY, not Dagupan!
+The marriage was in San Carlos City. The Tamondong surname concentration in San Carlos confirms this. The Dagupan/Fercolla connection may still exist but the immediate family's base was San Carlos City.
+
+### FamilySearch Account Created
+- Username: Adrian26448
+- Signed up via Google (adrianfernandezassistant@gmail.com)
+- Full access to historical record searches and images
+
+### Facebook Relatives (from Adrian)
+- **Cathy Fernandez** — still in Dagupan (needs more research)
+- **Edmalyn Villamayor** — Dagupan area (Villamayor = Spanish, "greater village/town")
+- **Villamayor** could connect to Villanueva branch (both "Villa-" Spanish surnames)
+
 ## Gaps to Fill
 - [ ] Janice's maiden name and family
 - [ ] Raul's birth date and siblings
