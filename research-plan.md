@@ -67,3 +67,4 @@ Each iteration should: read previous findings → identify the highest-value une
 |---|------|-------|-------------|
 | 0 | 2026-03-24 23:20 | Initial setup | Established baseline from conversation |
 | 1 | 2026-03-25 00:26 | Track 4: US records + FERCOLLA | No US death records for Bienvenido (likely died in PH). Found Romeo Fernandez obit (Plano TX, Pangasinan origin, brother Raul — different family). Mapped full FERCOLLA political dynasty. Found Abalos family roots in Dagupan (Funeraria Abalos). |
+| 2 | 2026-03-24 23:30 | Track 4 deep dive + Fercolla details | Confirmed Armando C. Fernandez = PH consul general LA + PB-USA founder. Found Fernandez-Coquia fishpond court case (G.R. 143868). Found Fernandez-Abalos KC connection. Detailed Dagupan Fernandez dynasty from Deo Antonio blog. |

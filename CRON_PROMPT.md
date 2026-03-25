@@ -28,6 +28,8 @@ You are running an automated research iteration for the Fernandez family tree pr
 ## Family Details for Reference
 - **Bienvenido Fernandez** (1933-1994) married **Aurea Rosario Abalos** (~1936)
 - From **Dagupan City, Pangasinan, Philippines**
+- **Bienvenido died in CHICAGO, IL** — search Cook County death records, Illinois death index, Chicago Tribune obituaries
+- Philippine Supreme Court case G.R. No. 143868 reveals Fernandez fishpond property in Arellano-Bani, Dagupan (Angel Fernandez + siblings Antonio, Santiago, Demetria, Armando). Angel married Corazon Cabal. His son Armando Cabal Fernandez co-authored the Fercolla book.
 - Son **Raul Fernandez** married **Janice**, has kids Adrian, Kristine, Kiana
 - Great-grandparents: Mariano Fernandez + Victoria Daquigan, Hilario Abalos + Filomena Rosario
 - Great-great-grandparents: Pablo Fernandez + Marta Villanueva, Domingo Daquigan + Benita Bacarro, Jose Abalos + Carlina Tamondong, Francisco Rosario + Juana Gutierrez
