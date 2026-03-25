@@ -5,7 +5,7 @@ You are running an automated research iteration for the Fernandez family tree pr
 ## Instructions
 
 1. **Read current state**: Read `findings.md` and `research-plan.md` in `/Users/adrianai/.openclaw/workspace/family-tree-research/`
-2. **Check iteration count**: List files in `iterations/` to see how many iterations have been completed. If 20+ iterations exist, reply HEARTBEAT_OK (we're done).
+2. **Check iteration count**: List files in `iterations/` to see how many iterations have been completed. If 50+ iterations exist, reply HEARTBEAT_OK (we're done).
 3. **Pick the highest-value unexplored lead** from the research plan
 4. **Execute research**: Use web_search and web_fetch to dig into that lead
 5. **Document findings**: Write an iteration file `iterations/iteration-NN.md` with timestamp, focus area, searches performed, and findings

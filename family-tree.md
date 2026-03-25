@@ -46,9 +46,14 @@ graph TD
 
     %% === CERVANTES SIDE (Mother's) ===
     
+    %% Great Grandparents - Cervantes
+    IC["Isaac Cervantes"] --- IC_EN
+    EN["Engracia Nazario"] --- IC_EN
+    IC_EN((" ")) --> DC
+
     %% Grandparents - Cervantes
-    DC["Diosdados Cervantes<br/>📍 Angeles City, Pampanga"] --- DC_NC
-    NC["Natividad Cabrera Cervantes<br/>📍 Angeles City, Pampanga"] --- DC_NC
+    DC["Diosdado Cervantes<br/>b. 1925<br/>📍 Angeles City, Pampanga"] --- DC_NC
+    NC["Natividad Cabrera<br/>📍 Angeles City, Pampanga"] --- DC_NC
     DC_NC((" ")) --> JC
 
     %% Parents
@@ -70,9 +75,9 @@ graph TD
     classDef connector fill:none,stroke:none
 
     class ARA,AF,KF,KiF living
-    class JT,JPag,PF,MV,DD,BB,JA,CT,FR,JGut,MaF,VD,HA,FilR,BF,DC,NC deceased
+    class JT,JPag,PF,MV,DD,BB,JA,CT,FR,JGut,MaF,VD,HA,FilR,BF,IC,EN,DC,NC deceased
     class RF,JC current
-    class JT_JP,PF_MV,DD_BB,JA_CT,FR_JG,MaF_VD,HA_FR,BF_ARA,DC_NC,RF_JC connector
+    class JT_JP,PF_MV,DD_BB,JA_CT,FR_JG,MaF_VD,HA_FR,BF_ARA,IC_EN,DC_NC,RF_JC connector
 ```
 
 ## Legend
@@ -85,6 +90,7 @@ graph TD
 | Person | Event | Date | Location |
 |--------|-------|------|----------|
 | Bienvenido & Aurea | Marriage | Dec 16, 1963 | San Carlos City, Pangasinan |
+| Diosdado & Natividad | Marriage | Nov 11, 1950 | Manila, Metro Manila |
 | Bienvenido | Death | 1994 | Chicago, IL |
 | Adrian | Birth | Mar 2, 1987 | — |
 
@@ -92,5 +98,7 @@ graph TD
 - ✅ Bienvenido's parents: Mariano Fernandez & Victoriana Daquigan (FamilySearch marriage record)
 - ✅ Aurea's parents: Hilario Abalos & Filomena Rosario (FamilySearch marriage record)
 - ✅ Marriage location: San Carlos City, Pangasinan (FamilySearch)
-- ⬜ Cervantes side: from Angeles City, Pampanga — needs research
+- ✅ Diosdado Cervantes married Natividad Cabrera: Nov 11, 1950, Manila (FamilySearch)
+- ✅ Diosdado's parents: Isaac Cervantes & Engracia Nazario (FamilySearch marriage record)
+- ✅ Aurea's siblings found: Maria Concesa Abalos, possibly Cosme Abalos
 - ℹ️ Janice has siblings still living in Angeles City

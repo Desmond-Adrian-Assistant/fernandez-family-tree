@@ -80,10 +80,22 @@
         "parents": ["HA", "FilR"]
       },
       {
-        "id": "DC", "name": "Diosdados Cervantes",
+        "id": "IC", "name": "Isaac Cervantes",
+        "gender": "M", "generation": 3, "side": "maternal", "branch": "cervantes",
+        "notes": "Diosdado's father. Found on FamilySearch marriage record."
+      },
+      {
+        "id": "EN", "name": "Engracia Nazario",
+        "gender": "F", "generation": 3, "side": "maternal", "branch": "cervantes",
+        "notes": "Diosdado's mother. Also spelled Eugracia Nagano on local civil reg."
+      },
+      {
+        "id": "DC", "name": "Diosdado Cervantes", "birth": "1925",
         "gender": "M", "generation": 4, "side": "maternal", "branch": "cervantes",
         "location": "Angeles City, Pampanga",
-        "notes": "Janice's father. From Angeles City, Pampanga. Needs research."
+        "marriageDate": "1950-11-11", "marriagePlace": "Manila, Metro Manila",
+        "parents": ["IC", "EN"],
+        "notes": "Married Natividad Cabrera Nov 11, 1950 in Manila. FamilySearch ARK: /ark:/61903/1:1:6FH2-B8Q7"
       },
       {
         "id": "NC", "name": "Natividad Cabrera Cervantes",
@@ -128,7 +140,8 @@
       { "spouse1": "MaF", "spouse2": "VD" },
       { "spouse1": "HA", "spouse2": "FilR" },
       { "spouse1": "BF", "spouse2": "ARA", "date": "1963-12-16", "place": "San Carlos City, Pangasinan" },
-      { "spouse1": "DC", "spouse2": "NC" },
+      { "spouse1": "IC", "spouse2": "EN" },
+      { "spouse1": "DC", "spouse2": "NC", "date": "1950-11-11", "place": "Manila, Metro Manila" },
       { "spouse1": "RF", "spouse2": "JC" }
     ]
   }

@@ -172,6 +172,17 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Research Eugenio Perez Jr. (son) — former Pangasinan Vice Governor
 - [ ] Map the complete 2nd District → 4th District redistricting timeline
 
+### Track 9: PB-USA Diaspora & San Carlenian Organization
+- [x] Research PB-USA organizational structure and leadership — **Full officer list documented, San Carlos representatives identified**
+- [ ] Contact San Carlenian Organization (Sue Ann Estrada-Tumakay, president) for family connections
+- [ ] Research Mandapat family — prominent in both San Carlos City and PB-USA (Dean, Rhenee, Neil Mandapat Estrada)
+- [ ] Research Jackie Ferrer — "of Dagupan City AND San Carlos City" — bridge between the two cities
+- [ ] Search for "Greater Dagupan City Association of California" records
+- [ ] Search for PB-USA published membership directories or reunion photos
+- [ ] Ask Adrian: Does Raul/Aurea know anyone in the San Carlenian Organization or PB-USA?
+- [ ] Verify Aurea Fernandez's Chicago address (2621 W Crystal St, 60622) and DOB (Aug 17, 1938) with Adrian
+- [ ] Contact FAHSC archivist Ashley Dequilla about Pangasinan-specific materials in the 400+ box collection
+
 ## Iteration Log
 | # | Time | Focus | Key Finding |
 |---|------|-------|-------------|
@@ -199,3 +210,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 20 | 2026-03-25 11:26 | Padlan-Perez-de Venecia-Fernandez power chain | **🔥 Don Emilio Padlan (first San Carlos mayor) is maternal family of Speaker Eugenio PADLAN Perez (1896-1957)**. Perez was Speaker 1946-53, represented 2nd District for 9 terms. **His daughter Victoria Perez married Jose de Venecia Jr. (Speaker 1992-2008)** — TWO Speakers from same family. **Angel B. Fernandez (FERCOLLA) directly succeeded Perez as 2nd District congressman**. Complete power chain: Banaag (1916) → Perez/Padlan (1928) → Fernandez (1957) → Soriano (1966) → de Venecia (~1969). Consuelo Salazar-Perez (wife) buried in San Carlos. PVAO still down. FamilySearch Cook County Deaths requires browser auth. |
 | 21 | 2026-03-25 11:46 | Cervantes correction + Fr. Fernandez promotion + Tamondong in agriculture | **DL Cervantes Construction RULED OUT** — owner's wife is Cynthia M. Cervantes, NOT Natividad Cabrera. **🔥 Fr. Joseph T. Fernandez promoted to CHANCELLOR of the Archdiocese of Lingayen-Dagupan** — controls all parish records, ideal contact. **"Mr. Tamondong" was secretary at Dept of Agriculture Dagupan (1990 earthquake article)** — another Tamondong in government. **FAHSC (Filipino American Historical Society of Chicago)** documented: 400+ boxes of archives at Mana Contemporary, potential Fernandez/Tamondong immigration records. |
 | 22 | 2026-03-25 11:55 | Cervantes/Pampanga deep dive + remaining leads sweep | **Cervantes family NOT political elite in Angeles City** — absent from all barangay captain and councilor lists. Clark Air Base (70K+ Filipino workers) closure 1991 = strong immigration pathway for Cervantes family. Holy Rosary Parish (1877) identified as key Pampanga record source. Pampanga top surnames: Santos, David, Garcia — no Cervantes. **PVAO still down**. Jose F. Fernandez = dead end online. **PROJECT AT 22 ITERATIONS — all 8 research tracks thoroughly explored. Remaining leads require physical records.** |
+| 23 | 2026-03-25 13:15 | PB-USA diaspora network + Aurea Chicago address | **🔥 PB-USA (Pangasinan Brotherhood-USA) is the diaspora mirror of the principalía network**: same families (Fernandez/Coquia/Banaag/Soriano/Cabal) in leadership. San Carlenian Organization represents San Carlos City. **Mandapat family** prominent in both San Carlos and PB-USA. **PB-USA built housing in LAOAC** (Tamondong/Abalos territory). **Aurea Fernandez possibly at 2621 W Crystal St, Chicago 60622, born Aug 17, 1938** — needs verification. FAHSC archives (400+ boxes) being processed at UIC/DePaul — early stage, not fully cataloged. **No dedicated Pangasinan org exists in Chicago** (PB-USA is LA-based). Hilario D. Tamondong + Jose F. Fernandez = dead ends online. |
