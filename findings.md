@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 11:46 UTC (Iteration 21)
+Last updated: 2026-03-25 13:49 UTC (Iteration 25)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -1348,6 +1348,57 @@ The same intermarried families control all three pillars in eastern Pangasinan:
 - **CHURCH:** Fr. Francisco Fernandez, Fr. Agustin Rosario, Fr. Fermin Abalos (Bayambang priests); Fr. Joseph T. Fernandez (Chancellor, Archdiocese)
 - **STATE:** Simon Tamondong (Captain 1802), Eduardo Tamondong (Brgy Captain 2020s), Angel B. Fernandez (Mayor/Congressman), Doc Jerry Rosario (Board Member/Mayor)
 - **LODGE:** Edilberto Tamondong (Lodge namesake), Guillermo/Alipio/Francisco Fernandez (Lodge Masters), Cenon Cervantes (Grand Master)
+
+## Laoac Municipality — Complete Political Timeline & Ethnic Origins (Iteration 25)
+
+### Laoac is 89% Ilocano — NOT Native Pangasinan
+From the official municipal history: "Ethnologically, the present population is predominantly of Ilocano stock, with around 89% of the original residents coming from the Ilocos Region, notably Ilocos Sur, La Union, Ilocos Norte and Abra."
+
+This is critical: The Tamondong and Abalos families in Laoac are **Ilocano settlers**, consistent with:
+- Eduardo **Corpuz** Tamondong in San Carlos (Corpuz = Ilocano surname)
+- Daquigan surname concentrated in Ilocos/Cagayan
+- Tamondong surname's 47% concentration in Ilocos Region
+- Barangay names in Laoac reflect Ilocano origins: Casanestebanan (from San Esteban, Ilocos Sur), Casantiagoan (Santiago)
+
+### Complete Political Timeline (1980-Present)
+| Name | Position | Term |
+|------|----------|------|
+| Westrimundo R. Tabayoyong | Mayor | March 5, 1980 – Sept 5, 1985 (**ASSASSINATED**) |
+| Cirilo M. Zarate | Mayor (VP succession) | Sept 6, 1985 – May 18, 1986 |
+| Gregorio B. Tabayoyong | OIC (EDSA appointee) | May 19, 1986 – Dec 1, 1987 |
+| **Bienvenido A. Tamondong** | **OIC (DILG caretaker)** | **Dec 2, 1987 – Jan 1, 1988** |
+| Gregorio B. Tabayoyong | Mayor (elected, 3 terms) | 1988–1998 |
+| Juanilo E. Alarcio, Sr. | Mayor | 1998–2001 |
+| Gregorio B. Tabayoyong | Mayor (2 more terms) | 2001–2007 |
+| **Antonio P. Abalos** | **Mayor (elected)** | **June 30, 2007 – June 30, 2010** |
+| Silverio D. Alarcio, Jr. | Mayor (3 terms) | 2010–2019 |
+| Ricardo D. Balderas | Mayor | 2019–Present |
+
+### Abalos Multi-Generational Presence in Laoac
+- **Antonio P. Abalos** — Mayor (2007-2010)
+- **Regine Abalos Novido** — SK Chairperson (Youth Leader), Poblacion Laoac (2018-2023)
+- Confirms Abalos family has sustained political presence across generations in Laoac
+
+### Cabrera Surname in Laoac
+- **Nellie Cabrera Buscaino** — Barangay Kagawad (Councilor) of Poblacion Laoac
+- Same Cabrera surname as Natividad **Cabrera** Cervantes (Janice's mother's maiden name)
+- Cabrera is not extremely common in Pangasinan — the appearance in Laoac is notable
+
+### Laoac in 5th Congressional District (CORRECTION)
+- Laoac is in the **5th congressional district** (Rep. Ramon V. Guico III), NOT the 4th
+- The 4th District includes San Carlos City and Dagupan
+- The 5th District includes Manaoag (parent municipality) and Laoac
+- This means Doc Jerry Rosario (4th District Board Member) and Laoac's political arena are separate districts
+
+### Frederick Abalos — Barangay Captain of Balococ, Lingayen (Assassinated 2021)
+- Shot dead July 14, 2021 by motorcycle-riding gunmen
+- Captain of Barangay Balococ in Lingayen (the provincial capital)
+- Just 12 days after another barangay captain (Eleseo Eslao of Talogtog, **Laoac**) was also assassinated
+- Extends Abalos political presence to Lingayen (the provincial seat)
+
+### Soriano Extends to Laoac (2025)
+- **Faustino Q. Soriano Jr.** — elected 2025 Laoac Municipal Councilor
+- Soriano political dynasty presence now documented in San Carlos → Laoac
 
 ## 1990 Luzon Earthquake — Impact on Dagupan & Family Timeline
 
