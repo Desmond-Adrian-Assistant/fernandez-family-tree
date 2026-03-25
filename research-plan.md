@@ -20,12 +20,14 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Search for Bienvenido & Aurea marriage record
 
 ### Track 2: Dagupan & Fercolla Connection
-- [ ] Research the FERCOLLA clan families in more detail
-- [ ] Search for Armando Cabal Fernandez (book author) connections
-- [ ] Look for other Dagupan Fernandez genealogy resources
+- [x] Research the FERCOLLA clan families in more detail — **Full lineage documented from Antonio Llamas Fernandez through Alipio Jr.**
+- [x] Search for Armando Cabal Fernandez (book author) connections — **Grandson of Don Antonio, was Vice Mayor**
+- [x] Look for other Dagupan Fernandez genealogy resources — **Found Geni.com project, deo-antonio blog, court records**
 - [ ] Research Dagupan Catholic Cathedral records availability
-- [ ] Check if Fercolla book is viewable at FamilySearch affiliate
+- [ ] Check if Fercolla book is viewable at FamilySearch affiliate (Duncanville, TX — 40 min from Allen)
 - [ ] Look for Dagupan city archives or local history resources
+- [ ] Determine if Bienvenido's branch connects to FERCOLLA or is a separate Fernandez family
+- [ ] Research Funeraria Abalos ownership — possible family connection to Hilario Abalos
 
 ### Track 3: Ancestry/Geni/MyHeritage Trees
 - [ ] Deep search Ancestry public trees for Tamondong connections
@@ -35,11 +37,15 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Search for Pedro Caguioa Tamondong connections
 
 ### Track 4: Immigration & US Records
+- [x] Look for obituaries or death records for Bienvenido (d. 1994) — **NO US records found; likely died in Philippines**
+- [x] Check Social Security Death Index — **No SSDI match**
+- [x] Check FindAGrave — **No match**
+- [x] Search for related Fernandez families in TX — **Found Romeo Najera Fernandez (Plano, TX) — different family but similar profile**
 - [ ] Search for Fernandez family immigration records (likely post-1965)
-- [ ] Check US naturalization records
-- [ ] Search US census records for Bienvenido/Aurea Fernandez
-- [ ] Look for obituaries or death records for Bienvenido (d. 1994)
-- [ ] Check Social Security Death Index
+- [ ] Check US naturalization records for Raul Fernandez
+- [ ] Search US census records for Aurea/Raul Fernandez
+- [ ] Ask Adrian: Did Bienvenido die in Philippines or US?
+- [ ] Ask Adrian: Does Raul know Romeo/Optaciano Fernandez from Pangasinan?
 
 ### Track 5: Philippine Historical Context
 - [ ] Research Dagupan City history and founding families
@@ -60,3 +66,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | # | Time | Focus | Key Finding |
 |---|------|-------|-------------|
 | 0 | 2026-03-24 23:20 | Initial setup | Established baseline from conversation |
+| 1 | 2026-03-25 00:26 | Track 4: US records + FERCOLLA | No US death records for Bienvenido (likely died in PH). Found Romeo Fernandez obit (Plano TX, Pangasinan origin, brother Raul — different family). Mapped full FERCOLLA political dynasty. Found Abalos family roots in Dagupan (Funeraria Abalos). |
