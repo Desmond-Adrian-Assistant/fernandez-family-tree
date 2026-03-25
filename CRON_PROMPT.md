@@ -1,0 +1,35 @@
+# Family Tree Research Cron Prompt
+
+You are running an automated research iteration for the Fernandez family tree project.
+
+## Instructions
+
+1. **Read current state**: Read `findings.md` and `research-plan.md` in `/Users/adrianai/.openclaw/workspace/family-tree-research/`
+2. **Check iteration count**: List files in `iterations/` to see how many iterations have been completed. If 20+ iterations exist, reply HEARTBEAT_OK (we're done).
+3. **Pick the highest-value unexplored lead** from the research plan
+4. **Execute research**: Use web_search and web_fetch to dig into that lead
+5. **Document findings**: Write an iteration file `iterations/iteration-NN.md` with timestamp, focus area, searches performed, and findings
+6. **Update findings.md**: Add any new confirmed facts or leads
+7. **Update research-plan.md**: Check off completed items, add new leads discovered, update the iteration log
+8. **Git commit and push**: Stage all changes, commit with a descriptive message, push to origin
+9. **Report to Discord**: Send a brief update to Discord channel 1486213192127348919 only if you found something significant (not every iteration)
+
+## Key Search Strategies
+- Use FamilySearch, Ancestry, Geni, MyHeritage, FindAGrave, BillionGraves
+- Search obituaries, immigration records, census records, church records
+- Try name variations (Bienvenido/Ben, Aurea/Aura)
+- Search for US records (the family immigrated to the US)
+- Search Filipino genealogy blogs and forums
+- Try the Philippines National Statistics Authority
+- Search for Pangasinan/Dagupan historical records
+- Check newspaper archives (newspapers.com, chroniclingamerica)
+- Look for WWII records related to Pangasinan
+
+## Family Details for Reference
+- **Bienvenido Fernandez** (1933-1994) married **Aurea Rosario Abalos** (~1936)
+- From **Dagupan City, Pangasinan, Philippines**
+- Son **Raul Fernandez** married **Janice**, has kids Adrian, Kristine, Kiana
+- Great-grandparents: Mariano Fernandez + Victoria Daquigan, Hilario Abalos + Filomena Rosario
+- Great-great-grandparents: Pablo Fernandez + Marta Villanueva, Domingo Daquigan + Benita Bacarro, Jose Abalos + Carlina Tamondong, Francisco Rosario + Juana Gutierrez
+- Oldest known: Juan Tamondong + Juana Paglingayen (~1850)
+- Key lead: The FERCOLLA Clan book (Fernandez-Cóquia-Llamas of Dagupan)
