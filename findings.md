@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 11:26 UTC (Iteration 19)
+Last updated: 2026-03-25 11:46 UTC (Iteration 21)
 
 ## Confirmed Facts
 - Family is from **Pangasinan**, likely **Dagupan City**
@@ -470,6 +470,39 @@ From the Wikipedia article on the Minor Basilica of Saint Dominic (San Carlos):
 - FamilySearch has Pampanga civil registration records available (1888-1986)
 - Holy Rosary Parish records would cover Angeles City baptisms, marriages, burials
 - **Key next step:** Search FamilySearch for Cervantes/Cabrera birth and marriage records
+
+### Cervantes Family — NOT Political Elite (Iteration 22)
+- **Zero Cervantes** found among Angeles City barangay captains, councilors, or any elected positions
+- **Cervantes absent from Pampanga top-10 surname lists** (province or city level)
+- Top Pampanga surnames: Santos, David, Garcia, Dizon, Pineda; top Angeles City surname: David
+- Dominant Angeles City political families: **Lazatin, Nepomuceno, Henson, Pineda** — no Cervantes
+- The Cervantes family was likely **middle-class/professional**, not principalía
+- Contrasts sharply with Fernandez side (FERCOLLA dynasty, multiple barangay captains, priests)
+
+### Clark Air Base — Cervantes Immigration Pathway (Iteration 22)
+- Clark Air Base: 3 miles west of Angeles City, operated 1903-1991
+- **70,000+ Filipino workers** directly employed or benefiting from base operations
+- Injected **$220 million annually** into Angeles City economy
+- **June 15, 1991**: Mt. Pinatubo eruption devastated the base
+- **Operation Fiery Vigil** (June 1991): Emergency evacuation of ~20,000 US personnel/dependents
+- **September 16, 1991**: Philippine Senate rejected Military Bases Agreement renewal
+- **November 26, 1991**: Base officially turned over to Philippines
+- Closure displaced tens of thousands of Filipino workers and their families
+- **Immigration pathways for Clark workers**: family reunification, employment visas (skills from base jobs), Special Immigrant status for military enlistees (INA 101(a)(27)(K))
+- **Strong candidate for Cervantes family immigration to US**: Angeles City proximity to Clark → base employment → US immigration (pre- or post-1991 closure)
+- Many Clark-connected families ended up in California, Illinois, and other Filipino diaspora hubs
+
+### Holy Rosary Parish Church (Pisamban Maragul) — Angeles City Record Source (Iteration 22)
+- **Founded**: October 18, 1877 (foundations laid by Don Mariano V. Henson)
+- **Construction**: 1877-1896 via polo y servicio labor system
+- **First Mass**: April 14, 1886 (church half-built)
+- **Completed**: October 1909
+- **Archdiocese**: San Fernando, Pampanga (est. 1949)
+- **Architecture**: Gothic Revival, Romanesque Revival, Renaissance blend
+- **Current priests**: Rev. Fr. Manny C. Sta. Maria (Parish Priest), 3 others
+- **National historical site** (NCCA) and **Important Cultural Property** (National Museum)
+- **Key**: All Cervantes/Cabrera baptisms, confirmations, marriages in Angeles City recorded here from 1877+
+- Diosdados Cervantes & Natividad Cabrera's generation (~1950s-1960s) would have records here
 
 ## Laoac Municipality — Tamondong & Abalos Political Network (Iteration 9)
 
@@ -1230,3 +1263,53 @@ Despite being a major political force in Dagupan (FERCOLLA dynasty), the Fernand
 | 3 | Teofilo P. Guadiz (appointed) | 1964 onward |
 
 Angel B. Fernandez served as Dagupan mayor for **15 years** before becoming congressman and sponsoring San Carlos's city charter (RA 4487, 1965). The Wikipedia succession table confirms Angel B. Fernández directly succeeded Speaker Eugenio Pérez as 2nd District congressman.
+
+## Fr. Joseph T. Fernandez — Promoted to Chancellor (Iteration 21)
+
+**UPDATED**: Previously documented as Parochial Vicar at Dagupan Cathedral + Vice Rector of seminary.
+- **Now: Chancellor of the Archdiocese of Lingayen-Dagupan**
+- Also on the **Archdiocesan Finance Council**
+- Chancellor = chief administrative officer of the entire archdiocese
+- Has access to ALL parish records: Dagupan Cathedral, San Carlos Basilica, Laoac, Mangaldan, Manaoag, etc.
+- **Hierarchy**: Archbishop Socrates Villegas → Vicar General (Fr. Platon) → **Chancellor (Fr. Joseph T. Fernandez)** → Vice Chancellor (Fr. Rosal)
+- Source: Catholink.ph, Claretian Publications Catholic Directory, lingayendagupan.org
+- **BEST POSSIBLE CONTACT for family history research** — a Fernandez who controls the archdiocese's archives
+
+## DL Cervantes Construction — RULED OUT (Iteration 21)
+
+- **Diosdado L. Cervantes** of DL Cervantes Construction Corporation (DLCCC) is a **different person** from Janice's father
+- His wife is **Cynthia M. Cervantes** (NOT Natividad Cabrera)
+- Son: **Engr. Juan Paolo M. Cervantes** (Company President)
+- Company HQ: Biñan City, Laguna (not Pampanga)
+- Founded March 1, 1991; Triple A contractor; ISO 9001:2015
+- The 2018 Philstar article about a flood control project in Pampanga was a project site, not company HQ
+
+## "Mr. Tamondong" — Provincial Agriculture Secretary (1990)
+
+- From Dagupan Sunday Punch retrospective (2006) on the July 16, 1990 Luzon earthquake:
+- A **"Mr. Tamondong"** served as secretary to the Provincial Agri-Fishery Chairman at the Department of Agriculture in Dagupan
+- Written by Army J. Bangsal, whose father (the Agri-Fishery Chairman) died in the earthquake
+- Confirms Tamondong in provincial government service in Dagupan in 1990
+- Same era as Bienvenido A. Tamondong (DILG OIC of Laoac, 1987-88)
+- Agriculture + fisheries connection significant given the Fernandez fishpond property in Arellano-Bani
+
+## FAHSC — Filipino American Historical Society of Chicago (Research Resource)
+
+- **Address**: 5472 S Dorchester Ave, Chicago, IL 60615 (Hyde Park)
+- **Phone**: (773) 947-8696
+- Founded 1986 by Estrella Ravelo Alamar (1936-2022)
+- **400+ boxes of photographs, documents, cultural artifacts, audio recordings, film**
+- Now at Mana Contemporary Chicago; partner with Chicago History Museum
+- Part of Chicago Collections (explore.chicagocollections.org)
+- **Potential resource**: May contain records/photos of Fernandez/Tamondong family in Chicago Filipino community
+
+## 1990 Luzon Earthquake — Impact on Dagupan & Family Timeline
+
+- July 16, 1990, Intensity 7.7
+- Vice Mayor **Alipio Fernandez Jr.** (FERCOLLA) chaired rehabilitation task force
+- St. John Cathedral severely damaged (tower collapsed)
+- 80% of buildings on Perez Blvd and A.B. Fernandez Ave collapsed
+- Magsaysay Bridge collapsed; Bonuan-San Fabian Bridge collapsed
+- **If Bienvenido's family was in Pangasinan in 1990, they experienced this earthquake**
+- Bienvenido died in Chicago in 1994 — earthquake may have accelerated emigration
+- Clark Air Base closed 1991 (Mt. Pinatubo) — major Filipino emigration wave followed

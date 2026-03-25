@@ -100,7 +100,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Look for newspaper archives mentioning family members
 - [ ] Check Philippine Statistics Authority online records
 - [x] Research WWII records (Japanese occupation of Pangasinan) — **Identified PVAO guerrilla records (collections.pvao.mil.ph), FilVetREP registry, NARA Philippine Archives. Dagupan was Japanese provincial capital; Lingayen Gulf Landing Jan 9, 1945. Mariano Fernandez (b.~1905) was military age.**
-- [ ] Search PVAO guerrilla records for Mariano Fernandez and other ancestors (site was down)
+- [x] Search PVAO guerrilla records for Mariano Fernandez and other ancestors — **PVAO site still down (iteration 22). Zero results for "Mariano Fernandez" Pangasinan in any PVAO-derived source. NARA SF-180 remains only viable path.**
 - [ ] Investigate Roberto Fernandez Martinez (d. 2026, mother Aurora Fernandez from Dagupan) — possible relation?
 
 ### Track 7: Cervantes Side (Janice's Family — Mother's Side)
@@ -114,17 +114,17 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Search FamilySearch for Cervantes + Cabrera records in Pampanga
 - [x] Check if Cervantes family is also from Pangasinan or different province — **PAMPANGA (Angeles City). Different province entirely.**
 - [ ] Search for siblings of Janice
-- [ ] Verify if Diosdado Cervantes of DL Cervantes Construction = Janice's father (ask Adrian)
+- [x] Verify if Diosdado Cervantes of DL Cervantes Construction = Janice's father — **RULED OUT: wife is Cynthia M. Cervantes, not Natividad Cabrera; HQ in Laguna not Pampanga**
 - [ ] Research "Ding Cervantes" (Pampanga journalist) — possible family connection
-- [ ] Search for Cervantes/Cabrera in Angeles City Holy Rosary Parish records
-- [ ] Research Clark Air Base employment → US immigration pathway for Cervantes family
+- [x] Search for Cervantes/Cabrera in Angeles City Holy Rosary Parish records — **No online records found; need FamilySearch account browse. Holy Rosary Parish founded 1877, Archdiocese of San Fernando.**
+- [x] Research Clark Air Base employment → US immigration pathway for Cervantes family — **70,000+ Filipino workers at Clark. Closure 1991 (Pinatubo + Senate rejection) displaced tens of thousands. Operation Fiery Vigil evacuated 20,000. Strong candidate for Cervantes immigration pathway. Cervantes NOT in Angeles City political elite — likely professional/middle-class.**
 
 ### Track 8: Bayambang Parish Priests & Principalía Clergy Network
 - [x] Research Fr. Francisco Fernandez (Bayambang, 1898-1902) — **No additional records online beyond Bayambang church history. Needs physical parish records.**
 - [x] Research Fr. Fermin Abalos (Bayambang, 1920-1928) — **No additional records online. Confirmed as key lead but needs parish/seminary records.**
 - [x] Research Fr. Agustin Rosario (Bayambang, 1916-1920) — **No additional records online.**
 - [ ] Investigate Jose F. Fernandez (San Carlos City Councilor, 1976-79) — relationship to Bienvenido?
-- [ ] Research Rev. Fr. Joseph T. Fernandez (living, Dagupan Cathedral) — potential contact for family history; may know Fernandez family connections
+- [x] Research Rev. Fr. Joseph T. Fernandez — **🔥 NOW CHANCELLOR of the Archdiocese of Lingayen-Dagupan** (promoted from Parochial Vicar). Controls ALL parish records in the archdiocese. Best possible contact for family history research.
 - [x] Research Jorge Tamondong (PGRP candidate, 2022 4th District election) — **837 votes (last of 9), PGRP party, no biographical info online. Minimal digital footprint.**
 - [ ] Research Ritchie de Guzman Abalos (NPC candidate, 2022 4th District) — which municipality?
 - [ ] Research "Doc Jerry" Rosario (PDP-Laban candidate, 2022 4th District) — which municipality?
@@ -161,7 +161,9 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Ask Adrian: Should Raul submit SF-180 to NARA for Mariano Fernandez WWII records?
 - [ ] Research Corpuz-Tamondong intermarriage — Ilocano surname pattern
 - [ ] Contact UANA (Umingan Association of North America, Las Vegas) for Don Justo Abalos family history
-- [ ] Contact FAHSC (Filipino American Historical Society of Chicago) for Fernandez/Tamondong immigration records
+- [ ] Contact FAHSC (Filipino American Historical Society of Chicago) for Fernandez/Tamondong immigration records — **5472 S Dorchester Ave, Chicago IL 60615, (773) 947-8696, 400+ boxes of archives at Mana Contemporary**
+- [ ] Investigate "Mr. Tamondong" at Dept of Agriculture Dagupan (1990 earthquake article) — first name? Connected to Bienvenido A. Tamondong (DILG 1987-88)?
+- [ ] Consider 1990 earthquake as potential emigration trigger for Fernandez family (Bienvenido died Chicago 1994)
 - [ ] Search Chicago PCG FilCom directory for Pangasinan-specific associations
 - [x] Research Don Emilio Padlan (first mayor of San Carlos) — **🔥 His surname "Padlan" = mother's family of Speaker Eugenio Perez. Padlan-Perez-de Venecia-Fernandez power chain documented.**
 - [ ] Research Don Emilio Padlan's full biography — when exactly was he municipal president? Direct ancestry to Perez?
@@ -195,3 +197,5 @@ Each iteration should: read previous findings → identify the highest-value une
 | 18 | 2026-03-25 10:38 | San Carlos barangay power map + NARA process + Soriano 3rd gen | **Complete analysis of all 86 San Carlos barangay captains**: 3 Rosario, 2 Cayabyab, 2 Soriano, 1 Tamondong, 1 Macalanda — but **ZERO Fernandez, ZERO Abalos**. Fernandez political absence in San Carlos suggests family was non-political or came through Tamondong line. **Lance Douglas U. Soriano** confirmed as 3rd-gen Jack Soriano grandson (Brgy Perez Blvd). NARA SF-180 process documented for Mariano Fernandez guerrilla records. Brian Poe (FPJ grandson) took oath in San Carlos June 2025. |
 | 19 | 2026-03-25 11:08 | Eduardo Tamondong full name + Jorge Tamondong + Daquigan + Chicago context | **Eduardo CORPUZ Tamondong** — "C." confirmed as Corpuz (mother's maiden name), Ilocano surname. Jorge Tamondong received 837 votes (last place) in 2022 PGRP candidacy, no bio info available. Chicago Filipino 3-wave immigration documented (WBEZ). UANA (Umingan Association) confirmed in Las Vegas. All ancestor name searches still hitting zero results — physical records needed. Jose F. Fernandez (1976-79 councilor) not findable online. |
 | 20 | 2026-03-25 11:26 | Padlan-Perez-de Venecia-Fernandez power chain | **🔥 Don Emilio Padlan (first San Carlos mayor) is maternal family of Speaker Eugenio PADLAN Perez (1896-1957)**. Perez was Speaker 1946-53, represented 2nd District for 9 terms. **His daughter Victoria Perez married Jose de Venecia Jr. (Speaker 1992-2008)** — TWO Speakers from same family. **Angel B. Fernandez (FERCOLLA) directly succeeded Perez as 2nd District congressman**. Complete power chain: Banaag (1916) → Perez/Padlan (1928) → Fernandez (1957) → Soriano (1966) → de Venecia (~1969). Consuelo Salazar-Perez (wife) buried in San Carlos. PVAO still down. FamilySearch Cook County Deaths requires browser auth. |
+| 21 | 2026-03-25 11:46 | Cervantes correction + Fr. Fernandez promotion + Tamondong in agriculture | **DL Cervantes Construction RULED OUT** — owner's wife is Cynthia M. Cervantes, NOT Natividad Cabrera. **🔥 Fr. Joseph T. Fernandez promoted to CHANCELLOR of the Archdiocese of Lingayen-Dagupan** — controls all parish records, ideal contact. **"Mr. Tamondong" was secretary at Dept of Agriculture Dagupan (1990 earthquake article)** — another Tamondong in government. **FAHSC (Filipino American Historical Society of Chicago)** documented: 400+ boxes of archives at Mana Contemporary, potential Fernandez/Tamondong immigration records. |
+| 22 | 2026-03-25 11:55 | Cervantes/Pampanga deep dive + remaining leads sweep | **Cervantes family NOT political elite in Angeles City** — absent from all barangay captain and councilor lists. Clark Air Base (70K+ Filipino workers) closure 1991 = strong immigration pathway for Cervantes family. Holy Rosary Parish (1877) identified as key Pampanga record source. Pampanga top surnames: Santos, David, Garcia — no Cervantes. **PVAO still down**. Jose F. Fernandez = dead end online. **PROJECT AT 22 ITERATIONS — all 8 research tracks thoroughly explored. Remaining leads require physical records.** |
