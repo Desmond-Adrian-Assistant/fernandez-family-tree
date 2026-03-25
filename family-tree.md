@@ -47,8 +47,8 @@ graph TD
     %% === CERVANTES SIDE (Mother's) ===
     
     %% Grandparents - Cervantes
-    DC["Diosdados Cervantes<br/>deceased"] --- DC_NC
-    NC["Natividad Cabrera Cervantes<br/>deceased"] --- DC_NC
+    DC["Diosdados Cervantes<br/>📍 Angeles City, Pampanga"] --- DC_NC
+    NC["Natividad Cabrera Cervantes<br/>📍 Angeles City, Pampanga"] --- DC_NC
     DC_NC((" ")) --> JC
 
     %% Parents
@@ -92,4 +92,5 @@ graph TD
 - ✅ Bienvenido's parents: Mariano Fernandez & Victoriana Daquigan (FamilySearch marriage record)
 - ✅ Aurea's parents: Hilario Abalos & Filomena Rosario (FamilySearch marriage record)
 - ✅ Marriage location: San Carlos City, Pangasinan (FamilySearch)
-- ⬜ Cervantes side: needs research
+- ⬜ Cervantes side: from Angeles City, Pampanga — needs research
+- ℹ️ Janice has siblings still living in Angeles City

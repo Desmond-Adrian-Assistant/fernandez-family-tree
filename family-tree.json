@@ -82,12 +82,14 @@
       {
         "id": "DC", "name": "Diosdados Cervantes",
         "gender": "M", "generation": 4, "side": "maternal", "branch": "cervantes",
-        "notes": "Janice's father. Needs research."
+        "location": "Angeles City, Pampanga",
+        "notes": "Janice's father. From Angeles City, Pampanga. Needs research."
       },
       {
         "id": "NC", "name": "Natividad Cabrera Cervantes",
         "gender": "F", "generation": 4, "side": "maternal", "branch": "cervantes",
-        "notes": "Janice's mother. Maiden name Cabrera. Needs research."
+        "location": "Angeles City, Pampanga",
+        "notes": "Janice's mother. Maiden name Cabrera. From Angeles City, Pampanga. Needs research."
       },
       {
         "id": "RF", "name": "Raul Fernandez",
@@ -98,7 +100,7 @@
         "id": "JC", "name": "Janice Cervantes",
         "gender": "F", "generation": 5,
         "parents": ["DC", "NC"],
-        "notes": "Maiden name Cervantes"
+        "notes": "Maiden name Cervantes. From Angeles City, Pampanga. Has siblings still in Angeles City."
       },
       {
         "id": "AF", "name": "Adrian Fernandez", "birth": "1987-03-02",

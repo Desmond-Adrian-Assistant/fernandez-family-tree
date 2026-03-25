@@ -42,5 +42,8 @@ You are running an automated research iteration for the Fernandez family tree pr
 - **MATERNAL SIDE (Cervantes)**: Janice Cervantes married Raul Fernandez
   - Janice's father: **Diosdados Cervantes**
   - Janice's mother: **Natividad Cabrera Cervantes** (maiden name Cabrera)
-  - Research this side too! Search FamilySearch, Ancestry, etc for Cervantes + Cabrera records in Philippines
+  - From **Angeles City, Pampanga** (NOT Pangasinan!)
+  - Janice has siblings still living in Angeles City
+  - Search FamilySearch, Ancestry, etc for Cervantes + Cabrera records in Pampanga, Philippines
+  - Angeles City = former US Clark Air Base area, large Kapampangan population
 - Key lead: The FERCOLLA Clan book (Fernandez-Cóquia-Llamas of Dagupan)
