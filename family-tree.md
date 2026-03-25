@@ -51,9 +51,14 @@ graph TD
     EN["Engracia Nazario"] --- IC_EN
     IC_EN((" ")) --> DC
 
+    %% Great Grandparents - Cabrera
+    TC["Teotimo Cabrera"] --- TC_MB
+    MB["Maria Banaag"] --- TC_MB
+    TC_MB((" ")) --> NC
+
     %% Grandparents - Cervantes
     DC["Diosdado Cervantes<br/>b. 1925<br/>📍 Angeles City, Pampanga"] --- DC_NC
-    NC["Natividad Cabrera<br/>📍 Angeles City, Pampanga"] --- DC_NC
+    NC["Natividad Cabrera<br/>b. 1923<br/>📍 Angeles City, Pampanga"] --- DC_NC
     DC_NC((" ")) --> JC
 
     %% Parents
@@ -75,9 +80,9 @@ graph TD
     classDef connector fill:none,stroke:none
 
     class ARA,AF,KF,KiF living
-    class JT,JPag,PF,MV,DD,BB,JA,CT,FR,JGut,MaF,VD,HA,FilR,BF,IC,EN,DC,NC deceased
+    class JT,JPag,PF,MV,DD,BB,JA,CT,FR,JGut,MaF,VD,HA,FilR,BF,IC,EN,TC,MB,DC,NC deceased
     class RF,JC current
-    class JT_JP,PF_MV,DD_BB,JA_CT,FR_JG,MaF_VD,HA_FR,BF_ARA,IC_EN,DC_NC,RF_JC connector
+    class JT_JP,PF_MV,DD_BB,JA_CT,FR_JG,MaF_VD,HA_FR,BF_ARA,IC_EN,TC_MB,DC_NC,RF_JC connector
 ```
 
 ## Legend
