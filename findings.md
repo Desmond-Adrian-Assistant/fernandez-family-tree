@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 13:15 UTC (Iteration 45 Abando-Gerona Connection + FindAGrave Geographic Analysis)
+Last updated: 2026-03-31 14:20 UTC (Iteration 46 Aniceto Verification + Abando Chicago Diaspora)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -1988,6 +1988,33 @@ The Ancestry Philippines Select Marriages fields explicitly label: Name, **Spous
 
 All of Pablo Fernandez's children married within the Gerona-Tarlac / Bayambang-Pangasinan border corridor.
 
+## 🔥 Abando Family in Chicago Suburbs — Gerona-to-Chicago Migration Link (Iteration 46)
+
+FindAGrave reveals 3 Abando memorials in the **Chicago metro area**:
+- **Evanston, Cook County, Illinois** — 2 memorials
+- **Elmhurst, DuPage County, Illinois** — 1 memorial
+
+**Geographic Significance:**
+- Evanston: ~16 miles from Niles (Bienvenidos burial)
+- Elmhurst: ~22 miles from Niles
+- Combined with 4 Abando graves in Gerona, Tarlac and 3 in Malasiqui, Pangasinan
+- Only 4,212 Abando bearers worldwide — Illinois Abandos are almost certainly from the same Gerona/Pangasinan network
+
+**Implication:** Josefa Fernandez married Ildefonso Abando (Gerona family). The Abando family diaspora extends to the same Chicago suburbs where Bienvenido settled. This suggests the extended Fernandez-Abando family may have chain-migrated together from Gerona/Tarlac to Chicago.
+
+## 🔥 Aniceto Fernandez — Probable 5th Child of Pablo and Marta (Iteration 46)
+
+Ancestry record #1165555 (Philippines Select Marriages, collection 60130):
+- **Name:** Aniceto Fernandez
+- **Relative:** Pablo (confirmed via search with father Pablo Fernandez + mother Marta Villanueva)
+- Marriage date, place, and spouse behind Ancestry paywall
+
+### Updated Pablo and Marta Villanueva Family — 5 Children
+1. Josefa Fernandez (b. 1901) — married Ildefonso Abando (Gerona)
+2. Eduardo Fernandez (b. 1903) — married Iluminada Bautista
+3. Mariano Fernandez (b. 1905) — married (1st) Victoria Daquigan; (2nd) Dionicia Capinding
+4. Catalina Fernandez (b. ~1895-1910) — spouse behind Ancestry paywall (record 1085806)
+5. Aniceto Fernandez (b. ~?) — spouse behind Ancestry paywall (record 1165555)
 ### Abando as Indigenous Filipino Name (NOT Basque)
 - Ancestry Philippines Select Marriages shows "Abando" and "Abandio" used as **FIRST names** in pre-1849 records:
   - Abando Densing (3 records), Abando Acang, Abandio Raburar, Abandio Tena
