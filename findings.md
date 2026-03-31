@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 05:34 UTC (Iteration 37 Ancestry SS + Geni Tamondong)
+Last updated: 2026-03-31 05:50 UTC (Iteration 38 Daquigan US Diaspora)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -311,6 +311,31 @@ Adrian needs to log into Ancestry World Explorer trial to view these records.
 
 ### Edilberto A. Tamondong Sr. — Active Geni Profile
 - A living descendant manages this profile — potential contact
+
+## 🔥 Daquigan US Diaspora — Multiple Relatives Found (Iteration 38)
+
+### Jose B Daquigan — US Daquigan Relative (Died 1991)
+- **Name:** Jose B Daquigan
+- **Death year:** 1991 (3 years before Bienvenido)
+- **Source:** Ancestry SS Applications & Claims Index (record #813440429)
+- With only ~1,781 Daquigan bearers worldwide, almost certainly related to Victoria Daquigan
+- Full record details behind Ancestry paywall
+
+### Cecilia Joaquin Daquigan — Another US Daquigan (Died 2002)
+- **Born:** Philippines
+- **Died:** 2002
+- **Alternate names:** Cecilia J Daquigan, Cecilia Joaquin Joaquin
+- **Source:** Ancestry SS Applications & Claims Index (record #36942451)
+
+### FindAGrave: 34 Daquigan Memorials Worldwide
+- **Gerona, Tarlac:** ~15 memorials (confirms Gerona as Daquigan homeland)
+- **US (11 total):** California + Hawaii concentrated. Also Charleston SC, Renton WA.
+- **NO Daquigan graves in Illinois/Chicago**
+- **Long Beach CA:** Two Daquigans in same plot (Benevolence, Map 5, Lot 1553) = family plot
+
+### Margarita A Fernandez / Margarita A Abalos — Potential Relative
+- Found in SS Apps & Claims with alternate name "Margarita A Abalos"
+- Could be a relative of Aurea Abalos who married a Fernandez
 
 ## Confirmed Facts
 - Family has connections to both **Tarlac** (Fernandez-Daquigan) and **Pangasinan** (Abalos-Rosario, Tamondong)
