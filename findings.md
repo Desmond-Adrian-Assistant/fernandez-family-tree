@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 05:57 UTC (Iteration 39 Ancestry Tree + Immigration Search)
+Last updated: 2026-03-31 09:50 UTC (Iteration 42 Pablo & Marta Children Expanded + WWII Assessment)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -1875,3 +1875,85 @@ Barangay #22 in San Carlos City is named "Burgos-Padlan":
 - **Files 185-1 through 185-30** (Army of the Agno) — local Pangasinan guerrilla force
 - **File 308-23** (ECLGA/PTMD) — Col. Ramsey's guerrilla network in San Carlos area
 - All require physical NARA visit (College Park, MD) or SF-180 form request by family member
+
+## 🔥🔥 Pablo & Marta's Children — NEW Siblings Discovered (Iteration 41)
+
+### Ancestry Collection 60130 (Philippines Select Marriages) — Children Confirmed
+
+Searching Ancestry for children with parents Pablo Fernandez + Marta Villanueva returned marriage records for THREE children:
+
+| Child | Record ID | Relatives Listed | Status |
+|-------|-----------|-----------------|--------|
+| **Eduardo Fernandez** | 1346541 | Pablo, Marta, **Iluminado** | Known (b. 1903) |
+| **Mariano Fernandez** | 3179793 | Pablo, Marta, **Dionicia** | Known (b. 1905) |
+| **Catalina Fernandez** | 1085806 | (behind paywall) | 🔥 **NEW SIBLING** |
+
+### Catalina Fernandez — Previously Unknown Sibling
+- Daughter of Pablo Fernandez + Marta Villanueva
+- Marriage record exists on Ancestry (collection 60130, record 1085806)
+- Likely born between ~1895-1910
+- NOT in the FamilySearch tree (which only listed Josefa, Eduardo, Mariano)
+- **Full details (spouse, marriage date, location) require Ancestry login**
+
+### Iluminado — NEW Name (Relationship Uncertain)
+- Listed as a relative on Eduardo Fernandez's marriage record (1346541)
+- Could be: another sibling, Eduardo's child, or spouse's relative
+- "Iluminado" is Filipino masculine name (from Latin "illuminatus" = enlightened)
+- If a sibling, expands Pablo & Marta's family to at least 5 children
+
+### Updated Pablo & Marta Villanueva Family
+1. Josefa Fernandez (b. 1901) — FamilySearch tree + Ancestry record 665092 (married **Ildefonso [surname unknown]**)
+2. Eduardo Fernandez (b. 1903) — FamilySearch tree + Ancestry record 1346541 (third name: Iluminado — uncertain if sibling or spouse)
+3. **Mariano Fernandez** (b. 1905) — FamilySearch tree + Ancestry record 3179793 (married Dionicia Capinding as 2nd wife)
+4. **Catalina Fernandez** (b. ~1895-1910) — 🔥 NEW Ancestry record 1085806
+5. **Iluminado** (possibly Fernandez) — from Eduardo's record (relationship TBD)
+6. **Aniceto Fernandez?** — Ancestry record 1165555 needs verification of parentage
+
+### Marriage Record "Relatives" Field = Father + Mother + Spouse (Iteration 42)
+The Ancestry Philippines Select Marriages "Relatives" field lists: Father, Mother, + third person = **spouse**.
+- Mariano's third name = Dionicia (confirmed wife Dionicia Capinding) → proves third name = spouse
+- Josefa's third name = **Ildefonso** → Josefa's husband
+- Eduardo's third name = **Iluminado** → possibly Eduardo's spouse or witness (masculine name is odd for wife)
+
+### Josefa Fernandez Married "Ildefonso" — NEW (Iteration 42)
+- Ancestry record 665092 ("Josefa Fermandez" — OCR misspelling)
+- Relatives: Pablo, Marta, **Ildefonso**
+- Full details (surname, date, location) behind Ancestry paywall
+
+### Mariano Fernandez WWII Records — Assessment (Iteration 42)
+- Mariano never emigrated to the US → NOT in US military databases (Ancestry, Fold3)
+- Philippine guerrilla records (NARA RG 407) are NOT digitized online
+- Key NARA files: 185-1 to 185-30 (Army of the Agno), 308-23 (ECLGA/PTMD)
+- PVAO database blocked by Cloudflare
+- **Only paths**: Physical NARA visit (College Park, MD) or SF-180 request by family member (Raul)
+
+### Pablo Fernandez Death — 1955, San Carlos City (Confirmed Iteration 40)
+- Ancestry collection 60128 record 1575015
+- Died in **San Carlos City, Pangasinan** — confirms family home base
+
+### Marta Villanueva/Fernandez Death — Possibly 1955
+- Ancestry death record 362831: "Marta Fernandez" death **1955** in Pangasinan area
+- **Same year as Pablo's death** — both may have died in 1955
+- Other Marta Fernandez deaths: 1927 (too early), 1947 (×2), 1949
+- **Record 362831 is strongest candidate — requires Ancestry login to confirm location and maiden name**
+
+### Mariano Fernandez — Two Marriage Records on Ancestry
+- Record 3179793: relatives Pablo, Marta, **Dionicia** (= Dionicia Capinding, 2nd wife)
+- Record 1026719: also a Mariano Fernandez marriage with similar relatives
+- One is likely marriage to Victoria Daquigan, the other to Dionicia Capinding
+- **Full dates and locations require Ancestry login**
+
+## FindAGrave: Des Plaines Tamondong — 8 Miles from Bienvenido's Burial (Iteration 41)
+
+94 total Tamondong memorials on FindAGrave worldwide. Key finding:
+- **Des Plaines, Cook County, Illinois — Section 1** — a Tamondong burial only 8 miles from Niles (Bienvenido's burial)
+- Confirms Tamondong family presence in the same northwest Chicago suburbs as the Fernandez family
+- Previously documented: Jessica Tamondong Rhee (State Farm agent, Chicago) + Des Plaines Tamondong burial (iteration 34)
+- This corroborates the Tamondong-Fernandez Chicago connection — both families settled in the same area
+
+### Pangasinan Tamondong Graves — Geographic Distribution
+- Mangaldan (3 memorials) — Abalos political stronghold
+- Asingan (3) — borders Laoac (Bienvenido A. Tamondong territory)
+- Aguilar (2) — western Pangasinan
+- Pozorrubio, Santa Barbara, Urdaneta, Malasiqui, Calasiao (1 each)
+- **NO memorials in San Carlos City** (likely not cataloged)
