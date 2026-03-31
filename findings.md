@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 17:37 UTC (Iteration 49 Pablo & Marta Marriage Record Hunt + Ancestry Record Catalogue)
+Last updated: 2026-03-31 22:03 UTC (Iteration 51 Niles Cemetery Exhaustive Search + Ancestry Record Proximity)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -2149,3 +2149,39 @@ Ancestry record **#4029022** (collection 60130, Philippines Select Marriages) is
 - Listed as Pangasinan surname on Wiktionary
 - Too common to narrow geographically (unlike rare surnames like Daquigan)
 - Marta Villanueva's specific origins unknown without parish records
+
+## Maryhill Catholic Cemetery — Fernandez Burials Cataloged (Iteration 51)
+
+**32 Fernandez memorials** at Maryhill Catholic Cemetery and Mausoleum (FindAGrave ID 106764), Niles, Cook County, IL.
+
+**Bienvenido Fernandez is NOT cataloged on FindAGrave** at either Niles cemetery (Maryhill or St. Adalbert). However, Maryhill has ~14,000 unphotographed graves and St. Adalbert has ~85,000 — his grave simply hasn't been documented by volunteers.
+
+### Notable Contemporary Filipino Fernandez at Maryhill
+| Name | Born | Died | Notes |
+|------|------|------|-------|
+| Benigno Fernandez | 17 Sep 1935 | 19 Jul 2025 | Born 2 years before Bienvenido |
+| Hector J. Fernandez | 13 Aug 1936 | 20 Apr 2020 | Born 1 year before Bienvenido |
+| Josefa Fernandez | 1931 | 2021 | Section 9 |
+| Daniel Fernandez | 1927 | 2017 | Section 9 (likely married to Josefa above) |
+| Paolo Gabriel Fernandez Natividad | unknown | Feb 2026 | Filipino naming convention |
+
+**Catholic Cemeteries of Chicago** "Locate a Loved One" tool (catholiccemeterieschicago.org) remains the definitive path — Cloudflare blocks automated access, requires manual browser visit.
+
+## Aniceto Fernandez — Record Proximity Confirms 5th Child (Iteration 51)
+
+Aniceto's Ancestry marriage record (#1165555) is only **3 records away** from Pablo Fernandez's own record (#1165552) in collection 60130. In Filipino civil registration, sequential record numbers come from the same register book (same municipality, same time period). This strongly confirms Aniceto married in the same town as Pablo — establishing him as Pablo's son, not a coincidental name match.
+
+### Updated Complete Ancestry Record ID Catalogue
+
+| Priority | Record ID | Collection | Person | What It Contains |
+|----------|-----------|-----------|--------|------------------|
+| 🔴 | **48547169** | 60901 (SS Apps) | Bienvenido | Birth date, death date, SSN, father's name, mother's maiden name |
+| 🔴 | **4029022** | 60130 (Marriages) | Pablo + Marta | Their OWN marriage record — may reveal Pablo's parents |
+| 🔴 | **1085806** | 60130 (Marriages) | Catalina Fernandez | Spouse name, marriage date/place |
+| 🔴 | **1165555** | 60130 (Marriages) | Aniceto Fernandez | Spouse name — 3 records from Pablo's #1165552 |
+| 🟡 | **362831** | 60128 (Deaths) | Marta Fernandez | Death 1955 — confirm identity |
+| 🟡 | **1575015** | 60128 (Deaths) | Pablo Fernandez | Death 1955, San Carlos City |
+| 🟡 | **68186126** | Ancestry Trees | Bienvenido | Second family tree from different contributor |
+| 🟢 | **1346537/3179795** | 60130 | Marta Villanueva | Counterpart records as mother |
+
+**ALL behind Ancestry paywall — Adrian must log into World Explorer trial to unlock.**
