@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 22:03 UTC (Iteration 51 Niles Cemetery Exhaustive Search + Ancestry Record Proximity)
+Last updated: 2026-03-31 23:08 UTC (Iteration 52 Daquigan US Diaspora Deep Dive)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -2185,3 +2185,38 @@ Aniceto's Ancestry marriage record (#1165555) is only **3 records away** from Pa
 | 🟢 | **1346537/3179795** | 60130 | Marta Villanueva | Counterpart records as mother |
 
 **ALL behind Ancestry paywall — Adrian must log into World Explorer trial to unlock.**
+
+## 🔥 Francisco M. Daquigan — US Military Veteran (Iteration 52)
+
+- **Born:** December 4, 1910 (Philippines)
+- **Died:** June 5, 1970 (aged 59)
+- **Buried:** Saint Lawrence Cemetery, Charleston, Charleston County, South Carolina
+- **FindAGrave ID:** 48384244
+- **"M." middle initial** = mother's maiden name (Filipino naming convention)
+- **MILITARY VETERAN:** Headstone application in U.S. Headstone Applications for Military Veterans, 1861-1985
+- **Naturalized via Connecticut** — entered US through East Coast (possibly Navy/military service)
+- **Ancestry linked records:** SC Death Records, CT Naturalization, Military Headstone
+- FamilySearch tree lists Francisco Daquigan (b. ~1923) as child of Domingo Daquigan + Benita Bacarro
+- Birth date discrepancy (1910 vs ~1923 estimate) — may be same person (bad estimate) or uncle/cousin
+- With ~1,781 Daquigan bearers worldwide, almost certainly related to Victoria Daquigan
+- **ACTIONABLE:** NARA military service records requestable — would reveal enlistment details, next of kin
+
+## 🔥 Nestor Castillo Daquigan — Cagayan Daquigan Branch (Iteration 52)
+
+- **Born:** May 1, 1953 in **Claveria, Cagayan Province, Philippines**
+- **Died:** November 9, 2006 (aged 53) in **San Francisco, California**
+- **Buried:** Holy Cross Catholic Cemetery, Colma, San Mateo County, CA
+- **"Castillo" middle name** = mother's maiden name
+- **Ancestry linked:** CA Marriage Index 1960-85, SS Apps (#40534024), SSDI, CA Naturalization
+- Confirms a **separate Cagayan Province Daquigan branch** from the Gerona/Tarlac branch
+- Two distinct Daquigan Philippine branches now documented:
+  1. **Cagayan Province** (Nestor — Claveria; Mauro Daquigan b.1887 Cagayan from earlier research)
+  2. **Gerona, Tarlac** (Victoria — from Ilocos originally, political dynasty via Ronjie Daquigan)
+
+## SSDI: B. Fernandez Illinois 1994 — Two Candidates (Iteration 52)
+
+From Ancestry SSDI collection 3693, searching "B Fernandez" + death 1994:
+- **"A. B. Fernandez"** — died 1994 (location behind paywall) — record #18996711
+- **"B. Fernandez"** — died 1994 (location behind paywall) — record #18998749
+- One of these is almost certainly Bienvenido Daquigan Fernandez
+- **Both require Ancestry login to view birth date, death date, last residence, SSN**
