@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 03:15 UTC (Iteration 34 Corroboration)
+Last updated: 2026-03-31 05:34 UTC (Iteration 37 Ancestry SS + Geni Tamondong)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -275,6 +275,43 @@ All confirmed ancestor marriages follow the classic principalía pattern: ruling
 ### NEW: Leoferd Rosario Tamondong on Ancestry — confirms Rosario-Tamondong intermarriage
 ### Bacarro = Bacarra, Ilocos Norte — PLAUSIBLE 🟡
 ### Bienvenido Fernandez NOT on FindAGrave — needs Catholic Cemeteries manual inquiry
+## 🔥 Bienvenido Daquigan Fernandez — Ancestry SS Record Confirmed (Iteration 37)
+
+### U.S. Social Security Applications and Claims Index (Ancestry Collection 60901)
+- **Full name confirmed: "Bienvenido Daquigan Fernandez"**
+- Alternate names: "Bienvenido D Fernandez", "B Fernandez"
+- Record #48547169 exists — **requires Ancestry login to view full details**
+- Full record should contain: exact birth date, exact death date, SSN, state of issuance, fathers name, mothers maiden name, last known residence
+
+### U.S. Social Security Death Index (Ancestry Collection 3693)
+- **"B. Fernandez" — death 1994, Illinois** — matches Bienvenido perfectly
+
+### Aurea Fernandez — Also in SS Index
+- **"Aurea Fernandez"** appears in SS Applications and Claims Index (2 results)
+
+### ACTION REQUIRED
+Adrian needs to log into Ancestry World Explorer trial to view these records.
+
+## 🔥 Geni.com Tamondong Family Trees — 20 Profiles Found (Iteration 37)
+
+### Juan + Luis Tamondong — Brothers on Geni
+- **Juan Tamondong** and **Luis Tamondong** are listed as brothers
+- Luis married **Fausta Tamondong** (same surname — endogamous marriage)
+- Luis children include **Florencia Godoy** + 4 others
+- Could be Adrians ancestor Juan Tamondong (~1850) — needs verification
+
+### Romana Tamondong — Dagupan Tamondong via Fulgencio (NEW)
+- **Romana Tamondong** married **Pedro R. Fulgencio** in Dagupan
+- Son: **Cipriano T. Fulgencio** (b. 1923, Dagupan, Pangasinan)
+- Confirms Tamondong family presence in Dagupan in early 1900s
+
+### Maria Ordonio Tamondong — Tamondong-Soriano via Ordonio
+- Daughter of Calixto Ordonio + **Placida Soriano Ordonio**
+- Married **Jose Tamondong** — another Tamondong-Soriano intermarriage
+
+### Edilberto A. Tamondong Sr. — Active Geni Profile
+- A living descendant manages this profile — potential contact
+
 ## Confirmed Facts
 - Family has connections to both **Tarlac** (Fernandez-Daquigan) and **Pangasinan** (Abalos-Rosario, Tamondong)
 - Bienvenido Fernandez: born 22 March 1937 in Gerona, Tarlac; died 8 March 1994 in Chicago
