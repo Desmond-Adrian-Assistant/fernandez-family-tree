@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 03:00 UTC (Iteration 33 Deep History)
+Last updated: 2026-03-31 03:15 UTC (Iteration 34 Corroboration)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -255,6 +255,26 @@ The name **"Albalos"** appears in the Bibingka Catalog of Filipino Names (Hector
 All confirmed ancestor marriages follow the classic principalía pattern: ruling families marrying within their class to consolidate power and land. Documented marriages form a closed network:
 - Avalos ↔ Estrada, Avalos ↔ Peralta, Abalos ↔ Tamondong, Abalos ↔ Rosario, Fernandez ↔ Abalos, Daquigan ↔ Bacarro
 
+## 🔥 Corroboration Results (Iteration 34)
+
+### Simon Tamondong (1802) — CORROBORATED 🟡
+- Wikipedia article on Minor Basilica of St. Dominic fully verified
+- Complete gobernadorcillo lists found: 1770-73, 1802, 1878-90, 1912-15
+
+### Kingdom of Caboloan — CORROBORATED 🟢
+- Chinese tributary missions 1406-1411 confirmed via Scott citing Ming imperial records
+- ⚠️ Ari Kasikis disputed by historian Erwin Fernandez (2010, JSTOR 29792704)
+
+### Albalos = Indigenous Filipino Name — CORROBORATED 🟢
+- PRIMARY SOURCE: Hector Santos Bibingka Catalog (Wayback Machine archive)
+- Albalos explicitly listed among indigenous Filipino names surviving the 1849 Clavería Decree
+- Also found: Banaag, Acob, Baniqued, Batenga — ALL principalía family names
+
+### NEW: Tomasa Tamondong married Jose Cayabyab (Ancestry tree)
+### NEW: Tamondong burial in Des Plaines, Cook County, IL (FindAGrave) — 8 mi from Niles
+### NEW: Leoferd Rosario Tamondong on Ancestry — confirms Rosario-Tamondong intermarriage
+### Bacarro = Bacarra, Ilocos Norte — PLAUSIBLE 🟡
+### Bienvenido Fernandez NOT on FindAGrave — needs Catholic Cemeteries manual inquiry
 ## Confirmed Facts
 - Family has connections to both **Tarlac** (Fernandez-Daquigan) and **Pangasinan** (Abalos-Rosario, Tamondong)
 - Bienvenido Fernandez: born 22 March 1937 in Gerona, Tarlac; died 8 March 1994 in Chicago
