@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 05:50 UTC (Iteration 38 Daquigan US Diaspora)
+Last updated: 2026-03-31 05:57 UTC (Iteration 39 Ancestry Tree + Immigration Search)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -1837,3 +1837,41 @@ Barangay #22 in San Carlos City is named "Burgos-Padlan":
 - **Padlan** = Don Emilio Padlan's principalía family (first San Carlos mayor, maternal family of Speaker Eugenio Perez)
 - A barangay carrying the family name confirms foundational principalía status
 - Current captain: Loreto DV. Baguio
+
+## 🔥 NEW: Ancestry Tree #68186126 — Second Family Tree Found (Iteration 39)
+
+- **URL:** https://www.ancestry.com/family-tree/person/tree/68186126/person/42177724137
+- A SEPARATE Ancestry user tree (distinct from FamilySearch tree by Magday/Kristine8553)
+- Preview shows redacted Father, Mother, Children, Birth, Death fields
+- Birth listed as Philippines, Death as 1994
+- **Requires Ancestry login to view full details** — may contain new siblings, children, or source information
+
+## Geni: Juan & Luis Tamondong — Profile IDs Confirmed (Iteration 39)
+
+- **Juan Tamondong** — Geni profile ID: 6000000016169609747
+- **Luis Tamondong** — Geni profile ID: 6000000016169609781
+- Siblings confirmed on Geni
+- Luis married Fausta Tamondong (endogamous), father of Florencia Godoy + 3 private profiles
+- Juan profile requires Geni login for full details (dates, parents, locations, children)
+- **If this is Adrian's ancestor Juan Tamondong (~1850)**, the Geni tree would confirm the Tamondong lineage with dates
+
+## Immigration Records — 1981 Chicago Arrival (Iteration 39)
+
+### Searches Exhausted (Online)
+- Ancestry passenger lists: only cover through 1957
+- Ancestry naturalization records: only cover through 1943
+- Ancestry immigration category: zero results for Bienvenido + Philippines + Illinois
+- INS/post-1965 arrival records: NOT digitized on any public genealogy site
+
+### Where Immigration Records Likely Exist
+1. **USCIS A-files** (Alien Registration files) — requestable via FOIA by direct family members
+2. **INS records at NARA** — post-1957 arrivals not yet digitized
+3. **Cook County Clerk's office** — Illinois naturalization records (not online)
+4. **Bienvenido's SS Application (record #48547169)** — should contain SSN issuance date (proxy for arrival)
+5. **Raul Fernandez's naturalization certificate** — would contain arrival date, port of entry, immigration details
+
+### Mariano Fernandez WWII Records — Likely Locations
+- **NARA Record Group 407, Entry 1087** — Philippine guerrilla/PA files
+- **Files 185-1 through 185-30** (Army of the Agno) — local Pangasinan guerrilla force
+- **File 308-23** (ECLGA/PTMD) — Col. Ramsey's guerrilla network in San Carlos area
+- All require physical NARA visit (College Park, MD) or SF-180 form request by family member
