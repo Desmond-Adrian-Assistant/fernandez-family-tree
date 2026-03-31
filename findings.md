@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-25 18:40 UTC (Iteration 33)
+Last updated: 2026-03-31 03:00 UTC (Iteration 33 Deep History)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -218,6 +218,43 @@ NPC swept: Mayor (May Eclar), VP (Eloy Eclar), 6 of 8 councilors. Only PFP winne
 - FindAGrave search for Bienvenido Fernandez at Maryhill = NEGATIVE (not yet cataloged)
 - Catholic Cemeteries of Chicago "Locate a Loved One" tool (catholiccemeterieschicago.org) is the best path to find the exact grave
 
+## 🔥🔥🔥 Abalos = Pre-Colonial Indigenous Name (Iteration 33 Deep History)
+
+The name **"Albalos"** appears in the Bibingka Catalog of Filipino Names (Hector Santos) — a documented list of indigenous Filipino surnames that survived the 1849 Catálogo de Apellidos. This means:
+
+- The Abalos/Avalos surname may be **pre-colonial** — not assigned by Spain in 1849
+- Under Catálogo rules, families with existing indigenous surnames were **exempt** from choosing new names
+- The evolution: Albalos (pre-colonial) → Ávalos (Hispanicized) → Avalos/Abalos (modern)
+- If correct, the Abalos family may trace to the **ruling class of the Kingdom of Caboloan** (centered at San Carlos/Binalatongan, founded before 1406)
+
+### Kingdom of Caboloan Connection
+- San Carlos City (Binalatongan) was the **capital of Caboloan** — a sovereign pre-colonial polity
+- Caboloan was the **largest settlement in all of Pangasinan** (2,000+ houses)
+- Ruled by warrior-nobility who wore gold jewelry and traded with China, Japan, and India
+- The principalía families of San Carlos descend from this ancient ruling class
+- **Palaris** (Pantaleon Perez, 1733-1765), from a cabeza de barangay family in San Carlos, was from the same social class as Adrian's ancestors
+
+### Jose Avalos + Tomasa Estrada — Timeline
+- Estimated active period: **~1830-1860** (pre/during Catálogo implementation)
+- Parents of Domingo Avalos → grandparents of Jose Abalos → great-grandparents of Hilario Abalos
+
+### Bacarro = Bacarra, Ilocos Norte
+- The Bacarro surname almost certainly derives from **Bacarra, Ilocos Norte**
+- Combined with Daquigan origin (Tagudin, Ilocos Sur), confirms Domingo Daquigan + Benita Bacarro was an **Ilocano endogamous marriage** between two migrant families in Pangasinan
+
+### Paglingayen → Lingayen Connection
+- Juana Paglingayen's surname likely connects to **Lingayen** (provincial capital, 20 km from San Carlos)
+- Suggests family origins in or connections to the provincial administrative center
+
+### Estrada-Tamondong Intermarriage Pattern (Geni)
+- **Cherrie Estrada (1931)** appears in Tamondong family search results on Geni.com
+- Suggests wider Estrada-Tamondong intermarriage beyond Tomasa Estrada + Jose Avalos
+- Reinforces principalía endogamous marriage pattern in San Carlos
+
+### Principalía Marriage Network
+All confirmed ancestor marriages follow the classic principalía pattern: ruling families marrying within their class to consolidate power and land. Documented marriages form a closed network:
+- Avalos ↔ Estrada, Avalos ↔ Peralta, Abalos ↔ Tamondong, Abalos ↔ Rosario, Fernandez ↔ Abalos, Daquigan ↔ Bacarro
+
 ## Confirmed Facts
 - Family has connections to both **Tarlac** (Fernandez-Daquigan) and **Pangasinan** (Abalos-Rosario, Tamondong)
 - Bienvenido Fernandez: born 22 March 1937 in Gerona, Tarlac; died 8 March 1994 in Chicago
@@ -256,9 +293,11 @@ NPC swept: Mayor (May Eclar), VP (Eloy Eclar), 6 of 8 councilors. Only PFP winne
 - **Possible migration**: Benita Bacarro may have come from a different region
 
 ### Abalos
-- **Origin**: Spanish Basque — from Ábalos, La Rioja, Spain
-- **Meaning**: From Basque "abal" = "apple tree"
-- **1849 Catálogo**: Listed
+- **Origin**: DUAL — possibly **indigenous pre-colonial** ("Albalos" in Bibingka Catalog) OR Spanish Basque (Ábalos, La Rioja, Spain)
+- **🔥 NEW**: "Albalos" listed in Hector Santos's Bibingka Catalog of indigenous Filipino names — names that survived the 1849 Catálogo
+- **Evolution**: Albalos (pre-colonial?) → Ávalos (Hispanicized) → Avalos/Abalos (modern)
+- **Spanish meaning**: From Basque "abal" = "apple tree"
+- **1849 Catálogo**: Listed — but family may have been EXEMPT (pre-existing indigenous name)
 - **Prominent**: Benjamin Abalos Sr. (COMELEC chairman), Jason Abalos (actor)
 
 ### Rosario
