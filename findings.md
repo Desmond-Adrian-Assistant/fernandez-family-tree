@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 09:50 UTC (Iteration 42 Pablo & Marta Children Expanded + WWII Assessment)
+Last updated: 2026-03-31 10:53 UTC (Iteration 43 Eduardo Spouse Confirmed + Catalina Search)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -1895,25 +1895,29 @@ Searching Ancestry for children with parents Pablo Fernandez + Marta Villanueva 
 - NOT in the FamilySearch tree (which only listed Josefa, Eduardo, Mariano)
 - **Full details (spouse, marriage date, location) require Ancestry login**
 
-### Iluminado — NEW Name (Relationship Uncertain)
-- Listed as a relative on Eduardo Fernandez's marriage record (1346541)
-- Could be: another sibling, Eduardo's child, or spouse's relative
-- "Iluminado" is Filipino masculine name (from Latin "illuminatus" = enlightened)
-- If a sibling, expands Pablo & Marta's family to at least 5 children
+### 🔥 Eduardo's Spouse Confirmed: Iluminado/a Bautista (Iteration 43 CORRECTION)
+- Ancestry search preview explicitly labels: `Spouse: Iluminado Bautista` on Eduardo's record (#1346541)
+- Previous iterations (41-42) incorrectly speculated Iluminado was a sibling or unknown relative
+- "Iluminado/a" is a Filipino Spanish given name; likely **Iluminada** (feminine) with OCR dropping final -a
+- **Bautista** = one of the most common Filipino surnames
+- Eduardo Fernandez (b. 1903) married Iluminada Bautista — confirms a Fernandez-Bautista alliance
 
-### Updated Pablo & Marta Villanueva Family
-1. Josefa Fernandez (b. 1901) — FamilySearch tree + Ancestry record 665092 (married **Ildefonso [surname unknown]**)
-2. Eduardo Fernandez (b. 1903) — FamilySearch tree + Ancestry record 1346541 (third name: Iluminado — uncertain if sibling or spouse)
-3. **Mariano Fernandez** (b. 1905) — FamilySearch tree + Ancestry record 3179793 (married Dionicia Capinding as 2nd wife)
-4. **Catalina Fernandez** (b. ~1895-1910) — 🔥 NEW Ancestry record 1085806
-5. **Iluminado** (possibly Fernandez) — from Eduardo's record (relationship TBD)
-6. **Aniceto Fernandez?** — Ancestry record 1165555 needs verification of parentage
+### Updated Pablo & Marta Villanueva Family (CORRECTED Iteration 43)
+1. Josefa Fernandez (b. 1901) — married **Ildefonso [surname behind paywall]** (Ancestry record 665092)
+2. Eduardo Fernandez (b. 1903) — married **Iluminado/a Bautista** (Ancestry record 1346541) ← CONFIRMED SPOUSE
+3. **Mariano Fernandez** (b. 1905) — married (1st) Victoria Daquigan; (2nd) Dionicia Capinding (Ancestry record 3179793)
+4. **Catalina Fernandez** (b. ~1895-1910) — married [spouse behind paywall] (Ancestry record 1085806)
+5. **Aniceto Fernandez?** — Ancestry record 1165555 needs verification of parentage
 
-### Marriage Record "Relatives" Field = Father + Mother + Spouse (Iteration 42)
-The Ancestry Philippines Select Marriages "Relatives" field lists: Father, Mother, + third person = **spouse**.
-- Mariano's third name = Dionicia (confirmed wife Dionicia Capinding) → proves third name = spouse
-- Josefa's third name = **Ildefonso** → Josefa's husband
-- Eduardo's third name = **Iluminado** → possibly Eduardo's spouse or witness (masculine name is odd for wife)
+**NOTE:** Iluminado is NOT a sibling — this corrects iterations 41-42.
+
+### Marriage Record "Relatives" Field = Father + Mother + Spouse (Iteration 42-43)
+The Ancestry Philippines Select Marriages fields explicitly label: Name, **Spouse**, Mother, Father.
+- Mariano's spouse = Dionicia Capinding (confirmed 2nd wife)
+- Josefa's spouse = **Ildefonso** (surname behind paywall, record 665092)
+- Eduardo's spouse = **Iluminado Bautista** ← 🔥 CONFIRMED Iteration 43 (Ancestry search preview shows explicit "Spouse" field label)
+- "Iluminado/Iluminada" is a Filipino Spanish name (masc/fem), likely **Iluminada Bautista** (feminine form; OCR may have dropped final -a)
+- **Bautista** = very common Filipino surname, confirms mainstream Pangasinan family
 
 ### Josefa Fernandez Married "Ildefonso" — NEW (Iteration 42)
 - Ancestry record 665092 ("Josefa Fermandez" — OCR misspelling)
