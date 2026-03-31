@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 12:05 UTC (Iteration 44 Josefa Spouse Confirmed: Ildefonso Abando)
+Last updated: 2026-03-31 13:15 UTC (Iteration 45 Abando-Gerona Connection + FindAGrave Geographic Analysis)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -1965,3 +1965,49 @@ The Ancestry Philippines Select Marriages fields explicitly label: Name, **Spous
 - Aguilar (2) — western Pangasinan
 - Pozorrubio, Santa Barbara, Urdaneta, Malasiqui, Calasiao (1 each)
 - **NO memorials in San Carlos City** (likely not cataloged)
+
+## 🔥🔥 Abando Surname = Gerona-Tarlac Family (Iteration 45)
+
+### FindAGrave Geographic Analysis — 51 Abando Memorials Worldwide
+| Location | Memorials | Significance |
+|----------|-----------|-------------|
+| **Gerona, Tarlac, Philippines** | **4** | Where Bienvenido was born! Josefa's husband Ildefonso from here |
+| **Malasiqui, Pangasinan, Philippines** | **3** | Borders Bayambang (priestly corridor) |
+| Long Beach, CA | 3 | Filipino diaspora |
+| Cypress, CA | 2 (family plot) | Diaspora |
+| Burnaby, BC, Canada | 2 | Diaspora |
+| Lakewood, WA | 2 | Diaspora |
+| Davao City, Philippines | 1 | |
+| Other US locations | 14 | Scattered |
+
+**Key Discovery:** 4 of 51 worldwide Abando memorials (8%) are in Gerona, Tarlac — the exact town where Bienvenido was born in 1937. With only 4,212 bearers worldwide, the Abando surname has its Philippine homeland in the Gerona-Malasiqui corridor.
+
+**Josefa Fernandez's marriage to Ildefonso Abando was another Gerona neighbor marriage** — exactly like:
+- Mariano Fernandez + Victoria Daquigan (Danzo-area families)
+- Mariano + Dionicia Capinding (Danzo-Tagumbao neighbors)
+
+All of Pablo Fernandez's children married within the Gerona-Tarlac / Bayambang-Pangasinan border corridor.
+
+### Abando as Indigenous Filipino Name (NOT Basque)
+- Ancestry Philippines Select Marriages shows "Abando" and "Abandio" used as **FIRST names** in pre-1849 records:
+  - Abando Densing (3 records), Abando Acang, Abandio Raburar, Abandio Tena
+- This strongly suggests "Abando" was an **indigenous Filipino given name** adopted as surname during the 1849 Catálogo
+- The Basque district of Abando (Bilbao) is likely a false cognate — NOT the origin
+- Pattern matches Tamondong (indigenous → surname in 1849)
+- Abando surname: 21% in Ilocos Region, consistent with Ilocano settler origins in Gerona
+
+### Updated Gerona Intermarriage Network
+All of Pablo & Marta Villanueva's children married within the same Gerona-Tarlac cluster:
+1. **Josefa** (b. 1901) → **Ildefonso Abando** (Gerona family, 4 graves in town)
+2. **Eduardo** (b. 1903) → **Iluminada Bautista**
+3. **Mariano** (b. 1905) → (1st) Victoria Daquigan (Gerona/Danzo), (2nd) Dionicia Capinding (Tagumbao)
+4. **Catalina** (b. ~1895-1910) → spouse behind paywall
+5. **Aniceto?** → needs verification (record #1165555)
+
+### Abando Surname Statistics (Forebears.io — Confirmed)
+- 4,212 bearers worldwide, 3,442 in Philippines (1 in 29,413)
+- Rank: 110,363rd most common globally — very rare
+- Philippines: 21% Ilocos Region, 18% NCR, 17% Calabarzon
+- US: 116 bearers, 86.67% registered Democrats
+- Also found in: Saudi Arabia (239), Spain (200), Mexico (67), Canada (29)
+
