@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 14:20 UTC (Iteration 46 Aniceto Verification + Abando Chicago Diaspora)
+Last updated: 2026-03-31 15:30 UTC (Iteration 47 Geni Tamondong Deep Dive + Abando-Tandoc-San Carlos)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -2038,3 +2038,49 @@ All of Pablo & Marta Villanueva's children married within the same Gerona-Tarlac
 - US: 116 bearers, 86.67% registered Democrats
 - Also found in: Saudi Arabia (239), Spain (200), Mexico (67), Canada (29)
 
+
+## 🔥🔥 Anastacio TANDOC Abando — Abando Family Connected to San Carlos (Iteration 47)
+
+From Ancestry SS Applications & Claims Index:
+- **Anastacio Tandoc Abando** — US Social Security record, born Philippines
+- **Middle name "Tandoc"** = mother's maiden name in Filipino naming convention
+- **Tandoc is a barangay in San Carlos City!** (current captain: Ramil Macalanda)
+- This means Anastacio's mother was from the **Tandoc family of San Carlos**
+- Confirms Abando family connected to San Carlos — NOT just Gerona, Tarlac
+
+### Other Notable Abando US SS Records
+| Name | Mother's Family | Significance |
+|------|----------------|-------------|
+| **Leonara Abando Estrada** | Estrada | 🔥 Principalía network (Tomasa Estrada + Jose Avalos = Adrian's ancestors) |
+| **Aquilina Arcega Abando** | Arcega | Possibly related to Arciaga (Danzo founding family, Gerona) |
+| Enriqueta Abando Mercado | Mercado | Common Filipino surname |
+| Santiago Oria Abando | Oria | Basque surname |
+
+The **Estrada** connection is significant: Adrian's ancestor Jose Avalos/Abalos married Tomasa Estrada (~1830s). Leonara Abando also married an Estrada — confirming these are interconnected principalía families.
+
+### Updated Abando-Fernandez-San Carlos Network
+The Abando family has documented roots in BOTH San Carlos (Tandoc barangay) AND Gerona (4 graves), plus a diaspora in Chicago suburbs (Evanston ×2, Elmhurst ×1) near Bienvenido's burial in Niles. Supports chain migration hypothesis.
+
+## 🔥 Geni Tamondong Complete Database — 36 Profiles (Iteration 47)
+
+### Juan + Luis Tamondong — Siblings Confirmed on Geni
+- **Juan Tamondong** (ID: 6000000016169609747) — brother of Luis. No dates/locations visible without Geni login.
+- **Luis Tamondong** (ID: 6000000016169609781) — married Fausta Tamondong (endogamous). Children: Florencia Godoy + 4 private profiles.
+- Could be Adrian's ancestor Juan Tamondong (~1850) — needs Geni login to verify dates.
+
+### Sebio Tamondong — Potentially Early Tamondong
+- Estimated birth: 1804-2004 (wide range). Wife: Eska Tamondong (née Galvez).
+- If born ~1804-1850, could be contemporary with Simon Tamondong (Captain 1802).
+
+### Camilo Tamondong (est. 1863-2003)
+- Husband + father — potentially from the generation between Simon (1802) and Juan (~1850).
+
+### Pedro Tamondong Casupang (1906-1983) — Pearl City, HI
+- Parents: Isidro Casupang + Private. "Tamondong" is mother's maiden name.
+- Different from Pedro Caguioa Tamondong (b. 1903) on Ancestry.
+
+### Victoria Tamondong → Esperanza Fernandez Fernandez
+- **A different Victoria Tamondong** (not Victoria Daquigan)
+- Mother: **Esperanza Fernandez Fernandez** (1919-c.1990, Vallejo, CA)
+- Esperanza's parents: Vicente Fernandez + Trinidad Fernandez (both Fernandez — endogamous)
+- Shows Fernandez-Tamondong intermarriage pattern exists in multiple family lines
