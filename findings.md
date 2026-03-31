@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 10:53 UTC (Iteration 43 Eduardo Spouse Confirmed + Catalina Search)
+Last updated: 2026-03-31 12:05 UTC (Iteration 44 Josefa Spouse Confirmed: Ildefonso Abando)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -1902,8 +1902,8 @@ Searching Ancestry for children with parents Pablo Fernandez + Marta Villanueva 
 - **Bautista** = one of the most common Filipino surnames
 - Eduardo Fernandez (b. 1903) married Iluminada Bautista — confirms a Fernandez-Bautista alliance
 
-### Updated Pablo & Marta Villanueva Family (CORRECTED Iteration 43)
-1. Josefa Fernandez (b. 1901) — married **Ildefonso [surname behind paywall]** (Ancestry record 665092)
+### Updated Pablo & Marta Villanueva Family (UPDATED Iteration 44)
+1. Josefa Fernandez (b. 1901) — married **Ildefonso Abando** (Ancestry tree #4436545; marriage records 665092/3773825) ← 🔥 SPOUSE CONFIRMED Iteration 44
 2. Eduardo Fernandez (b. 1903) — married **Iluminado/a Bautista** (Ancestry record 1346541) ← CONFIRMED SPOUSE
 3. **Mariano Fernandez** (b. 1905) — married (1st) Victoria Daquigan; (2nd) Dionicia Capinding (Ancestry record 3179793)
 4. **Catalina Fernandez** (b. ~1895-1910) — married [spouse behind paywall] (Ancestry record 1085806)
@@ -1919,10 +1919,14 @@ The Ancestry Philippines Select Marriages fields explicitly label: Name, **Spous
 - "Iluminado/Iluminada" is a Filipino Spanish name (masc/fem), likely **Iluminada Bautista** (feminine form; OCR may have dropped final -a)
 - **Bautista** = very common Filipino surname, confirms mainstream Pangasinan family
 
-### Josefa Fernandez Married "Ildefonso" — NEW (Iteration 42)
-- Ancestry record 665092 ("Josefa Fermandez" — OCR misspelling)
+### Josefa Fernandez Married Ildefonso Abando — CONFIRMED (Iteration 42→44)
+- Ancestry record 665092 ("Josefa Fermandez" — OCR misspelling) + record 3773825 (clean)
 - Relatives: Pablo, Marta, **Ildefonso**
-- Full details (surname, date, location) behind Ancestry paywall
+- **Full surname confirmed: Ildefonso ABANDO** (from Ancestry tree #4436545)
+- Tree also shows children, birth, death fields (behind Ancestry paywall)
+- **Abando surname:** 4,212 bearers worldwide, 3,442 in Philippines. 21% in **Ilocos Region**, 18% NCR.
+- Abando is also a district in **Bilbao, Basque Country, Spain** — possible Basque origin like the Abalos surname
+- Very rare surname (rank 110,363rd globally) — Josefa married into another rare-surname family
 
 ### Mariano Fernandez WWII Records — Assessment (Iteration 42)
 - Mariano never emigrated to the US → NOT in US military databases (Ancestry, Fold3)
