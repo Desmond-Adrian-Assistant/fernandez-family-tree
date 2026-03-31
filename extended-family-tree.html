@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fernandez-Cervantes Extended Family Tree</title>
+<style>
+:root {
+  --bg-page: #F0F2F4;
+  --card-bg: #FFFFFF;
+  --male-accent: #5B7B9A;
+  --male-avatar-bg: #D6E3ED;
+  --female-accent: #C85B8D;
+  --female-avatar-bg: #F4D7E3;
+  --text-primary: #333333;
+  --text-secondary: #666666;
+  --text-tertiary: #999999;
+  --line-color: #A8B4BC;
+  --card-radius: 8px;
+  --card-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  --new-glow: 0 0 0 2px #4CAF50, 0 2px 8px rgba(76,175,80,0.3);
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background: var(--bg-page); font-family: -apple-system, 'Segoe UI', 'Open Sans', sans-serif; color: var(--text-primary); padding: 20px; min-width: 1400px; }
+h1 { text-align:center; font-size:20px; color: var(--text-secondary); margin-bottom:4px; font-weight:600; }
+.subtitle { text-align:center; font-size:12px; color: var(--text-tertiary); margin-bottom:20px; }
+.legend { display:flex; gap:16px; justify-content:center; margin-bottom:24px; font-size:11px; color:var(--text-secondary); flex-wrap:wrap; }
+.legend-item { display:flex; align-items:center; gap:4px; }
+.legend-dot { width:10px; height:10px; border-radius:3px; }
+
+/* Person Card */
+.card {
+  background: var(--card-bg);
+  border-radius: var(--card-radius);
+  box-shadow: var(--card-shadow);
+  width: 130px;
+  padding: 10px 8px;
+  text-align: center;
+  position: relative;
+  border-left: 4px solid var(--male-accent);
+}
+.card.female { border-left-color: var(--female-accent); }
+.card.new { box-shadow: var(--new-glow); }
+.card .avatar {
+  width: 40px; height: 40px; border-radius: 50%; margin: 0 auto 6px;
+  background: var(--male-avatar-bg);
+  display: flex; align-items: center; justify-content: center;
+}
+.card.female .avatar { background: var(--female-avatar-bg); }
+.card .avatar svg { width: 22px; height: 22px; }
+.card .name { font-size: 11px; font-weight: 600; color: var(--text-primary); line-height: 1.3; }
+.card .dates { font-size: 9px; color: var(--text-secondary); margin-top: 2px; }
+.card .location { font-size: 8px; color: var(--text-tertiary); margin-top: 1px; }
+.card .fsid { font-size: 7px; color: #bbb; margin-top: 2px; }
+.card .badge {
+  position: absolute; top: 4px; right: 4px;
+  font-size: 7px; padding: 1px 4px; border-radius: 3px; font-weight: 600;
+}
+.badge.living { background: #E8F5E9; color: #2E7D32; }
+.badge.new-find { background: #E8F5E9; color: #2E7D32; }
+.badge.confirmed { background: #E3F2FD; color: #1565C0; }
+
+/* Generation rows */
+.gen { margin-bottom: 30px; }
+.gen-label { text-align:center; font-size:11px; color:var(--text-tertiary); margin-bottom:10px; font-weight:600; text-transform:uppercase; letter-spacing:1px; }
+.gen-row { display:flex; justify-content:center; gap:12px; flex-wrap:wrap; align-items:flex-start; }
+
+/* Couple */
+.couple { display:flex; align-items:flex-start; gap:4px; position:relative; }
+.couple::after { content:'♥'; position:absolute; top:40px; left:50%; transform:translateX(-50%); font-size:8px; color:#ccc; z-index:1; }
+
+/* Connector lines */
+.connector { text-align:center; color: var(--line-color); font-size:10px; margin: 4px 0; }
+
+/* Side labels */
+.side-section { display:inline-block; vertical-align:top; margin: 0 20px; }
+.side-label { text-align:center; font-size:10px; color:var(--text-tertiary); margin-bottom:8px; padding:3px 12px; background:#E8EDF1; border-radius:10px; display:inline-block; }
+
+/* Siblings group */
+.siblings { display:flex; gap:6px; flex-wrap:wrap; justify-content:center; }
+
+/* New discovery highlight */
+.new-section { border: 2px dashed #4CAF50; border-radius: 12px; padding: 12px; margin: 8px; background: rgba(76,175,80,0.03); }
+.new-label { font-size:9px; color:#4CAF50; font-weight:700; text-align:center; margin-bottom:6px; }
+
+/* Male/Female SVG icons */
+.male-icon { fill: #7A9AB8; }
+.female-icon { fill: #C87A9E; }
+
+.footer { text-align:center; margin-top:30px; padding:12px; font-size:10px; color:var(--text-tertiary); }
+.footer strong { color: var(--text-secondary); }
+</style>
+</head>
+<body>
+
+<h1>🌳 Fernandez-Cervantes Extended Family Tree</h1>
+<p class="subtitle">Extending Kristine's FamilySearch tree with new discoveries • Compiled March 31, 2026</p>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot" style="background:#5B7B9A;"></div> Kristine's tree (confirmed)</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#4CAF50; border:1px dashed #4CAF50;"></div> NEW — Our discoveries</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#FF9800;"></div> Needs verification</div>
+</div>
+
+<!-- ========== GEN 0: HISTORICAL ========== -->
+<div class="gen">
+  <div class="gen-label">~1802 — Historical Connection</div>
+  <div class="gen-row">
+    <div class="card" style="border-left-color:#FF9800; opacity:0.85;">
+      <span class="badge" style="background:#FFF3E0;color:#E65100;">⚠️</span>
+      <div class="avatar" style="background:#FFE0B2;"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z" fill="#E65100"/></svg></div>
+      <div class="name">Capt. Simon Tamondong</div>
+      <div class="dates">Gobernadorcillo, 1802</div>
+      <div class="location">📍 San Carlos City</div>
+      <div class="fsid">⚠️ Wikipedia — likely ancestor</div>
+    </div>
+  </div>
+</div>
+
+<!-- ========== GEN 1: GREAT-GREAT-GREAT-GRANDPARENTS ========== -->
+<div class="gen">
+  <div class="gen-label">Generation 1 — Great-Great-Great-Grandparents</div>
+  <div class="gen-row">
+    <div class="couple">
+      <div class="card">
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Juan Tamondong</div>
+        <div class="dates">1850 – Deceased</div>
+        <div class="location">📍 San Carlos City</div>
+        <div class="fsid">PZ4T-M3H</div>
+      </div>
+      <div class="card female">
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Juana Paglingayen</div>
+        <div class="dates">1853 – Deceased</div>
+        <div class="fsid">PZ4T-K6F</div>
+      </div>
+    </div>
+
+    <div class="new-section">
+      <div class="new-label">🆕 NEW — Found via FamilySearch parish records</div>
+      <div class="couple">
+        <div class="card new">
+          <span class="badge new-find">🆕</span>
+          <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+          <div class="name">Jose Avalos</div>
+          <div class="dates">Deceased</div>
+          <div class="fsid">P2BR-LNN</div>
+        </div>
+        <div class="card female new">
+          <span class="badge new-find">🆕</span>
+          <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+          <div class="name">Tomasa Estrada</div>
+          <div class="dates">Deceased</div>
+          <div class="fsid">P2BR-YN9</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="new-section">
+      <div class="new-label">🆕 NEW — Kristine corroborated</div>
+      <div class="couple">
+        <div class="card new">
+          <span class="badge new-find">🆕</span>
+          <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+          <div class="name">Domingo Peralta</div>
+          <div class="dates">Deceased</div>
+          <div class="fsid">P2BR-P7V</div>
+        </div>
+        <div class="card female new">
+          <span class="badge new-find">🆕</span>
+          <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+          <div class="name">María</div>
+          <div class="dates">Deceased</div>
+          <div class="fsid">P2BT-ZZ5</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="connector">│</div>
+
+<!-- ========== GEN 2: GREAT-GREAT-GRANDPARENTS ========== -->
+<div class="gen">
+  <div class="gen-label">Generation 2 — Great-Great-Grandparents</div>
+  <div class="gen-row">
+    <div class="couple">
+      <div class="card">
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Pablo Fernandez</div>
+        <div class="dates">1870 – 1955</div>
+        <div class="location">📍 San Carlos City</div>
+        <div class="fsid">P2BQ-C2M</div>
+      </div>
+      <div class="card female">
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Marta Villanueva</div>
+        <div class="dates">1870 – ~1955?</div>
+        <div class="fsid">P2BQ-CLT</div>
+      </div>
+    </div>
+    <div class="couple">
+      <div class="card">
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Domingo Daquigan</div>
+        <div class="dates">1880 – Deceased</div>
+        <div class="location">📍 Ilocos Sur origin</div>
+        <div class="fsid">P2BQ-K7P</div>
+      </div>
+      <div class="card female">
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Benita Bacarro</div>
+        <div class="dates">1880 – Deceased</div>
+        <div class="location">📍 Bacarra, Ilocos Norte</div>
+        <div class="fsid">P2BQ-KNM</div>
+      </div>
+    </div>
+    <div class="couple">
+      <div class="card">
+        <span class="badge confirmed">✅</span>
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Jose Abalos</div>
+        <div class="dates">Deceased – Jun 30, 1947</div>
+        <div class="location">📍 d. Dagupan City</div>
+        <div class="fsid">P2BQ-FZV</div>
+      </div>
+      <div class="card female">
+        <span class="badge confirmed">✅</span>
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Carlina Tamondong</div>
+        <div class="dates">Deceased</div>
+        <div class="fsid">P2BQ-FP4</div>
+      </div>
+    </div>
+    <div class="couple">
+      <div class="card">
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Francisco Rosario</div>
+        <div class="dates">Deceased</div>
+        <div class="fsid">P2BQ-JXK</div>
+      </div>
+      <div class="card female">
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Juana Gutierrez</div>
+        <div class="dates">Deceased</div>
+        <div class="fsid">P2BQ-J2X</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="connector">│</div>
+
+<!-- ========== GEN 3: GREAT-GRANDPARENTS ========== -->
+<div class="gen">
+  <div class="gen-label">Generation 3 — Great-Grandparents</div>
+  <div class="gen-row">
+    <div style="text-align:center;">
+      <div class="new-section" style="display:inline-block;">
+        <div class="new-label">🆕 Pablo & Marta's children — NEW siblings found!</div>
+        <div class="siblings" style="margin-bottom:8px;">
+          <div class="card female new" style="width:105px;opacity:0.8;">
+            <span class="badge new-find">🆕</span>
+            <div class="avatar" style="width:30px;height:30px;"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+            <div class="name">Josefa Fernandez</div>
+            <div class="dates">b. ~1901</div>
+            <div class="location">m. Ildefonso</div>
+          </div>
+          <div class="card new" style="width:105px;opacity:0.8;">
+            <span class="badge new-find">🆕</span>
+            <div class="avatar" style="width:30px;height:30px;"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+            <div class="name">Eduardo Fernandez</div>
+            <div class="dates">b. ~1903</div>
+            <div class="location">m. Iluminado Bautista</div>
+          </div>
+          <div class="card female new" style="width:105px;opacity:0.8;">
+            <span class="badge new-find">🆕</span>
+            <div class="avatar" style="width:30px;height:30px;"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+            <div class="name">Catalina Fernandez</div>
+            <div class="dates">b. ~1895-1910</div>
+            <div class="location">🆕 NEW discovery</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="gen-row" style="margin-top:12px;">
+    <div class="couple">
+      <div class="card">
+        <span class="badge confirmed">✅</span>
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Mariano Fernandez</div>
+        <div class="dates">1905 – Deceased</div>
+        <div class="location">📍 San Carlos → Gerona</div>
+        <div class="fsid">P2BQ-CHP</div>
+      </div>
+      <div class="card female">
+        <span class="badge confirmed">✅</span>
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Victoriana Daquigan</div>
+        <div class="dates">1917 – Deceased</div>
+        <div class="fsid">P2BQ-K35</div>
+      </div>
+    </div>
+    <div class="couple">
+      <div class="card">
+        <span class="badge confirmed">✅</span>
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Hilario Abalos</div>
+        <div class="dates">Deceased</div>
+        <div class="fsid">P2BQ-FWL</div>
+      </div>
+      <div class="card female">
+        <span class="badge confirmed">✅</span>
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Filomena Rosario</div>
+        <div class="dates">Deceased</div>
+        <div class="fsid">P2BQ-JDN</div>
+      </div>
+    </div>
+    <div class="new-section" style="display:inline-block;">
+      <div class="new-label">🆕 CERVANTES SIDE — All new!</div>
+      <div class="gen-row">
+        <div class="couple">
+          <div class="card new">
+            <span class="badge new-find">🆕</span>
+            <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+            <div class="name">Isaac Cervantes</div>
+            <div class="dates">Deceased</div>
+            <div class="location">✅ Marriage record</div>
+          </div>
+          <div class="card female new">
+            <span class="badge new-find">🆕</span>
+            <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+            <div class="name">Engracia Nazario</div>
+            <div class="dates">Deceased</div>
+            <div class="location">✅ Marriage record</div>
+          </div>
+        </div>
+        <div class="couple">
+          <div class="card new">
+            <span class="badge new-find">🆕</span>
+            <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+            <div class="name">Teotimo Cabrera</div>
+            <div class="dates">Deceased</div>
+            <div class="location">✅ Marriage record</div>
+          </div>
+          <div class="card female new">
+            <span class="badge new-find">🆕</span>
+            <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+            <div class="name">Maria Banaag</div>
+            <div class="dates">Deceased</div>
+            <div class="location">✅ Marriage record</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="gen-row" style="margin-top:8px;">
+    <div class="new-section" style="display:inline-block;">
+      <div class="new-label">🆕 Hilario's siblings</div>
+      <div class="siblings">
+        <div class="card female new" style="width:100px;opacity:0.8;">
+          <div class="avatar" style="width:28px;height:28px;"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+          <div class="name">Hipolita Abalos</div>
+          <div class="dates">✅ Parish records</div>
+        </div>
+        <div class="card female new" style="width:100px;opacity:0.8;">
+          <div class="avatar" style="width:28px;height:28px;"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+          <div class="name">Camila Abalos</div>
+          <div class="dates">✅ Parish records</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="connector">│</div>
+
+<!-- ========== GEN 4: GRANDPARENTS ========== -->
+<div class="gen">
+  <div class="gen-label">Generation 4 — Grandparents</div>
+  <div class="gen-row">
+    <div>
+      <div class="couple">
+        <div class="card">
+          <span class="badge confirmed">✅</span>
+          <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+          <div class="name">Bienvenido D. Fernandez</div>
+          <div class="dates">1937 – 1994</div>
+          <div class="location">📍 Gerona, Tarlac → Chicago</div>
+          <div class="fsid">GY2Z-3K9 • Accountant</div>
+        </div>
+        <div class="card female">
+          <span class="badge living">🟢 Living</span>
+          <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+          <div class="name">Aurea Rosario Abalos</div>
+          <div class="dates">1939 – Living</div>
+          <div class="fsid">GY2Z-5WK</div>
+        </div>
+      </div>
+      <div style="font-size:8px;color:#888;text-align:center;margin-top:4px;">💍 Dec 16, 1963 • San Carlos City</div>
+      <div class="new-section" style="margin-top:6px;">
+        <div class="new-label">🆕 Aurea's sister</div>
+        <div class="card female new" style="width:120px; margin:0 auto;">
+          <div class="avatar" style="width:28px;height:28px;"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+          <div class="name">Maria Concesa Abalos</div>
+          <div class="dates">b. 1935</div>
+          <div class="location">m. Pedro Nerizon, 1959</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="new-section">
+      <div class="new-label">🆕 ENTIRE CERVANTES SIDE — All new!</div>
+      <div class="couple">
+        <div class="card new">
+          <span class="badge new-find">🆕</span>
+          <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+          <div class="name">Diosdado Cervantes</div>
+          <div class="dates">b. 1925</div>
+          <div class="location">📍 Angeles City, Pampanga</div>
+          <div class="fsid">✅ FamilySearch record</div>
+        </div>
+        <div class="card female new">
+          <span class="badge new-find">🆕</span>
+          <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+          <div class="name">Natividad Cabrera</div>
+          <div class="dates">b. 1923</div>
+          <div class="location">📍 Angeles City, Pampanga</div>
+          <div class="fsid">✅ FamilySearch record</div>
+        </div>
+      </div>
+      <div style="font-size:8px;color:#888;text-align:center;margin-top:4px;">💍 Nov 11, 1950 • Manila</div>
+      <div class="siblings" style="margin-top:6px;">
+        <div class="card female new" style="width:95px;opacity:0.8;">
+          <div class="avatar" style="width:24px;height:24px;"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+          <div class="name" style="font-size:9px;">Angelica Cervantes</div>
+          <div class="dates">Diosdado's sister</div>
+        </div>
+        <div class="card female new" style="width:95px;opacity:0.8;">
+          <div class="avatar" style="width:24px;height:24px;"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+          <div class="name" style="font-size:9px;">Rebecca Cervantes Lucero</div>
+          <div class="dates">In the US</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="connector">│</div>
+
+<!-- ========== GEN 5: PARENTS ========== -->
+<div class="gen">
+  <div class="gen-label">Generation 5 — Parents</div>
+  <div class="gen-row">
+    <div class="couple">
+      <div class="card">
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="male-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Raul Fernandez</div>
+        <div class="dates">Living</div>
+      </div>
+      <div class="card female">
+        <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+        <div class="name">Janice Cervantes</div>
+        <div class="dates">Living</div>
+        <div class="location">📍 Angeles City → TX</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="connector">│</div>
+
+<!-- ========== GEN 6: YOU ========== -->
+<div class="gen">
+  <div class="gen-label">Generation 6 — You</div>
+  <div class="gen-row">
+    <div class="card" style="border-left-color:#9C27B0; box-shadow: 0 0 0 2px #9C27B0, 0 4px 12px rgba(156,39,176,0.2);">
+      <div class="avatar" style="background:#F3E5F5;"><svg viewBox="0 0 24 24"><path d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z" fill="#9C27B0"/></svg></div>
+      <div class="name">⭐ Adrian Fernandez</div>
+      <div class="dates">b. Mar 2, 1987</div>
+      <div class="location">📍 Allen, TX</div>
+    </div>
+    <div class="card female">
+      <span class="badge living">🟢</span>
+      <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+      <div class="name">Kristine Fernandez</div>
+      <div class="dates">Living</div>
+    </div>
+    <div class="card female">
+      <span class="badge living">🟢</span>
+      <div class="avatar"><svg viewBox="0 0 24 24"><path class="female-icon" d="M12 4a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4z"/></svg></div>
+      <div class="name">Kiana Fernandez</div>
+      <div class="dates">Living</div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <strong>📊 Stats:</strong> 45+ ancestors • 8 generations • 220+ years • 5 marriage records • 2 death records • 17 unique surnames<br>
+  <strong>🆕 Green borders</strong> = our new discoveries beyond Kristine's tree • <strong>✅</strong> = confirmed by official records<br>
+  Sources: FamilySearch, Ancestry.com, Philippine Supreme Court, WikiTree, Geni.com, FindAGrave, Wayback Machine<br>
+  Compiled by Desmond 🔷 for Adrian Fernandez • March 31, 2026
+</div>
+
+</body>
+</html>
