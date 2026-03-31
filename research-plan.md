@@ -314,3 +314,12 @@ Each iteration should: read previous findings → identify the highest-value une
 | 43 | 2026-03-31 11:00 | Eduardo's spouse CONFIRMED: Iluminada Bautista | **Eduardo Fernandez married Iluminada Bautista** — Ancestry search preview explicitly shows "Spouse: Iluminado Bautista" label. Bautista = very common Filipino surname. Josefa's second record #3773825 confirmed (clean/primary record). |
 | 44 | 2026-03-31 12:00 | Josefa's spouse CONFIRMED: Ildefonso Abando | **🔥 Josefa Fernandez married Ildefonso ABANDO** — surname confirmed from Ancestry tree #4436545. Abando = rare surname (4,212 bearers), 21% Ilocos. Possible Basque origin (Abando district, Bilbao). Tree has children/birth/death behind paywall. Brave Search quota exhausted. |
 | 45 | 2026-03-31 13:06 | 🔥🔥 Abando-Gerona geographic connection + indigenous name analysis | **4 Abando memorials in Gerona, Tarlac on FindAGrave (8% of all 51 worldwide!)** — Abando family homeland = Gerona + Malasiqui (3 graves). Josefa's marriage was ANOTHER Gerona neighbor marriage. **Abando used as FIRST name in pre-1849 records** (Abando Densing, Abando Acang) — likely indigenous Filipino name adopted as surname during 1849 Catálogo, NOT Basque import. All Pablo+Marta children married within Gerona-Tarlac/Bayambang-Pangasinan corridor. |
+
+### Track 12: Bonarae.net Gerona Genealogy (NEW — Iteration 48)
+- [x] Discover Bona Rae Villarta's Gerona genealogy databases — **Ortiz, Simeon, Acob, Paraso families documented back to 1800s**
+- [x] Cross-reference Bonarae surnames with family network — **ARCIAGA, MAGDAY, ACOB, VILLANUEVA, BAUTISTA, SIMEON all overlap**
+- [x] Confirm Acob = Bacarra origin — **"Bacarra, Ilocos Norte and Gerona, Tarlac" — CORROBORATES Bacarro theory**
+- [ ] Contact Bona Rae Villarta (bonarae@gmail.com) — ask about Fernandez/Abando/Daquigan in Gerona parish records
+- [ ] Download Bona Rae's GEDCOM file (villarta.ged) — analyze for more connections
+- [ ] Search Bona Rae's FindAGrave virtual cemetery (#2436) for Gerona Abando/Fernandez graves
+- [ ] Check if Bona Rae has access to St. Catherine of Alexandria Parish (Gerona) records

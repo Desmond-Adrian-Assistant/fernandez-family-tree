@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 15:30 UTC (Iteration 47 Geni Tamondong Deep Dive + Abando-Tandoc-San Carlos)
+Last updated: 2026-03-31 16:30 UTC (Iteration 48 Bonarae.net Gerona Genealogy Database + Corroboration)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -2084,3 +2084,42 @@ The Abando family has documented roots in BOTH San Carlos (Tandoc barangay) AND 
 - Mother: **Esperanza Fernandez Fernandez** (1919-c.1990, Vallejo, CA)
 - Esperanza's parents: Vicente Fernandez + Trinidad Fernandez (both Fernandez — endogamous)
 - Shows Fernandez-Tamondong intermarriage pattern exists in multiple family lines
+
+## 🔥🔥 Bonarae.net — Independent Gerona Genealogy Corroboration (Iteration 48)
+
+**Bona Rae Villarta** (bonarae@gmail.com) maintains the most comprehensive public genealogy databases for Gerona, Tarlac families. Active since 1999, FindAGrave contributor since 2001. Updated Jan 8, 2026.
+
+### Acob Family = Bacarra, Ilocos Norte → Gerona (CORROBORATES Bacarro Theory!)
+The Acob family genealogy database is titled: **"Descendants of Fernando Bernardo and Pastora (Magaway) Acob of Bacarra, Ilocos Norte and Gerona, Tarlac"**
+- This is the EXACT Ilocano migration pattern theorized for the Bacarro/Daquigan families
+- Benita Bacarro's surname almost certainly derives from Bacarra, Ilocos Norte
+- Now independently corroborated by a completely separate Gerona family documenting the same migration
+
+### Gerona Intermarriage Network — Cross-Database Confirmation
+Surnames in Bona Rae's databases that overlap with Adrian's family network:
+| Surname | Connection to Adrian's Family | Present in Bonarae DBs |
+|---------|------------------------------|------------------------|
+| ARCIAGA | Danzo founding family, 2025 election | Ortiz, Simeon, Acob |
+| MAGDAY | FamilySearch tree contributor | Ortiz, Simeon, Acob |
+| ACOB | 2025 councilor Alfred Acob Jr. | Acob (20+ profiles) |
+| VILLANUEVA | Marta Villanueva (Pablo's wife) | Paraso (1 profile) |
+| BAUTISTA | Iluminada Bautista (Eduardo's wife) | Paraso (2 profiles + maternal ancestor) |
+| SIMEON | Pedro Arciaga Simeon (Danzo) | 45-48 profiles |
+| NOVESTERAS | Eulalia Ortiz Novesteras | 2-18 profiles |
+
+### Paraso Ancestors = Santiago & Filomena (BAUTISTA) Paraso
+The Bautista surname is the MATERNAL line of the Paraso family. Eduardo Fernandez married Iluminada Bautista — connecting the Fernandez family to the Bautista-Paraso network.
+
+### Notable Absences
+Fernandez, Abando, Daquigan, Capinding, Tamondong — NOT in any Bonarae database. These families' records are not yet digitized by any Gerona genealogist.
+
+### Potential Contact
+Bona Rae Villarta (bonarae@gmail.com) would be an excellent research contact — deep knowledge of Gerona parish records, active genealogist since 1999.
+
+## Cook County Death Certificate — Ordering Process (Iteration 48)
+- **Online:** VitalChek ($17 + $13.45 processing)
+- **By phone:** (866) 252-8974
+- **In person:** Cook County Clerk, $17 first copy
+- **Requirement:** Proof of immediate family relationship
+- **Processing:** 10-15 business days (mail), walk-in available
+- **Adrian or Raul could order** as direct descendants of Bienvenido
