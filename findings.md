@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 16:30 UTC (Iteration 48 Bonarae.net Gerona Genealogy Database + Corroboration)
+Last updated: 2026-03-31 17:37 UTC (Iteration 49 Pablo & Marta Marriage Record Hunt + Ancestry Record Catalogue)
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
@@ -2123,3 +2123,29 @@ Bona Rae Villarta (bonarae@gmail.com) would be an excellent research contact —
 - **Requirement:** Proof of immediate family relationship
 - **Processing:** 10-15 business days (mail), walk-in available
 - **Adrian or Raul could order** as direct descendants of Bienvenido
+
+## 🔥 Possible Pablo & Marta Villanueva MARRIAGE Record Found (Iteration 49)
+
+Ancestry record **#4029022** (collection 60130, Philippines Select Marriages) is the **#1 ranked result** when searching for Pablo Fernandez + Marta Villanueva with Tarlac location filter. This appears to be their OWN marriage record — distinct from the children's marriage records (1346540/3179797) which list Pablo & Marta as parents.
+
+### Complete Ancestry Record Catalogue — ALL Behind Paywall
+
+| Priority | Record ID | Collection | Person | What It Contains |
+|----------|-----------|-----------|--------|------------------|
+| 🔴 | **48547169** | 60901 (SS Apps) | Bienvenido | Birth date, death date, SSN, father's name, mother's maiden name |
+| 🔴 | **4029022** | 60130 (Marriages) | Pablo + Marta | Their marriage record — may reveal Pablo's parents |
+| 🔴 | **1085806** | 60130 (Marriages) | Catalina Fernandez | Spouse name, marriage date/place |
+| 🔴 | **1165555** | 60130 (Marriages) | Aniceto Fernandez | Spouse name, marriage date/place |
+| 🟡 | **362831** | 60128 (Deaths) | Marta Fernandez | Death 1955 — confirm identity |
+| 🟡 | **1575015** | 60128 (Deaths) | Pablo Fernandez | Death 1955, San Carlos City |
+| 🟡 | **68186126** | Ancestry Trees | Bienvenido | Second family tree from different contributor |
+| 🟢 | **1346537/3179795** | 60130 | Marta Villanueva | Counterpart records as mother |
+
+**ACTION: Adrian must log into Ancestry World Explorer trial to unlock these records.**
+
+### Villanueva Surname
+- 277,730 bearers in Philippines — very common (10th nationally)
+- Spanish: "villa" + "nueva" = "new estate/town"
+- Listed as Pangasinan surname on Wiktionary
+- Too common to narrow geographically (unlike rare surnames like Daquigan)
+- Marta Villanueva's specific origins unknown without parish records
