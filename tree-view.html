@@ -74,57 +74,57 @@
 // ── DATA ──────────────────────────────────────────────────────
 const people = [
   // ─── GENERATION 2 (top) ───
-  { id: "JT", name: "Juan Tamondong", dates: "1852–1947", note: "Age 95", gender: "M", gen: 2 },
-  { id: "JPag", name: "Juana Paglingayen", dates: "b. 1853", gender: "F", gen: 2 },
-  { id: "DA", name: "Domingo Ávalos", note: "Abalos", gender: "M", gen: 2 },
-  { id: "AP", name: "Anacleta Peralta", gender: "F", gen: 2 },
+  { id: "JT", name: "Juan Tamondong", dates: "1852–1947", note: "Age 95", gender: "M", gen: 2 , conf: "99%"},
+  { id: "JPag", name: "Juana Paglingayen", dates: "b. 1853", gender: "F", gen: 2 , conf: "90%"},
+  { id: "DA", name: "Domingo Ávalos", note: "Abalos", gender: "M", gen: 2 , conf: "85%"},
+  { id: "AP", name: "Anacleta Peralta", gender: "F", gen: 2 , conf: "85%"},
 
   // ─── GENERATION 3 ───
-  { id: "PF", name: "Pablo Fernandez", dates: "1870–1955", gender: "M", gen: 3 },
-  { id: "MV", name: "Marta Villanueva", dates: "1870–~1955", gender: "F", gen: 3 },
-  { id: "DD", name: "Domingo Daquigan", dates: "b. 1880", gender: "M", gen: 3 },
-  { id: "BB", name: "Benita Bacarro", dates: "b. 1880", gender: "F", gen: 3 },
-  { id: "JA", name: "Jose Abalos", dates: "d. Jun 1947", gender: "M", gen: 3, parentCouple: "DA_AP" },
-  { id: "CT", name: "Carlina Tamondong", gender: "F", gen: 3, parentCouple: "JT_JPag" },
-  { id: "FR", name: "Francisco Rosario", gender: "M", gen: 3 },
-  { id: "JGut", name: "Juana Gutierrez", gender: "F", gen: 3 },
-  { id: "AqT", name: "Aquilina Tamondong", gender: "F", gen: 3, parentCouple: "JT_JPag" },
+  { id: "PF", name: "Pablo Fernandez", dates: "1870–1955", gender: "M", gen: 3 , conf: "90%"},
+  { id: "MV", name: "Marta Villanueva", dates: "1870–~1955", gender: "F", gen: 3 , conf: "90%"},
+  { id: "DD", name: "Domingo Daquigan", dates: "b. 1880", gender: "M", gen: 3 , conf: "90%"},
+  { id: "BB", name: "Benita Bacarro", dates: "b. 1880", gender: "F", gen: 3 , conf: "85%"},
+  { id: "JA", name: "Jose Abalos", dates: "d. Jun 1947", gender: "M", gen: 3, parentCouple: "DA_AP" , conf: "95%"},
+  { id: "CT", name: "Carlina Tamondong", gender: "F", gen: 3, parentCouple: "JT_JPag" , conf: "90%"},
+  { id: "FR", name: "Francisco Rosario", gender: "M", gen: 3 , conf: "85%"},
+  { id: "JGut", name: "Juana Gutierrez", gender: "F", gen: 3 , conf: "85%"},
+  { id: "AqT", name: "Aquilina Tamondong", gender: "F", gen: 3, parentCouple: "JT_JPag" , conf: "85%"},
   { id: "LT", name: "Luis Tamondong", gender: "M", gen: 3, parentCouple: "JT_JPag" },
 
   // ─── GENERATION 4 ───
-  { id: "MaF", name: "Mariano V. Fernandez", dates: "1905–1945", note: "⚔️ WWII", gender: "M", gen: 4, parentCouple: "PF_MV" },
-  { id: "VD", name: "Victoriana Daquigan", dates: "b. 1917", gender: "F", gen: 4, parentCouple: "DD_BB" },
-  { id: "HA", name: "Hilario Abalos", dates: "b. 1904", gender: "M", gen: 4, parentCouple: "JA_CT" },
-  { id: "FilR", name: "Felomena R. Gutierrez", gender: "F", gen: 4, parentCouple: "FR_JGut" },
-  { id: "JoF", name: "Josefa Fernandez", dates: "~1901", note: "m. I. Abando", gender: "F", gen: 4, parentCouple: "PF_MV" },
-  { id: "EdF", name: "Eduardo Fernandez", dates: "~1903", gender: "M", gen: 4, parentCouple: "PF_MV" },
-  { id: "CatF", name: "Catalina Fernandez", gender: "F", gen: 4, parentCouple: "PF_MV" },
-  { id: "HipA", name: "Hipolita Abalos", gender: "F", gen: 4, parentCouple: "JA_CT" },
-  { id: "CamA", name: "Camila Abalos", gender: "F", gen: 4, parentCouple: "JA_CT" },
-  { id: "IC", name: "Isaac Cervantes", gender: "M", gen: 4 },
-  { id: "EN", name: "Engracia D. Nazario", gender: "F", gen: 4 },
-  { id: "TC", name: "Teotimo Cabrera", gender: "M", gen: 4 },
-  { id: "MB", name: "Maria Banaag", gender: "F", gen: 4 },
+  { id: "MaF", name: "Mariano V. Fernandez", dates: "1905–1945", note: "⚔️ WWII", gender: "M", gen: 4, parentCouple: "PF_MV" , conf: "99%"},
+  { id: "VD", name: "Victoriana Daquigan", dates: "b. 1917", gender: "F", gen: 4, parentCouple: "DD_BB" , conf: "99%"},
+  { id: "HA", name: "Hilario Abalos", dates: "b. 1904", gender: "M", gen: 4, parentCouple: "JA_CT" , conf: "99%"},
+  { id: "FilR", name: "Felomena R. Gutierrez", gender: "F", gen: 4, parentCouple: "FR_JGut" , conf: "95%"},
+  { id: "JoF", name: "Josefa Fernandez", dates: "~1901", note: "m. I. Abando", gender: "F", gen: 4, parentCouple: "PF_MV" , conf: "90%"},
+  { id: "EdF", name: "Eduardo Fernandez", dates: "~1903", gender: "M", gen: 4, parentCouple: "PF_MV" , conf: "90%"},
+  { id: "CatF", name: "Catalina Fernandez", gender: "F", gen: 4, parentCouple: "PF_MV" , conf: "85%"},
+  { id: "HipA", name: "Hipolita Abalos", gender: "F", gen: 4, parentCouple: "JA_CT" , conf: "90%"},
+  { id: "CamA", name: "Camila Abalos", gender: "F", gen: 4, parentCouple: "JA_CT" , conf: "85%"},
+  { id: "IC", name: "Isaac Cervantes", gender: "M", gen: 4 , conf: "99%"},
+  { id: "EN", name: "Engracia D. Nazario", gender: "F", gen: 4 , conf: "99%"},
+  { id: "TC", name: "Teotimo Cabrera", gender: "M", gen: 4 , conf: "99%"},
+  { id: "MB", name: "Maria Banaag", gender: "F", gen: 4 , conf: "99%"},
 
   // ─── GENERATION 5 ───
-  { id: "BF", name: "Bienvenido D. Fernandez", dates: "1937–1994", note: "Walgreens acct.", gender: "M", gen: 5, parentCouple: "MaF_VD" },
-  { id: "ARA", name: "Aurea Rosario Abalos", dates: "b. 1939", note: "Living", gender: "F", gen: 5, parentCouple: "HA_FilR" },
-  { id: "MCA", name: "Maria Concesa Abalos", dates: "b. 1935", note: "m. P. Nerizon", gender: "F", gen: 5, parentCouple: "HA_FilR" },
-  { id: "DC", name: "Diosdado Cervantes", dates: "b. 1925", gender: "M", gen: 5, parentCouple: "IC_EN" },
-  { id: "NC", name: "Natividad Cabrera", dates: "b. 1923", gender: "F", gen: 5, parentCouple: "TC_MB" },
-  { id: "AngC", name: "Angelica Cervantes", gender: "F", gen: 5, parentCouple: "IC_EN" },
+  { id: "BF", name: "Bienvenido D. Fernandez", dates: "1937–1994", note: "Walgreens acct.", gender: "M", gen: 5, parentCouple: "MaF_VD" , conf: "99%"},
+  { id: "ARA", name: "Aurea Rosario Abalos", dates: "b. 1939", note: "Living", gender: "F", gen: 5, parentCouple: "HA_FilR" , conf: "99%"},
+  { id: "MCA", name: "Maria Concesa Abalos", dates: "b. 1935", note: "m. P. Nerizon", gender: "F", gen: 5, parentCouple: "HA_FilR" , conf: "95%"},
+  { id: "DC", name: "Diosdado Cervantes", dates: "b. 1925", gender: "M", gen: 5, parentCouple: "IC_EN" , conf: "99%"},
+  { id: "NC", name: "Natividad Cabrera", dates: "b. 1923", gender: "F", gen: 5, parentCouple: "TC_MB" , conf: "99%"},
+  { id: "AngC", name: "Angelica Cervantes", gender: "F", gen: 5, parentCouple: "IC_EN" , conf: "90%"},
   { id: "RCL", name: "Rebecca Cervantes Lucero", note: "US", gender: "F", gen: 5, parentCouple: "IC_EN" },
 
   // ─── GENERATION 6 ───
-  { id: "RF", name: "Raul Fernandez", dates: "~1964", note: "US Air Force", gender: "M", gen: 6, parentCouple: "BF_ARA" },
-  { id: "JC", name: "Janice Cervantes", note: "Nurse, NJ→TX", gender: "F", gen: 6, parentCouple: "DC_NC" },
-  { id: "EncM", name: "Encarnita Mejorada", note: "Chicago", gender: "F", gen: 6, parentCouple: "BF_ARA" },
-  { id: "VK", name: "Vivienne Koch", note: "Chicago", gender: "F", gen: 6, parentCouple: "BF_ARA" },
-  { id: "MiF", name: "Michelle Fernandez", note: "Chicago", gender: "F", gen: 6, parentCouple: "BF_ARA" },
-  { id: "JocelF", name: "Jocelyn Fernandez", note: "San Diego", gender: "F", gen: 6, parentCouple: "BF_ARA" },
+  { id: "RF", name: "Raul Fernandez", dates: "~1964", note: "US Air Force", gender: "M", gen: 6, parentCouple: "BF_ARA" , conf: "99%"},
+  { id: "JC", name: "Janice Cervantes", note: "Nurse, NJ→TX", gender: "F", gen: 6, parentCouple: "DC_NC" , conf: "99%"},
+  { id: "EncM", name: "Encarnita Mejorada", note: "Chicago", gender: "F", gen: 6, parentCouple: "BF_ARA" , conf: "95%"},
+  { id: "VK", name: "Vivienne Koch", note: "Chicago", gender: "F", gen: 6, parentCouple: "BF_ARA" , conf: "95%"},
+  { id: "MiF", name: "Michelle Fernandez", note: "Chicago", gender: "F", gen: 6, parentCouple: "BF_ARA" , conf: "95%"},
+  { id: "JocelF", name: "Jocelyn Fernandez", note: "San Diego", gender: "F", gen: 6, parentCouple: "BF_ARA" , conf: "95%"},
 
   // ─── GENERATION 7 (bottom) ───
-  { id: "Adrian", name: "Adrian Fernandez", dates: "Mar 2, 1987", note: "Allen, TX ⭐", gender: "M", gen: 7, parentCouple: "RF_JC" },
+  { id: "Adrian", name: "Adrian Fernandez", dates: "Mar 2, 1987", note: "Allen, TX ⭐", gender: "M", gen: 7, parentCouple: "RF_JC" , conf: "99%"},
   { id: "Kristine", name: "Kristine Fernandez", gender: "F", gen: 7, parentCouple: "RF_JC" },
   { id: "Kiana", name: "Kiana Fernandez", gender: "F", gen: 7, parentCouple: "RF_JC" },
 ];
@@ -411,6 +411,23 @@ people.forEach(p => {
     .attr("font-weight", "bold")
     .attr("fill", "#2c1810")
     .text(p.name);
+
+  // Confidence badge
+  if (p.conf) {
+    const confNum = parseInt(p.conf);
+    const confColor = confNum >= 95 ? "#2E7D32" : confNum >= 85 ? "#1565C0" : "#E65100";
+    const confBg = confNum >= 95 ? "#E8F5E9" : confNum >= 85 ? "#E3F2FD" : "#FFF3E0";
+    card.append("rect")
+      .attr("x", CARD_W - 38).attr("y", 2)
+      .attr("width", 36).attr("height", 14)
+      .attr("rx", 7).attr("fill", confBg);
+    card.append("text")
+      .attr("x", CARD_W - 20).attr("y", 12)
+      .attr("text-anchor", "middle")
+      .attr("font-size", "8px").attr("font-weight", "bold")
+      .attr("fill", confColor)
+      .text(p.conf);
+  }
 
   // Dates
   if (p.dates) {
