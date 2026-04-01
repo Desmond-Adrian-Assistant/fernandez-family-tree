@@ -322,6 +322,7 @@ Object.entries(childrenOf).forEach(([coupleId, childIds]) => {
 
   // Couple midpoint x (center between the two spouse cards)
   const parentCx = (xPos[couple.p1] + xPos[couple.p2]) / 2;
+  const parentMidY = yPos[couple.p1] + CARD_H / 2; // spouse line Y
   const parentBottom = yPos[couple.p1] + CARD_H;
 
   // Child generation top
@@ -331,12 +332,12 @@ Object.entries(childrenOf).forEach(([coupleId, childIds]) => {
 
   // 1. Vertical from parent couple center down to midY
   linksG.append("line")
-    .attr("x1", parentCx).attr("y1", parentBottom)
+    .attr("x1", parentCx).attr("y1", parentMidY)
     .attr("x2", parentCx).attr("y2", midY)
     .attr("stroke", "#5b3a1a").attr("stroke-width", 2.5);
   // Connection dot at parent
   linksG.append("circle")
-    .attr("cx", parentCx).attr("cy", parentBottom)
+    .attr("cx", parentCx).attr("cy", parentMidY)
     .attr("r", 3).attr("fill", "#5b3a1a");
 
   // Child x-centers
