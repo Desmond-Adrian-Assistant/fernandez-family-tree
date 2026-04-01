@@ -333,7 +333,11 @@ Object.entries(childrenOf).forEach(([coupleId, childIds]) => {
   linksG.append("line")
     .attr("x1", parentCx).attr("y1", parentBottom)
     .attr("x2", parentCx).attr("y2", midY)
-    .attr("stroke", "#5b3a1a").attr("stroke-width", 1.8);
+    .attr("stroke", "#5b3a1a").attr("stroke-width", 2.5);
+  // Connection dot at parent
+  linksG.append("circle")
+    .attr("cx", parentCx).attr("cy", parentBottom)
+    .attr("r", 3).attr("fill", "#5b3a1a");
 
   // Child x-centers
   const childCxs = childIds.map(id => xPos[id]);
@@ -345,7 +349,7 @@ Object.entries(childrenOf).forEach(([coupleId, childIds]) => {
   linksG.append("line")
     .attr("x1", minCx).attr("y1", midY)
     .attr("x2", maxCx).attr("y2", midY)
-    .attr("stroke", "#5b3a1a").attr("stroke-width", 1.8);
+    .attr("stroke", "#5b3a1a").attr("stroke-width", 2.5);
 
   // 3. Vertical from midY down to each child top-center
   childIds.forEach(id => {
@@ -353,7 +357,11 @@ Object.entries(childrenOf).forEach(([coupleId, childIds]) => {
     linksG.append("line")
       .attr("x1", cx).attr("y1", midY)
       .attr("x2", cx).attr("y2", childY)
-      .attr("stroke", "#5b3a1a").attr("stroke-width", 1.8);
+      .attr("stroke", "#5b3a1a").attr("stroke-width", 2.5);
+    // Connection dot at child
+    linksG.append("circle")
+      .attr("cx", cx).attr("cy", childY)
+      .attr("r", 3).attr("fill", "#5b3a1a");
   });
 });
 
