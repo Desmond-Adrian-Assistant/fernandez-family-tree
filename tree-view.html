@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fernandez Family Tree</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #f5e6c8;
+    font-family: 'Georgia', 'Times New Roman', serif;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+  }
+  #tree-container {
+    width: 100%;
+    height: 100%;
+  }
+  .title-bar {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    background: linear-gradient(135deg, #5b3a1a 0%, #7a4e2a 100%);
+    color: #f5e6c8;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    z-index: 100;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+  }
+  .title-bar span { font-size: 13px; font-weight: normal; opacity: 0.8; display: block; margin-top: 2px; }
+  .legend {
+    position: fixed;
+    bottom: 12px; right: 12px;
+    background: rgba(91,58,26,0.9);
+    color: #f5e6c8;
+    padding: 10px 14px;
+    border-radius: 8px;
+    font-size: 12px;
+    z-index: 100;
+    line-height: 1.8;
+  }
+  .legend div { display: flex; align-items: center; gap: 6px; }
+  .legend .swatch { width: 14px; height: 14px; border-radius: 3px; border: 2px solid; }
+  .hint {
+    position: fixed;
+    bottom: 12px; left: 12px;
+    background: rgba(91,58,26,0.85);
+    color: #f5e6c8;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 11px;
+    z-index: 100;
+  }
+</style>
+</head>
+<body>
+<div class="title-bar">
+  🌳 Fernandez–Cervantes Family Tree
+  <span>Scroll to zoom · Drag to pan · 6 generations, 50+ members</span>
+</div>
+<div class="legend">
+  <div><span class="swatch" style="border-color:#4a90d9; background:#e8f0fe;"></span> Male</div>
+  <div><span class="swatch" style="border-color:#d94a8a; background:#fde8f0;"></span> Female</div>
+  <div>━━ Spouse &nbsp; ┃ Parent→Child</div>
+</div>
+<div class="hint">🖱 Scroll to zoom · Drag to pan · Double-click to reset</div>
+<svg id="tree-container"></svg>
+
+<script>
+// ── DATA ──────────────────────────────────────────────────────
+// Each person: { id, name, dates, note, gender, gen, spouseId, parentCouple }
+// parentCouple references a couple id like "PF_MV"
+// Couples are defined separately
+
+const people = [
+  // ─── GENERATION 2 (top) ───
+  { id: "JT", name: "Juan Tamondong", dates: "1852–1947", note: "Age 95", gender: "M", gen: 2 },
+  { id: "JPag", name: "Juana Paglingayen", dates: "b. 1853", gender: "F", gen: 2 },
+  { id: "DA", name: "Domingo Ávalos", note: "Abalos", gender: "M", gen: 2 },
+  { id: "AP", name: "Anacleta Peralta", gender: "F", gen: 2 },
+
+  // ─── GENERATION 3 ───
+  { id: "PF", name: "Pablo Fernandez", dates: "1870–1955", gender: "M", gen: 3 },
+  { id: "MV", name: "Marta Villanueva", dates: "1870–~1955", gender: "F", gen: 3 },
+  { id: "DD", name: "Domingo Daquigan", dates: "b. 1880", gender: "M", gen: 3 },
+  { id: "BB", name: "Benita Bacarro", dates: "b. 1880", gender: "F", gen: 3 },
+  { id: "JA", name: "Jose Abalos", dates: "d. Jun 1947", gender: "M", gen: 3, parentCouple: "DA_AP" },
+  { id: "CT", name: "Carlina Tamondong", gender: "F", gen: 3, parentCouple: "JT_JPag" },
+  { id: "FR", name: "Francisco Rosario", gender: "M", gen: 3 },
+  { id: "JGut", name: "Juana Gutierrez", gender: "F", gen: 3 },
+  { id: "AqT", name: "Aquilina Tamondong", gender: "F", gen: 3, parentCouple: "JT_JPag" },
+  { id: "LT", name: "Luis Tamondong", gender: "M", gen: 3, parentCouple: "JT_JPag" },
+
+  // ─── GENERATION 4 ───
+  { id: "MaF", name: "Mariano V. Fernandez", dates: "1905–1945", note: "⚔️ WWII", gender: "M", gen: 4, parentCouple: "PF_MV" },
+  { id: "VD", name: "Victoriana Daquigan", dates: "b. 1917", gender: "F", gen: 4, parentCouple: "DD_BB" },
+  { id: "HA", name: "Hilario Abalos", dates: "b. 1904", gender: "M", gen: 4, parentCouple: "JA_CT" },
+  { id: "FilR", name: "Felomena R. Gutierrez", gender: "F", gen: 4, parentCouple: "FR_JGut" },
+  { id: "JoF", name: "Josefa Fernandez", dates: "~1901", note: "m. I. Abando", gender: "F", gen: 4, parentCouple: "PF_MV" },
+  { id: "EdF", name: "Eduardo Fernandez", dates: "~1903", gender: "M", gen: 4, parentCouple: "PF_MV" },
+  { id: "CatF", name: "Catalina Fernandez", gender: "F", gen: 4, parentCouple: "PF_MV" },
+  { id: "HipA", name: "Hipolita Abalos", gender: "F", gen: 4, parentCouple: "JA_CT" },
+  { id: "CamA", name: "Camila Abalos", gender: "F", gen: 4, parentCouple: "JA_CT" },
+  { id: "IC", name: "Isaac Cervantes", gender: "M", gen: 4 },
+  { id: "EN", name: "Engracia D. Nazario", gender: "F", gen: 4 },
+  { id: "TC", name: "Teotimo Cabrera", gender: "M", gen: 4 },
+  { id: "MB", name: "Maria Banaag", gender: "F", gen: 4 },
+
+  // ─── GENERATION 5 ───
+  { id: "BF", name: "Bienvenido D. Fernandez", dates: "1937–1994", note: "Walgreens acct.", gender: "M", gen: 5, parentCouple: "MaF_VD" },
+  { id: "ARA", name: "Aurea Rosario Abalos", dates: "b. 1939", note: "Living", gender: "F", gen: 5, parentCouple: "HA_FilR" },
+  { id: "MCA", name: "Maria Concesa Abalos", dates: "b. 1935", note: "m. P. Nerizon", gender: "F", gen: 5, parentCouple: "HA_FilR" },
+  { id: "DC", name: "Diosdado Cervantes", dates: "b. 1925", gender: "M", gen: 5, parentCouple: "IC_EN" },
+  { id: "NC", name: "Natividad Cabrera", dates: "b. 1923", gender: "F", gen: 5, parentCouple: "TC_MB" },
+  { id: "AngC", name: "Angelica Cervantes", gender: "F", gen: 5, parentCouple: "IC_EN" },
+  { id: "RCL", name: "Rebecca Cervantes Lucero", note: "US", gender: "F", gen: 5, parentCouple: "IC_EN" },
+
+  // ─── GENERATION 6 ───
+  { id: "RF", name: "Raul Fernandez", dates: "~1964", note: "US Air Force", gender: "M", gen: 6, parentCouple: "BF_ARA" },
+  { id: "JC", name: "Janice Cervantes", note: "Nurse, NJ→TX", gender: "F", gen: 6, parentCouple: "DC_NC" },
+  { id: "EncM", name: "Encarnita Mejorada", note: "Chicago", gender: "F", gen: 6, parentCouple: "BF_ARA" },
+  { id: "VK", name: "Vivienne Koch", note: "Chicago", gender: "F", gen: 6, parentCouple: "BF_ARA" },
+  { id: "MiF", name: "Michelle Fernandez", note: "Chicago", gender: "F", gen: 6, parentCouple: "BF_ARA" },
+  { id: "JocelF", name: "Jocelyn Fernandez", note: "San Diego", gender: "F", gen: 6, parentCouple: "BF_ARA" },
+
+  // ─── GENERATION 7 (bottom) ───
+  { id: "Adrian", name: "Adrian Fernandez", dates: "Mar 2, 1987", note: "Allen, TX ⭐", gender: "M", gen: 7, parentCouple: "RF_JC" },
+  { id: "Kristine", name: "Kristine Fernandez", gender: "F", gen: 7, parentCouple: "RF_JC" },
+  { id: "Kiana", name: "Kiana Fernandez", gender: "F", gen: 7, parentCouple: "RF_JC" },
+];
+
+const couples = [
+  // gen 2
+  { id: "JT_JPag", p1: "JT", p2: "JPag", gen: 2 },
+  { id: "DA_AP", p1: "DA", p2: "AP", gen: 2 },
+  // gen 3
+  { id: "PF_MV", p1: "PF", p2: "MV", gen: 3 },
+  { id: "DD_BB", p1: "DD", p2: "BB", gen: 3 },
+  { id: "JA_CT", p1: "JA", p2: "CT", gen: 3 },
+  { id: "FR_JGut", p1: "FR", p2: "JGut", gen: 3 },
+  // gen 4
+  { id: "MaF_VD", p1: "MaF", p2: "VD", gen: 4 },
+  { id: "HA_FilR", p1: "HA", p2: "FilR", gen: 4 },
+  { id: "IC_EN", p1: "IC", p2: "EN", gen: 4 },
+  { id: "TC_MB", p1: "TC", p2: "MB", gen: 4 },
+  // gen 5
+  { id: "BF_ARA", p1: "BF", p2: "ARA", gen: 5 },
+  { id: "DC_NC", p1: "DC", p2: "NC", gen: 5 },
+  // gen 6
+  { id: "RF_JC", p1: "RF", p2: "JC", gen: 6 },
+];
+
+// ── LAYOUT ──────────────────────────────────────────────────
+const CARD_W = 180, CARD_H = 65;
+const H_GAP = 20, V_GAP = 110;
+const COUPLE_GAP = 8;
+const SPOUSE_W = CARD_W * 2 + COUPLE_GAP; // width of a couple unit
+
+// Build lookup
+const pById = {};
+people.forEach(p => pById[p.id] = p);
+const coupleById = {};
+couples.forEach(c => coupleById[c.id] = c);
+
+// Which people are in couples?
+const inCouple = new Set();
+couples.forEach(c => { inCouple.add(c.p1); inCouple.add(c.p2); });
+
+// Group children by parentCouple
+const childrenOf = {};
+people.forEach(p => {
+  if (p.parentCouple) {
+    if (!childrenOf[p.parentCouple]) childrenOf[p.parentCouple] = [];
+    childrenOf[p.parentCouple].push(p.id);
+  }
+});
+
+// ── MANUAL X-POSITION ASSIGNMENT ──
+// Position family clusters. Units: couple=1 unit, single=0.5 unit
+// We'll compute x in abstract slots then convert to pixels
+
+// Strategy: position from top (gen 2) down, centering children under parents
+// But since relationships cross between families (e.g., Aurea's parents are HA_FilR which
+// is separate from Bienvenido's parents MaF_VD), we need manual positioning.
+
+// I'll assign x-center positions to each couple and solo person manually,
+// grouping related families together.
+
+// Sections left-to-right:
+// [Fernandez ancestors] [Abalos ancestors] [Cervantes/Cabrera ancestors]
+
+const xPos = {}; // id -> x center of card
+const yPos = {}; // id -> y top of card
+
+// Y positions: gen 2 at top
+const genY = {
+  2: 60,
+  3: 60 + V_GAP + CARD_H,
+  4: 60 + 2*(V_GAP + CARD_H),
+  5: 60 + 3*(V_GAP + CARD_H),
+  6: 60 + 4*(V_GAP + CARD_H),
+  7: 60 + 5*(V_GAP + CARD_H),
+};
+
+// X layout — manual, in pixels from left
+// Fernandez branch (left side): PF_MV → MaF+VD + siblings → BF
+// Abalos branch (center-left): DA_AP, JT_JPag → JA+CT, FR+JGut → HA+FilR → ARA
+// Cervantes branch (center-right): IC+EN, TC+MB → DC+NC → JC
+// Bottom: RF+JC → Adrian, Kristine, Kiana
+
+function coupleX(cx, couple) {
+  // Place p1 at cx - half couple width, p2 at cx + half
+  xPos[couple.p1] = cx - (CARD_W + COUPLE_GAP) / 2;
+  xPos[couple.p2] = cx + (CARD_W + COUPLE_GAP) / 2;
+}
+
+function soloX(cx, id) {
+  xPos[id] = cx;
+}
+
+// ─── GEN 2 ───
+// Tamondong couple (far center — feeds into Abalos)
+const tamondongX = 1350;
+coupleX(tamondongX, coupleById["JT_JPag"]);
+
+// Ávalos couple (left of Tamondong)
+const avalosX = 950;
+coupleX(avalosX, coupleById["DA_AP"]);
+
+// ─── GEN 3 ───
+// Pablo + Marta (Fernandez line, far left)
+const pabloX = 250;
+coupleX(pabloX, coupleById["PF_MV"]);
+
+// Domingo Daquigan + Benita (feeds into Victoriana)
+const daquiganX = 550;
+coupleX(daquiganX, coupleById["DD_BB"]);
+
+// Jose Abalos + Carlina (center)
+const joseX = 1050;
+coupleX(joseX, coupleById["JA_CT"]);
+
+// Francisco Rosario + Juana Gutierrez
+const franciscoX = 1400;
+coupleX(franciscoX, coupleById["FR_JGut"]);
+
+// Aquilina & Luis Tamondong (children of JT_JPag, siblings)
+soloX(1650, "AqT");
+soloX(1850, "LT");
+
+// ─── GEN 4 ───
+// Mariano + Victoriana (Fernandez, left)
+const marianoX = 370;
+coupleX(marianoX, coupleById["MaF_VD"]);
+
+// Siblings of Mariano: Josefa, Eduardo, Catalina
+soloX(80, "JoF");
+soloX(180, "EdF");
+soloX(580, "CatF");
+
+// Hilario + Felomena (Abalos, center)
+const hilarioX = 1200;
+coupleX(hilarioX, coupleById["HA_FilR"]);
+
+// Siblings of Hilario: Hipolita, Camila
+soloX(900, "HipA");
+soloX(1000, "CamA");
+
+// Isaac + Engracia (Cervantes, right)
+const isaacX = 1750;
+coupleX(isaacX, coupleById["IC_EN"]);
+
+// Teotimo + Maria (Cabrera, far right)
+const teotimoX = 2150;
+coupleX(teotimoX, coupleById["TC_MB"]);
+
+// ─── GEN 5 ───
+// Bienvenido + Aurea (center of Fernandez+Abalos merge)
+const bienvenidoX = 650;
+coupleX(bienvenidoX, coupleById["BF_ARA"]);
+
+// Maria Concesa (sibling of Aurea, child of HA_FilR)
+soloX(1200, "MCA");
+
+// Diosdado + Natividad (Cervantes+Cabrera merge)
+const diosdadoX = 1850;
+coupleX(diosdadoX, coupleById["DC_NC"]);
+
+// Angelica, Rebecca (siblings of Diosdado, children of IC_EN)
+soloX(1550, "AngC");
+soloX(1650, "RCL");
+
+// ─── GEN 6 ───
+// Raul + Janice (main line)
+const raulX = 1050;
+coupleX(raulX, coupleById["RF_JC"]);
+
+// Siblings of Raul (children of BF_ARA)
+soloX(350, "EncM");
+soloX(500, "VK");
+soloX(650, "MiF");
+soloX(800, "JocelF");
+
+// ─── GEN 7 ───
+soloX(950, "Adrian");
+soloX(1100, "Kristine");
+soloX(1250, "Kiana");
+
+// Assign Y
+people.forEach(p => { yPos[p.id] = genY[p.gen]; });
+
+// ── RENDER ──────────────────────────────────────────────────
+const svg = d3.select("#tree-container");
+const width = window.innerWidth, height = window.innerHeight;
+svg.attr("width", width).attr("height", height);
+
+const g = svg.append("g");
+
+// Zoom & pan
+const zoom = d3.zoom()
+  .scaleExtent([0.15, 3])
+  .on("zoom", (e) => g.attr("transform", e.transform));
+svg.call(zoom);
+
+// Double-click reset
+svg.on("dblclick.zoom", null);
+svg.on("dblclick", () => {
+  svg.transition().duration(750).call(zoom.transform, initialTransform);
+});
+
+// ── DRAW LINKS ──────────────────────────────────────────────
+const linksG = g.append("g").attr("class", "links");
+
+// Spouse lines (horizontal between couple)
+couples.forEach(c => {
+  const x1 = xPos[c.p1] + CARD_W / 2;
+  const x2 = xPos[c.p2] - CARD_W / 2;
+  const y = yPos[c.p1] + CARD_H / 2;
+  linksG.append("line")
+    .attr("x1", x1).attr("y1", y)
+    .attr("x2", x2).attr("y2", y)
+    .attr("stroke", "#c0392b")
+    .attr("stroke-width", 2.5)
+    .attr("stroke-dasharray", "6,3");
+});
+
+// Parent-child lines
+// For each couple with children, draw:
+// 1. Vertical line down from couple center
+// 2. Horizontal bar across children
+// 3. Vertical lines up to each child
+Object.entries(childrenOf).forEach(([coupleId, childIds]) => {
+  const couple = coupleById[coupleId];
+  if (!couple) return;
+
+  const parentCx = (xPos[couple.p1] + xPos[couple.p2]) / 2;
+  const parentBottom = yPos[couple.p1] + CARD_H;
+
+  // Midpoint Y between parent and child gen
+  const childY = yPos[childIds[0]];
+  const midY = parentBottom + (childY - parentBottom) / 2;
+
+  // Vertical from parent center down to midY
+  linksG.append("line")
+    .attr("x1", parentCx).attr("y1", parentBottom)
+    .attr("x2", parentCx).attr("y2", midY)
+    .attr("stroke", "#5b3a1a").attr("stroke-width", 1.8);
+
+  // Child x-centers
+  const childCxs = childIds.map(id => xPos[id]);
+  const minCx = Math.min(...childCxs, parentCx);
+  const maxCx = Math.max(...childCxs, parentCx);
+
+  // Horizontal bar at midY
+  linksG.append("line")
+    .attr("x1", minCx).attr("y1", midY)
+    .attr("x2", maxCx).attr("y2", midY)
+    .attr("stroke", "#5b3a1a").attr("stroke-width", 1.8);
+
+  // Vertical from midY down to each child
+  childIds.forEach(id => {
+    const cx = xPos[id];
+    linksG.append("line")
+      .attr("x1", cx).attr("y1", midY)
+      .attr("x2", cx).attr("y2", childY)
+      .attr("stroke", "#5b3a1a").attr("stroke-width", 1.8);
+  });
+});
+
+// ── DRAW CARDS ──────────────────────────────────────────────
+const cardsG = g.append("g").attr("class", "cards");
+
+people.forEach(p => {
+  const x = xPos[p.id] - CARD_W / 2;
+  const y = yPos[p.id];
+  const isM = p.gender === "M";
+  const borderColor = isM ? "#4a90d9" : "#d94a8a";
+  const bgColor = isM ? "#e8f0fe" : "#fde8f0";
+  const isAdrian = p.id === "Adrian";
+
+  const card = cardsG.append("g")
+    .attr("transform", `translate(${x},${y})`);
+
+  // Shadow
+  card.append("rect")
+    .attr("x", 2).attr("y", 2)
+    .attr("width", CARD_W).attr("height", CARD_H)
+    .attr("rx", 8).attr("fill", "rgba(0,0,0,0.12)");
+
+  // Card background
+  card.append("rect")
+    .attr("width", CARD_W).attr("height", CARD_H)
+    .attr("rx", 8)
+    .attr("fill", bgColor)
+    .attr("stroke", borderColor)
+    .attr("stroke-width", isAdrian ? 3.5 : 2);
+
+  if (isAdrian) {
+    card.append("rect")
+      .attr("width", CARD_W).attr("height", CARD_H)
+      .attr("rx", 8)
+      .attr("fill", "none")
+      .attr("stroke", "#f1c40f")
+      .attr("stroke-width", 1.5)
+      .attr("stroke-dasharray", "4,2");
+  }
+
+  // Name
+  card.append("text")
+    .attr("x", CARD_W / 2).attr("y", 20)
+    .attr("text-anchor", "middle")
+    .attr("font-size", "11px")
+    .attr("font-weight", "bold")
+    .attr("fill", "#2c1810")
+    .text(p.name);
+
+  // Dates
+  if (p.dates) {
+    card.append("text")
+      .attr("x", CARD_W / 2).attr("y", 36)
+      .attr("text-anchor", "middle")
+      .attr("font-size", "9.5px")
+      .attr("fill", "#666")
+      .text(p.dates);
+  }
+
+  // Note
+  if (p.note) {
+    card.append("text")
+      .attr("x", CARD_W / 2).attr("y", p.dates ? 50 : 38)
+      .attr("text-anchor", "middle")
+      .attr("font-size", "9px")
+      .attr("fill", "#8b6914")
+      .attr("font-style", "italic")
+      .text(p.note);
+  }
+});
+
+// ── GENERATION LABELS ──
+const genLabels = {
+  2: "Gen 2 · Great-Great-Great-Grandparents",
+  3: "Gen 3 · Great-Great-Grandparents",
+  4: "Gen 4 · Great-Grandparents",
+  5: "Gen 5 · Grandparents",
+  6: "Gen 6 · Parents & Aunts/Uncles",
+  7: "Gen 7 · Current Generation"
+};
+
+Object.entries(genLabels).forEach(([gen, label]) => {
+  g.append("text")
+    .attr("x", -30)
+    .attr("y", genY[gen] + CARD_H / 2)
+    .attr("text-anchor", "end")
+    .attr("font-size", "10px")
+    .attr("fill", "#8b6914")
+    .attr("font-style", "italic")
+    .attr("opacity", 0.7)
+    .text(label);
+});
+
+// ── INITIAL FIT ──────────────────────────────────────────────
+// Compute bounding box and zoom to fit
+const allX = people.map(p => xPos[p.id]);
+const allY = people.map(p => yPos[p.id]);
+const minX = Math.min(...allX) - CARD_W / 2 - 250;
+const maxX = Math.max(...allX) + CARD_W / 2 + 50;
+const minY = Math.min(...allY) - 30;
+const maxY = Math.max(...allY) + CARD_H + 30;
+const treeW = maxX - minX;
+const treeH = maxY - minY;
+
+const scale = Math.min(width / treeW, (height - 50) / treeH) * 0.92;
+const tx = (width - treeW * scale) / 2 - minX * scale;
+const ty = (height - treeH * scale) / 2 - minY * scale + 25;
+
+const initialTransform = d3.zoomIdentity.translate(tx, ty).scale(scale);
+svg.call(zoom.transform, initialTransform);
+</script>
+</body>
+</html>
