@@ -35,3 +35,28 @@ All 5 children likely follow: [First Name] [Middle Name] [Abalos] [Fernandez]
 Bienvenido & Aurea: 5 children confirmed
 Previously known: only Raul
 NEW: Encarnita, Vivienne, Michelle, Jocelyn (4 sisters)
+
+## Updated Info from Adrian (20:06 CDT)
+
+### Married Names & Locations
+1. **Encarnita Fernandez** → married **Michael Mejorada**, lives in **Chicago**
+   - Ancestry CONFIRMED: "Encarnita A Mejorada" (also "E A Fernandezmejorada", "Encar Fernandez Mejorada")
+   - Spouse: Michael ✅
+   - Residence: Illinois ✅
+   - Multiple address records in IL (collections 62209, 1788, 7339)
+   
+2. **Vivienne Fernandez** → married **Michael Koch**, lives in **Chicago**
+   - The Miami-Dade marriage records were a DIFFERENT Vivienne — corrected
+   
+3. **Michelle Fernandez** → lives in **Chicago** (married name unknown)
+
+4. **Jocelyn Fernandez** → moved to **San Diego** (married name unknown)
+   - "Jocelyn G Fernandez" birth record in San Diego — likely Jocelyn's child
+
+5. **Raul Fernandez** → married **Janice Cervantes**, lives in **Allen, Texas**
+
+### Family Map
+- **Chicago cluster**: Encarnita (Mejorada), Vivienne (Koch), Michelle + Grandma Aurea
+- **Texas**: Raul (Fernandez/Cervantes)  
+- **San Diego**: Jocelyn
+- **Note**: 3 of 5 siblings stayed in Chicago (near where Lolo Bien settled in 1975)
