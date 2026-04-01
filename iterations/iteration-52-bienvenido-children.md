@@ -60,3 +60,41 @@ NEW: Encarnita, Vivienne, Michelle, Jocelyn (4 sisters)
 - **Texas**: Raul (Fernandez/Cervantes)  
 - **San Diego**: Jocelyn
 - **Note**: 3 of 5 siblings stayed in Chicago (near where Lolo Bien settled in 1975)
+
+## Family Migration Story (from Adrian, 20:07 CDT)
+
+### Bienvenido's Immigration Path
+1. **Bienvenido came to America FIRST** — solo, ahead of the family
+2. **Got a job at Walgreens as an accountant** (corporate HQ is in Deerfield, IL — Chicago suburb!)
+3. **SS record established June 1975** — this is when he started working at Walgreens
+4. **Petitioned for the family** — once established, he brought over Aurea and the children
+5. **Raul was in HIGH SCHOOL when they arrived** — so Raul was ~14-17, meaning the family arrived ~1978-1982
+6. This matches the earlier estimate of 1981 immigration for the rest of the family
+
+### Raul's Path
+- Born ~1964-65 in Philippines (firstborn, parents married Dec 1963)
+- Grew up in Gerona/San Carlos area
+- Arrived in Chicago as a teenager (high school age)
+- **Enlisted in the US Air Force** after high school
+- Eventually settled in Allen, Texas (near multiple Air Force bases: Sheppard AFB, Dyess AFB, or could have been stationed elsewhere)
+
+### Walgreens Connection
+- Walgreens corporate headquarters: **Deerfield, Illinois** (Chicago north suburb)
+- Deerfield is ~15 miles from Niles, IL (where Bienvenido was later buried)
+- An accountant at Walgreens in 1975 was a solid middle-class professional job
+- Bienvenido (CPA from the Philippines) leveraged his accounting degree for US employment
+- The 1965 Immigration Act opened doors for professional Filipino immigrants
+
+### Timeline Reconstruction
+- 1937: Bienvenido born, Gerona, Tarlac
+- 1945: Father Mariano killed (WWII, age 7)
+- 1963: Married Aurea, San Carlos City
+- ~1964: Raul born (firstborn)
+- ~1966-73: Encarnita, Vivienne, Michelle, Jocelyn born
+- ~1974-75: Bienvenido moves to America alone
+- June 1975: Starts at Walgreens, gets SS number
+- ~1978-82: Family joins him in Chicago (Raul in high school)
+- ~1982-84: Raul graduates HS, enlists in Air Force
+- Mar 15, 1994: Bienvenido dies, age 56, Niles IL
+- Raul meets Janice Cervantes (Air Force? or later)
+- Mar 2, 1987: Adrian born
