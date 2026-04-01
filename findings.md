@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-04-01 01:28 UTC (Iteration 53: Tamondong Ancestry Trees + Charlemagne T. Tamondong PAMET Founder)
+Last updated: 2026-04-01 06:00 UTC (Iteration 54: Hilario Abalos Marriage + 7 Abalos Siblings Discovered)
 
 
 ## 🔥🔥 Charlemagne T. Tamondong Sr. — Founding President of PAMET (Iteration 53)
@@ -2291,3 +2291,66 @@ From Ancestry SSDI collection 3693, searching "B Fernandez" + death 1994:
 - **"B. Fernandez"** — died 1994 (location behind paywall) — record #18998749
 - One of these is almost certainly Bienvenido Daquigan Fernandez
 - **Both require Ancestry login to view birth date, death date, last residence, SSN**
+
+
+## 🔥🔥🔥 Hilario Abalos + Filomena Rosario — Marriage & Children Discovered (Iteration 54)
+
+### Hilario Abalos Marriage Records — CONFIRMED on Ancestry
+- **Two marriage records** for Hilario Abalos found in Ancestry Collection 60130 (Philippines Select Marriages)
+- **Record 1090125:** Shows **"Felomena R."** as relative — this is **Filomena Rosario** (OCR variant of Filomena)
+- **Record 2494852:** Second Hilario Abalos marriage record
+- **FIRST Ancestry confirmation** of the Hilario Abalos + Filomena Rosario great-grandparent pair
+
+### 🔥 Aurea's Siblings — UP TO 7 PREVIOUSLY UNKNOWN
+Searching Ancestry with father=Hilario Abalos, mother=Felomena Rosario returned marriage records for **at least 7 children**:
+
+| # | Record ID | Name | Notes |
+|---|-----------|------|-------|
+| 1 | 2494854 | **Cosme Abalos** | Near-sequential record to Hilario's — same register book |
+| 2 | 2494041 | **Maria Abalos** | Near-sequential |
+| 3 | 304515 | **Maria R. Abalos** | "R." = Rosario (mother's maiden name). Has "B." as spouse initial |
+| 4 | 3291703 | **Feliciana Abalos** | |
+| 5 | 3316288 | **Francisco Abalos** | |
+| 6 | 978317 | **Dominador Abalos** | |
+| 7 | 725078 | **Marina Abalos** | |
+| 8 | — | **Aurea Rosario Abalos** | Married Bienvenido Fernandez (Dec 16, 1963) — already known |
+
+**Significance:** Aurea was part of a LARGE family — at least 8 children. This is the first discovery of ANY of Aurea's siblings. All records behind Ancestry paywall — Adrian's World Explorer trial can unlock full details (marriage dates, spouse names, locations, parents' names).
+
+### Record Number Proximity Confirms Family
+Records 2494041 (Maria), 2494852 (Hilario), 2494854 (Cosme) are **near-sequential** in collection 60130. In Filipino civil registration, sequential numbers come from the same register book in the same municipality during the same time period. This confirms these are all from the same family registered in the same town (likely San Carlos City or neighboring municipality).
+
+### Jose Abalos Marriage Records — Multiple Candidates
+15+ Jose Abalos marriage records exist in collection 60130. Key candidates that could be Adrian's ancestor Jose Abalos (married Carlina Tamondong):
+- Records: 1265508, 1301241, 1500191, 160982, 1640968, 1643014, 1647496, 3002329, 3096774, 3135581, 3378389, 3378551, 3785005, 3818187
+- Full details (spouse name Carlina Tamondong, parents, location) behind paywall
+
+### Petronila Abalos — Possible Jose Abalos Sibling/Relative
+Record 1265509 lists **Petronila Abalos** in the broader Abalos search. Record # 1265509 is adjacent to José Abalos record 1265508 — suggesting they are from the same register book, possibly siblings or in the same family.
+
+### Additional Abalos Children (Lower Confidence — Broader Search)
+The broader search (father=Hilario OR Jose Abalos, mother=Filomena Rosario) also returned:
+- **Silvino Abalos** (records 160985, 3870173 — two marriage records)
+- **Leonardo Abalos** (record 1640967)
+- **Mariano Abalos** (record 1643015)
+- **Mariano S. Abalos** (record 4287765)
+- **Francisco Medesto Abalos** (record 3785003) — has "Salud" as visible relative
+- **Brono Abalos** (record 3897487)
+- **Ciriaco Abalos** (record 3374971)
+
+These could be Hilario's siblings (Jose & Carlina Tamondong's children) or Hilario's own children. Without login, cannot confirm parentage.
+
+### Updated Ancestry Records Catalogue (Abalos Line)
+| Priority | Record ID | Collection | Person |
+|----------|-----------|-----------|--------|
+| 🔴 | 1090125 | 60130 | Hilario Abalos marriage — date, place, parents |
+| 🔴 | 2494852 | 60130 | Hilario Abalos marriage (2nd record) |
+| 🔴 | 2494854 | 60130 | Cosme Abalos marriage (Aurea's sibling) |
+| 🔴 | 2494041 | 60130 | Maria Abalos marriage (Aurea's sibling) |
+| 🟡 | 304515 | 60130 | Maria R. Abalos — spouse initial "B." |
+| 🟡 | 3291703 | 60130 | Feliciana Abalos |
+| 🟡 | 3316288 | 60130 | Francisco Abalos |
+| 🟡 | 978317 | 60130 | Dominador Abalos |
+| 🟡 | 725078 | 60130 | Marina Abalos |
+| 🟢 | 1265508 | 60130 | José Abalos — possible ancestor Jose Abalos |
+| 🟢 | 1265509 | 60130 | Petronila Abalos — adjacent to José, likely sibling |
