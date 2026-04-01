@@ -98,3 +98,30 @@ NEW: Encarnita, Vivienne, Michelle, Jocelyn (4 sisters)
 - Mar 15, 1994: Bienvenido dies, age 56, Niles IL
 - Raul meets Janice Cervantes (Air Force? or later)
 - Mar 2, 1987: Adrian born
+
+## CORRECTION: Parents Met in New Jersey (from Adrian 20:13 CDT)
+
+### How Raul & Janice Met
+- **Raul** was stationed at an Air Force base in **New Jersey** (likely McGuire AFB / Joint Base MDL)
+- **Janice** immigrated to **New Jersey** on a **nursing visa** (from Angeles City, Pampanga)
+- They met in New Jersey
+- **Adrian was born in New Jersey** (Mar 2, 1987) — NOT Texas!
+- Family later moved to Allen, Texas
+
+### Janice's Immigration Path
+- Janice Cervantes grew up in **Angeles City, Pampanga** (near Clark Air Base)
+- Immigrated to the US on a **nursing visa** — the H-1 nursing visa program was a major pathway for Filipino nurses in the 1980s
+- Settled in **New Jersey** — which has one of the largest Filipino-American communities on the East Coast
+- Met Raul (Air Force, stationed in NJ) there
+- Married, had Adrian (1987), Kristine, Kiana
+- Eventually moved to **Allen, Texas**
+
+### Corrected Timeline
+- ~1964-65: Raul born in Philippines
+- ~1978-82: Arrives in Chicago with family (high school age)
+- ~1982-84: Raul enlists in US Air Force
+- ~1984-86: Raul stationed in New Jersey (McGuire AFB?)
+- ~1985-86: Janice immigrates to NJ on nursing visa from Angeles City
+- ~1986: Raul & Janice meet in New Jersey
+- **Mar 2, 1987: Adrian born in New Jersey**
+- Later: Family moves to Allen, Texas
