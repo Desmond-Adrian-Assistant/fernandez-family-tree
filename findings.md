@@ -1,7 +1,40 @@
 # Consolidated Findings
 
-Last updated: 2026-04-01 01:05 UTC (Iteration 51-ancestry-deep: Ancestry.com Deep Search)
+Last updated: 2026-04-01 01:28 UTC (Iteration 53: Tamondong Ancestry Trees + Charlemagne T. Tamondong PAMET Founder)
 
+
+## 🔥🔥 Charlemagne T. Tamondong Sr. — Founding President of PAMET (Iteration 53)
+
+### Charlemagne T. Tamondong Sr. (d. March 26, 2012)
+- **Role:** First President of PAMET (Philippine Association of Medical Technologists), 1963-1967
+- **Parents:** **Segundo Cardel** (father) + **Leonora Tamundong** (mother)
+- **Key insight:** Charlemagne's birth surname was CARDEL — he used his MATERNAL surname Tamondong professionally
+- **The "T." middle initial = Tamondong** (mother's maiden name, Filipino naming convention)
+- Lobbied for House Bill 7682 → became RA 5527 (Philippine Medical Technology Act, 1969)
+- Built PAMET from scratch — now 46 provincial chapters, 13,000+ members, ONLY accredited MedTech org
+- **Died:** March 26, 2012, Metro Manila
+- **Burial:** Loyola Memorial Park, Parañaque
+- **FindAGrave:** Memorial ID 125262558
+- **Source:** PAMET official website (pametinc.ph/about/), IFCC history document, Ancestry, FindAGrave
+
+### Tomasa Tamondong + Jose Cayabyab — Ancestry Tree Confirmation
+- **Ancestry tree 187220477** independently confirms Tamondong-Cayabyab intermarriage
+- First Ancestry record showing this specific principalía cross-marriage
+- Cayabyab = Captains of San Carlos 1770-73, current barangay captains of Pangoloan and Turac
+- Combined chain confirmed: Tamondong → Cayabyab → Soriano → Benitez
+
+### Ancestry Tamondong Trees — Key Resources for Adrian
+| Tree ID | Name | People | Key Person | Significance |
+|---------|------|--------|------------|-------------|
+| 187220477 | (unknown) | 7 | Tomasa Tamondong + Jose Cayabyab | Principalía intermarriage proof |
+| 16876516 | Gough Family Tree | 693 | Charlemagne T. Tamondong | PAMET founder, Leonora Tamundong |
+| 370005 | Richard L. | 1081 | Don Dale Tamondong (father b. 1925) | Possibly Francisco Garcia from Brgy Ano |
+| 169065267 | Ebanculla Family Tree | 404 | Leoferd Rosario Tamondong | Rosario-Tamondong intermarriage (modern) |
+| 155436230 | (unknown) | — | Leonida Tamondong (b. 1946) | Father b. 1921 |
+
+### Leoferd Rosario Tamondong — Rosario-Tamondong Modern Intermarriage
+- "Rosario" = mother's maiden name → confirms Rosario-Tamondong intermarriage continues in modern era
+- In Ebanculla Family Tree (404 people) on Ancestry
 
 ## 🔥🔥 Ancestry.com Deep Search Findings (Iteration 51-ancestry-deep)
 

@@ -72,10 +72,6 @@
 
 <script>
 // ── DATA ──────────────────────────────────────────────────────
-// Each person: { id, name, dates, note, gender, gen, spouseId, parentCouple }
-// parentCouple references a couple id like "PF_MV"
-// Couples are defined separately
-
 const people = [
   // ─── GENERATION 2 (top) ───
   { id: "JT", name: "Juan Tamondong", dates: "1852–1947", note: "Age 95", gender: "M", gen: 2 },
@@ -156,9 +152,7 @@ const couples = [
 
 // ── LAYOUT ──────────────────────────────────────────────────
 const CARD_W = 180, CARD_H = 65;
-const H_GAP = 20, V_GAP = 110;
-const COUPLE_GAP = 8;
-const SPOUSE_W = CARD_W * 2 + COUPLE_GAP; // width of a couple unit
+const COUPLE_GAP = 30; // gap between spouse cards
 
 // Build lookup
 const pById = {};
@@ -179,138 +173,107 @@ people.forEach(p => {
   }
 });
 
-// ── MANUAL X-POSITION ASSIGNMENT ──
-// Position family clusters. Units: couple=1 unit, single=0.5 unit
-// We'll compute x in abstract slots then convert to pixels
+// ── POSITION ASSIGNMENT ──────────────────────────────────────
+// xPos = card CENTER x, yPos = card TOP y
+const xPos = {};
+const yPos = {};
 
-// Strategy: position from top (gen 2) down, centering children under parents
-// But since relationships cross between families (e.g., Aurea's parents are HA_FilR which
-// is separate from Bienvenido's parents MaF_VD), we need manual positioning.
-
-// I'll assign x-center positions to each couple and solo person manually,
-// grouping related families together.
-
-// Sections left-to-right:
-// [Fernandez ancestors] [Abalos ancestors] [Cervantes/Cabrera ancestors]
-
-const xPos = {}; // id -> x center of card
-const yPos = {}; // id -> y top of card
-
-// Y positions: gen 2 at top
+// Y positions per generation
+const V_GAP = 110;
 const genY = {
   2: 60,
   3: 60 + V_GAP + CARD_H,
-  4: 60 + 2*(V_GAP + CARD_H),
-  5: 60 + 3*(V_GAP + CARD_H),
-  6: 60 + 4*(V_GAP + CARD_H),
-  7: 60 + 5*(V_GAP + CARD_H),
+  4: 60 + 2 * (V_GAP + CARD_H),
+  5: 60 + 3 * (V_GAP + CARD_H),
+  6: 60 + 4 * (V_GAP + CARD_H),
+  7: 60 + 5 * (V_GAP + CARD_H),
 };
 
-// X layout — manual, in pixels from left
-// Fernandez branch (left side): PF_MV → MaF+VD + siblings → BF
-// Abalos branch (center-left): DA_AP, JT_JPag → JA+CT, FR+JGut → HA+FilR → ARA
-// Cervantes branch (center-right): IC+EN, TC+MB → DC+NC → JC
-// Bottom: RF+JC → Adrian, Kristine, Kiana
-
+// Helper: place couple centered at cx
 function coupleX(cx, couple) {
-  // Place p1 at cx - half couple width, p2 at cx + half
   xPos[couple.p1] = cx - (CARD_W + COUPLE_GAP) / 2;
   xPos[couple.p2] = cx + (CARD_W + COUPLE_GAP) / 2;
 }
-
 function soloX(cx, id) {
   xPos[id] = cx;
 }
 
-// ─── GEN 2 ───
-// Tamondong couple (far center — feeds into Abalos)
-const tamondongX = 1350;
-coupleX(tamondongX, coupleById["JT_JPag"]);
+// ═══════════════════════════════════════════════════════════════
+// MANUAL POSITIONS — carefully spaced to avoid all overlaps
+// Layout: Fernandez branch (left) | Abalos branch (center) | Cervantes/Cabrera (right)
+// Gen 4 is widest (13 people) — drives the overall width (~3200px)
+// ═══════════════════════════════════════════════════════════════
 
-// Ávalos couple (left of Tamondong)
-const avalosX = 950;
-coupleX(avalosX, coupleById["DA_AP"]);
+// ─── GEN 4 (widest — position first) ───
+// PF_MV children: JoF, EdF, [MaF+VD couple], CatF
+soloX(200, "JoF");
+soloX(430, "EdF");
+coupleX(765, coupleById["MaF_VD"]);   // MaF=660, VD=870
+soloX(1100, "CatF");
+
+// JA_CT children: HipA, CamA, [HA+FilR couple]
+soloX(1400, "HipA");
+soloX(1630, "CamA");
+coupleX(1965, coupleById["HA_FilR"]); // HA=1860, FilR=2070
+
+// Cervantes + Cabrera
+coupleX(2525, coupleById["IC_EN"]);   // IC=2420, EN=2630
+coupleX(3025, coupleById["TC_MB"]);   // TC=2920, MB=3130
 
 // ─── GEN 3 ───
-// Pablo + Marta (Fernandez line, far left)
-const pabloX = 250;
-coupleX(pabloX, coupleById["PF_MV"]);
+// PF_MV centered over their children {JoF(200), EdF(430), MaF(660), CatF(1100)} ≈ 598
+coupleX(600, coupleById["PF_MV"]);    // PF=495, MV=705
 
-// Domingo Daquigan + Benita (feeds into Victoriana)
-const daquiganX = 550;
-coupleX(daquiganX, coupleById["DD_BB"]);
+// DD_BB centered over VD(870), but pushed right to avoid MV overlap
+coupleX(1020, coupleById["DD_BB"]);   // DD=915, BB=1125
 
-// Jose Abalos + Carlina (center)
-const joseX = 1050;
-coupleX(joseX, coupleById["JA_CT"]);
+// JA_CT centered over {HipA(1400), CamA(1630), HA(1860)} ≈ 1630
+coupleX(1630, coupleById["JA_CT"]);   // JA=1525, CT=1735
 
-// Francisco Rosario + Juana Gutierrez
-const franciscoX = 1400;
-coupleX(franciscoX, coupleById["FR_JGut"]);
+// FR_JGut centered over FilR(2070)
+coupleX(2070, coupleById["FR_JGut"]); // FR=1965, JGut=2175
 
-// Aquilina & Luis Tamondong (children of JT_JPag, siblings)
-soloX(1650, "AqT");
-soloX(1850, "LT");
+// Solos — children of JT_JPag
+soloX(2450, "AqT");
+soloX(2700, "LT");
 
-// ─── GEN 4 ───
-// Mariano + Victoriana (Fernandez, left)
-const marianoX = 370;
-coupleX(marianoX, coupleById["MaF_VD"]);
+// ─── GEN 2 ───
+// DA_AP centered over JA(1525)
+coupleX(1525, coupleById["DA_AP"]);   // DA=1420, AP=1630
 
-// Siblings of Mariano: Josefa, Eduardo, Catalina
-soloX(80, "JoF");
-soloX(180, "EdF");
-soloX(580, "CatF");
-
-// Hilario + Felomena (Abalos, center)
-const hilarioX = 1200;
-coupleX(hilarioX, coupleById["HA_FilR"]);
-
-// Siblings of Hilario: Hipolita, Camila
-soloX(900, "HipA");
-soloX(1000, "CamA");
-
-// Isaac + Engracia (Cervantes, right)
-const isaacX = 1750;
-coupleX(isaacX, coupleById["IC_EN"]);
-
-// Teotimo + Maria (Cabrera, far right)
-const teotimoX = 2150;
-coupleX(teotimoX, coupleById["TC_MB"]);
+// JT_JPag centered over {CT(1735), AqT(2450), LT(2700)} ≈ 2295
+coupleX(2295, coupleById["JT_JPag"]); // JT=2190, JPag=2400
 
 // ─── GEN 5 ───
-// Bienvenido + Aurea (center of Fernandez+Abalos merge)
-const bienvenidoX = 650;
-coupleX(bienvenidoX, coupleById["BF_ARA"]);
+// BF_ARA: merge of Fernandez (MaF_VD center=765) + Abalos (HA_FilR center=1965) → midpoint ≈ 1365
+coupleX(1365, coupleById["BF_ARA"]);  // BF=1260, ARA=1470
 
-// Maria Concesa (sibling of Aurea, child of HA_FilR)
-soloX(1200, "MCA");
+// MCA: child of HA_FilR, sibling of ARA
+soloX(1720, "MCA");
 
-// Diosdado + Natividad (Cervantes+Cabrera merge)
-const diosdadoX = 1850;
-coupleX(diosdadoX, coupleById["DC_NC"]);
+// Cervantes children: AngC, RCL (children of IC_EN), [DC+NC couple]
+soloX(2250, "AngC");
+soloX(2470, "RCL");
 
-// Angelica, Rebecca (siblings of Diosdado, children of IC_EN)
-soloX(1550, "AngC");
-soloX(1650, "RCL");
+// DC_NC: merge of Cervantes (IC_EN center=2525) + Cabrera (TC_MB center=3025) → midpoint ≈ 2780
+coupleX(2780, coupleById["DC_NC"]);   // DC=2675, NC=2885
 
 // ─── GEN 6 ───
-// Raul + Janice (main line)
-const raulX = 1050;
-coupleX(raulX, coupleById["RF_JC"]);
+// RF_JC: merge of BF_ARA(1365) + DC_NC(2780) → midpoint ≈ 2073
+coupleX(2073, coupleById["RF_JC"]);   // RF=1968, JC=2178
 
-// Siblings of Raul (children of BF_ARA)
-soloX(350, "EncM");
-soloX(500, "VK");
-soloX(650, "MiF");
-soloX(800, "JocelF");
+// BF_ARA's other children (siblings of RF)
+soloX(900, "EncM");
+soloX(1150, "VK");
+soloX(1400, "MiF");
+soloX(1650, "JocelF");
 
 // ─── GEN 7 ───
-soloX(950, "Adrian");
-soloX(1100, "Kristine");
-soloX(1250, "Kiana");
+soloX(1820, "Adrian");
+soloX(2070, "Kristine");
+soloX(2320, "Kiana");
 
-// Assign Y
+// Assign Y positions
 people.forEach(p => { yPos[p.id] = genY[p.gen]; });
 
 // ── RENDER ──────────────────────────────────────────────────
@@ -322,7 +285,7 @@ const g = svg.append("g");
 
 // Zoom & pan
 const zoom = d3.zoom()
-  .scaleExtent([0.15, 3])
+  .scaleExtent([0.1, 3])
   .on("zoom", (e) => g.attr("transform", e.transform));
 svg.call(zoom);
 
@@ -335,11 +298,11 @@ svg.on("dblclick", () => {
 // ── DRAW LINKS ──────────────────────────────────────────────
 const linksG = g.append("g").attr("class", "links");
 
-// Spouse lines (horizontal between couple)
+// Spouse connector lines (horizontal dashed line between couple cards)
 couples.forEach(c => {
-  const x1 = xPos[c.p1] + CARD_W / 2;
-  const x2 = xPos[c.p2] - CARD_W / 2;
-  const y = yPos[c.p1] + CARD_H / 2;
+  const x1 = xPos[c.p1] + CARD_W / 2;  // right edge of p1
+  const x2 = xPos[c.p2] - CARD_W / 2;  // left edge of p2
+  const y = yPos[c.p1] + CARD_H / 2;   // vertical center
   linksG.append("line")
     .attr("x1", x1).attr("y1", y)
     .attr("x2", x2).attr("y2", y)
@@ -348,23 +311,25 @@ couples.forEach(c => {
     .attr("stroke-dasharray", "6,3");
 });
 
-// Parent-child lines
-// For each couple with children, draw:
-// 1. Vertical line down from couple center
-// 2. Horizontal bar across children
-// 3. Vertical lines up to each child
+// Parent-to-children lines (orthogonal routing)
+// For each couple with children:
+//   1. Vertical down from couple midpoint (bottom-center) to midY
+//   2. Horizontal bar at midY spanning all children
+//   3. Vertical down from midY to each child (top-center)
 Object.entries(childrenOf).forEach(([coupleId, childIds]) => {
   const couple = coupleById[coupleId];
   if (!couple) return;
 
+  // Couple midpoint x (center between the two spouse cards)
   const parentCx = (xPos[couple.p1] + xPos[couple.p2]) / 2;
   const parentBottom = yPos[couple.p1] + CARD_H;
 
-  // Midpoint Y between parent and child gen
+  // Child generation top
   const childY = yPos[childIds[0]];
+  // Midpoint Y for the horizontal bar
   const midY = parentBottom + (childY - parentBottom) / 2;
 
-  // Vertical from parent center down to midY
+  // 1. Vertical from parent couple center down to midY
   linksG.append("line")
     .attr("x1", parentCx).attr("y1", parentBottom)
     .attr("x2", parentCx).attr("y2", midY)
@@ -372,16 +337,17 @@ Object.entries(childrenOf).forEach(([coupleId, childIds]) => {
 
   // Child x-centers
   const childCxs = childIds.map(id => xPos[id]);
-  const minCx = Math.min(...childCxs, parentCx);
-  const maxCx = Math.max(...childCxs, parentCx);
+  const allXs = [...childCxs, parentCx];
+  const minCx = Math.min(...allXs);
+  const maxCx = Math.max(...allXs);
 
-  // Horizontal bar at midY
+  // 2. Horizontal bar at midY
   linksG.append("line")
     .attr("x1", minCx).attr("y1", midY)
     .attr("x2", maxCx).attr("y2", midY)
     .attr("stroke", "#5b3a1a").attr("stroke-width", 1.8);
 
-  // Vertical from midY down to each child
+  // 3. Vertical from midY down to each child top-center
   childIds.forEach(id => {
     const cx = xPos[id];
     linksG.append("line")
@@ -482,20 +448,19 @@ Object.entries(genLabels).forEach(([gen, label]) => {
     .text(label);
 });
 
-// ── INITIAL FIT ──────────────────────────────────────────────
-// Compute bounding box and zoom to fit
+// ── INITIAL FIT — zoom to show entire tree ──────────────────
 const allX = people.map(p => xPos[p.id]);
 const allY = people.map(p => yPos[p.id]);
-const minX = Math.min(...allX) - CARD_W / 2 - 250;
+const minX = Math.min(...allX) - CARD_W / 2 - 280; // extra left margin for gen labels
 const maxX = Math.max(...allX) + CARD_W / 2 + 50;
 const minY = Math.min(...allY) - 30;
 const maxY = Math.max(...allY) + CARD_H + 30;
 const treeW = maxX - minX;
 const treeH = maxY - minY;
 
-const scale = Math.min(width / treeW, (height - 50) / treeH) * 0.92;
+const scale = Math.min(width / treeW, (height - 60) / treeH) * 0.90;
 const tx = (width - treeW * scale) / 2 - minX * scale;
-const ty = (height - treeH * scale) / 2 - minY * scale + 25;
+const ty = (height - treeH * scale) / 2 - minY * scale + 30;
 
 const initialTransform = d3.zoomIdentity.translate(tx, ty).scale(scale);
 svg.call(zoom.transform, initialTransform);
