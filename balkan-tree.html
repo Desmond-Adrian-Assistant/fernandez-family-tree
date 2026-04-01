@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fernandez-Cervantes Family Tree</title>
+<script src="https://balkan.app/js/FamilyTree.js"></script>
+<style>
+body { margin: 0; background: #f5f0e8; font-family: -apple-system, sans-serif; }
+#tree { width: 100%; height: 100vh; }
+</style>
+</head>
+<body>
+<div id="tree"></div>
+<script>
+var family = new FamilyTree(document.getElementById("tree"), {
+    mouseScroll: FamilyTree.action.zoom,
+    mode: "dark",
+    template: "hugo",
+    roots: ["AF"],
+    nodeBinding: {
+        field_0: "name",
+        field_1: "dates",
+        img_0: "img"
+    },
+    editForm: {readOnly: true},
+    nodeMenu: {details: {text: "Details"}},
+});
+
+family.load([
+    // Great-Great-Great Grandparents
+    {id:"JT", pids:["JPag"], name:"Juan Tamondong", dates:"1852–1947 (age 95)", gender:"male", img:""},
+    {id:"JPag", pids:["JT"], name:"Juana Paglingayen", dates:"1853–deceased", gender:"female", img:""},
+    {id:"DA", pids:["AP"], name:"Domingo Ávalos", dates:"", gender:"male"},
+    {id:"AP", pids:["DA"], name:"Anacleta Peralta", dates:"", gender:"female"},
+
+    // Great-Great Grandparents
+    {id:"PF", pids:["MV"], name:"Pablo Fernandez", dates:"1870–1955", gender:"male"},
+    {id:"MV", pids:["PF"], name:"Marta Villanueva", dates:"1870–~1955", gender:"female"},
+    {id:"DD", pids:["BB"], name:"Domingo Daquigan", dates:"1880–deceased", gender:"male"},
+    {id:"BB", pids:["DD"], name:"Benita Bacarro", dates:"1880–deceased", gender:"female"},
+    {id:"JA", fid:"DA", mid:"AP", pids:["CT"], name:"Jose Abalos", dates:"d. Jun 30, 1947", gender:"male"},
+    {id:"CT", fid:"JT", mid:"JPag", pids:["JA"], name:"Carlina Tamondong", dates:"", gender:"female"},
+    {id:"FR", pids:["JGut"], name:"Francisco Rosario", dates:"", gender:"male"},
+    {id:"JGut", pids:["FR"], name:"Juana Gutierrez", dates:"", gender:"female"},
+
+    // Tamondong siblings
+    {id:"AT", fid:"JT", mid:"JPag", name:"Aquilina Tamondong", dates:"", gender:"female"},
+    {id:"LT", fid:"JT", mid:"JPag", name:"Luis Tamondong", dates:"", gender:"male"},
+
+    // Great-Grandparents
+    {id:"MaF", fid:"PF", mid:"MV", pids:["VD"], name:"Mariano V. Fernandez", dates:"1905–Jan 10, 1945 ⚔️", gender:"male"},
+    {id:"VD", fid:"DD", mid:"BB", pids:["MaF"], name:"Victoriana Daquigan", dates:"1917–deceased", gender:"female"},
+    {id:"HA", fid:"JA", mid:"CT", pids:["FilR"], name:"Hilario Abalos", dates:"b. 1904", gender:"male"},
+    {id:"FilR", fid:"FR", mid:"JGut", pids:["HA"], name:"Felomena R. Gutierrez", dates:"", gender:"female"},
+
+    // Pablo's other children
+    {id:"JoF", fid:"PF", mid:"MV", name:"Josefa Fernandez", dates:"~1901 • m. Ildefonso Abando", gender:"female"},
+    {id:"EdF", fid:"PF", mid:"MV", name:"Eduardo Fernandez", dates:"~1903 • m. Iluminado Bautista", gender:"male"},
+    {id:"CatF", fid:"PF", mid:"MV", name:"Catalina Fernandez", dates:"~1895-1910", gender:"female"},
+
+    // Hilario's siblings
+    {id:"HipA", fid:"JA", mid:"CT", name:"Hipolita Abalos", dates:"", gender:"female"},
+    {id:"CamA", fid:"JA", mid:"CT", name:"Camila Abalos", dates:"", gender:"female"},
+
+    // Cervantes great-grandparents
+    {id:"IC", pids:["EN"], name:"Isaac Cervantes", dates:"", gender:"male"},
+    {id:"EN", pids:["IC"], name:"Engracia D. Nazario", dates:"", gender:"female"},
+    {id:"TC", pids:["MMB"], name:"Teotimo Cabrera", dates:"", gender:"male"},
+    {id:"MMB", pids:["TC"], name:"Maria Banaag", dates:"", gender:"female"},
+
+    // Grandparents
+    {id:"BF", fid:"MaF", mid:"VD", pids:["ARA"], name:"Bienvenido D. Fernandez", dates:"Mar 22, 1937–Mar 15, 1994", gender:"male"},
+    {id:"ARA", fid:"HA", mid:"FilR", pids:["BF"], name:"Aurea Rosario Abalos", dates:"1939–Living ✅", gender:"female"},
+    {id:"MCA", fid:"HA", mid:"FilR", name:"Maria Concesa Abalos", dates:"1935 • m. Pedro Nerizon", gender:"female"},
+
+    {id:"DC", fid:"IC", mid:"EN", pids:["NC"], name:"Diosdado Cervantes", dates:"b. 1925", gender:"male"},
+    {id:"NC", fid:"TC", mid:"MMB", pids:["DC"], name:"Natividad Cabrera", dates:"b. 1923", gender:"female"},
+    {id:"AngC", fid:"IC", mid:"EN", name:"Angelica Cervantes", dates:"", gender:"female"},
+    {id:"RebC", fid:"IC", mid:"EN", name:"Rebecca Cervantes Lucero", dates:"In US", gender:"female"},
+
+    // Parents
+    {id:"RF", fid:"BF", mid:"ARA", pids:["JC"], name:"Raul Fernandez", dates:"~1964 • US Air Force", gender:"male"},
+    {id:"JC", fid:"DC", mid:"NC", pids:["RF"], name:"Janice Cervantes", dates:"Nurse • NJ → TX", gender:"female"},
+
+    // Raul's siblings
+    {id:"EncF", fid:"BF", mid:"ARA", name:"Encarnita Mejorada", dates:"Chicago", gender:"female"},
+    {id:"VivF", fid:"BF", mid:"ARA", name:"Vivienne Koch", dates:"Chicago", gender:"female"},
+    {id:"MicF", fid:"BF", mid:"ARA", name:"Michelle Fernandez", dates:"Chicago", gender:"female"},
+    {id:"JocF", fid:"BF", mid:"ARA", name:"Jocelyn Fernandez", dates:"San Diego", gender:"female"},
+
+    // Adrian + Siblings
+    {id:"AF", fid:"RF", mid:"JC", name:"⭐ Adrian Fernandez", dates:"Mar 2, 1987 • Allen, TX", gender:"male"},
+    {id:"KF", fid:"RF", mid:"JC", name:"Kristine Fernandez", dates:"", gender:"female"},
+    {id:"KiF", fid:"RF", mid:"JC", name:"Kiana Fernandez", dates:"", gender:"female"},
+]);
+</script>
+</body>
+</html>

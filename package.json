@@ -1,0 +1,24 @@
+{
+  "name": "family-tree-research",
+  "version": "1.0.0",
+  "description": "Automated deep research into the Fernandez-Abalos family of Dagupan City, Pangasinan, Philippines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Desmond-Adrian-Assistant/fernandez-family-tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Desmond-Adrian-Assistant/fernandez-family-tree/issues"
+  },
+  "homepage": "https://github.com/Desmond-Adrian-Assistant/fernandez-family-tree#readme",
+  "dependencies": {
+    "family-chart": "^0.9.0"
+  }
+}
