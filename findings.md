@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-04-01 09:16 UTC (Iteration 55: Abalos Siblings Deep Dive)
+Last updated: 2026-04-01 11:32 UTC (Iteration 56: Chicago Voters + Abalos Siblings)
 
 
 ## 🔥🔥 Charlemagne T. Tamondong Sr. — Founding President of PAMET (Iteration 53)
@@ -36,6 +36,20 @@ Last updated: 2026-04-01 09:16 UTC (Iteration 55: Abalos Siblings Deep Dive)
 - "Rosario" = mother's maiden name → confirms Rosario-Tamondong intermarriage continues in modern era
 - In Ebanculla Family Tree (404 people) on Ancestry
 
+## 🔥🔥 Chicago PCG Overseas Voters — Abando & Abalos Chain Migration CONFIRMED (Iteration 56)
+
+### Source: Philippine DFA/COMELEC Deactivated Overseas Voters List (Chicago PCG, 2019)
+Two ABANDO family members + one ABALOS registered as overseas voters at Chicago PCG:
+- **ABALOS, NATHANIEL CADIENTE** (registered 08/04/2014)
+- **ABANDO, MARISSA BALADJAY** (registered 11/04/2014)
+- **ABANDO, ROGER CASIMINA** (registered 02/09/2012)
+
+Combined with 3 Abando graves in Chicago suburbs (FindAGrave) and 4 in Gerona, Tarlac, this CONFIRMS Abando-Fernandez chain migration from Gerona to Chicago.
+
+### FamilySearch: Jose Abalos (1911–) — Potential Ancestor
+- FamilySearch Tree ID: 9VLK-FB6 — born 1911, Philippines
+- Requires login to view parents, wife, children
+- Also: Jose Manuel Abalos (ID: MV83-FX9)
 ## 🔥🔥 Ancestry.com Deep Search Findings (Iteration 51-ancestry-deep)
 
 ### Maria Daquigan Married Conrado Parazo
