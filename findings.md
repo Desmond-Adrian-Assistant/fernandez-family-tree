@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-04-01 15:25 UTC (Iteration 60: Sicat Gerona + Bocobo-Tabago)
+Last updated: 2026-04-01 15:49 UTC (Iteration 61: Paraso-Daquigan-Bonarae Connection)
 
 
 ## 🔥🔥 Charlemagne T. Tamondong Sr. — Founding President of PAMET (Iteration 53)
@@ -2489,3 +2489,38 @@ Francisco's mother was "Sabangan" (not Rosario), making him from a DIFFERENT Aba
 - **461 families** in 1787 (up from 70 in 1753)
 - Small enough that ALL Gerona families (Fernandez, Daquigan, Tabago, Arciaga, Abando, Melegrito) would have known each other personally
 - First gobernadorcillo: Don Anacleto Melegrito (1845) — same Melegrito surname as Pura's first mayor (Don Felix Melegrito); Pura was carved from Gerona
+
+## 🔥🔥🔥 Paraso/Parazo-Daquigan Connection — Bonarae.net Is a Relative (Iteration 61)
+
+### Maria Daquigan Married Conrado Parazo → Links to Bonarae.net Paraso Family
+**Maria Daquigan** (b. ~1916, eldest daughter of Domingo Daquigan + Benita Bacarro, Bienvenido's aunt) married **Conrado Parazo** (Ancestry records 2633321/1807248).
+
+**Bona Rae Paraso Villarta** (bonarae.net genealogist) is a DESCENDANT of the Paraso/Parazo family of Gerona, Tarlac. Her family tree traces back to **Santiago Paraso** (b. ~1845) + **Filomena Bautista** (b. ~1845). Paraso/Parazo are interchangeable spellings — the tree itself includes "Carlos Parazo" (with Z) as a variant.
+
+This means Bona Rae is a **relative by marriage** of Adrian's Daquigan family through the Maria Daquigan + Conrado Parazo marriage.
+
+### Five Cross-Connections Between Bonarae.net and Adrian's Family
+| # | Connection | Details |
+|---|-----------|---------|
+| 1 | **Daquigan-Parazo marriage** | Maria Daquigan married Conrado Parazo (Ancestry confirmed) |
+| 2 | **BAUTISTA surname** | Paraso founders = Santiago + Filomena BAUTISTA; Eduardo Fernandez married Iluminada BAUTISTA |
+| 3 | **VILLANUEVA intermarriage** | May Paraso married Efren Manti VILLANUEVA; Pablo Fernandez married Marta VILLANUEVA |
+| 4 | **"Bienvienido" name** | Bienvienido Paraso (b. 1911, Gerona) shares first name with Bienvenido Fernandez (b. 1937, Gerona) — possible compadrazgo naming |
+| 5 | **Same town** | All Paraso born 1867-1945 = Gerona, Tarlac — same as Bienvenido Fernandez |
+
+### Updated Gerona Intermarriage Network
+The Paraso-Ortiz-Simeon-Acob web (bonarae.net databases) NOW DIRECTLY CONNECTS to Adrian's Fernandez-Daquigan family:
+```
+Fernandez (Danzo tenientes) ↔ Daquigan (Victoria + Mariano)
+                                    ↓
+                              Maria Daquigan + Conrado PARAZO
+                                    ↓
+                         PARASO (Santiago + Filomena BAUTISTA) ↔ ORTIZ ↔ SIMEON ↔ ACOB (Bacarra)
+```
+
+### Contact Priority: Bona Rae Paraso Villarta = #1
+- **Email:** bonarae@gmail.com
+- **Website:** bonarae.net (webtrees database behind login may have Fernandez/Daquigan entries)
+- She has access to Gerona parish records and is herself a relative by marriage
+- Active genealogist since late 2000s, FindAGrave contributor since 2001
+
