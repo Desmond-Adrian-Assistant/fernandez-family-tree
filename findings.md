@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-04-01 06:00 UTC (Iteration 54: Hilario Abalos Marriage + 7 Abalos Siblings Discovered)
+Last updated: 2026-04-01 09:16 UTC (Iteration 55: Abalos Siblings Deep Dive)
 
 
 ## 🔥🔥 Charlemagne T. Tamondong Sr. — Founding President of PAMET (Iteration 53)
@@ -2354,3 +2354,69 @@ These could be Hilario's siblings (Jose & Carlina Tamondong's children) or Hilar
 | 🟡 | 725078 | 60130 | Marina Abalos |
 | 🟢 | 1265508 | 60130 | José Abalos — possible ancestor Jose Abalos |
 | 🟢 | 1265509 | 60130 | Petronila Abalos — adjacent to José, likely sibling |
+
+## 🔥🔥🔥 Francisco Sabangan Abalos — San Carlos Abalos, US Navy Chief, Outstanding Filipino (Iteration 55)
+
+### Full Obituary (Arizona Republic, March 2008)
+- **Full name:** Francisco Sabangan Abalos
+- **Born:** June 4, 1929, **San Carlos, Pangasinan, Philippines**
+- **Died:** March 10, 2008, Peoria, Arizona
+- **Wife:** Cecille
+- **Children:** Cherylene, Robert, Ronald, Richard, Francisco Jr.
+- **Grandchildren:** Leilani, Lila, Steven, Nicholas, Abigail, Alianna
+- **Middle name "Sabangan" = mother's maiden name** (NOT Rosario — this is a DIFFERENT Abalos family from Aurea's)
+
+### Extraordinary Career
+- Entered US Navy 1957 (age 30), became submariner
+- "Man of the month" for exceeding 100th month of submarine sea duty
+- Climbed to **highest NCO rank** — retired as **Chief of the US Navy**
+- Served in **Vietnam War**
+- **1969:** First Filipino ever to hold a Builder-Broker license in California
+- First Filipino Investment Counselor and Consultant
+- **1997:** Named one of **top 20 most outstanding Filipinos in the US and Canada**
+- Buried: Resthaven Park Cemetery, Phoenix, AZ
+
+### Significance
+Francisco's mother was "Sabangan" (not Rosario), making him from a DIFFERENT Abalos branch than Aurea. But his San Carlos origin and remarkable achievements demonstrate the caliber of Abalos families in that city. Multiple prominent Abalos families coexisted in San Carlos.
+
+## 🔥 Dominador "Domingo" Abalos Sr. — Tayug, Pangasinan → Kauai, Hawaii (Iteration 55)
+
+- **Born:** March 26, 1925, **Tayug, Pangasinan**
+- **Died:** January 11, 2006, Kauai Veterans Memorial Hospital, age 80
+- **Location:** Makaweli, Kauai, Hawaii
+- **Career:** Retired field attendant, Gay & Robinson Sugar Plantation
+- **Son:** Anson A. Abalos (b. Dec 4, 1957, Waimea, Kauai — d. Feb 12, 2021, age 63) — US Air Force veteran
+- Tayug is ~30 km from San Carlos — within the Abalos eastern Pangasinan territory
+- Ancestry record #978317 lists a "Dominador Abalos" as potential child of Hilario + Filomena — could be the same person or a cousin
+- Represents the Hawaii sugar plantation migration pathway (distinct from Chicago professional migration)
+
+## 🔥 Rev. Fr. Richard Francisco Abalos — Living Abalos Priest, Diocese of Urdaneta (Iteration 55)
+
+- **Position:** Parish Priest of Sto. Niño Parish Church, **Binalonan, Pangasinan**
+- **Diocese:** Diocese of Urdaneta
+- **"Francisco" middle name** — possibly named after grandfather/uncle
+- Binalonan was "founded as a barrio of Manaoag by the Dominicans in 1834" — same Dominican network
+- Continues the Abalos clerical tradition: Fr. Fermin Abalos (Bayambang 1920-28) → Fr. Richard Francisco Abalos (Binalonan, present)
+
+### Updated Principalía Clergy Network
+| Priest | Surname | Parish/Role | Period |
+|--------|---------|------------|--------|
+| Fr. Francisco Fernandez | FERNANDEZ | Bayambang | 1898-1902 |
+| Fr. Agustin Rosario | ROSARIO | Bayambang | 1916-1920 |
+| Fr. Fermin Abalos | ABALOS | Bayambang | 1920-1928 |
+| Fr. Joseph T. Fernandez | FERNANDEZ | Chancellor, Archdiocese L-D | Current |
+| Fr. Christian Ian A. Fernandez | FERNANDEZ | Diocese of Tarlac | Current |
+| Fr. Richard Francisco Abalos | ABALOS | Binalonan, Diocese of Urdaneta | Current |
+| Fr. Dann Philip Soriano | SORIANO | Diocese of Urdaneta | Current |
+
+### Abalos Hawaii Diaspora
+| Person | Origin | Hawaii Location | Career |
+|--------|--------|----------------|--------|
+| Dominador "Domingo" Abalos Sr. | Tayug, Pangasinan | Makaweli, Kauai | Gay & Robinson Sugar |
+| Anson A. Abalos | Born Kauai (2nd gen) | Waimea, Kauai | US Air Force |
+| Maximo Salvador Abalos | Ilocos Sur | Pearl City, Oahu | — |
+
+### Dominador Abalos Peralta — RULED OUT (Different Family)
+- Born July 25, 1920, Sinait, Ilocos Sur (NOT Pangasinan)
+- "Abalos" was his MOTHER's maiden name — his surname is Peralta
+- Died Nov 24, 2010, Ewa Beach, Hawaii — unrelated to Hilario Abalos family
