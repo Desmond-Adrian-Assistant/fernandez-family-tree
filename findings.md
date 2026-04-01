@@ -1,6 +1,44 @@
 # Consolidated Findings
 
-Last updated: 2026-03-31 23:08 UTC (Iteration 52 Daquigan US Diaspora Deep Dive)
+Last updated: 2026-04-01 01:05 UTC (Iteration 51-ancestry-deep: Ancestry.com Deep Search)
+
+
+## 🔥🔥 Ancestry.com Deep Search Findings (Iteration 51-ancestry-deep)
+
+### Maria Daquigan Married Conrado Parazo
+- **Maria Daquigan** (b. ~1916, eldest daughter of Domingo Daquigan + Benita Bacarro) married **Conrado Parazo**
+- Found in Philippine Civil Registration records on Ancestry (2 separate records confirm)
+- Parazo surname is common in Central Luzon (Tarlac/Pangasinan)
+- Records: Ancestry collections/60130 records 2633321 and 1807248
+
+### Aurea's US Records
+- **Aurea Abalos Fernandez** found in US Public Records Index 1994-2019
+- **Nickname: "Aurie"** (Aurie A Fernandez) — Americanized form of her name
+- First official US record showing both maiden (Abalos) and married (Fernandez) names
+
+### Bienvenido Confirmed on Ancestry
+- **Social Security Death Index:** Bienvenido Daquigan Fernandez, born Philippines, death 1994
+- **US Public Records:** Bienvenido D Fernandez, residence Illinois
+- Alternate spellings: "Bien D Fernandez", "Bienuendo D Fernandez"
+
+### Antonia Daquigan Death Record
+- **Antonia Daquigan** (b. ~1922, daughter of Domingo + Benita) — death recorded in Philippines
+- Confirms she stayed in the Philippines (unlike siblings who emigrated)
+
+### Daquigan US Diaspora — Extensive
+- **Simplicio Garaza Daquigan:** Military service, NY/NJ, died 1967. Middle name "Garaza" = maternal line.
+- **Francisco M Daquigan:** Arrived Seattle, lived Connecticut, married in Florida. Possible match to Domingo's son Francisco (~1923).
+- **Ceferino B Daquigan Sr:** California patriarch — children: Ceferino Jr, Wayne, Robert, Avelina, Waynejoh, Buddy
+- **Nestor Castillo Daquigan:** Married Wilma N Suguitan, died 2006
+- **Diaspora spans:** California, Connecticut, Florida, Texas, New Jersey, New York, Guam, Manitoba (Canada)
+
+### Filipino Chicago Context (1970s-80s)
+- Illinois Filipino population: 12,654 in 1970 → 43,889 in 1980 (3.5x growth)
+- **57% of Filipino Illinoisans were college graduates** in the 1970s
+- Professional immigration wave: nurses, physicians, accountants
+- Bienvenido's 1981 arrival fit the peak professional immigration period
+- Clark Air Base (60km from Gerona) was a potential immigration pipeline connection
+- FACC and Dr. Jose Rizal Memorial Center (1332 W Irving Park Rd) were community hubs
 
 ## 🔥 BREAKTHROUGH: Complete Paternal Line Found on FamilySearch (Iteration 28)
 
