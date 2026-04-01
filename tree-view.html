@@ -94,6 +94,9 @@ const people = [
   // ─── GENERATION 4 ───
   { id: "MaF", name: "Mariano V. Fernandez", dates: "1905–1945", note: "⚔️ WWII", gender: "M", gen: 4, parentCouple: "PF_MV" , conf: "99%"},
   { id: "VD", name: "Victoriana Daquigan", dates: "b. 1917", gender: "F", gen: 4, parentCouple: "DD_BB" , conf: "99%"},
+  { id: "MarD", name: "Maria Daquigan", dates: "b. 1916", gender: "F", gen: 4, parentCouple: "DD_BB", conf: "90%" },
+  { id: "AntD", name: "Antonia Daquigan", dates: "b. 1922", gender: "F", gen: 4, parentCouple: "DD_BB", conf: "90%" },
+  { id: "FrD", name: "Francisco Daquigan", dates: "b. ~1923", gender: "M", gen: 4, parentCouple: "DD_BB", conf: "90%" },
   { id: "HA", name: "Hilario Abalos", dates: "b. 1904", gender: "M", gen: 4, parentCouple: "JA_CT" , conf: "99%"},
   { id: "FilR", name: "Felomena R. Gutierrez", gender: "F", gen: 4, parentCouple: "FR_JGut" , conf: "95%"},
   { id: "JoF", name: "Josefa Fernandez", dates: "~1901", note: "m. I. Abando", gender: "F", gen: 4, parentCouple: "PF_MV" , conf: "90%"},
@@ -209,16 +212,19 @@ function soloX(cx, id) {
 soloX(200, "JoF");
 soloX(430, "EdF");
 coupleX(975, coupleById["MaF_VD"]);   // MaF=660, VD=870
+soloX(1500, "MarD");
+soloX(1700, "AntD");
+soloX(1900, "FrD");
 soloX(1100, "CatF");
 
 // JA_CT children: HipA, CamA, [HA+FilR couple]
-soloX(1400, "HipA");
-soloX(1630, "CamA");
-coupleX(1965, coupleById["HA_FilR"]); // HA=1860, FilR=2070
+soloX(2230, "HipA");
+soloX(2430, "CamA");
+coupleX(2365, coupleById["HA_FilR"]); // HA=1860, FilR=2070
 
 // Cervantes + Cabrera
-coupleX(2525, coupleById["IC_EN"]);   // IC=2420, EN=2630
-coupleX(3025, coupleById["TC_MB"]);   // TC=2920, MB=3130
+coupleX(2925, coupleById["IC_EN"]);   // IC=2420, EN=2630
+coupleX(3425, coupleById["TC_MB"]);   // TC=2920, MB=3130
 
 // ─── GEN 3 ───
 // PF_MV centered over their children {JoF(200), EdF(430), MaF(660), CatF(1100)} ≈ 598
@@ -228,45 +234,45 @@ coupleX(600, coupleById["PF_MV"]);    // PF=495, MV=705
 coupleX(1350, coupleById["DD_BB"]);   // DD=915, BB=1125
 
 // JA_CT centered over {HipA(1400), CamA(1630), HA(1860)} ≈ 1630
-coupleX(1630, coupleById["JA_CT"]);   // JA=1525, CT=1735
+coupleX(2030, coupleById["JA_CT"]);   // JA=1525, CT=1735
 
 // FR_JGut centered over FilR(2070)
-coupleX(2070, coupleById["FR_JGut"]); // FR=1965, JGut=2175
+coupleX(2470, coupleById["FR_JGut"]); // FR=1965, JGut=2175
 
 // Solos — children of JT_JPag
-soloX(2450, "AqT");
-soloX(2700, "LT");
+soloX(2850, "AqT");
+soloX(3100, "LT");
 
 // ─── GEN 2 ───
 // DA_AP centered over JA(1525)
-coupleX(1525, coupleById["DA_AP"]);   // DA=1420, AP=1630
+coupleX(1925, coupleById["DA_AP"]);   // DA=1420, AP=1630
 
 // JT_JPag centered over {CT(1735), AqT(2450), LT(2700)} ≈ 2295
-coupleX(2295, coupleById["JT_JPag"]); // JT=2190, JPag=2400
+coupleX(2695, coupleById["JT_JPag"]); // JT=2190, JPag=2400
 
 // ─── GEN 5 ───
 // BF_ARA: merge of Fernandez (MaF_VD center=765) + Abalos (HA_FilR center=1965) → midpoint ≈ 1365
-coupleX(1365, coupleById["BF_ARA"]);  // BF=1260, ARA=1470
+coupleX(1670, coupleById["BF_ARA"]);  // BF=1260, ARA=1470
 
 // MCA: child of HA_FilR, sibling of ARA
-soloX(1720, "MCA");
+soloX(2120, "MCA");
 
 // Cervantes children: AngC, RCL (children of IC_EN), [DC+NC couple]
-soloX(2250, "AngC");
-soloX(2470, "RCL");
+soloX(2650, "AngC");
+soloX(2870, "RCL");
 
 // DC_NC: merge of Cervantes (IC_EN center=2525) + Cabrera (TC_MB center=3025) → midpoint ≈ 2780
-coupleX(2780, coupleById["DC_NC"]);   // DC=2675, NC=2885
+coupleX(3180, coupleById["DC_NC"]);   // DC=2675, NC=2885
 
 // ─── GEN 6 ───
 // RF_JC: merge of BF_ARA(1365) + DC_NC(2780) → midpoint ≈ 2073
-coupleX(2073, coupleById["RF_JC"]);   // RF=1968, JC=2178
+coupleX(2425, coupleById["RF_JC"]);   // RF=1968, JC=2178
 
 // BF_ARA's other children (siblings of RF)
-soloX(900, "EncM");
-soloX(1150, "VK");
-soloX(1400, "MiF");
-soloX(1650, "JocelF");
+soloX(1200, "EncM");
+soloX(1450, "VK");
+soloX(1700, "MiF");
+soloX(1950, "JocelF");
 
 // ─── GEN 7 ───
 soloX(1820, "Adrian");
