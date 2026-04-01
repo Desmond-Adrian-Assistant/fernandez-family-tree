@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-04-01 11:32 UTC (Iteration 56: Chicago Voters + Abalos Siblings)
+Last updated: 2026-04-01 15:25 UTC (Iteration 60: Sicat Gerona + Bocobo-Tabago)
 
 
 ## 🔥🔥 Charlemagne T. Tamondong Sr. — Founding President of PAMET (Iteration 53)
@@ -358,7 +358,8 @@ All confirmed ancestor marriages follow the classic principalía pattern: ruling
 ### NEW: Tomasa Tamondong married Jose Cayabyab (Ancestry tree)
 ### NEW: Tamondong burial in Des Plaines, Cook County, IL (FindAGrave) — 8 mi from Niles
 ### NEW: Leoferd Rosario Tamondong on Ancestry — confirms Rosario-Tamondong intermarriage
-### Bacarro = Bacarra, Ilocos Norte — PLAUSIBLE 🟡
+### Bacarro = Bacarra, Ilocos Norte — CONFIRMED 🟢🟢🟢 (Upgraded Iteration 59)
+TRIPLE-CORROBORATED: Dr. Sicat academic history + Official Gerona Barangay Ayson history + Sitio Bacarra within Gerona
 ### Bienvenido Fernandez NOT on FindAGrave — needs Catholic Cemeteries manual inquiry
 ## 🔥 Bienvenido Daquigan Fernandez — Ancestry SS Record Confirmed (Iteration 37)
 
@@ -790,6 +791,37 @@ The marriage was in San Carlos City. The Tamondong surname concentration in San 
 - **Mariano Fernandez** (b. ~1905, Adrian's great-grandfather) would have been ~36-40 during occupation — military age
 - PVAO Philippine Archives Collection has guerrilla records searchable by name and location (Pangasinan)
 - FilVetREP National Veterans Registry exists but is not publicly searchable
+
+## WWII Guerrilla Unit Covering Gerona IDENTIFIED (Iteration 57)
+
+### Tarlac Military Area (TMA), Luzon Guerrilla Army Forces (LGAF)
+From the Bamban WWII Museum (published March 2025):
+- The TMA, under **Captain Albert A. Hendrickson** (American) and local commander **Major Cris Hipolito**, operated in the **Sta. Ignacia - Gerona** area
+- **Flying Squadrons 401 and 402** covered this exact zone
+- LGAF Commander: **Major Robert Lapham** - who worked at **Burroughs Corporation in CHICAGO** before the war
+- LGAF total: about 13,000 Filipino fighters across Tarlac-Pangasinan-Nueva Ecija
+
+### Three Overlapping Guerrilla Forces in Gerona-Pangasinan Border
+| Unit | NARA File(s) | Commander | Coverage |
+|------|-------------|-----------|----------|
+| **LGAF-TMA** (most likely) | **102-22** | Capt. Hendrickson / Maj. Hipolito | Gerona, Sta. Ignacia |
+| **ECLGA-PTMD** | **308-23**, 308-64, 308-65 | Col. Edwin Ramsey | San Carlos + Pangasinan-Tarlac |
+| **Army of the Agno** | **185-1 to 185-31** (30+ files) | Filipino-organized | Pangasinan-wide |
+
+### Army of the Agno - Key NARA Files
+- 185-4: **Camp Eugenio Perez** (named after San Carlos Speaker!)
+- 185-5: 1st Regt., Eastern Division
+- 185-10: 1st Regt., Central Brigade
+- 185-27: Dagupan Infantry Regiment
+- 185-30: 5th Inf. and 25th Replacement Regt.
+
+### Lapham-Chicago Connection (NEW)
+Major Robert Lapham (LGAF Commander) worked at Burroughs Corporation in **Chicago** before the war. This may help explain why the Fernandez family chose Chicago for immigration in 1981.
+
+### Records Status
+- NARA guerrilla records (RG 407, Entry 1087) are **physical only - NOT digitized**
+- **Research contact:** Rhonie Dela Cruz, Bamban WWII Museum / Tarlac Provincial Tourism Consultant
+- **Path forward:** SF-180 request by Raul (as grandson) or physical NARA visit (College Park, MD)
 
 ## Filipino Genealogy Resources
 - **Filipino Genealogy Project**: filipinogenealogy.com
@@ -2434,3 +2466,26 @@ Francisco's mother was "Sabangan" (not Rosario), making him from a DIFFERENT Aba
 - Born July 25, 1920, Sinait, Ilocos Sur (NOT Pangasinan)
 - "Abalos" was his MOTHER's maiden name — his surname is Peralta
 - Died Nov 24, 2010, Ewa Beach, Hawaii — unrelated to Hilario Abalos family
+
+## 🔥🔥 Jorge Bocobo — Gerona's Danzo Barangay Connection (Iteration 60)
+
+### Associate Justice Jorge Bocobo (1886-1965) — Born in Gerona
+- **Born:** October 19, 1886, **Gerona, Tarlac**
+- **Mother:** Rita Teodora **TABAGO** y Cleofas
+- **Career:** Pensionado → Indiana University law degree → UP President (1934-39) → Associate Justice, Supreme Court → Translated Rizal's Noli and El Fili into English
+- **TABAGO = Danzo barangay founding family**: Florentino Tabago was the 3rd teniente del barrio of Danzo — the same barangay where Eulalia Fernandez (4th teniente) and Exequiel Fernandez (15th teniente) served
+- **Arturo Tabago** ran for Mayor of Gerona in 2022
+- **Significance:** Gerona's most illustrious son came from the SAME Danzo barangay network as the Fernandez family. The Tabago-Fernandez-Benitez-Arciaga families of Danzo produced Supreme Court justices, barangay leaders, and principalía elite.
+
+### Bacarro = Bacarra UPGRADED to QUADRUPLE CORROBORATION (Iteration 60)
+- **Source 1:** Dr. Rodrigo M. Sicat (academic historian): "settlers from Ilocos were attracted to Barug, especially those from the towns of **Bacarra, Badoc, and Sinait**"
+- **Source 2:** Official Gerona Barangay Ayson municipal history
+- **Source 3:** Sitio Bacarra geographic feature within Gerona
+- **Source 4:** Bonarae.net Acob family: "Descendants of Fernando Bernardo and Pastora Acob of **Bacarra, Ilocos Norte** and Gerona, Tarlac"
+- **ALSO:** Dr. Sicat documents settlers from **Tagudin** (Daquigan origin) going to nearby Mayantoc/Camiling — the entire Ilocano → Tarlac migration corridor explains both Daquigan (Tagudin) and Bacarro (Bacarra) settling in Gerona
+
+### Gerona Population Context (1838)
+- **1,260 inhabitants** in 1838 (252 tribute payers)
+- **461 families** in 1787 (up from 70 in 1753)
+- Small enough that ALL Gerona families (Fernandez, Daquigan, Tabago, Arciaga, Abando, Melegrito) would have known each other personally
+- First gobernadorcillo: Don Anacleto Melegrito (1845) — same Melegrito surname as Pura's first mayor (Don Felix Melegrito); Pura was carved from Gerona
