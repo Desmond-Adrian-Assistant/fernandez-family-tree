@@ -1,7 +1,68 @@
 # Consolidated Findings
 
-Last updated: 2026-04-01 15:49 UTC (Iteration 61: Paraso-Daquigan-Bonarae Connection)
+Last updated: 2026-04-03 15:38 UTC (Iteration 63: Tamondong Power Surge)
 
+
+## 🔥🔥🔥 Police Brigadier General Reynaldo M. Tamondong — Native Son of San Carlos (Iteration 63)
+
+### Official Provincial Recognition
+**Pangasinan Provincial Resolution No. 1038-2022** (December 28, 2022):
+> "EXPRESSING CONGRATULATIONS AND COMMENDATION TO THE RECENT PROMOTION OF POLICE BRIGADIER GENERAL REYNALDO M. TAMONDONG, A NATIVE SON OF SAN CARLOS CITY, PANGASINAN"
+
+### Full Profile
+- **Born:** March 31, 1969, **San Carlos City, Pangasinan** (confirmed by official provincial resolution)
+- **PNPA Class of 1991** (Philippine National Police Academy)
+- **Rank:** Brigadier General (1-star general)
+- **High School:** San Agustin National High School (SANHS), San Carlos City
+- **"M." middle initial** = mother's maiden name (unknown — potential principalía surname)
+
+### Career Highlights
+- Chief, PNP Regional Office 1 Intelligence Division (~2015)
+- Chief, Ilocos Sur Provincial Police Office (2016)
+- Executive Officer, Area Police Command – Northern Luzon (2022)
+- Deputy Regional Director for Administration, NCRPO (2024)
+- **Acting Chief, National Capital Region Police Office (Nov 2024)** — took over Metro Manila's entire police force (~13M residents) when NCRPO chief was relieved during POGO raid probe
+- PNPA Class '91 — named in VP Sara Duterte support letter controversy (Feb 2025)
+- Retired ~2025
+
+### Significance
+- **Highest-ranking Tamondong in any Philippine government institution** documented in this research
+- Born 1969 — his parents' generation overlaps with Bienvenido Fernandez (1937)
+- A San Carlos Tamondong reaching Brigadier General continues the 224-year principalía trajectory
+
+Sources: Pangasinan provincial government (Resolution 1038-2022), Rappler, GMA News, PNA, Inquirer, Tribune, PeoPlaid
+
+## 🔥🔥 Reyna Jamaica F. Tamondong — San Carlos City Councilor (Iteration 63)
+
+- **Position:** City Councilor, San Carlos City (2022-2025 term)
+- **Also:** SK (Sangguniang Kabataan) President of San Carlos City
+- **"F." middle initial** = mother's maiden name (unknown)
+- Listed on official Pangasinan provincial government website among 12 San Carlos councilors
+- Attended FPJ statue unveiling ceremony (Dec 16, 2025) alongside VP Bogs Resuello
+- **First female Tamondong to hold elected office** in documented history
+- Did NOT run in 2025 regular election — SK ex-officio seat rotates separately
+
+Source: pangasinan.gov.ph, Inquirer (Dec 2025)
+
+## Eduardo Tamondong Aquino — Second Tamondong Barangay Official in San Carlos (Iteration 63)
+
+- **Barangay Kagawad (Councilor) of Barangay Cobol**, San Carlos City
+- "Tamondong" is his **mother's maiden name** (actual surname: Aquino)
+- A DIFFERENT Eduardo Tamondong from the Sapinit barangay captain (Eduardo C. Tamondong)
+- Confirms Tamondong influence extends to multiple barangays in San Carlos
+- Also in Cobol: Manolito Capua **Estrada** (Kagawad) — Estrada is an Adrian ancestor surname
+
+### Updated Tamondong Power Timeline (1802–2024) — 224 YEARS
+| Year | Person | Position |
+|------|--------|----------|
+| 1802 | Simon Tamondong | Captain/Gobernadorcillo, San Carlos |
+| 1887 | Valeriano Tamondong | Founding Father, Mapandan |
+| 1908 | Edilberto A. Tamondong Sr. | Educator, Mason, San Nicolas |
+| 1987 | Bienvenido A. Tamondong | OIC/DILG, Laoac |
+| 2022 | Eduardo C. Tamondong | Barangay Captain, Sapinit, San Carlos |
+| 2022 | Reyna Jamaica F. Tamondong | City Councilor, San Carlos |
+| 2022 | Eduardo Tamondong Aquino | Barangay Kagawad, Cobol, San Carlos |
+| **2024** | **Reynaldo M. Tamondong** | **Acting NCRPO Chief (Brigadier General)** |
 
 ## 🔥🔥 Charlemagne T. Tamondong Sr. — Founding President of PAMET (Iteration 53)
 
