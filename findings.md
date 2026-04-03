@@ -1,6 +1,66 @@
 # Consolidated Findings
 
-Last updated: 2026-04-03 18:21 UTC (Iteration 65: Ancestry Access Assessment)
+Last updated: 2026-04-03 19:26 UTC (Iteration 77: PB-USA Principalía Diaspora Network)
+
+
+## 🔥🔥 Pangasinan Brotherhood-USA — Principalía Diaspora Network (Iteration 77)
+
+### Sue Ann ESTRADA-Tumakay — President of San Carlenian Organization AND PB-USA
+- **Full name:** Sue Ann Estrada-Tumakay, age 52 (as of Dec 2023)
+- **Career:** Certified Physician Assistant
+- **President of San Carlenian Organization** (San Carlos City diaspora group in Southern California)
+- **18th President of PB-USA** (elected Nov 19, 2023, inaugurated Dec 9, 2023)
+- Succeeds her **sibling Neil M. Estrada** (17th President; contact: 562-301-9972; State Farm agent)
+- **ESTRADA = Adrian's ancestral surname** — Tomasa Estrada married Jose Avalos/Abalos (~1830s)
+- Source: Asian Journal (Feb 2024), Inquirer (Dec 2023)
+
+### San Carlos City = Most PB-USA Presidents (4 of 18, 22%)
+- Ernesto A. Reyes (deceased) — #5
+- J. Bing Dela Vega — #10
+- Neil M. Estrada — #17
+- Sue Ann Estrada-Tumakay — #18
+
+### Principalía Surnames in PB-USA Leadership
+| Surname | Person | Role | Family Connection |
+|---------|--------|------|-------------------|
+| **Estrada** | Sue Ann Estrada-Tumakay | President #18 | Tomasa Estrada (ancestor) |
+| **Estrada** | Neil M. Estrada | President #17 | Sibling of Sue Ann |
+| **Banaag** | Tony Banaag | President #8 (Dagupan) | Aquilino Banaag dynasty |
+| **Soriano** | Ferdinand B. Soriano | President #16 | Jack Soriano dynasty |
+| **Coquia** | Nieves + Pio Roque Coquia | Board (Dagupan) | FERCOLLA clan |
+
+### Dean Mandapat — PB-USA Board, San Carlos City Representative (2024+)
+
+### PB-USA Affiliate Town Associations
+San Carlenian Org (San Carlos), Bayambang Assn (priestly corridor), Mapandan Assn (Tamondong founding father), Dagupan City Club (FERCOLLA), AMOR (Mangatarem), AMRSC (Manaoag/Rosario)
+
+### Key Insight
+The same principalía network controlling San Carlos politics for 224 years is replicated in the US diaspora via PB-USA. Founded by Armando Cabal Fernandez (FERCOLLA, LA Consul General) in 1978, now led by the Estrada family of San Carlos — one of Adrian's ancestral surnames.
+
+
+## 🔥🔥🔥 Jose de Venecia Jr. — DIED February 10, 2026 (Iteration 76)
+
+Former House Speaker Jose de Venecia Jr. passed away at age 89 on February 10, 2026. Buried at Libingan ng mga Bayani (Heroes' Cemetery) beside FVR and Elpidio Quirino — first Speaker ever interred there.
+
+### Key Details
+- **Born:** December 31, 1936, Dagupan City (same generation as Bienvenido, b. 1937)
+- **Died:** February 10, 2026
+- **Wife:** Rep. Gina de Venecia (4th District of Pangasinan — includes San Carlos)
+- **First wife:** Victoria Perez (daughter of Speaker Eugenio Perez of San Carlos) — now Victoria Perez-Norton, lives in US
+- **Children at funeral:** Christopher de Venecia, Sandra Haner, Leslie Norton (Victoria's child), Vivian Garcia, Joey de Venecia, Carissa Cruz-Evangelista, Philip Cruz
+- **Funeral:** Heritage Memorial Park (Taguig, Feb 11-13) → Annunciation of the Lord Parish, Bonuan Gueset, Dagupan (Feb 14-15) → Batasang Pambansa necrological service (Feb 16) → Libingan ng mga Bayani (Feb 18)
+- **Notable attendees:** Former Dagupan Mayor Belen Fernandez, entire Sangguniang Bayan of Dagupan, Gloria Macapagal-Arroyo, Archbishop Socrates Villegas, international dignitaries
+- **Significance:** Ends the de Venecia dynasty's founding generation. Padlan-Perez-de Venecia power chain (iterations 19, 28) now in 3rd generation. JDV and Bienvenido were exact contemporaries (born ~1936-37) in the same congressional district.
+
+## Pinoy News Magazine — Chicago Filipino Obituary Resource (Iteration 76)
+
+- **Site:** pinoynewsmagazine.com/obituaries
+- Publishes monthly obituaries of Chicago-area Filipinos
+- Key funeral homes: **Colonial-Wojciechowski** (Niles), **Oehler**, **Salerno's Rosedale Chapels**
+- Frequent burials at **Maryhill Cemetery** (Niles) — same cemetery where Bienvenido likely buried
+- St. Isaac Jogues Catholic Church — Filipino community church
+- Archives available at pinoynewsmagazine.com/[Month][Year]Obituaries.html
+- **Conrado Nepomuceno Manankil Jr.** (d. Dec 2025, age 86) — born **Angeles City, Philippines**, emigrated to Chicago 1966. Confirms Angeles City → Chicago migration pathway relevant to Cervantes family.
 
 
 ## 🔥🔥🔥 Police Brigadier General Reynaldo M. Tamondong — Native Son of San Carlos (Iteration 63)
