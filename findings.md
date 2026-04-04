@@ -1,6 +1,14 @@
 # Consolidated Findings
 
-Last updated: 2026-04-04 03:04 UTC (Iteration 79: Maramba-Villanueva Principalía Connection)
+Last updated: 2026-04-04 23:49 UTC (Iteration 81: Conchita Rizo Tamondong — Chicago Tamondong)
+
+## 🔥 Conchita Rizo Tamondong — Chicago Tamondong Sister (Iteration 81)
+
+From Pinoy News Magazine (Sept 2025), obituary of Purificacion Rizo Gamalinda (age 90):
+- Surviving sister: **Conchita (Wilfredo) Tamondong** — both in Chicago area
+- Funeral: Colonial-Wojciechowski Funeral Home, Lakeside Church of Chicago
+- Adds to the Tamondong-Chicago pattern: Jessica Tamondong Rhee (State Farm, N. Ave Chicago), Des Plaines Tamondong burial, now Wilfredo Tamondong
+- Source: pinoynewsmagazine.com, Sept 2025 Obituaries section
 
 
 
