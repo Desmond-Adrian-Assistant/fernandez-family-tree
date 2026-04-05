@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 01:20 UTC (Iteration 82: Paglingayen Statistics + New Resource Inventory)
+Last updated: 2026-04-05 05:25 UTC (Iteration 84: Cabrera Angeles City + FindAGrave Corrections)
 
 ## Paglingayen Surname — Definitive Statistics (Iteration 82)
 
@@ -1101,9 +1101,24 @@ From the Wikipedia article on the Minor Basilica of Saint Dominic (San Carlos):
 - **Fernando Juan Cabrera** = Vice Mayor of Mangaldan, Pangasinan — same town where Abalos family dominates politics
 
 ### Illinois Filipino Cervantes (FindAGrave)
-- Two unnamed Cervantes memorials in Illinois with **Philippines birthplace**
-- Cemetery: **San Nicolas de Tolentino Catholic Cemetery** (Filipino saint) — confirms Philippine-origin Cervantes in Chicago area
-- Memorial IDs: 57134392 and 57134373 (no names — behind volunteer cataloging)
+- ⚠️ **CORRECTION (Iteration 84):** Memorials 57134392 and 57134373 are NOT in Illinois — they are in **Weslaco, Hidalgo County, TEXAS** (City of Weslaco Cemetery, near Mexico border). Likely Mexican-American Cervantes, NOT Filipino. Previous Iteration 80 claim of 'Philippine-origin Cervantes in Chicago area' is INVALID.
+- 212 Cervantes memorials exist in Illinois total, but no Philippine-born Cervantes in Niles/Chicago area confirmed on FindAGrave
+- Diosdados Cervantes and Natividad Cabrera NOT on FindAGrave
+
+### 🔥 Cabrera Family in Angeles City — Documented (Iteration 84)
+
+**Claro "Lito" Cabrera** — Bantayog ng mga Bayani honoree (Wall of Remembrance for Marcos-era martyrs):
+- Lived in **Sapang Bato barangay, Angeles City** — adjacent to Clark Air Base
+- Working-class family, 8 siblings, mother separated from father
+- Anti-Marcos activist, killed by military May 28, 1984 (age ~28)
+- Sapang Bato = economically dependent on Clark Base, working-class zone
+- Source: bantayogngmgabayani.org
+
+**Rodrigo Cabrera** — Kagawad (Councilor), **Lourdes North West Barangay, Angeles City** (2010-2013)
+- Confirms Cabrera surname in Angeles City civic governance
+- Source: Zamboanga.com Pampanga barangay officials listing
+
+**Key context:** Cervantes is NOT in Angeles City top 20 surnames; Cabrera not in top 10. Both families were middle-class/professional, not principalía elite. Likely near Clark Air Base economy.
 
 ### Sephardic Origin Convergence
 Both Cervantes AND Abalos may have Sephardic heritage — families with Spanish surnames that predate 1849 decree. If correct, both sides of Janice's family connection (the Abalos maternal line via Aurea, and the Cervantes paternal line of Janice herself) share this possible origin.
