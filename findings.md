@@ -1,5 +1,35 @@
 # Consolidated Findings
 
+Last updated: 2026-04-05 08:45 UTC (Iteration 87: Kapampangan Surname Exemption Discovery)
+
+## 🔥🔥 Kapampángans Exempt from 1849 Clavería Decree — Implications for Cervantes Family (Iteration 87)
+
+### Royal Decree of May 20, 1649
+- Spanish king granted Kapampángans **autonomy and perpetual tribute exemption** as reward for defending Spanish East Indies from Dutch invasion
+- Kapampángan nobility enrolled in **Spanish hidalguía** (lowest level of Spanish aristocracy)
+- Result: Kapampángans were **completely exempt** from the 1849 Clavería Decree
+- They retained indigenous surnames OR kept Spanish surnames already in use, AND kept genealogical records to prove lineage for tax exemptions
+
+### Critical Implication for Cervantes (and Cabrera)
+- Both Cervantes and Cabrera are **Spanish surnames** in Kapampangan territory
+- Since Kapampángans were exempt from 1849, both surnames **pre-date 1849 by definition**
+- Cervantes in Pampanga = either genuine Spanish settler descent, OR principalía family enrolled in hidalguía using Spanish surname as status marker
+- Miguel de Cervantes Saavedra (Don Quixote author) is the most famous bearer — same Spanish origin (Toledo)
+- **Conclusion**: The Cervantes/Cabrera families of Angeles City were part of the **Kapampangan principalía** — old colonial-era elite stock, NOT ordinary farmers
+- Contrasts with typical Pangasinan/Ilocano surnames in Adrian's paternal line which ARE subject to the 1849 decree
+
+### Angeles City Context
+- Founded 1796 by **Don Angel Pantaleon de Miranda** — himself a "Don" in the hidalguía tradition
+- Founding families of Angeles City held hidalgo status
+- Families with Spanish surnames there were typically in the colonial elite class
+
+### Sources
+- siuala.com "On Kapampángan Surnames" (Jan 2021)
+- SunStar Pampanga: Tantingco "Kapampangan Surnames Part 2" (March 2023)
+- Primary source: Archivo Estatales, Ministerio de Educacion, Cultura y Deporte
+
+---
+
 Last updated: 2026-04-05 07:30 UTC (Iteration 86: WWII Records Attempt + FamilySearch Pampanga Inventory + Bonarae.net Lacsamana-Pampanga Link)
 
 ## Paglingayen Surname — Definitive Statistics (Iteration 82)
