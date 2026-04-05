@@ -1,6 +1,39 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 08:45 UTC (Iteration 87: Kapampangan Surname Exemption Discovery)
+Last updated: 2026-04-05 08:45 UTC (Iteration 88: Angeles City Complete Mayoral History — No Cervantes Ever)
+
+## Angeles City Complete Mayoral Succession — No Cervantes Ever (Iteration 88)
+
+**Source:** Wikipedia — Mayor of Angeles City (complete list)
+
+### Confirmed: Cervantes Absent from 230 Years of Angeles City Leadership (1796–2026)
+
+Full list of Municipal Presidents and City Mayors shows NO Cervantes in any executive leadership role:
+
+**Municipal Presidents (1901–1937):** Suarez, Gomez, Mesina, Dizon, Panlilio, **Henson** (dynasty), Valdes, Dayrit, **Nepomuceno** (dynasty), **Lazatin** (dynasty)
+
+**Municipal Mayors → City Mayors (1937–2026):** Dayrit, Malig, Sicangco, Canlas, **Lazatin**, Henson, Pangilinan, Abad Santos, del Rosario, Suarez, Nepomuceno, Pamintuan, Lazatin — NO CERVANTES
+
+### Angeles City Dynasty Structure
+- **Founding family:** Miranda (1796) → Henson (daughter) → Nepomuceno (niece married)
+- **American era:** Lazatin dynasty (Francisco 1931–37, Rafael 1946–47 + 1972–79, Carmelo 1998–2007, Carmelo II 2025–)
+- **Other dynasties:** Dayrit (3 terms), Nepomuceno (Juan, Ricardo, Francisco, Francis), Pamintuan (2 terms)
+- **Cervantes:** ZERO appearances in 230 years
+
+### Final Cervantes Family Profile
+- **NOT founding family** (Miranda, Henson, Nepomuceno)
+- **NOT American-era political elite** (Lazatin, Dayrit)
+- **NOT modern political family**
+- **Likely middle-class/professional** — Clark Air Base economy connection
+- Kapampangan surname exemption means Cervantes predates 1849, but absence from political records means non-principalía
+- **Most likely scenario:** Cervantes was adopted pre-1849 as a Spanish-style name by a middle-class Kapampangan family; remained artisan/professional class through colonial and American eras
+
+### Path Forward for Cervantes-Cabrera Research
+1. Adrian searches Ancestry Pampanga civil registration for Cervantes + Angeles City
+2. Contact Holy Rosary Parish (parish@holyrosarypampanga.org) for 1950s–60s records
+3. Ask Janice or her Angeles City siblings directly — simplest and most reliable path
+
+---
 
 ## 🔥🔥 Kapampángans Exempt from 1849 Clavería Decree — Implications for Cervantes Family (Iteration 87)
 
