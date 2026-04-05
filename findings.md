@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 05:25 UTC (Iteration 84: Cabrera Angeles City + FindAGrave Corrections)
+Last updated: 2026-04-05 06:25 UTC (Iteration 85: FamilySearch Pampanga + Cervantes/Cabrera Angeles City Research)
 
 ## Paglingayen Surname — Definitive Statistics (Iteration 82)
 
@@ -1125,6 +1125,20 @@ Both Cervantes AND Abalos may have Sephardic heritage — families with Spanish 
 
 ### Conrado Nepomuceno Manankil Jr. — Angeles City → Chicago (1966)
 Previously documented: First confirmed Angeles City → Chicago emigrant in our research (Pinoy News Magazine, Dec 2025). Confirms this immigration pathway that Janice's family likely also took.
+
+## 🔥 FamilySearch Central Luzon Collection Covers BOTH Family Branches (Iteration 85)
+
+**Collection: "Philippines, Central Luzon, Civil Registration"**
+- Covers **Pampanga** (Angeles City = Cervantes/Cabrera family) AND **Tarlac** (Gerona = Fernandez/Daquigan family)
+- Same collection Adrian can access via FamilySearch account (Adrian26448)
+- Also: Philippines Civil Registration (National) 1945-1984 for Pampanga (images, incomplete)
+- **Search path:** FamilySearch → Central Luzon Civil Registration → Cervantes + Angeles City; Cabrera + Angeles City
+
+### Pampanga Surname Distribution Confirmed (Iteration 85)
+- **Province-wide top 10:** Santos, David, Garcia, Dizon, Pineda, Reyes, De La Cruz, Mallari, Ocampo, Mendoza
+- **Angeles City most common surname: DAVID** — NOT Cervantes, NOT Cabrera
+- Neither Cervantes nor Cabrera are dominant families in Angeles City → confirms working/middle-class origin
+- Consistent with Clark Air Base economy connection (working-class technical employment)
 
 ## Cervantes Side — Adrian's Mother's Family (Track 7)
 
