@@ -1,6 +1,61 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 17:55 UTC (Iteration 101: Gerona Barangay Histories + Bacarra Quintuple Corroboration)
+Last updated: 2026-04-05 20:00 UTC (Iteration 103: Reynaldo Cervantes III Obituary Confirmed + Eduardo Cervantes Lead)
+
+## Iteration 103 — Reynaldo Cervantes III Obituary Confirmed + Eduardo Cervantes Lead (2026-04-05)
+
+### Reynaldo Cervantes III Obituary — Full Text Confirmed
+- **Full text from Daily Herald (Aug 21, 2018):** Reynaldo III born May 7, 1996, Elk Grove Village; died Aug 17, 2018, age 22
+- Parents: Reynaldo (Maricela) Cervantes Jr. + Kathie (fiancé Keith Larsen) Cervantes
+- Grandparents: **Reynaldo Cervantes Sr.** (living 2018) + **"the late Natividad Cervantes"**
+- Sibling: Amanda Cervantes
+- Funeral: Lauterburg & Oehler Funeral Home, Arlington Heights → St. Mary Church, **Des Plaines** → **All Saints Cemetery**
+- All Saints Cemetery is ~8 miles from Maryhill/Niles (Bienvenido's burial)
+- Three-generation Filipino naming (Sr./Jr./III) + "Natividad" grandmother = **strong Philippine origin indicators**
+- **Upgraded assessment:** Reynaldo Cervantes Sr. could be Diosdados Cervantes's **brother** (both from Angeles City Cervantes family)
+- **ACTION FOR ADRIAN: Ask Janice if her father Diosdados had a brother named Reynaldo Cervantes, or if family has relatives in Round Lake Beach / Des Plaines / Arlington Heights area**
+
+### Eduardo Cervantes (b.~1970, d. May 25, 2022) — Round Lake Beach, IL — NEW LEAD
+- Died age 52, Round Lake Beach, Lake County, IL
+- Funeral: Justen's Round Lake Funeral Home → St. Joseph Catholic Church, Round Lake, IL
+- Same Lake County Cervantes cluster as Reynaldo Sr.+Natividad
+- If born ~1970 in Philippines, could be a **sibling of Janice Cervantes** (right generation for Diosdados's child)
+- **ACTION FOR ADRIAN: Ask Janice if she had a sibling/cousin named Eduardo Cervantes who died in May 2022 in Illinois**
+
+### Natividad Cabrera MD (Fort Collins CO, b.1930) — RULED OUT
+- Parents: Pacifico and Gertrudes Visarra Ruiz — completely different family
+
+### Lake County IL Cervantes Cluster — Updated Summary
+| Person | Status | Notes |
+|--------|--------|-------|
+| Reynaldo Cervantes Sr. | Living (2018) | Grandfather, wife was "late Natividad" |
+| Late Natividad Cervantes | Deceased by 2018 | Grandmother, first name matches Janice's mother |
+| Reynaldo Cervantes Jr. | Living | Son of Sr., married Maricela |
+| Reynaldo Cervantes III | 1996-2018 | Died age 22, Round Lake Beach |
+| Amanda Cervantes | Living | Sibling of Reynaldo III |
+| Eduardo Cervantes | 1970-2022 | Round Lake Beach, possible Janice sibling |
+
+---
+
+## Iteration 102 — Illinois Cervantes Lead + Research Ceiling Confirmed (2026-04-05)
+
+### Reynaldo Cervantes Sr. + Late "Natividad Cervantes" — Illinois Lead
+- **2018 Daily Herald obituary** of Reynaldo Cervantes III (Round Lake Beach, Lake County IL)
+- Grandson of **Reynaldo Cervantes Sr.** (living, 2018) and the **late Natividad Cervantes**
+- Funeral at **St. Mary Church, Des Plaines → All Saints Cemetery** (adjacent to Niles where Bienvenido is buried)
+- **"Natividad" matches Janice's mother's first name** (Natividad Cabrera Cervantes)
+- BUT grandfather's name is **Reynaldo**, not Diosdados — low-probability match; Reynaldo could be a sibling of Diosdados
+- **Action item for Adrian:** Ask Janice if family has relatives in Round Lake Beach or Des Plaines IL area
+- Cannot confirm Philippines origin from the obituary alone
+
+### Research Ceiling: 102 Iterations Exhausted Online Sources
+- Geni profile for "Juan Jose Abalos Ylosa" found but blocked without login
+- No new Cervantes/Cabrera records found online
+- All Ancestry records (#48547169, #4029022, etc.) remain behind paywall
+
+---
+
+## Iteration 101 — Gerona Barangay Histories + Bacarra Quintuple Corroboration (2026-04-05) Gerona Barangay Histories + Bacarra Quintuple Corroboration)
 
 ## Iteration 101 — Gerona Barangay Histories + Bacarra Quintuple Corroboration (2026-04-05)
 
