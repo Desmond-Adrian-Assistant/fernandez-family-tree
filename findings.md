@@ -1,6 +1,29 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 08:45 UTC (Iteration 88: Angeles City Complete Mayoral History — No Cervantes Ever)
+Last updated: 2026-04-05 09:05 UTC (Iteration 89: Pampanga Civil Registration Assessment + Holy Rosary Parish Minor Basilica Elevation)
+
+## Iteration 89 — Pampanga Civil Registration + Holy Rosary Parish Update
+
+### Holy Rosary Parish Church (Angeles City) — ELEVATED TO MINOR BASILICA (Dec 7, 2024)
+- **Official name as of December 7, 2024:** Minor Basilica and Parish of Our Lady of the Most Holy Rosary
+- **Archbishop:** Most Rev. Florentino G. Lavarias, D.D. (Archdiocese of San Fernando)
+- **CORRECTION:** Holy Rosary is under Lavarias/San Fernando, NOT Villegas/Lingayen-Dagupan
+- Parish Priest: Rev. Fr. Manny C. Sta. Maria (unchanged)
+- Diosdados Cervantes + Natividad Cabrera's marriage (~1950s-1960s) would be in these archives
+
+### Pampanga Civil Registration Collections Available Online
+- **Philippines Marriage & Death Certificates (1888-1984)**: 6.7 million certs, lists relatives → covers Angeles City → in Ancestry World Explorer
+- **Philippines Birth & Baptism Index (1642-1994)**: 320,000+ records with parent names → Ancestry
+- **Philippines Marriage Index (1723-1957)**: 800,000+ records → Ancestry
+- **FamilySearch collections 2018411 and 1852584** also cover Pampanga civil records
+
+### Tamondong Tree Gap (Simon 1802 → Juan ~1850)
+- **Missing generation:** Simon's children (born ~1800-1820) who parented Juan Tamondong
+- Only source: San Carlos parish registers in FamilySearch collection #1646454
+- Adrian must browse San Carlos baptisms 1800-1850 to find Simon's children
+- Juan Tamondong (~1850) is the oldest known Tamondong in Adrian's direct line
+
+---
 
 ## Angeles City Complete Mayoral Succession — No Cervantes Ever (Iteration 88)
 
