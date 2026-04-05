@@ -1,6 +1,28 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 12:30 UTC (Iteration 94: Research Ceiling Confirmed — Human Action Required)
+Last updated: 2026-04-05 15:25 UTC (Iteration 98: Cachapero-Tamondong Marriage + Tandoc Parish Details)
+
+## Iteration 98 — Cachapero-Tamondong Marriage + Tandoc Parish (2026-04-05)
+
+### Pedro Caguioa Tamondong Married Aurelia Cachapero
+- **Pedro Caguioa Tamondong** (b. July 14, 1903, Pangasinan) married **Aurelia Cachapero**
+- Parents: Aniceto Tamondong + Maria Macalanda (previously confirmed)
+- Had **1 child** (name behind Ancestry paywall)
+- **Cachapero surname:** 1,089 bearers worldwide; 992 in Philippines — extremely rare
+- Ancestry lists 20 immigration records for Cachapero bearers — some US-based
+- Adds a new rare surname to the San Carlos principalía intermarriage network
+
+### Holy Family Parish, Barangay Tandoc, San Carlos City
+- Established 2007; Archdiocese of Lingayen-Dagupan; Vicariate of Saint Dominic
+- Parish Priest: Fr. Douglas C. Nicolas
+- **Key:** Pre-2007 Tandoc barangay records are at Minor Basilica of St. Dominic (FamilySearch #1646454)
+- This confirms collection #1646454 covers ALL San Carlos families including Tandoc/Macalanda/Tamondong
+
+### Cervantes Rank Confirmed: 217th Most Common Filipino Surname
+- Spanish origin (*) confirmed by Wiktionary Filipino surnames list
+- Adjacent on list: Dulay (229, Pangasinan origin) — contextualizes Cervantes in the same tier
+
+---
 
 ## Iteration 93 — FamilySearch 30-Year Rule Analysis + Conchita Tamondong Obituary (2026-04-05)
 
