@@ -1,6 +1,27 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 09:05 UTC (Iteration 89: Pampanga Civil Registration Assessment + Holy Rosary Parish Minor Basilica Elevation)
+Last updated: 2026-04-05 09:15 UTC (Iteration 90: FamilySearch Archives Division Assessment + Record Access Audit)
+
+## Iteration 90 — FamilySearch Archives Division #2018411 + Record Access Audit
+
+### 🔑 Critical Collection: Philippines Civil Registration Archives Division (1902-1945) — #2018411
+- **Coverage:** 1902-1945 — **includes Bienvenido's March 22, 1937 birth in Gerona, Tarlac**
+- **Source:** Philippine National Archives (Pambansang Sinupan ng Pilipinas)
+- Covers all 77 provinces including Tarlac
+- Browse path: FamilySearch #2018411 → Tarlac → Gerona → births 1937 → search "Bienvenido Fernandez"
+- Would show parents (Mariano + Victoria) and possibly grandparents
+- Pre-1945 church records (St. Catherine of Alexandria, Gerona, founded 1894) are NOT digitized
+
+### Pinoynewsmagazine.com — Archives Only Back to ~2015
+- Online archive URLs show pattern like `August2018Obituaries.html` — doesn't extend to 1994
+- Bienvenido's March 1994 obituary NOT available online; physical archives needed
+
+### Research Ceiling Assessment (90 Iterations)
+- All remaining key gaps require: Ancestry login, FamilySearch image browsing, physical PH records, or human contacts
+- No new facts found via web search this iteration — major discovery phase is plateaued
+- **Next breakthrough requires Adrian's direct action** on Ancestry or FamilySearch
+
+---
 
 ## Iteration 89 — Pampanga Civil Registration + Holy Rosary Parish Update
 
