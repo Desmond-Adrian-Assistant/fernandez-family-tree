@@ -1,6 +1,31 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 15:35 UTC (Iteration 99: Gutierrez Surname Analysis + Ilocos Rankings + Francisco Rosario Writer Lead)
+Last updated: 2026-04-05 15:50 UTC (Iteration 100: Silew Magazine Timeline Confirmed + Research Milestone Review)
+
+## Iteration 100 — Silew Magazine Timeline Confirmed + Research Milestone (2026-04-05)
+
+### Silew Magazine — Precise Timeline Now Confirmed
+- **Silew** ("light") = monthly Pangasinan-language magazine, published **1934–1943**
+- **Maria Prado Magsano** (1893–1968) = editor 1936–1948, founder of Pangasinan Courier
+- **Sandiy Silew** = vernacular section of the Pangasinan Courier (post-WWII)
+- Chronology: Lioaoa (1915–1932) → Tonung (1928–1935) → **Silew (1934–1943)** → Sandiy Silew → Sunday Punch (1954+)
+- After Magsano: "Literary Silence 1960s–1990s" — Pangasinan vernacular literature collapsed
+- Francisco Rosario consistently named as one of 5 major Silew fiction writers (with Villamil, Carrera, Mata, Magsano)
+
+### Francisco Rosario Writer — Age Assessment SUPPORTS Identification with Adrian's Ancestor
+- Filomena Rosario (Adrian's great-grandmother) born ~1900–1915
+- Her father Francisco Rosario born ~1875–1900
+- Silew ran 1934–1943: Francisco would have been **35–68 years old** — prime writing age ✓
+- No hometown documented online — cannot confirm or deny San Carlos connection
+- No Wikipedia article, biography, or birth/death dates found despite 4 targeted searches
+- **Assessment: PLAUSIBLE but UNVERIFIED** — requires Philippine National Library physical access
+
+### Iteration 100 Milestone — Research Ceiling Assessment
+- 100 iterations have exhausted all publicly accessible internet records
+- All remaining breakthroughs require human action (see Gaps to Fill section)
+- No new genealogical facts discovered this iteration
+
+---
 
 ## Iteration 99 — Gutierrez Surname + Ilocos Rankings + Francisco Rosario Writer Lead (2026-04-05)
 
