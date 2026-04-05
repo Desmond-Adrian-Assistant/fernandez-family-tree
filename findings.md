@@ -1,6 +1,38 @@
 # Consolidated Findings
 
-Last updated: 2026-04-04 23:49 UTC (Iteration 81: Conchita Rizo Tamondong — Chicago Tamondong)
+Last updated: 2026-04-05 01:20 UTC (Iteration 82: Paglingayen Statistics + New Resource Inventory)
+
+## Paglingayen Surname — Definitive Statistics (Iteration 82)
+
+**Juana Paglingayen** (Juan Tamondong's wife, ~1850) = one of the rarest surnames in the family tree.
+
+| Metric | Data |
+|--------|------|
+| Global rank | 323,810th most common |
+| Worldwide bearers | ~1,151 |
+| Philippines | 1,123 bearers |
+| US | 7 bearers |
+
+**Philippines distribution:**
+- **Ilocos Region: 58%** ← strongest Ilocano marker of any family surname
+- NCR: 16%, Central Luzon: 13%
+
+**Significance:** Paglingayen is the most definitively Ilocano surname in Adrian's entire family tree (58% Ilocos). This confirms Juana Paglingayen came from an Ilocano settler family that migrated to San Carlos/Pangasinan. Consistent with the broader Ilocano-migrant pattern: Daquigan (Tagudin), Bacarro/Bacarra (Ilocos Norte), Rosario (44% Ilocos). The Tamondong family married primarily into Ilocano settler families — classic endogamy among Ilocano diaspora in Pangasinan.
+
+**Variants:** Panglingayen (6 bearers), Palingayen (6), Palingayan (229 — more common, possibly related)
+
+## 🔑 New Resources Available — Action Required by Adrian (Iteration 82)
+
+**Ancestry World Explorer Trial active** — CANNOT ACCESS PROGRAMMATICALLY. Adrian must personally log in.
+
+**TOP 5 RECORDS FOR ADRIAN TO CHECK IN ANCESTRY:**
+1. Record **#48547169** (collection 60901, SS Apps) — Bienvenido's SS record: birth date, death date, father's name, mother's maiden name, SSN, last residence
+2. Record **#4029022** (collection 60130) — Pablo Fernandez + Marta Villanueva OWN marriage record (would reveal Pablo's parents)
+3. Record **#1085806** (collection 60130) — Catalina Fernandez marriage (unknown sibling of Mariano)
+4. Record **#1165555** (collection 60130) — Aniceto Fernandez marriage (probable 5th child of Pablo/Marta)
+5. Tree **#68186126** — second independent family tree for Bienvenido from different contributor
+
+**FamilySearch (Adrian26448):** Log in → search person GY2Z-3K9 (Bienvenido) → check sources, check for Kristine8553 updates (she was active 3/24/2026)
 
 ## 🔥 Conchita Rizo Tamondong — Chicago Tamondong Sister (Iteration 81)
 
