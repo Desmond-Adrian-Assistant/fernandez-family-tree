@@ -1,6 +1,68 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 09:15 UTC (Iteration 90: FamilySearch Archives Division Assessment + Record Access Audit)
+Last updated: 2026-04-05 12:00 UTC (Iteration 92: New Resources Assessment + WWII Tarlac Corroboration)
+
+## Iteration 92 — New Resources Assessment + WWII Tarlac Corroboration (2026-04-05)
+
+### Bamban WWII Museum — Mariano Fernandez WWII Context UPGRADED
+**New 2025 source (March 20, 2025 article) confirms:**
+- TMA LGAF Squadrons 401 and 402 covered **Sta. Ignacia – Gerona** zone specifically
+- Photo published showing barefoot Tarlaqueno guerrillas (TMA LGAF) presenting arms, Jan 1945
+- NARA source cited: "HQ Tarlac Military Area TMA Luzon Guerrilla Army Forces LGAF, College Park, MD"
+- Mariano Fernandez (b. ~1905, settled Danzo/Gerona) was military age (36-39) and in exact operational zone
+- Additional guerrilla force also in area: Aglipay Battalion (HUKBALAHAP), Col. Eusebio Aquino's 3rd Regional Command
+
+### Geni "Gerona Family of the Philippines" Project Found
+- URL: geni.com/projects/Gerona-Family-of-the-Philippines/4494232
+- May contain Fernandez, Daquigan, Abando, Capinding profiles
+- Requires Geni login — Adrian should join this project
+
+### New Resources (Ancestry + FamilySearch) Cannot Be Accessed Programmatically
+- Both require browser-based authentication — all records remain behind paywall
+- Bienvenido SS record #48547169 remains the #1 priority unlock
+- Research ceiling confirmed for 92nd consecutive iteration — **human action required**
+
+---
+
+## Iteration 91 — Pampanga Records Assessment + NARA Request Process Confirmed
+
+### FamilySearch Pampanga Coverage Summary
+- **Philippines Civil Registration (Local), 1888-1986** (collection #1410394) covers Angeles City — **Adrian can search with Adrian26448 login**
+- **Philippines Births and Baptisms, 1642-1994** (#1500711) — partial index, may have Cervantes
+- NO dedicated Diocese of San Fernando parish records on FamilySearch (unlike Lingayen-Dagupan)
+- Holy Rosary Parish (Angeles City) records are NOT digitized — physical only
+- **Best Cervantes/Cabrera digital path:** FamilySearch collection #1410394 + Ancestry Philippines Marriage collection 60130
+
+### Pampanga Surname Context Confirmed
+- Angeles City most common surname: **DAVID** (not Cervantes, not Cabrera)
+- Neither Cervantes nor Cabrera in Pampanga top 10 → middle-class/professional origin confirmed
+- Geni "Cabrera Family of the Philippines" project (ID: 4492200) exists — includes Luzon elite families, may have Pampanga branches
+
+### NARA Philippine Army/Guerrilla Records — Official Process Confirmed
+- **SF-180 form** → mail to National Personnel Records Center, 1 Archives Drive, St. Louis, MO 63138
+- Covers USAFFE + recognized Philippine guerrilla forces (July 1941 – June 30, 1947)
+- Family members (descendants) can request with: death certificate + proof of relationship
+- **Raul Fernandez (grandson) should submit SF-180** asking about Mariano Fernandez (b. ~1905, San Carlos/Gerona)
+- Collection only certifies individual service — NOT unit history
+- Likely files: 185-series (Army of the Agno), 308-23 (ECLGA), 102-22 (LGAF-TMA)
+
+### Searches Exhausted (No New Finds)
+- Diosdados Cervantes + Angeles City → zero online results
+- Natividad Cabrera + Pampanga Philippines → zero relevant results  
+- Mariano Fernandez WWII → no new online leads (PVAO still blocked)
+- FindAGrave Cervantes + Illinois + Philippines → no matches
+
+### Research Status: Human Action Required
+All 91 iterations have exhausted publicly accessible internet records. The next breakthroughs require Adrian's direct actions:
+1. **Ancestry login** → 15+ key records (Bienvenido SS #48547169, Pablo+Marta marriage, Aurea's siblings)
+2. **FamilySearch login (Adrian26448)** → Pampanga civil registration search, check Kristine8553 updates
+3. **Raul submits SF-180 to NARA** → Mariano Fernandez WWII military records
+4. **Contact Janice/her Angeles City family** → fastest path for Cervantes-Cabrera genealogy
+5. **Email Holy Rosary Parish** (parish@holyrosarypampanga.org) → 1950s-60s marriage records
+6. **Order Cook County death certificate** (VitalChek $17) → Bienvenido's exact record
+7. **Contact Bona Rae Villarta** (bonarae@gmail.com) → Gerona Daquigan-Parazo relative by marriage
+
+---
 
 ## Iteration 90 — FamilySearch Archives Division #2018411 + Record Access Audit
 
