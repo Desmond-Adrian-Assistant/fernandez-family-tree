@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 06:25 UTC (Iteration 85: FamilySearch Pampanga + Cervantes/Cabrera Angeles City Research)
+Last updated: 2026-04-05 07:30 UTC (Iteration 86: WWII Records Attempt + FamilySearch Pampanga Inventory + Bonarae.net Lacsamana-Pampanga Link)
 
 ## Paglingayen Surname — Definitive Statistics (Iteration 82)
 
@@ -1125,6 +1125,45 @@ Both Cervantes AND Abalos may have Sephardic heritage — families with Spanish 
 
 ### Conrado Nepomuceno Manankil Jr. — Angeles City → Chicago (1966)
 Previously documented: First confirmed Angeles City → Chicago emigrant in our research (Pinoy News Magazine, Dec 2025). Confirms this immigration pathway that Janice's family likely also took.
+
+## 🔥 Bonarae.net Lacsamana Line = San Simon/Mexico, Pampanga (Iteration 86)
+
+**Bona Rae Paraso Villarta** (bonarae.net, bonarae@gmail.com) revealed her four surname lines:
+- **Lacsamana** — originated **San Simon and Mexico, Pampanga** (~15km from Angeles City). Migrated to Tondo, Manila ~1924.
+- **Paraso** — originated Gerona, Tarlac. Grandfather's siblings moved to Metro Manila after WWII, some emigrated to USA.
+- **Villarta** — Victoria, Tarlac → Cagayan → Isabela → Manila
+- **Ortiz** — Gerona, Tarlac (related: Simeon, Acob). Great-grandparents emigrated to California.
+
+**Key cross-connections:**
+1. Bona Rae's Lacsamana line = Pampanga, same province as Cervantes/Cabrera (Angeles City)
+2. Bona Rae's Paraso line = Gerona (directly related to Adrian's family via Maria Daquigan + Conrado Parazo marriage)
+3. Some Paraso relatives emigrated to USA — same pattern as Fernandez/Daquigan
+
+**Bona Rae is the single best contact for Gerona genealogy research.** She is a relative by marriage AND has Pampanga connections relevant to Janice's family.
+
+## FamilySearch Pampanga/Angeles City — Collection Gap Confirmed (Iteration 86)
+
+No dedicated **Diocese of San Fernando (Pampanga) parish records** collection exists on FamilySearch — unlike Lingayen-Dagupan Archdiocese's rich 1615-1982 collection. Pampanga church records (including Holy Rosary Parish, Angeles City) are largely undigitized.
+
+**Available collections that DO cover Pampanga civil records:**
+- Philippines Civil Registration (Local), 1888-1986 (#1410394)
+- Philippines Civil Registration (National), 1945-1984 (#1852584)
+- Philippines Civil Registration (Archives Division), 1902-1945 (#2018411)
+- Philippines Births and Baptisms, 1642-1994 (#1500711) — partial
+- Philippines Marriages, 1723-1957 (#1500713) — partial
+
+**Implication:** To find Cervantes/Cabrera parish records for Angeles City, Adrian must either:
+1. Search the civil registration collections above (may have birth/marriage certs 1888+)
+2. Contact Holy Rosary Parish directly (parish@holyrosarypampanga.org)
+3. Contact Diocese of San Fernando archives
+
+## WWII Records — Mariano Fernandez (Iteration 86 Status)
+
+- PVAO collections site (collections.pvao.mil.ph) = **inaccessible** (server not responding, Cloudflare blocks)
+- Clark Veterans Cemetery (interment.net): 192 records reviewed — no Fernandez, no Cervantes
+- NARA guerrilla files (RG 407): Physical access only, not digitized
+- **PVAO records from NARA** have been partially digitized but the database is currently unreachable
+- **Required action:** Raul submits SF-180 to NARA (St. Louis, MO) as grandson with proof of death and relationship
 
 ## 🔥 FamilySearch Central Luzon Collection Covers BOTH Family Branches (Iteration 85)
 
