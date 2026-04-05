@@ -1,6 +1,46 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 20:00 UTC (Iteration 103: Reynaldo Cervantes III Obituary Confirmed + Eduardo Cervantes Lead)
+Last updated: 2026-04-05 20:40 UTC (Iteration 56-siblings-search: Bienvenido's Confirmed Siblings + New UK Birth Records)
+
+## Iteration 56 (Siblings Search) — Bienvenido's Confirmed Siblings + UK Birth Index Hits (2026-04-05)
+
+### CONFIRMED SIBLINGS (Source: Raul Fernandez, April 5 2026)
+- **Magdalino Fernandez** — full brother (mother: Victoriana Daquigan), born Gerona, Tarlac, Philippines
+- **Mario Fernandez** — full brother (mother: Victoriana Daquigan), born Gerona, Tarlac, Philippines
+- **Marlinne/Marlina Fernandez** — full sister → married a Villamayor, emigrated to UK → mother of Edmalyn Fernandez Villamayor (born Camden, London, 1977)
+- **Clemente Fernandez** — HALF brother (father: Mariano Fernandez; mother: **Dionicia Capinding**, his 2nd wife)
+  - Key new fact: Clemente's mother was DIONICIA CAPINDING — not Victoriana Daquigan
+
+### UPDATED FAMILY STRUCTURE — Mariano Fernandez's Wives
+| Wife | Children |  
+|------|----------|
+| Victoriana Daquigan (1st wife?) | Magdalino, Mario, Marlina, Bienvenido |
+| Dionicia Capinding (2nd wife) | Clemente |
+
+### NEW UK BIRTH INDEX HITS ⭐
+1. **Maria Elma F Villamayor** — England & Wales Birth Index (collection 8782), record #53498165, Greater London
+   - Almost certainly Edmalyn Fernandez Villamayor's birth registration
+   - Middle initial "F" = Fernandez (Marlina's maiden name)
+   - Confirms Marlina + husband (Villamayor) were in Greater London when Edmalyn was born
+2. **Marie Rosa Villamor Fernandez** — England & Wales Birth Index (collection 8782), record #50027103, Greater London
+   - **PREVIOUSLY UNKNOWN** — possible sibling of Edmalyn (another child of Marlina + Villamayor)
+   - Double-barreled surname "Villamor Fernandez" suggests parents used both surnames
+   - Would be Adrian's cousin if confirmed
+
+### UNCONFIRMED BUT POSSIBLE ANCESTRY RECORDS (Paywall)
+- Mario D. Fernandez, SSDI d. 2006, California (record #77638178) — possible if Mario emigrated to CA
+- Mario D. Fernandez, SSDI d. 2009, California (record #85995840) — alternate
+- Clemente Fernandez, SSDI d. 1993, New York (record #18999971) — still strongest Clemente candidate
+
+### NO EVIDENCE FOUND FOR
+- Diana Fernandez born Dec 8, 1943 Philippines (possible 4th sibling) — not found
+- Cora Fernandez Batol (Mario's possible daughter) — not found on Ancestry
+- Magdalino Fernandez on US Social Security records — no clear match
+- Marlina Fernandez marriage record in UK (searched as Marlina Villamayor) — no direct hit
+
+---
+
+## Iteration 103 — Reynaldo Cervantes III Obituary Confirmed + Eduardo Cervantes Lead (2026-04-05)
 
 ## Iteration 103 — Reynaldo Cervantes III Obituary Confirmed + Eduardo Cervantes Lead (2026-04-05)
 
