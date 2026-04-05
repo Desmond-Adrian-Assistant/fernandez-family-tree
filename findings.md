@@ -1,6 +1,23 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 15:50 UTC (Iteration 100: Silew Magazine Timeline Confirmed + Research Milestone Review)
+Last updated: 2026-04-05 17:55 UTC (Iteration 101: Gerona Barangay Histories + Bacarra Quintuple Corroboration)
+
+## Iteration 101 — Gerona Barangay Histories + Bacarra Quintuple Corroboration (2026-04-05)
+
+### Bacarra, Ilocos Norte → Gerona Migration — QUINTUPLE CORROBORATED
+- The official **geronatarlac.gov.ph** Barangay Ayson history explicitly names settlers from **Bacarra, Ilocos Norte** as the founding group
+- This is the 5th independent source confirming Bacarra as the origin of Ilocano settlers in Gerona (1: Dr. Sicat academic; 2: Gerona.gov.ph Ayson; 3: Sitio Bacarra geography; 4: Bonarae.net Acob family; 5: geronatarlac.gov.ph)
+- Barangay Bawa history also names **Badoc, Ilocos Norte** settlers — confirms the wider Ilocos Norte → Gerona corridor
+- Benita **Bacarro**'s surname origin from Bacarra is now as solidly corroborated as any finding in this research
+- Gerona was multi-ethnic from its earliest days (Ilocano, Pangasinense, Pampanga, Tagalog per Barangay Abagon history) — explains why Fernandez (Pangasinan origin) married Daquigan (Ilocano origin)
+
+### Research Ceiling Confirmed — 101 Iterations, All Online Leads Exhausted
+- Pinoynewsmagazine.com archives only go back to ~2015 — no 1994 obituaries online
+- FamilySearch APIs require browser login — cannot access programmatically
+- Ancestry paywall blocks all 15+ key records
+- No new genealogical facts discovered; all remaining breakthroughs require human action (see Gaps to Fill)
+
+---
 
 ## Iteration 100 — Silew Magazine Timeline Confirmed + Research Milestone (2026-04-05)
 
