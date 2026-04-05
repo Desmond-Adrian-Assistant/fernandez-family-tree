@@ -1,6 +1,31 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 12:00 UTC (Iteration 92: New Resources Assessment + WWII Tarlac Corroboration)
+Last updated: 2026-04-05 12:10 UTC (Iteration 93: FamilySearch 30-Year Rule + Conchita Tamondong Obituary)
+
+## Iteration 93 — FamilySearch 30-Year Rule Analysis + Conchita Tamondong Obituary (2026-04-05)
+
+### 🔑 CRITICAL: Bienvenido's 1937 Birth Certificate Is NOW VIEWABLE on FamilySearch
+
+Philippines Data Privacy Act requires records to be 30+ years old before FamilySearch shows images online. In 2026, records from 1995 and earlier are now accessible. This means:
+
+- **Collection 2018411 (Philippines Civil Registration Archives Division, 1902-1945)**: Bienvenido's 1937 birth in Gerona, Tarlac is 89 years old — FULLY ACCESSIBLE
+- Browse path: **FamilySearch → catalog → collection 2018411 → Tarlac → Gerona → births 1937 → search Fernandez**
+- Would show: exact birth date, parents' names (Mariano Fernandez + Victoria Daquigan), possibly grandparents Pablo Fernandez and Marta Villanueva
+- Adrian can do this TODAY with free Adrian26448 FamilySearch account
+
+Also accessible:
+- **FamilySearch collection 1646454** (Lingayen-Dagupan Parish Registers, 1615-1982): San Carlos City Tamondong marriage records back to ~1840 — Juan Tamondong + Juana Paglingayen should be findable
+- **FamilySearch collection #1463134** (Cook County Deaths 1871-1994): Bienvenido's March 8, 1994 death record
+
+### Conchita Rizo Tamondong — Colonial-Wojciechowski Niles Location
+
+- Conchita (Wilfredo) Tamondong's funeral was at Colonial-Wojciechowski Funeral Home, Niles IL (8025 W Golf Rd)
+- This is the SAME Niles Filipino funeral home near Maryhill Cemetery where Bienvenido was buried
+- Confirms Tamondong and Fernandez families shared the same Niles/northwest Chicago Filipino community
+- Conchita was a sister of Purificacion Rizo Gamalinda (died Sept 2025, age 90, born ~1935)
+- The Tamondong-Rizo-Gamalinda families are part of the same tight-knit Pangasinan-Chicago diaspora community as the Fernandez family
+
+---
 
 ## Iteration 92 — New Resources Assessment + WWII Tarlac Corroboration (2026-04-05)
 
