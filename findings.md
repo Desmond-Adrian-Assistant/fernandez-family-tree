@@ -1,6 +1,39 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 15:25 UTC (Iteration 98: Cachapero-Tamondong Marriage + Tandoc Parish Details)
+Last updated: 2026-04-05 15:35 UTC (Iteration 99: Gutierrez Surname Analysis + Ilocos Rankings + Francisco Rosario Writer Lead)
+
+## Iteration 99 — Gutierrez Surname + Ilocos Rankings + Francisco Rosario Writer Lead (2026-04-05)
+
+### Gutierrez Surname — Global and Philippine Statistics
+- **~2.86 million bearers worldwide** — 187th most common globally
+- **Philippines: 103,352** bearers — rank 46th nationally (very common surname)
+- **Spanish origin:** Patronymic from medieval Castilian "Gutierre" — NOT in 1849 Catálogo (predates it)
+- **6.31% of all Philippine Gutierrez in Ilocos region** — moderate Ilocano presence but NOT strongly Ilocano like Rosario (44%) or Abalos (29%)
+- Implication: Juana Gutierrez may have been from mainstream Pangasinan/Central Luzon stock, not an Ilocano migrant family
+
+### Complete Ilocos Region Surname Rankings — Family Surnames Confirmed
+| Rank in Ilocos | Surname | % of PH Total | Adrian's Connection |
+|---|---|---|---|
+| 4 | **Fernandez** | 14.79% | Core paternal surname |
+| 8 | **Soriano** | 24.18% | San Carlos principalía |
+| 17 | **Villanueva** | 6.80% | Marta Villanueva (great-great-grandmother) |
+| 21 | **Rosario** | **44.23%** | Filomena Rosario + Francisco Rosario |
+| 29 | **Cayabyab** | **46.24%** | San Carlos capitán 1770-73 |
+| 34 | **Estrada** | 18.56% | Tomasa Estrada (Jose Abalos's wife) |
+| 46 | **Abalos** | 29.48% | Aurea Rosario Abalos (grandmother) |
+| 66 | **Gutierrez** | 6.31% | Juana Gutierrez (great-great-grandmother) |
+
+Source: Forebears.io Ilocos Region surnames list
+
+### Francisco Rosario — Pangasinan Literary Figure (Possible Great-Great-Grandfather)
+- A **Francisco Rosario** was a notable Pangasinan-language fiction writer in the early-to-mid 20th century
+- Published short stories in **Silew** and **Sandiy Silew** magazines — main Pangasinan vernacular literary publications
+- Contemporaries: Juan Villamil, Leonarda Carrera, Nena Mata, Maria Magsano
+- Active period: 1930s-1960s — the RIGHT generation to be the Francisco Rosario married to Juana Gutierrez (~b.1875-1895)
+- **Assessment:** UNCONFIRMED — Francisco Rosario is not rare. But if confirmed, this would make Adrian's great-great-grandfather a recognized Pangasinan literary figure
+- **Research path:** Philippine National Library (Manila) — Silew magazine archives; FamilySearch Philippines Death/Burial Index (1726-1957) — accessible via Adrian26448
+
+---
 
 ## Iteration 98 — Cachapero-Tamondong Marriage + Tandoc Parish (2026-04-05)
 
