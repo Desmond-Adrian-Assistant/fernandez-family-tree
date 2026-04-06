@@ -1,6 +1,32 @@
 # Consolidated Findings
 
-Last updated: 2026-04-06 15:40 UTC (Iteration 122: NARA Chicago naturalization records confirmed with indexes 1872-1991 — Bienvenido's petition searchable by phone (773) 948-9000; Geni Cabrera project #4492200 = Manila elite dynasties, definitively ruled out for Angeles City Cabrera; Todd Cabrera Lucero = Visayan line, no Philippines genealogy blog covers Angeles City Cabrera)
+Last updated: 2026-04-06 18:45 UTC (Iteration 124: Cecilia J. Daquigan b.1919 Long Beach CA — HIGH probability undocumented daughter of Domingo Daquigan + Benita Bacarro; SS record #36942451 on Ancestry has parents' names; older Daquigans b.1895-1910 may push Domingo's birth earlier to ~1870-1875)
+
+## Iteration 124 — Cecilia J. Daquigan — Probable Undocumented Daughter of Domingo (2026-04-06)
+
+### 🔑 Cecilia J. Daquigan (b. Dec 15, 1919 — d. Mar 13, 2002, Long Beach CA)
+- Born 1919 = between Maria (1916) and Antonia (1922) in confirmed Domingo Daquigan children
+- SS# 554-93-6542 (California-issued) → died Long Beach, CA
+- **Ancestry record #36942451** contains parents' names — would confirm/deny Domingo + Benita parentage
+- If confirmed: Victoria's sister, Bienvenido's maternal aunt, may have California descendants
+- Alternate names: Cecilia Joaquin Daquigan (J = Joaquin middle name)
+
+### Daquigan US Diaspora — Complete Known List (7 confirmed pre-1960 births)
+| Name | Born | Died | Location |
+|------|------|------|---------|
+| Simplicio Daquigan | Mar 2, 1895 | Sep 1967 | New Orleans, LA |
+| Obdulia L Daquigan | Dec 27, 1903 | Jan 21, 1989 | Hilo, HI |
+| Roman Daquigan | Feb 2, 1903 | Dec 8, 1989 | Unknown |
+| Jose B Daquigan | Mar 24, 1908 | May 5, 1991 | Unknown |
+| Francisco Daquigan | Dec 4, 1910 | Jun 1970 | Charleston, SC |
+| Cecilia J Daquigan | Dec 15, 1919 | Mar 13, 2002 | Long Beach, CA |
+| Nestor C Daquigan | May 1, 1953 | Nov 9, 2006 | San Francisco, CA |
+
+- Older cohort (b. 1895-1910) may be Domingo's SIBLINGS (pushing Domingo's birth to ~1870-1875)
+- FamilySearch tree estimates Domingo b. 1880-1890 — may need revision
+- **Ancestry #36942451 (Cecilia) is the key unlock** for this branch
+
+---
 
 ## Iteration 122 — NARA Chicago Naturalization + Cabrera Dead Ends Confirmed (2026-04-06)
 
