@@ -1,6 +1,6 @@
 # Consolidated Findings
 
-Last updated: 2026-04-06 01:30 UTC (Iteration 109: WWII records digitization audit + FilVetREP + research ceiling reconfirmed)
+Last updated: 2026-04-06 01:54 UTC (Iteration 111: New resources audit — Ancestry World Explorer + FamilySearch accounts confirmed active but browser-login-only; full action guide for Adrian written; research ceiling confirmed at 111 iterations)
 
 ## Iteration 108 — Circulo Capampangan + Cervantes Illinois Ceiling (2026-04-06)
 
