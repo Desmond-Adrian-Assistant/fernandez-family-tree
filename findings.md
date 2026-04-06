@@ -1,6 +1,51 @@
 # Consolidated Findings
 
-Last updated: 2026-04-06 06:40 UTC (Iteration 115: Cervantes-Tagudin road connection found; Aniceto Cabrera 1888 Apalit Pampanga on WikiTree; NARA File 202 = 1st Mapandan Co. (Tamondong territory); all Ancestry/FamilySearch records remain behind paywall)
+Last updated: 2026-04-06 10:30 UTC (Iteration 117: AFP NRD/OTAG confirmed as SEPARATE Philippine-side WWII records repository for Mariano Fernandez — distinct from NARA; PVAO officially recommends both AFP NRD/OTAG AND NARA NPRC; Camp Aguinaldo contact path documented)
+
+## Iteration 117 — AFP NRD/OTAG = Philippine Army WWII Records (2026-04-06)
+
+### 🔑 AFP NRD/OTAG — NEW Path for Mariano Fernandez WWII Record
+- **NRD** = National Records Division; **OTAG** = Office of The Adjutant General, AFP
+- **Location:** AFP HQ, Camp General Emilio Aguinaldo, Quezon City 1110, Philippines
+- Contains Philippine Army's own enlistment/service records for WWII-era soldiers and recognized guerrilla fighters
+- PVAO's own pension guidelines state: *"For WWII AFP veterans – Military Service Record from NRD, OTAG"*
+- This is **COMPLETELY SEPARATE** from NARA (US-held records)
+- If Mariano Fernandez was recognized as USAFFE or guerrilla, his record may exist at AFP NRD/OTAG
+- **Request process:** Written letter with: (1) veteran's full name + birthplace, (2) approximate service dates, (3) death certificate, (4) proof of family relationship
+- **Raul should submit to BOTH AFP NRD/OTAG AND NARA NPRC (SF-180)**
+- PVAO's own FAQ also directs to NARA NPRC at 1 Archives Dr, St. Louis MO 63138 (CONFIRMS our SF-180 strategy)
+
+### Two-Track WWII Records Strategy (Updated)
+| Track | Organization | Location | What They Hold |
+|-------|-------------|----------|----------------|
+| 🆕 Philippine side | AFP NRD/OTAG | Camp Aguinaldo, Quezon City | Individual MSR: enlistment, unit, rank, dates |
+| US side | NARA NPRC (SF-180) | St. Louis, MO | Unit guerrilla files: Army of Agno 185-series, LGAF 102-22 |
+| Philippine pension | PVAO VRMD | Quezon City | Only if Mariano was a registered pensioner |
+
+---
+
+Last updated PRIOR: 2026-04-06 07:10 UTC (Iteration 116: NARA Chicago naturalization path identified for Bienvenido; FilVetREP registry confirmed confidential but CGM application path identified for Mariano WWII records)
+
+## Iteration 116 — NARA Chicago Naturalization Path + FilVetREP Assessment (2026-04-06)
+
+### 🔑 NARA Chicago — Bienvenido's Naturalization Petition (1981-1991)
+- **NARA Chicago Regional Archives** (7358 S. Pulaski Rd, Chicago, IL 60629 | (773) 948-9000) holds Northern District of Illinois naturalization petitions **1872-1991**
+- If Bienvenido naturalized before 1991 (arrived 1981, died 1994), his petition is AT NARA CHICAGO
+- Petition would contain: exact birth date/place, immigration date + port, full family composition (Aurea + Raul + children), occupation, witnesses
+- No online index for post-1950 petitions — requires call/visit to NARA Chicago
+- **Also try:** USCIS FOIA request (800-375-5283) for duplicate copy
+- **Search names to try:** "Bienvenido Fernandez", "Bien Fernandez", "B. Fernandez", "Bienvenido D. Fernandez"
+- **Action for Raul/Adrian:** Call NARA Chicago at (773) 948-9000
+
+### FilVetREP — Mariano WWII Congressional Gold Medal Path
+- FilVetREP National Veterans Registry is confidential — NOT publicly searchable
+- BUT: FilVetREP has CGM application process for deceased veterans' next-of-kin
+- **Raul (as grandson) can apply for Mariano's CGM** if service can be documented
+- Application through Philippine POC (via filvetrep.org) since Mariano died in Philippines
+- Requires: documented service in USAFFE or recognized guerrilla force (LGAF-TMA, Army of the Agno)
+- This process would also help verify NARA service records
+
+Last updated PRIOR: 2026-04-06 06:40 UTC (Iteration 115: Cervantes-Tagudin road connection found; Aniceto Cabrera 1888 Apalit Pampanga on WikiTree; NARA File 202 = 1st Mapandan Co. (Tamondong territory); all Ancestry/FamilySearch records remain behind paywall)
 
 ## Iteration 115 — Cervantes-Tagudin Road + WikiTree Cabrera + NARA File 202 (2026-04-06)
 
