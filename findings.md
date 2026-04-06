@@ -1,6 +1,29 @@
 # Consolidated Findings
 
-Last updated: 2026-04-06 01:54 UTC (Iteration 111: New resources audit — Ancestry World Explorer + FamilySearch accounts confirmed active but browser-login-only; full action guide for Adrian written; research ceiling confirmed at 111 iterations)
+Last updated: 2026-04-06 06:30 UTC (Iteration 114: NARA Army of the Agno file 185-1 confirmed on archives.gov; NEW: AIB Tarlac West Sector File 304 identified as possible Mariano Fernandez intelligence record; PCG Chicago contact located; research ceiling confirmed for 114th time)
+
+## Iteration 114 — NARA Files + PCG Chicago Directory (2026-04-06)
+
+### AIB Tarlac West Sector — File 304 (NEW)
+- **Allied Intelligence Bureau, Tarlac West Sector — NARA File 304** discovered on archives.gov
+- Gerona is in western Tarlac → this file covers the exact area where Mariano Fernandez lived
+- Principalía-connected community leaders like Mariano were typical intelligence contacts
+- **Raul should request this file (304) alongside Army of the Agno files 185-1 to 185-30** in his SF-180 to NARA
+- Source: archives.gov/research/military/ww2/philippine/guerrilla-list-1.html (official NARA alphabetical unit index)
+
+### PCG Chicago — Contact for Circulo Capampangan
+- Philippine Consulate General Chicago: chicagopcg@att.net / +1-312-583-0621
+- Circulo Capampangan (oldest Kapampangan org in North America, founded 1970, Angeles City diaspora) not listed visibly on PCG directory page
+- **Action:** Email PCG Chicago asking for Circulo Capampangan contact — they connect Kapampangan diaspora families, potentially including Cervantes/Cabrera from Angeles City
+
+---
+
+## Iteration 113 — Kapampangan Surname Deep Dive (2026-04-06)
+(See iterations/iteration-113.md for full details)
+
+---
+
+Last updated ORIGINAL: 2026-04-06 04:30 UTC (Iteration 113: Kapampangan surname deep dive — Cervantes/Cabrera confirmed as pre-1849 principalía-adjacent families in Angeles City; Geni Cabrera Philippines project #4492200 found but requires login; research ceiling confirmed for 113th time)
 
 ## Iteration 108 — Circulo Capampangan + Cervantes Illinois Ceiling (2026-04-06)
 
