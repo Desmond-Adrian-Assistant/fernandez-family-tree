@@ -1,6 +1,29 @@
 # Consolidated Findings
 
-Last updated: 2026-04-06 12:30 UTC (Iteration 119: FamilySearch collection 5000330 — Philippines Ilocos Church Records 1718-2007, 1,007,926 records — NEW resource for Daquigan/Bacarro Ilocano origins; DAVID confirmed as top Angeles City surname; no new facts found)
+Last updated: 2026-04-06 13:30 UTC (Iteration 120: Bacarra municipal history confirmed — founded 1778 by Manuel Paras; 43 barangays include Sta. Filomena I & II (same name as ancestor Filomena Rosario); Geni project 4496411 confirmed for Bacarra families; NARA guerrilla file numbers re-verified; FamilySearch collection 5000330 confirmed as definitive path for Bacarro/Daquigan pre-migration Ilocos records)
+
+## Iteration 120 — Bacarra Municipal History + Geni Bacarra Project (2026-04-06)
+
+### 🔑 Bacarra, Ilocos Norte — Founded 1778
+- **Official municipal founding: 1778** by Manuel Paras
+- Pre-1778 area was under **Laoag parish** jurisdiction — records there
+- Post-1778 Bacarra parish records would cover Bacarro ancestors born after 1778
+- **FamilySearch collection 5000330** (Philippines Ilocos Church Records 1718-2007, 1,007,926 records) covers BOTH Laoag (pre-1778) AND Bacarra (post-1778) — definitive resource
+- **Geni project 4496411** = "Bacarra, Ilocos Norte, Philippines genealogy project" — may contain Bacarro profiles
+- **Sta. Filomena barangays I & II** in Bacarra: the name "Filomena" appears both in Bacarra's barangays AND as the first name of Bienvenido's great-grandmother (Filomena Rosario) — possibly coincidental, possibly a family naming tradition from Bacarra origins
+
+### NARA Guerrilla Files — All Confirmed Accurate
+- All previously documented file numbers (185-series, 102-7, 102-22, 202, 308-23) confirmed via archives.gov F-O section
+- No new files discovered
+
+### FilVetREP Status
+- CGM awarded Oct 2017; 10,000+ veterans still awaiting individual recognition
+- Registry NOT public — Raul/Adrian must apply through Philippine POC for Mariano's CGM
+- CGM application process helps document NARA records
+
+---
+
+Last updated PRIOR: 2026-04-06 12:30 UTC (Iteration 119: FamilySearch collection 5000330 — Philippines Ilocos Church Records 1718-2007, 1,007,926 records — NEW resource for Daquigan/Bacarro Ilocano origins; DAVID confirmed as top Angeles City surname; no new facts found)
 
 ## Iteration 119 — FamilySearch New Ilocos Collection (2026-04-06)
 
