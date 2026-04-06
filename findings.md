@@ -1,6 +1,43 @@
 # Consolidated Findings
 
-Last updated: 2026-04-06 06:30 UTC (Iteration 114: NARA Army of the Agno file 185-1 confirmed on archives.gov; NEW: AIB Tarlac West Sector File 304 identified as possible Mariano Fernandez intelligence record; PCG Chicago contact located; research ceiling confirmed for 114th time)
+Last updated: 2026-04-06 06:40 UTC (Iteration 115: Cervantes-Tagudin road connection found; Aniceto Cabrera 1888 Apalit Pampanga on WikiTree; NARA File 202 = 1st Mapandan Co. (Tamondong territory); all Ancestry/FamilySearch records remain behind paywall)
+
+## Iteration 115 — Cervantes-Tagudin Road + WikiTree Cabrera + NARA File 202 (2026-04-06)
+
+### Cervantes Municipality (Ilocos Sur) → Tagudin Road — Geographic Convergence
+- **Cervantes municipality, Ilocos Sur** established 1879 (formerly "Mantamang", Igorot village). Named after Miguel de Cervantes.
+- Connected to coast via **Cervantes-Tagudin Road** (only main coastal route)
+- **Tagudin, Ilocos Sur = origin of the Daquigan surname** (1795 christening record, confirmed Iteration 28)
+- The Cervantes-Tagudin road geographically links the area where the surname "Cervantes" was assigned in 1849 to the origin town of Adrian's Daquigan family
+- **Critical distinction:** Janice's Angeles City Cervantes family is Kapampangan (exempt from 1849 decree) → their Cervantes surname predates 1849 and has Spanish colonial origin, NOT from the Ilocos Sur Cervantes municipality
+- This is CONTEXTUAL geographic corroboration, not a direct genealogical connection
+
+### Aniceto Cabrera (1888, Apalit, Pampanga) — WikiTree Profile
+- WikiTree profile managed by **Mathew Ferguson**, last edited April 1, 2026
+- Born 1888 in **Apalit, Pampanga** — ~20 km south of Angeles City
+- Nearest documented Pampanga Cabrera genealogy profile found to date
+- No parents/descendants visible without WikiTree login
+- **Action: Adrian to search WikiTree for Aniceto Cabrera → check for Angeles City descendants**
+
+### NARA File 202 — 1st Mapandan Company (Independent)
+- Confirmed on NARA archives.gov guerrilla units list: **File 202 = "1st Mapandan Co. (Ind)"**
+- Mapandan's founding father was **Valeriano Tamondong** (1887) — Adrian's Tamondong ancestor
+- This specific file covers guerrilla activity in Mapandan municipality
+- **Raul should add File 202 to his SF-180 NARA request** alongside the Army of the Agno files
+
+### Updated NARA SF-180 Priority Files (Complete List)
+| Priority | File | Unit | Connection |
+|----------|------|------|------------|
+| 🔴 | 185-1 to 185-30 | Army of the Agno (all) | Pangasinan/San Carlos area |
+| 🔴 | 102-22 | LGAF-TMA | Gerona/Sta. Ignacia (Bienvenido's birthplace area) |
+| 🟡 | 308-23 | 1st Pangasinan Regt., PTMD, ECLGA | San Carlos (Ramsey's unit) |
+| 🟡 | **202** | **1st Mapandan Co. (Ind)** | **Tamondong family territory** |
+| 🟡 | 304 | AIB Tarlac West Sector | Intelligence files (Gerona area) |
+| 🟢 | 102-7 | 1st Regt., LGAF | Lapham's force (Tarlac) |
+
+---
+
+Last updated PRIOR: 2026-04-06 06:30 UTC (Iteration 114: NARA Army of the Agno file 185-1 confirmed on archives.gov; NEW: AIB Tarlac West Sector File 304 identified as possible Mariano Fernandez intelligence record; PCG Chicago contact located; research ceiling confirmed for 114th time)
 
 ## Iteration 114 — NARA Files + PCG Chicago Directory (2026-04-06)
 
