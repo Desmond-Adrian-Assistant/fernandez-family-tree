@@ -1,6 +1,43 @@
 # Consolidated Findings
 
-Last updated: 2026-04-06 10:30 UTC (Iteration 117: AFP NRD/OTAG confirmed as SEPARATE Philippine-side WWII records repository for Mariano Fernandez — distinct from NARA; PVAO officially recommends both AFP NRD/OTAG AND NARA NPRC; Camp Aguinaldo contact path documented)
+Last updated: 2026-04-06 12:30 UTC (Iteration 119: FamilySearch collection 5000330 — Philippines Ilocos Church Records 1718-2007, 1,007,926 records — NEW resource for Daquigan/Bacarro Ilocano origins; DAVID confirmed as top Angeles City surname; no new facts found)
+
+## Iteration 119 — FamilySearch New Ilocos Collection (2026-04-06)
+
+### 🔑 FamilySearch Collection 5000330 — Philippines Ilocos Church Records 1718-2007
+- **Size:** 1,007,926 records (released February 2026)
+- **Coverage:** All Ilocos Region parishes 1718-2007
+- **Relevance:** HIGHEST priority for Daquigan/Bacarro ancestral origins
+- Daquigan surname traces to **Tagudin, Ilocos Sur** (1795 christening confirmed Iteration 28)
+- Bacarro surname traces to **Bacarra, Ilocos Norte** (5x corroborated)
+- This collection almost certainly contains Daquigan parish records from Tagudin predating their Gerona migration
+- **How to access:** FamilySearch login (Adrian26448) → familysearch.org/search/collection/5000330 → search "Daquigan" + Tagudin; "Bacarro" + Bacarra
+- Could push the Daquigan line back from 1795 to 1750s-1770s with parents' names
+- Also check: Philippines Civil Registration (National) 1945-1996 (collection 1852584, 329,346 new records)
+
+---
+
+Last updated PRIOR: 2026-04-06 11:30 UTC (Iteration 118: St. Catherine of Alexandria Parish Facebook page confirmed active — facebook.com/SCAPGerona, 12,647 likes — direct contact path for Bienvenido's 1937 baptism record; NARA eVetRecs online portal confirmed for Mariano WWII request; PVAO Records hotline: 09192123074)
+
+## Iteration 118 — St. Catherine Parish Facebook + NARA eVetRecs + Research Ceiling (2026-04-06)
+
+### 🔑 St. Catherine of Alexandria Parish Facebook — Active Contact Path
+- **Facebook:** facebook.com/SCAPGerona (12,647 likes, active April 2026)
+- **Parish code:** F-1894 (founded 1894), Diocese of Tarlac
+- Bienvenido Fernandez (b. March 22, 1937) would have been baptized here
+- **Raul/Adrian should message this Facebook page directly** requesting Bienvenido's baptism record
+- This is faster than FamilySearch collection #2018411 for Tarlac 1937 records
+- Also relevant: Mariano Fernandez baptism, Mariano + Victoria Daquigan marriage record
+
+### NARA eVetRecs — Online Request Confirmed
+- eVetRecs online system (archives.gov/veterans) accepts requests for Philippine Army/guerrilla records
+- Faster than SF-180 paper form — Raul can submit online directly
+- PVAO Records hotline: **09192123074** (Philippine-based contact can call)
+- No new genealogical facts found; all remaining breakthroughs require human action
+
+---
+
+Last updated PRIOR: 2026-04-06 10:30 UTC (Iteration 117: AFP NRD/OTAG confirmed as SEPARATE Philippine-side WWII records repository for Mariano Fernandez — distinct from NARA; PVAO officially recommends both AFP NRD/OTAG AND NARA NPRC; Camp Aguinaldo contact path documented)
 
 ## Iteration 117 — AFP NRD/OTAG = Philippine Army WWII Records (2026-04-06)
 
