@@ -1,6 +1,32 @@
 # Consolidated Findings
 
-Last updated: 2026-04-06 18:45 UTC (Iteration 124: Cecilia J. Daquigan b.1919 Long Beach CA — HIGH probability undocumented daughter of Domingo Daquigan + Benita Bacarro; SS record #36942451 on Ancestry has parents' names; older Daquigans b.1895-1910 may push Domingo's birth earlier to ~1870-1875)
+Last updated: 2026-04-06 23:30 UTC (Iteration 125: live NARA Chicago page re-confirmed Northern District of Illinois naturalization indexes/declarations/petitions 1872-1991; FamilySearch ARK access still 403-blocked; no public search-engine spillover for Bienvenido SS or Pablo+Marta marriage)
+
+## Iteration 125 — Bienvenido U.S. Paper Trail Re-check + Live-Access Audit (2026-04-06)
+
+### 🔑 NARA Chicago Naturalization Path Re-Corroborated from Live Primary Source
+- Direct access to **archives.gov/chicago/finding-aids/naturalization-records.html** succeeded during this run
+- For **Illinois, Northern District, Chicago**, NARA still lists:
+  - **Petition indexes: 1872-1991**
+  - **Declarations of intention: 1872-1991**
+  - **Petitions: 1872-1991**
+- NARA also states **USCIS holds duplicate copies of post-1906 naturalization petitions** and that most **post-1991** inquiries should go to USCIS
+- This freshly corroborates that **Bienvenido Fernandez (arr. 1981, d. 1994)** remains squarely in the searchable NARA Chicago naturalization window
+
+### Search / Access Ceiling Confirmed Again
+- `web_search` and `web_fetch` both failed during this run (`fetch failed`)
+- Direct FamilySearch access to marriage record ARK **/ark:/61903/1:1:6B7K-YPD6** returned **HTTP 403 Forbidden** from this environment
+- DuckDuckGo HTML search returned **no public search-engine spillover** for:
+  - `"Bienvenido Daquigan Fernandez"`
+  - `"Bienvenido D Fernandez" Illinois Chicago`
+  - `"Pablo Fernandez" "Marta Villanueva" Philippines marriage`
+- Meaningful progress on the top priorities still requires **manual authenticated browser access** to Ancestry / FamilySearch or direct archive staff help
+
+### Weak New Surface Lead
+- DuckDuckGo did surface a public result for **"Tamondong Family Tree Website - MyHeritage"**
+- Not enough detail to identify Adrian's branch, but confirms at least one additional public-facing Tamondong tree exists outside Ancestry/Geni
+
+---
 
 ## Iteration 124 — Cecilia J. Daquigan — Probable Undocumented Daughter of Domingo (2026-04-06)
 
