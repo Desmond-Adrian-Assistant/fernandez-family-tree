@@ -1,6 +1,33 @@
 # Consolidated Findings
 
-Last updated: 2026-04-05 20:40 UTC (Iteration 56-siblings-search: Bienvenido's Confirmed Siblings + New UK Birth Records)
+Last updated: 2026-04-06 00:15 UTC (Iteration 108: Circulo Capampangan lead + Cervantes IL ceiling confirmed)
+
+## Iteration 108 — Circulo Capampangan + Cervantes Illinois Ceiling (2026-04-06)
+
+### 🔑 Circulo Capampangan Chicago — Key Cervantes Research Resource
+- **Founded 1970** by **Conrado "Jun" Manankil Jr.** (died Dec 2025, age 86) — an Angeles City immigrant who emigrated to Chicago in 1966
+- "A social organization dedicated to uniting sons and daughters of **Pampanga AND Tarlac** in the Midwest"
+- **Oldest Kapampangan organization in North America** — predates most other Chicago Filipino orgs
+- Hosted first national Kapampangan convention (Aug 2015, Chicago)
+- **If Diosdados Cervantes + Natividad Cabrera arrived in Chicago in 1970s-80s from Angeles City, they almost certainly were members**
+- Source: pinoynewsmagazine.com March 2026 obituaries (Jun Manankil Jr. obituary)
+- Note: "Tarlac" is also in their scope — the Circulo may have connections to the Fernandez/Gerona family too
+- **Action: Contact Circulo Capampangan** via Facebook or through Pinoy News Magazine — they may know the Cervantes/Cabrera family
+
+### Reynaldo Cervantes Sr. / "Late Natividad Cervantes" (Round Lake Beach) — Still Unconfirmed Philippine Origin
+- Cannot confirm Philippines/Angeles City origin for this Illinois Cervantes family from online sources
+- No obituary for "the late Natividad Cervantes" found online
+- Best hypothesis: Reynaldo Cervantes Sr. is a **brother of Diosdados Cervantes** — both from the same Angeles City family
+- **Requires Adrian to ask Janice directly** — this is the only path forward
+
+### Research Ceiling: 108 Iterations — Cervantes Side Exhausted Online
+- Zero Cervantes/Cabrera obituaries from Chicago Filipino community found in any online archive
+- Circulo Capampangan has no public membership list
+- Only path forward: Janice herself, or Circulo Capampangan contact
+
+---
+
+## Iteration 107: Eduardo Cervantes Round Lake Beach RULED OUT — confirmed Mexican, not Filipino) Eduardo Cervantes Round Lake Beach RULED OUT — confirmed Mexican, not Filipino)
 
 ## Iteration 56 (Siblings Search) — Bienvenido's Confirmed Siblings + UK Birth Index Hits (2026-04-05)
 
@@ -55,12 +82,11 @@ Last updated: 2026-04-05 20:40 UTC (Iteration 56-siblings-search: Bienvenido's C
 - **Upgraded assessment:** Reynaldo Cervantes Sr. could be Diosdados Cervantes's **brother** (both from Angeles City Cervantes family)
 - **ACTION FOR ADRIAN: Ask Janice if her father Diosdados had a brother named Reynaldo Cervantes, or if family has relatives in Round Lake Beach / Des Plaines / Arlington Heights area**
 
-### Eduardo Cervantes (b.~1970, d. May 25, 2022) — Round Lake Beach, IL — NEW LEAD
-- Died age 52, Round Lake Beach, Lake County, IL
-- Funeral: Justen's Round Lake Funeral Home → St. Joseph Catholic Church, Round Lake, IL
-- Same Lake County Cervantes cluster as Reynaldo Sr.+Natividad
-- If born ~1970 in Philippines, could be a **sibling of Janice Cervantes** (right generation for Diosdados's child)
-- **ACTION FOR ADRIAN: Ask Janice if she had a sibling/cousin named Eduardo Cervantes who died in May 2022 in Illinois**
+### Eduardo Cervantes (b. May 20, 1970, d. May 25, 2022) — Round Lake Beach, IL — ❌ RULED OUT
+- **CONFIRMED MEXICAN** (born in Jalisco, Mexico, to Arnulfo Cervantes + Ma. Asuncion Gomez)
+- Source: illinois.funeral.com obituary + echovita.com
+- Has ZERO connection to Janice Cervantes's Filipino family
+- This was a false lead — Cervantes is common in both Filipino and Latino communities in Illinois
 
 ### Natividad Cabrera MD (Fort Collins CO, b.1930) — RULED OUT
 - Parents: Pacifico and Gertrudes Visarra Ruiz — completely different family
