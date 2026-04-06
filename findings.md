@@ -1,6 +1,72 @@
 # Consolidated Findings
 
-Last updated: 2026-04-06 13:30 UTC (Iteration 120: Bacarra municipal history confirmed — founded 1778 by Manuel Paras; 43 barangays include Sta. Filomena I & II (same name as ancestor Filomena Rosario); Geni project 4496411 confirmed for Bacarra families; NARA guerrilla file numbers re-verified; FamilySearch collection 5000330 confirmed as definitive path for Bacarro/Daquigan pre-migration Ilocos records)
+Last updated: 2026-04-06 15:40 UTC (Iteration 122: NARA Chicago naturalization records confirmed with indexes 1872-1991 — Bienvenido's petition searchable by phone (773) 948-9000; Geni Cabrera project #4492200 = Manila elite dynasties, definitively ruled out for Angeles City Cabrera; Todd Cabrera Lucero = Visayan line, no Philippines genealogy blog covers Angeles City Cabrera)
+
+## Iteration 122 — NARA Chicago Naturalization + Cabrera Dead Ends Confirmed (2026-04-06)
+
+### 🔑 NARA Chicago — Bienvenido Naturalization Record Searchable by Phone
+- **NARA Chicago Regional Archives** holds Northern District of Illinois naturalization records **1872-1991 WITH INDEXES**
+- **Petitions:** 1872-1991 | **Declarations of Intent:** 1872-1991 | **Indexes:** 1872-1991
+- Bienvenido arrived 1981, died 1994 → if naturalized, his petition IS in this archive
+- **Call:** (773) 948-9000 — ask for index search on "Bienvenido Fernandez" or "Bienvenido D. Fernandez"
+- Record would contain: exact birth date/place, immigration date/port, family composition (Aurea + Raul + children), occupation, witnesses
+- ALSO: USCIS (800-375-5283) holds DUPLICATE copies of all post-1906 naturalization petitions — FOIA request possible
+- **Source:** archives.gov/chicago/finding-aids/naturalization-records.html
+
+### Geni Cabrera Project #4492200 — RULED OUT for Natividad Cabrera
+- Families in project: Bengzon, Vitug, Yulo, Lauchengco, Griño-Aquino — all Manila elite dynasties
+- Definitively NOT the working/middle-class Cabrera of Angeles City, Pampanga
+- No further time needed on Geni project #4492200
+
+### Todd Cabrera Lucero / Filipino Genealogy Project — Gap Confirmed
+- Lucero's Cabrera line = Visayan (Cebu/Argao, early 1800s)
+- Filipino Genealogy Project does NOT cover Angeles City Cabrera families
+- No Philippines genealogy blog found covering Angeles City Cabrera genealogy
+
+### Pampanga Surname Ranking — Confirmed Again
+- Angeles City most common surname: DAVID
+- Neither Cervantes nor Cabrera in Pampanga top 10 or Angeles City top surnames
+- Consistent with middle-class/professional origin for Cervantes/Cabrera families there
+
+---
+
+Last updated PRIOR: 2026-04-06 14:30 UTC (Iteration 121: Hendrickson guerrilla HQ definitively near Gerona confirmed via independent WWII source; comprehensive Ancestry + FamilySearch action plan compiled; research ceiling — all online sources exhausted after 121 iterations)
+
+## Iteration 121 — Final Research Ceiling + Comprehensive Action Plan (2026-04-06)
+
+### 🔑 Hendrickson TMA Guerrilla HQ = Near Gerona — INDEPENDENTLY CORROBORATED
+- **Source:** Warfare History Network, article on Navy Ace Alex Vraciu (2022)
+- Shot-down Navy pilot was brought **through Gerona to reach Hendrickson's headquarters** (TMA, LGAF)
+- This is the same Capt. Albert Hendrickson (Flying Squadrons 401+402) covering Gerona/Sta. Ignacia
+- Mariano Fernandez (b. ~1905, Danzo/Gerona) was in the guerrilla commander's direct operational zone
+- NARA file 102-22 is the primary record for this unit
+
+### FINAL RESEARCH CEILING — 121 Iterations, All Online Sources Exhausted
+
+All breakthroughs now require Adrian's personal action:
+
+**ANCESTRY WORLD EXPLORER (Log in NOW):**
+| Priority | Record | What You'll Get |
+|----------|--------|----------------|
+| 🔴 #1 | #48547169 (coll. 60901) — Bienvenido SS App | Birth date, death date, father's name, mother's maiden name, SSN, last IL address |
+| 🔴 #2 | #4029022 (coll. 60130) — Pablo+Marta marriage | Pablo's parents' names (one generation further back) |
+| 🔴 #3 | #2494854, 2494041, 3291703, 3316288, 978317, 725078 | Aurea's 6+ siblings (Cosme, Maria, Feliciana, Francisco, Dominador, Marina Abalos) |
+| 🔴 #4 | #1085806 (Catalina Fernandez), #1165555 (Aniceto Fernandez) | Mariano's unknown siblings |
+| 🟡 #5 | Tree #68186126 — second Bienvenido family tree | Cross-check + possible new relatives |
+| 🟡 #6 | #362831 (Marta death 1955), #1575015 (Pablo death 1955) | Confirm great-great-grandparents' deaths |
+
+**FAMILYSEARCH (Adrian26448 — Log in and browse):**
+| Priority | Action | What You'll Get |
+|----------|--------|----------------|
+| 🔴 #1 | Collection #2018411 → Tarlac → Gerona → births 1937 → Fernandez | Bienvenido's BIRTH CERTIFICATE with parents and possibly grandparents |
+| 🔴 #2 | Person GY2Z-3K9 → check Kristine8553 updates | New sources/relatives added since 3/24/2026 |
+| 🔴 #3 | Collection #5000330 → search Daquigan+Tagudin / Bacarro+Bacarra | Pre-1800 Daquigan and Bacarro ancestors from Ilocos |
+| 🟡 #4 | Collection #1646454 → San Carlos → marriages → Tamondong+Paglingayen | Juan+Juana marriage record, Jose Abalos+Carlina Tamondong |
+| 🟡 #5 | Collection #1463134 → Cook County Deaths → Bienvenido Fernandez 1994 | Death record, burial info, informant |
+
+---
+
+Last updated PRIOR: 2026-04-06 13:30 UTC (Iteration 120: Bacarra municipal history confirmed — founded 1778 by Manuel Paras; 43 barangays include Sta. Filomena I & II (same name as ancestor Filomena Rosario); Geni project 4496411 confirmed for Bacarra families; NARA guerrilla file numbers re-verified; FamilySearch collection 5000330 confirmed as definitive path for Bacarro/Daquigan pre-migration Ilocos records)
 
 ## Iteration 120 — Bacarra Municipal History + Geni Bacarra Project (2026-04-06)
 
