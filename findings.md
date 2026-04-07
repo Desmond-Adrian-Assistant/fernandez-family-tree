@@ -1,5 +1,37 @@
 # Consolidated Findings
 
+Last updated: 2026-04-07 13:10 UTC (Iteration 138: Continued tool failure state — all web research tools non-functional, project remains at hard ceiling)
+
+---
+
+## Iteration 138 — Tool Failure Confirmation (2026-04-07)
+
+### Automated Research Status: STILL FULLY BLOCKED
+**ALL web research tools verified non-functional** for 6th consecutive iteration:
+- `web_search` = `fetch failed`
+- `web_fetch` = `fetch failed`
+- Ancestry = security/deny redirects
+- FamilySearch = HTTP 403 Forbidden
+- MyHeritage = Incapsula anti-bot
+
+### No New Facts Discovered
+This iteration attempted searches for:
+- Bienvenido SS record #48547169 (Ancestry)
+- Pablo+Marta marriage #4029022 (Ancestry)
+- Tamondong family trees (MyHeritage)
+- Chicago 1981 immigration records
+- Mariano WWII guerrilla files
+
+**Result: Zero new genealogical identities, dates, or relationships unlocked.**
+
+### Manual Action Priorities (Unchanged)
+1. **Ancestry #48547169** — Bienvenido SS application
+2. **Ancestry #4029022** — Pablo+Marta marriage
+3. **FamilySearch Adrian26448** — Collection #2018411 (Gerona births 1937)
+4. **NARA Chicago** — (773) 948-9000 naturalization index
+
+---
+
 Last updated: 2026-04-07 11:07 UTC (Iteration 137: Confirmed research ceiling — all tools non-functional, no new facts discoverable via automated means)
 
 ---
