@@ -33,7 +33,7 @@ Each iteration should: read previous findings → identify the highest-value une
 ### Track 3: Ancestry/Geni/MyHeritage Trees
 - [x] Search Geni.com for Fernandez-Abalos-Tamondong profiles — **No profiles found for any direct ancestors**
 - [x] Search MyHeritage for family matches — **No matches found**
-- [ ] Deep search Ancestry public trees for Tamondong connections
+- [ ] Deep search Ancestry public trees for Tamondong connections *(Iteration 126: first post-resource targeted search attempt failed at tool level; still needs manual authenticated browser access)*
 - [ ] Investigate "Juan Tamondong Casupang" on Jendro/Kastlunger tree
 - [ ] Search for Pedro Caguioa Tamondong connections
 - [ ] **Register FamilySearch account** — unlocks 3 critical collections (Dagupan parish, Cook County deaths, Pangasinan civil reg)
@@ -52,7 +52,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Ancestry Chicago Tribune Obituary Index, 1988-1997 — **REQUIRES SUBSCRIPTION**
 - [ ] Ancestry Chicago Sun-Times Obituary Index, 1988-1995 — **REQUIRES SUBSCRIPTION**
 - [ ] FamilySearch Archdiocese of Chicago Cemetery Records, 1864-1989
-- [ ] Search for Fernandez family immigration records (likely post-1965) *(Iteration 125: live NARA Chicago page re-confirmed Northern District of Illinois naturalization indexes / declarations / petitions for Chicago 1872-1991; still best archive path outside Ancestry)*
+- [ ] Search for Fernandez family immigration records (likely post-1965) *(Iteration 125: live NARA Chicago page re-confirmed Northern District of Illinois naturalization indexes / declarations / petitions for Chicago 1872-1991; still best archive path outside Ancestry. Iteration 126: targeted web_search for Chicago 1981 immigration / naturalization failed at tool level with `fetch failed`.)*
 - [ ] Check US naturalization records for Raul Fernandez
 - [ ] Search US census records for Aurea/Raul Fernandez
 - [x] Ask Adrian: Did Bienvenido die in Philippines or US? → **CHICAGO, IL**
@@ -69,6 +69,8 @@ Each iteration should: read previous findings → identify the highest-value une
 - [x] Research Pangasinan genealogy Facebook groups and communities — **Identified filipinogenealogy.com, genealogy.ph, FamilySearch wiki as resources**
 - [ ] Check if any Filipino genealogy societies have Fernandez records
 - [ ] Search for more Tamondong gobernadorcillos/captains in San Carlos historical records
+- [ ] Manual Ancestry unlock: open **#48547169 (collection 60901)** for Bienvenido Daquigan Fernandez SS application — current highest-value single record
+- [ ] Manual Ancestry unlock: open **#4029022 (collection 60130)** for Pablo Fernandez + Marta Villanueva marriage — best path to extend Fernandez line one generation further
 - [ ] Research Barangay Ano (Francisco Tamondong connection) and other San Carlos barangays
 - [x] Search San Carlos City barangay officials for family surnames — **Eduardo C. Tamondong = Captain of Sapinit; 3 Rosario captains; Macalanda captain of Tandoc**
 - [x] Research Eduardo C. Tamondong (Sapinit barangay captain) — **Full name: Eduardo CORPUZ Tamondong. "C." = Corpuz (mother's maiden name). Contact: 09994219969. Possible living relative.**
@@ -331,3 +333,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 62 | 2026-04-03 15:05 | NARA NUMIDENT search + Ancestry blockers assessment | **Discovered NARA NUMIDENT database (aad.archives.gov) — FREE alternative to Ancestry SS records (24 searchable files, 1936-2007).** Searched Death Files AND Application Files for "BIENVENIDO FERNANDEZ" — **0 results** in both. Bienvenido either not in NARA's subset (arrived US 1981, short residency) or listed under variant spelling. Attempted Catholic Cemeteries Chicago locator — **Cloudflare blocked**. Attempted Geni.com Juan Tamondong profile — **Incapsula blocked**. Attempted FamilySearch tree — **requires login**. All web searches for ancestors returned 0 results. **PROJECT AT CEILING: 20+ critical records behind Ancestry paywall. No new ground possible without Adrian logging into Ancestry World Explorer trial.** Steve Morse SSDI tool (stevemorse.org) identified but requires JavaScript. NARA AAD URL documented for future searches of other family members. |
 | 65 | 2026-04-03 18:21 | Ancestry access assessment + research ceiling | **All free online avenues exhausted.** Ancestry SS record #48547169 confirmed as first result but still behind paywall. Catholic Cemeteries Chicago = Cloudflare blocked. PVAO = still down. NARA AAD = JS-rendered. Geni = bot check. FamilySearch = requires login. Steve Morse SSDI = JS. 1912 PH Civil Service Roster on Archive.org potentially has Pangasinan section (pg 87) + Tarlac (pg 89) — but UMich library Cloudflare-blocked. "Families of Old Pangasinan" blog found (comments reference Perez-de Venecia, Maramba-Villanueva intermarriage). **963 Abalos profiles exist on Geni.** No new findings possible without Adrian's direct action on Ancestry/FamilySearch/Catholic Cemeteries. Research formally at hard ceiling — automated iterations cannot break through login/paywall barriers. |
 | 125 | 2026-04-06 23:30 | Bienvenido U.S. paper trail re-check + live-access audit | **Live NARA Chicago page directly re-confirmed Chicago/N.D. Illinois naturalization indexes, declarations, and petitions all run 1872-1991.** FamilySearch ARK access still returns HTTP 403 in this environment. DuckDuckGo public search returned no spillover for Bienvenido SS or Pablo+Marta marriage. Weak new surface lead: public MyHeritage Tamondong family tree result exists. |
+| 126 | 2026-04-07 00:27 | New-resources pass: Ancestry / Tamondong / Chicago priority check | **All four targeted OpenClaw web_search calls failed with `fetch failed`.** No new genealogical facts unlocked. This confirms the project is now resource-constrained rather than lead-constrained; top manual unlocks remain Ancestry **#48547169** (Bienvenido SS app) and **#4029022** (Pablo+Marta marriage). |

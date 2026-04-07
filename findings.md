@@ -1,6 +1,34 @@
 # Consolidated Findings
 
-Last updated: 2026-04-06 23:30 UTC (Iteration 125: live NARA Chicago page re-confirmed Northern District of Illinois naturalization indexes/declarations/petitions 1872-1991; FamilySearch ARK access still 403-blocked; no public search-engine spillover for Bienvenido SS or Pablo+Marta marriage)
+Last updated: 2026-04-07 00:27 UTC (Iteration 126: new-resources pass attempted; OpenClaw web_search failed repeatedly with `fetch failed`; no new genealogical facts unlocked; Ancestry #48547169 and #4029022 remain the top manual unlocks)
+
+## Iteration 126 — New-Resources Pass: Ancestry / Tamondong / Chicago Priority Check (2026-04-07)
+
+### Tool-Level Retrieval Failure Confirmed
+- Targeted `web_search` attempts for the newly prioritized leads all failed with **`fetch failed`** during this run:
+  - Bienvenido Daquigan Fernandez / Ancestry #48547169 / collection 60901
+  - Tamondong family tree / MyHeritage / Pangasinan
+  - Pablo Fernandez + Marta Villanueva marriage
+  - Bienvenido Fernandez Chicago 1981 immigration / Illinois naturalization
+- Result: this automated environment still could not exploit the newly announced Ancestry / FamilySearch resources directly
+
+### No New Genealogical Facts Added
+- No SS-application details for Bienvenido were unlocked
+- No new Tamondong lineage facts were unlocked
+- No new Pablo + Marta marriage facts were unlocked
+- No new Chicago immigration/naturalization facts were unlocked in this run
+
+### Bottleneck Narrowed Further
+- The project is now **resource-constrained, not lead-constrained**
+- Highest-value next manual actions remain:
+  1. **Ancestry record #48547169 (collection 60901)** — Bienvenido SS application
+  2. **Ancestry record #4029022 (collection 60130)** — Pablo Fernandez + Marta Villanueva marriage
+  3. **FamilySearch browser login (Adrian26448)** for browse-only image collections
+  4. **NARA Chicago** as the best non-paywall U.S. fallback for naturalization research
+
+---
+
+Last updated PRIOR: 2026-04-06 23:30 UTC (Iteration 125: live NARA Chicago page re-confirmed Northern District of Illinois naturalization indexes/declarations/petitions 1872-1991; FamilySearch ARK access still 403-blocked; no public search-engine spillover for Bienvenido SS or Pablo+Marta marriage)
 
 ## Iteration 125 — Bienvenido U.S. Paper Trail Re-check + Live-Access Audit (2026-04-06)
 
