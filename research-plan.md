@@ -4,6 +4,7 @@
 Each iteration should: read previous findings → identify the highest-value unexplored lead → research it → document results → update findings.md
 
 ## Iteration Log
+- **Iteration 129 (2026-04-07 02:16 UTC)** — Live NARA pages directly re-confirmed Chicago naturalization coverage (petition indexes / declarations / petitions all 1872-1991) and officially corroborated Mariano-relevant guerrilla file references **102-22**, **304**, **202**, and **185-series**. No new genealogical identities unlocked.
 - **Iteration 128 (2026-04-07 01:22 UTC)** — Direct Ancestry probes for record #48547169 and #4029022 both hit `security/deny.aspx` redirects; blocked response bodies exposed no metadata; DuckDuckGo HTML fallback now returns anomaly challenge / HTTP 202; NARA Chicago remained reachable; no new genealogical facts.
 
 ## Research Tracks (prioritized)
@@ -95,6 +96,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [x] Search for Deborah Lynn Tamondong (Texas, 1966-2008) — **No obituary or records found**
 - [x] Research Benitez-Tamondong connection in San Carlos — **Geni Benítez Family project includes Soriano. Jack Soriano's full name = Jack Laureano B. Soriano (B = Benitez). Juan Benitez = guerrilla judge who hid Ramsey. Soriano married Herminia Vitug Dabu from Pampanga. Jose F. Fernandez served on Soriano's city council (1976-79).**
 - [ ] Search NARA PTMD/ECLGA records (file 308-23) for Mariano Fernandez or Tamondong names
+- [x] Re-corrobate live NARA guerrilla file references for Mariano's geography — **Iteration 129 directly re-confirmed 102-22 (HQ Tarlac Military Area, LGAF), 304 (AIB, Tarlac West Sector), 202 (1st Mapandan Co. (Ind)), and 185-series (Army of the Agno)**
 - [ ] Connect Aniceto Tamondong (Ancestry) to Simon/Juan Tamondong line
 - [ ] Research "Joseph Tamondong" = "Jose Tamondong" (Brgy Ano) → possible uncle/cousin of Bienvenido
 - [ ] Search for the Sandie Gillis family (San Carlos, wrote Ramsey article) — possible living connection
@@ -338,3 +340,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 125 | 2026-04-06 23:30 | Bienvenido U.S. paper trail re-check + live-access audit | **Live NARA Chicago page directly re-confirmed Chicago/N.D. Illinois naturalization indexes, declarations, and petitions all run 1872-1991.** FamilySearch ARK access still returns HTTP 403 in this environment. DuckDuckGo public search returned no spillover for Bienvenido SS or Pablo+Marta marriage. Weak new surface lead: public MyHeritage Tamondong family tree result exists. |
 | 126 | 2026-04-07 00:27 | New-resources pass: Ancestry / Tamondong / Chicago priority check | **All four targeted OpenClaw web_search calls failed with `fetch failed`.** No new genealogical facts unlocked. This confirms the project is now resource-constrained rather than lead-constrained; top manual unlocks remain Ancestry **#48547169** (Bienvenido SS app) and **#4029022** (Pablo+Marta marriage). |
 | 127 | 2026-04-07 00:55 | Tamondong public-tree surface + access-state recheck | **NARA Chicago naturalization page still directly reachable (HTTP 200). FamilySearch ARK remains HTTP 403-blocked. MyHeritage Tamondong family-tree search resolves only to an Incapsula anti-bot page. No new genealogical facts unlocked, but the environment access map is now cleaner.** |
+| 129 | 2026-04-07 02:16 | Live NARA corroboration pass | **Direct NARA fetches re-confirmed Chicago naturalization coverage 1872-1991 and officially corroborated Mariano-relevant file references 102-22, 304, 202, and 185-series. No new ancestor identity/date unlocked, but the Mariano request packet is now cleaner.** |

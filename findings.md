@@ -1,6 +1,39 @@
 # Consolidated Findings
 
-Last updated: 2026-04-07 01:22 UTC (Iteration 128: direct Ancestry record URLs for Bienvenido SS #48547169 and Pablo+Marta marriage #4029022 now confirmed to hit Ancestry security/deny redirects from this environment; DuckDuckGo HTML fallback now serves anomaly challenge / HTTP 202; NARA Chicago remains directly reachable; no new genealogical facts unlocked)
+Last updated: 2026-04-07 02:16 UTC (Iteration 129: live NARA pages re-confirmed Chicago naturalization coverage 1872-1991 and directly corroborated Mariano-relevant guerrilla file references 102-22, 304, 202, and 185-series; no new genealogical identities unlocked)
+
+## Iteration 129 — Live NARA Corroboration Pass: Mariano WWII + Chicago Naturalization (2026-04-07)
+
+### Live Primary-Source Corroboration Locked In
+Direct fetches to live NARA pages succeeded again and tightened the highest-value public leads still available from this environment.
+
+### Bienvenido Chicago Naturalization Path Re-Confirmed
+- NARA Chicago still explicitly lists for **Illinois, Northern District, Chicago**:
+  - **Petition indexes: 1872-1991**
+  - **Declarations of intention: 1872-1991**
+  - **Petitions: 1872-1991**
+- The same live page again states that **USCIS holds duplicate copies of post-1906 naturalization petitions**
+- This keeps Bienvenido Fernandez's reported **1981 Chicago arrival** squarely inside a documented searchable archive window
+
+### Mariano WWII File Bundle Corroborated Again from Official NARA Guerrilla Lists
+The live NARA guerrilla-unit pages directly showed the key unit/file references already suspected for Mariano's wartime geography:
+- **HQ Tarlac Military Area, LGAF — file 102-22**
+- **AIB, Tarlac West Sector — file 304**
+- **1st Mapandan Co. (Ind) — file 202**
+- **Army of the Agno, 1st Organized Pangasinan Corps — file 185-1** (with additional 185-series sub-files also present)
+
+### Operational Conclusion
+- **No new genealogical identities or dates** were unlocked this iteration
+- But the recommended Mariano request packet is now even cleaner and more defensible:
+  - **102-22**
+  - **304**
+  - **202**
+  - **185-series**
+- Highest-value next actions remain:
+  1. **Manual Ancestry #48547169**
+  2. **Manual Ancestry #4029022**
+  3. **NARA Chicago naturalization index lookup**
+  4. **Mariano WWII archive/SF-180 request citing the file bundle above**
 
 ## Iteration 128 — Ancestry Direct-Record Access Probe + Search-Engine Challenge Check (2026-04-07)
 
