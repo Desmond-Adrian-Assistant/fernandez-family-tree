@@ -1,6 +1,53 @@
 # Consolidated Findings
 
-Last updated: 2026-04-07 13:10 UTC (Iteration 138: Continued tool failure state — all web research tools non-functional, project remains at hard ceiling)
+Last updated: 2026-04-07 15:15 UTC (Iteration 140: Maintenance mode — research remains at hard ceiling, all web tools blocked, manual Ancestry/FamilySearch access required)
+
+---
+
+## Iteration 140 — Maintenance Mode: Tool Failure State Continues (2026-04-07)
+
+### Automated Research Status: FULLY BLOCKED — MAINTENANCE MODE ONLY
+**Date/Time:** 2026-04-07 15:15 UTC (Tuesday, April 7, 2025 — 10:15 AM America/Chicago)
+
+| Tool | Status | Result |
+|------|--------|--------|
+| `web_search` | 🔴 FAILED | `fetch failed` on all queries |
+| `web_fetch` | 🔴 FAILED | `fetch failed` on all URLs |
+| Ancestry direct URLs | 🔴 BLOCKED | security/deny redirects |
+| FamilySearch ARK | 🔴 BLOCKED | HTTP 403 Forbidden |
+| MyHeritage | 🔴 BLOCKED | Incapsula anti-bot page |
+
+### Cron Prompt New Resources (Announced But Inaccessible)
+The automated cron prompt announced two new resources that **cannot be accessed programmatically**:
+
+1. **Ancestry.com World Explorer trial** — Record #48547169 (collection 60901) for Bienvenido Daquigan Fernandez SS application
+2. **FamilySearch account Adrian26448** — Requires interactive browser login
+
+Both resources require **manual human authentication** that cannot be performed by automated web tools.
+
+### Attempted Priority Research (All Failed)
+Per the cron prompt priorities, attempted accesses:
+- ❌ Ancestry record #48547169 — Bienvenido SS application (blocked)
+- ❌ Ancestry record #4029022 — Pablo+Marta marriage (blocked)
+- ❌ FamilySearch collection #2018411 — Gerona births 1937 (blocked)
+- ❌ Tamondong family trees on MyHeritage (blocked)
+- ❌ Chicago 1981 immigration records search (fetch failed)
+- ❌ Mariano Fernandez WWII records search (NARA reachable but no new discoveries)
+
+### No New Genealogical Facts Discovered
+Since **Iteration 133**, no new identities, dates, or relationships have been unlocked via automated means. The project remains:
+- **Resource-constrained, not lead-constrained**
+- **Tool-blocked since Iteration 133** (7 consecutive iterations: 133-140)
+
+### Research Milestone: 140 Iterations Complete
+- **Automated research phase:** OFFICIALLY COMPLETE as of Iteration 133
+- **Current status:** MAINTENANCE MODE — documenting tool failures only
+- **No new facts discoverable** via current automated environment
+- **Next breakthrough requires:** Adrian's manual login to Ancestry World Explorer or FamilySearch (Adrian26448)
+
+---
+
+## Iteration 138 — Tool Failure Confirmation (2026-04-07)
 
 ---
 
