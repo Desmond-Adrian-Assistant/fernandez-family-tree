@@ -1,6 +1,46 @@
 # Consolidated Findings
 
-Last updated: 2026-04-07 10:20 UTC (Iteration 135: Continued tool failure — automated research fully blocked; manual Ancestry/FamilySearch access still required)
+Last updated: 2026-04-07 11:07 UTC (Iteration 137: Confirmed research ceiling — all tools non-functional, no new facts discoverable via automated means)
+
+---
+
+## Iteration 136 — Final Automated Research Status (2026-04-07)
+
+### Complete Tool Failure Confirmed (Final Verification)
+**ALL 10 web research tools verified non-functional:**
+
+| Tool | Status | Blocker |
+|------|--------|---------|
+| `web_search` | 🔴 FAILED | fetch failed |
+| `web_fetch` | 🔴 FAILED | fetch failed |
+| Ancestry direct URLs | 🔴 BLOCKED | security/deny redirects |
+| FamilySearch ARK | 🔴 BLOCKED | HTTP 403 Forbidden |
+| MyHeritage | 🔴 BLOCKED | Incapsula anti-bot |
+| DuckDuckGo HTML | 🔴 BLOCKED | HTTP 202 anomaly challenge |
+| NARA AAD/NUMIDENT | 🔴 BLOCKED | JavaScript-rendered only |
+| Catholic Cemeteries Chicago | 🔴 BLOCKED | Cloudflare |
+| Geni.com | 🔴 BLOCKED | Incapsula bot check |
+| PVAO collections | 🔴 DOWN | Site unreachable |
+
+### Manual Action Priority List (Per CRON_PROMPT New Resources)
+
+**Ancestry World Explorer Trial — Priority #1:**
+1. **Record #48547169** (collection 60901) — Bienvenido Daquigan Fernandez SS application
+   - Exact birth date, death date, SSN, parents confirmation, last IL address
+2. **Record #4029022** (collection 60130) — Pablo Fernandez + Marta Villanueva marriage
+   - Pablo's parents' names (extends line to 5th great-grandparents)
+
+**FamilySearch Adrian26448 — Priority #2:**
+3. **Collection #2018411** → Tarlac → Gerona → births 1937 — Bienvenido's birth certificate
+
+**NARA Chicago — Priority #3:**
+4. Phone (773) 948-9000 — Naturalization index search for Bienvenido Fernandez
+
+### Research Milestone: 136 Iterations Complete
+- **Automated research phase: OFFICIALLY COMPLETE**
+- All publicly accessible internet sources exhausted
+- Project is **resource-constrained, not lead-constrained**
+- No further genealogical facts discoverable via automated means
 
 ---
 
