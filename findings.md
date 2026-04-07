@@ -1,6 +1,43 @@
 # Consolidated Findings
 
-Last updated: 2026-04-07 02:29 UTC (Iteration 130: official USCIS + NARA pages clarified that Bienvenido's A-file is not yet transferable to NARA because A-files move 100 years after birth year; for a 1937 birth, NARA eligibility is 2037; current federal path is USCIS Genealogy + NARA Chicago naturalization)
+Last updated: 2026-04-07 02:31 UTC (Iteration 131: live USCIS Genealogy request page clarified that record/file requests require a file number; for Bienvenido's 1981 path, USCIS remains the official A-file custodian route, but NARA Chicago naturalization indexes remain the better currently documented name-based archive entry point)
+
+## Iteration 131 — USCIS Genealogy Request Mechanics Clarified (2026-04-07)
+
+### Live USCIS Request-Page Constraint Locked In
+Direct official-source fetches added one important practical limitation to the Bienvenido Chicago-paper-trail strategy.
+
+### USCIS Genealogy Requests Require a File Number
+- The live **USCIS Requesting Records** page states that requests are accepted **online or by mail**
+- It also explicitly says: **"To request a record or file you MUST provide a file number."**
+- That means USCIS Genealogy is an official retrieval path, but **not a fully self-contained name-only discovery path** from this environment
+
+### The Five USCIS Historical Record Series Are Now Explicitly Confirmed
+The same live USCIS pages identify these record groups:
+- **C-Files**
+- **AR-2s**
+- **Visa Files**
+- **Registry Files**
+- **A-Files**
+
+For Bienvenido's reported **1981 Chicago immigration**, the relevant USCIS bucket would be an **A-file** (not visa / registry / AR-2).
+
+### Operational Consequence for Bienvenido
+Combining Iterations **130 + 131**:
+- Bienvenido's likely federal immigrant file type is **A-file**
+- But the A-file is **not yet at NARA** because of the **100-years-after-birth-year** transfer rule (**2037** for a **1937** birth)
+- USCIS Genealogy remains the official custodian path, **but it works best once a usable number is known**
+- Therefore the strongest currently documented name-driven archive route is still **NARA Chicago naturalization index lookup**
+
+### Updated Best Sequence
+1. **NARA Chicago naturalization index lookup**
+2. Use any surfaced certificate / case / naturalization number to support **USCIS Genealogy** follow-through
+3. Keep **Ancestry #48547169** and **Ancestry #4029022** as the highest-value manual unlocks
+
+### Operational Conclusion
+- **USCIS Genealogy = official retrieval path**
+- **NARA Chicago = better current name-based search entry point**
+- **No new genealogical identities or dates** were unlocked this iteration
 
 ## Iteration 130 — Official USCIS / NARA Immigration-Path Clarification (2026-04-07)
 
