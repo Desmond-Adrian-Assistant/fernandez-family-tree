@@ -1,6 +1,31 @@
 # Consolidated Findings
 
-Last updated: 2026-04-07 06:24 UTC (Iteration 132: Ancestry World Explorer trial announced as new resource, but ALL web tools failing — manual login now the only path to records #48547169 and #4029022)
+Last updated: 2026-04-07 07:24 UTC (Iteration 133: Complete tool failure confirmed — web_search/web_fetch non-functional; Ancestry #48547169 and #4029022 remain highest-value unlocks requiring manual login)
+
+---
+
+## Iteration 133 — Hard Ceiling: All Automated Tools Non-Functional (2026-04-07)
+
+### Complete Tool Failure Confirmed
+All automated web access tools have ceased functioning:
+- `web_search` = `fetch failed` on all queries
+- `web_fetch` = `fetch failed` on all URLs
+- Ancestry = security/deny redirects
+- FamilySearch = 403 Forbidden
+- MyHeritage = Incapsula anti-bot
+- DuckDuckGo = HTTP 202 anomaly challenge
+
+### Remaining Viable Paths (Manual Action Required)
+1. **Ancestry World Explorer login** → Records #48547169 (Bienvenido SS) and #4029022 (Pablo+Marta marriage)
+2. **FamilySearch Adrian26448 login** → Collection #2018411 (Gerona births 1937)
+3. **NARA Chicago phone** → (773) 948-9000 for naturalization index search
+4. **Bona Rae Villarta contact** → bonarae@gmail.com for Gerona parish records
+5. **SF-180 submission** → Raul requests Mariano WWII guerrilla files
+
+### Research Status: 133 Iterations
+All publicly accessible internet sources have been exhausted. The project is now **resource-constrained, not lead-constrained**.
+
+---
 
 ## Iteration 132 — Ancestry World Explorer Priority: Tool Failures Block Automated Access (2026-04-07)
 
