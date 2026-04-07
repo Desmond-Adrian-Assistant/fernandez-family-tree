@@ -3,6 +3,9 @@
 ## Iteration Strategy
 Each iteration should: read previous findings → identify the highest-value unexplored lead → research it → document results → update findings.md
 
+## Iteration Log
+- **Iteration 128 (2026-04-07 01:22 UTC)** — Direct Ancestry probes for record #48547169 and #4029022 both hit `security/deny.aspx` redirects; blocked response bodies exposed no metadata; DuckDuckGo HTML fallback now returns anomaly challenge / HTTP 202; NARA Chicago remained reachable; no new genealogical facts.
+
 ## Research Tracks (prioritized)
 
 ### Track 1: FamilySearch Historical Records
@@ -33,7 +36,7 @@ Each iteration should: read previous findings → identify the highest-value une
 ### Track 3: Ancestry/Geni/MyHeritage Trees
 - [x] Search Geni.com for Fernandez-Abalos-Tamondong profiles — **No profiles found for any direct ancestors**
 - [x] Search MyHeritage for family matches — **No matches found**
-- [ ] Deep search Ancestry public trees for Tamondong connections *(Iteration 126: first post-resource targeted search attempt failed at tool level. Iteration 127: public MyHeritage Tamondong tree surface resolves only to an anti-bot page from this environment; still needs manual authenticated browser access.)*
+- [ ] Deep search Ancestry public trees for Tamondong connections *(Iteration 126: first post-resource targeted search attempt failed at tool level. Iteration 127: public MyHeritage Tamondong tree surface resolves only to an anti-bot page from this environment. Iteration 128: direct Ancestry record URLs for the highest-priority records now also resolve to security/deny redirects from this environment; still needs manual authenticated browser access.)*
 - [ ] Investigate "Juan Tamondong Casupang" on Jendro/Kastlunger tree
 - [ ] Search for Pedro Caguioa Tamondong connections
 - [ ] **Register FamilySearch account** — unlocks 3 critical collections (Dagupan parish, Cook County deaths, Pangasinan civil reg)
@@ -52,7 +55,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Ancestry Chicago Tribune Obituary Index, 1988-1997 — **REQUIRES SUBSCRIPTION**
 - [ ] Ancestry Chicago Sun-Times Obituary Index, 1988-1995 — **REQUIRES SUBSCRIPTION**
 - [ ] FamilySearch Archdiocese of Chicago Cemetery Records, 1864-1989
-- [ ] Search for Fernandez family immigration records (likely post-1965) *(Iteration 125: live NARA Chicago page re-confirmed Northern District of Illinois naturalization indexes / declarations / petitions for Chicago 1872-1991; still best archive path outside Ancestry. Iteration 126: targeted web_search for Chicago 1981 immigration / naturalization failed at tool level with `fetch failed`. Iteration 127: direct HTTP check reconfirmed NARA Chicago page is still reachable, but no public search spillover was found.)*
+- [ ] Search for Fernandez family immigration records (likely post-1965) *(Iteration 125: live NARA Chicago page re-confirmed Northern District of Illinois naturalization indexes / declarations / petitions for Chicago 1872-1991; still best archive path outside Ancestry. Iteration 126: targeted web_search for Chicago 1981 immigration / naturalization failed at tool level with `fetch failed`. Iteration 127: direct HTTP check reconfirmed NARA Chicago page is still reachable, but no public search spillover was found. Iteration 128: DuckDuckGo HTML fallback now returns anomaly challenge / HTTP 202, further reducing public-search fallback options.)*
 - [ ] Check US naturalization records for Raul Fernandez
 - [ ] Search US census records for Aurea/Raul Fernandez
 - [x] Ask Adrian: Did Bienvenido die in Philippines or US? → **CHICAGO, IL**
@@ -69,8 +72,8 @@ Each iteration should: read previous findings → identify the highest-value une
 - [x] Research Pangasinan genealogy Facebook groups and communities — **Identified filipinogenealogy.com, genealogy.ph, FamilySearch wiki as resources**
 - [ ] Check if any Filipino genealogy societies have Fernandez records
 - [ ] Search for more Tamondong gobernadorcillos/captains in San Carlos historical records
-- [ ] Manual Ancestry unlock: open **#48547169 (collection 60901)** for Bienvenido Daquigan Fernandez SS application — current highest-value single record
-- [ ] Manual Ancestry unlock: open **#4029022 (collection 60130)** for Pablo Fernandez + Marta Villanueva marriage — best path to extend Fernandez line one generation further
+- [ ] Manual Ancestry unlock: open **#48547169 (collection 60901)** for Bienvenido Daquigan Fernandez SS application — current highest-value single record *(Iteration 128: direct URL probe now confirmed this environment hits Ancestry `security/deny.aspx` before any useful metadata is exposed)*
+- [ ] Manual Ancestry unlock: open **#4029022 (collection 60130)** for Pablo Fernandez + Marta Villanueva marriage — best path to extend Fernandez line one generation further *(Iteration 128: direct URL probe also confirmed `security/deny.aspx` barrier here)*
 - [ ] Research Barangay Ano (Francisco Tamondong connection) and other San Carlos barangays
 - [x] Search San Carlos City barangay officials for family surnames — **Eduardo C. Tamondong = Captain of Sapinit; 3 Rosario captains; Macalanda captain of Tandoc**
 - [x] Research Eduardo C. Tamondong (Sapinit barangay captain) — **Full name: Eduardo CORPUZ Tamondong. "C." = Corpuz (mother's maiden name). Contact: 09994219969. Possible living relative.**

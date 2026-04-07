@@ -1,6 +1,29 @@
 # Consolidated Findings
 
-Last updated: 2026-04-07 00:55 UTC (Iteration 127: NARA Chicago page still directly reachable; FamilySearch remains HTTP 403-blocked; MyHeritage Tamondong search resolves only to an Incapsula anti-bot page; no new genealogical facts unlocked)
+Last updated: 2026-04-07 01:22 UTC (Iteration 128: direct Ancestry record URLs for Bienvenido SS #48547169 and Pablo+Marta marriage #4029022 now confirmed to hit Ancestry security/deny redirects from this environment; DuckDuckGo HTML fallback now serves anomaly challenge / HTTP 202; NARA Chicago remains directly reachable; no new genealogical facts unlocked)
+
+## Iteration 128 — Ancestry Direct-Record Access Probe + Search-Engine Challenge Check (2026-04-07)
+
+### Access-State Map Tightened Again
+- Direct Ancestry URLs for the two highest-priority records are now explicitly confirmed to hit **Ancestry security/deny** redirects from this environment:
+  - **Bienvenido Daquigan Fernandez SS record #48547169** (collection 60901)
+  - **Pablo Fernandez + Marta Villanueva marriage #4029022** (collection 60130)
+- The alternate `discoveryui-content/view/...` URLs simply 301-redirect back to the same blocked record paths
+- The blocked response bodies expose only generic **"Join Ancestry" / site-shell HTML**, with **no useful metadata leak**
+- **DuckDuckGo HTML** fallback is now also degraded: requests returned **HTTP 202** with an anomaly / human-verification challenge instead of parseable results
+- **NARA Chicago naturalization page** remains directly reachable (**HTTP 200**) and still confirms the presence of petition indexes / declarations / petitions in the relevant Chicago window
+
+### Operational Conclusion
+- **No new genealogical facts** were unlocked this iteration
+- But the current environment boundaries are now even clearer:
+  - **Reachable:** NARA Chicago
+  - **Blocked:** FamilySearch (403), MyHeritage anti-bot, Ancestry security/deny redirects, DuckDuckGo anomaly challenge, OpenClaw web_search failures
+- Highest-value next manual actions remain:
+  1. **Manual Ancestry #48547169**
+  2. **Manual Ancestry #4029022**
+  3. **Manual FamilySearch browser login (Adrian26448)**
+  4. **NARA Chicago naturalization index lookup**
+
 
 ## Iteration 127 — Tamondong Public-Tree Surface + Access-State Recheck (2026-04-07)
 
