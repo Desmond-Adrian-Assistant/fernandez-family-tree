@@ -1,6 +1,43 @@
 # Consolidated Findings
 
-Last updated: 2026-04-07 02:31 UTC (Iteration 131: live USCIS Genealogy request page clarified that record/file requests require a file number; for Bienvenido's 1981 path, USCIS remains the official A-file custodian route, but NARA Chicago naturalization indexes remain the better currently documented name-based archive entry point)
+Last updated: 2026-04-07 06:24 UTC (Iteration 132: Ancestry World Explorer trial announced as new resource, but ALL web tools failing — manual login now the only path to records #48547169 and #4029022)
+
+## Iteration 132 — Ancestry World Explorer Priority: Tool Failures Block Automated Access (2026-04-07)
+
+### Complete Tool Failure Confirmed
+All automated web access attempts failed:
+- `web_search` = `fetch failed` on all queries
+- `web_fetch` = `fetch failed` on Ancestry URLs
+- Previously confirmed: Ancestry security/deny redirects, FamilySearch 403, MyHeritage Incapsula
+
+### Ancestry World Explorer Trial = Critical Manual Action Required
+The cron prompt announced **Ancestry World Explorer trial** as a new resource with specific records:
+- **#48547169 (collection 60901)** — Bienvenido Daquigan Fernandez SS application
+- **#4029022 (collection 60130)** — Pablo Fernandez + Marta Villanueva marriage
+
+**However, automated access is impossible. Adrian must manually log into Ancestry.**
+
+### Record #48547169 Remains the Single Highest-Value Unlock
+This SS application would provide:
+- Exact birth/death dates for Bienvenido
+- Father's name confirmation (Mariano)
+- Mother's maiden name confirmation (Victoria Daquigan)
+- SSN for cross-referencing
+- Last Illinois address
+
+### Research Status at 132 Iterations
+| Track | Status | Blocker |
+|-------|--------|---------|
+| Bienvenido SS record | 🔴 BLOCKED | Ancestry paywall + tool failures |
+| Pablo+Marta marriage | 🔴 BLOCKED | Ancestry paywall + tool failures |
+| Tamondong trees | 🔴 BLOCKED | MyHeritage anti-bot + tool failures |
+| Chicago immigration | 🟡 PARTIAL | NARA Chicago reachable by phone |
+| Mariano WWII | 🟡 PARTIAL | NARA SF-180 form available |
+
+### Conclusion
+**Manual Ancestry login required.** No further automated progress possible until Adrian accesses the World Explorer trial.
+
+---
 
 ## Iteration 131 — USCIS Genealogy Request Mechanics Clarified (2026-04-07)
 

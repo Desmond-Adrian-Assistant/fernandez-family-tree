@@ -4,6 +4,7 @@
 Each iteration should: read previous findings → identify the highest-value unexplored lead → research it → document results → update findings.md
 
 ## Iteration Log
+- **Iteration 132 (2026-04-07 06:24 UTC)** — **Ancestry World Explorer trial** announced as new resource. Attempted automated access to **Bienvenido SS record #48547169** and **Pablo+Marta marriage #4029022** — ALL web tools failed (`fetch failed`). Manual Ancestry login now the **only viable path** forward. Research at hard ceiling.
 - **Iteration 131 (2026-04-07 02:31 UTC)** — Live USCIS **Requesting Records** page clarified that Genealogy Program record/file requests are accepted online or by mail but **require a file number**. This makes USCIS a valid follow-through path for Bienvenido's likely **A-file**, but leaves **NARA Chicago naturalization indexes** as the better currently documented name-based archive entry point.
 - **Iteration 130 (2026-04-07 02:29 UTC)** — Official USCIS + NARA pages clarified that Bienvenido's A-file is **not yet transferable to NARA** because A-files move **100 years after birth year**; with a **1937** birth, NARA eligibility would be **2037**. This narrows the current federal path to **USCIS Genealogy / record request** plus **NARA Chicago naturalization indexes**.
 - **Iteration 129 (2026-04-07 02:16 UTC)** — Live NARA pages directly re-confirmed Chicago naturalization coverage (petition indexes / declarations / petitions all 1872-1991) and officially corroborated Mariano-relevant guerrilla file references **102-22**, **304**, **202**, and **185-series**. No new genealogical identities unlocked.
@@ -39,7 +40,7 @@ Each iteration should: read previous findings → identify the highest-value une
 ### Track 3: Ancestry/Geni/MyHeritage Trees
 - [x] Search Geni.com for Fernandez-Abalos-Tamondong profiles — **No profiles found for any direct ancestors**
 - [x] Search MyHeritage for family matches — **No matches found**
-- [ ] Deep search Ancestry public trees for Tamondong connections *(Iteration 126: first post-resource targeted search attempt failed at tool level. Iteration 127: public MyHeritage Tamondong tree surface resolves only to an anti-bot page from this environment. Iteration 128: direct Ancestry record URLs for the highest-priority records now also resolve to security/deny redirects from this environment; still needs manual authenticated browser access.)*
+- [ ] Deep search Ancestry public trees for Tamondong connections *(Iteration 126: first post-resource targeted search attempt failed at tool level. Iteration 127: public MyHeritage Tamondong tree surface resolves only to an anti-bot page from this environment. Iteration 128: direct Ancestry record URLs for the highest-priority records now also resolve to security/deny redirects from this environment; **Iteration 132: ALL web tools confirmed failing — manual Ancestry World Explorer login now the only path**)*
 - [ ] Investigate "Juan Tamondong Casupang" on Jendro/Kastlunger tree
 - [ ] Search for Pedro Caguioa Tamondong connections
 - [ ] **Register FamilySearch account** — unlocks 3 critical collections (Dagupan parish, Cook County deaths, Pangasinan civil reg)
@@ -75,9 +76,9 @@ Each iteration should: read previous findings → identify the highest-value une
 - [x] Research Pangasinan genealogy Facebook groups and communities — **Identified filipinogenealogy.com, genealogy.ph, FamilySearch wiki as resources**
 - [ ] Check if any Filipino genealogy societies have Fernandez records
 - [ ] Search for more Tamondong gobernadorcillos/captains in San Carlos historical records
-- [ ] Manual Ancestry unlock: open **#48547169 (collection 60901)** for Bienvenido Daquigan Fernandez SS application — current highest-value single record *(Iteration 128: direct URL probe now confirmed this environment hits Ancestry `security/deny.aspx` before any useful metadata is exposed)*
+- [ ] Manual Ancestry unlock: open **#48547169 (collection 60901)** for Bienvenido Daquigan Fernandez SS application — current highest-value single record *(Iteration 128: direct URL probe now confirmed this environment hits Ancestry `security/deny.aspx` before any useful metadata is exposed; **Iteration 132: web_search/web_fetch ALL failing — Ancestry World Explorer trial login required**)*
 - [ ] Submit **USCIS Genealogy / record request** for Bienvenido Fernandez — best current federal custodian path for deceased-immigrant records, but **Iteration 131** clarified the live request page says record/file requests **require a file number**; treat USCIS as follow-through after a number is found *(Iteration 130: live NARA A-file page clarified Bienvenido's 1937 birth year means A-file transfer eligibility is not until **2037**)*
-- [ ] Manual Ancestry unlock: open **#4029022 (collection 60130)** for Pablo Fernandez + Marta Villanueva marriage — best path to extend Fernandez line one generation further *(Iteration 128: direct URL probe also confirmed `security/deny.aspx` barrier here)*
+- [ ] Manual Ancestry unlock: open **#4029022 (collection 60130)** for Pablo Fernandez + Marta Villanueva marriage — best path to extend Fernandez line one generation further *(Iteration 128: direct URL probe also confirmed `security/deny.aspx` barrier here; **Iteration 132: manual login required**)*
 - [ ] Research Barangay Ano (Francisco Tamondong connection) and other San Carlos barangays
 - [x] Search San Carlos City barangay officials for family surnames — **Eduardo C. Tamondong = Captain of Sapinit; 3 Rosario captains; Macalanda captain of Tandoc**
 - [x] Research Eduardo C. Tamondong (Sapinit barangay captain) — **Full name: Eduardo CORPUZ Tamondong. "C." = Corpuz (mother's maiden name). Contact: 09994219969. Possible living relative.**
