@@ -33,7 +33,7 @@ Each iteration should: read previous findings → identify the highest-value une
 ### Track 3: Ancestry/Geni/MyHeritage Trees
 - [x] Search Geni.com for Fernandez-Abalos-Tamondong profiles — **No profiles found for any direct ancestors**
 - [x] Search MyHeritage for family matches — **No matches found**
-- [ ] Deep search Ancestry public trees for Tamondong connections *(Iteration 126: first post-resource targeted search attempt failed at tool level; still needs manual authenticated browser access)*
+- [ ] Deep search Ancestry public trees for Tamondong connections *(Iteration 126: first post-resource targeted search attempt failed at tool level. Iteration 127: public MyHeritage Tamondong tree surface resolves only to an anti-bot page from this environment; still needs manual authenticated browser access.)*
 - [ ] Investigate "Juan Tamondong Casupang" on Jendro/Kastlunger tree
 - [ ] Search for Pedro Caguioa Tamondong connections
 - [ ] **Register FamilySearch account** — unlocks 3 critical collections (Dagupan parish, Cook County deaths, Pangasinan civil reg)
@@ -47,12 +47,12 @@ Each iteration should: read previous findings → identify the highest-value une
 - [x] Cook County Probate Will Search — **No cases found**
 - [x] Ancestry Cook County Death Index, 1908-1988 — **Only covers through 1988, cannot include 1994 death**
 - [x] Whitepages/Spokeo for Aurea Fernandez — **CONFIRMED: Aurea Fernandez lives in Chicago, IL**
-- [ ] FamilySearch "Cook County Deaths, 1871-1998" (collection 1463134) — **REQUIRES FREE ACCOUNT** — covers 1994! *(Iteration 125: direct FamilySearch access from this environment still returns HTTP 403 / bot block)*
+- [ ] FamilySearch "Cook County Deaths, 1871-1998" (collection 1463134) — **REQUIRES FREE ACCOUNT** — covers 1994! *(Iteration 125: direct FamilySearch access from this environment still returns HTTP 403 / bot block. Iteration 127 reconfirmed FamilySearch ARK access remains HTTP 403.)*
 - [ ] Catholic Cemeteries of Chicago "Locate a Loved One" — **REQUIRES EMAIL REGISTRATION**
 - [ ] Ancestry Chicago Tribune Obituary Index, 1988-1997 — **REQUIRES SUBSCRIPTION**
 - [ ] Ancestry Chicago Sun-Times Obituary Index, 1988-1995 — **REQUIRES SUBSCRIPTION**
 - [ ] FamilySearch Archdiocese of Chicago Cemetery Records, 1864-1989
-- [ ] Search for Fernandez family immigration records (likely post-1965) *(Iteration 125: live NARA Chicago page re-confirmed Northern District of Illinois naturalization indexes / declarations / petitions for Chicago 1872-1991; still best archive path outside Ancestry. Iteration 126: targeted web_search for Chicago 1981 immigration / naturalization failed at tool level with `fetch failed`.)*
+- [ ] Search for Fernandez family immigration records (likely post-1965) *(Iteration 125: live NARA Chicago page re-confirmed Northern District of Illinois naturalization indexes / declarations / petitions for Chicago 1872-1991; still best archive path outside Ancestry. Iteration 126: targeted web_search for Chicago 1981 immigration / naturalization failed at tool level with `fetch failed`. Iteration 127: direct HTTP check reconfirmed NARA Chicago page is still reachable, but no public search spillover was found.)*
 - [ ] Check US naturalization records for Raul Fernandez
 - [ ] Search US census records for Aurea/Raul Fernandez
 - [x] Ask Adrian: Did Bienvenido die in Philippines or US? → **CHICAGO, IL**
@@ -334,3 +334,4 @@ Each iteration should: read previous findings → identify the highest-value une
 | 65 | 2026-04-03 18:21 | Ancestry access assessment + research ceiling | **All free online avenues exhausted.** Ancestry SS record #48547169 confirmed as first result but still behind paywall. Catholic Cemeteries Chicago = Cloudflare blocked. PVAO = still down. NARA AAD = JS-rendered. Geni = bot check. FamilySearch = requires login. Steve Morse SSDI = JS. 1912 PH Civil Service Roster on Archive.org potentially has Pangasinan section (pg 87) + Tarlac (pg 89) — but UMich library Cloudflare-blocked. "Families of Old Pangasinan" blog found (comments reference Perez-de Venecia, Maramba-Villanueva intermarriage). **963 Abalos profiles exist on Geni.** No new findings possible without Adrian's direct action on Ancestry/FamilySearch/Catholic Cemeteries. Research formally at hard ceiling — automated iterations cannot break through login/paywall barriers. |
 | 125 | 2026-04-06 23:30 | Bienvenido U.S. paper trail re-check + live-access audit | **Live NARA Chicago page directly re-confirmed Chicago/N.D. Illinois naturalization indexes, declarations, and petitions all run 1872-1991.** FamilySearch ARK access still returns HTTP 403 in this environment. DuckDuckGo public search returned no spillover for Bienvenido SS or Pablo+Marta marriage. Weak new surface lead: public MyHeritage Tamondong family tree result exists. |
 | 126 | 2026-04-07 00:27 | New-resources pass: Ancestry / Tamondong / Chicago priority check | **All four targeted OpenClaw web_search calls failed with `fetch failed`.** No new genealogical facts unlocked. This confirms the project is now resource-constrained rather than lead-constrained; top manual unlocks remain Ancestry **#48547169** (Bienvenido SS app) and **#4029022** (Pablo+Marta marriage). |
+| 127 | 2026-04-07 00:55 | Tamondong public-tree surface + access-state recheck | **NARA Chicago naturalization page still directly reachable (HTTP 200). FamilySearch ARK remains HTTP 403-blocked. MyHeritage Tamondong family-tree search resolves only to an Incapsula anti-bot page. No new genealogical facts unlocked, but the environment access map is now cleaner.** |

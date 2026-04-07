@@ -1,6 +1,33 @@
 # Consolidated Findings
 
-Last updated: 2026-04-07 00:27 UTC (Iteration 126: new-resources pass attempted; OpenClaw web_search failed repeatedly with `fetch failed`; no new genealogical facts unlocked; Ancestry #48547169 and #4029022 remain the top manual unlocks)
+Last updated: 2026-04-07 00:55 UTC (Iteration 127: NARA Chicago page still directly reachable; FamilySearch remains HTTP 403-blocked; MyHeritage Tamondong search resolves only to an Incapsula anti-bot page; no new genealogical facts unlocked)
+
+## Iteration 127 — Tamondong Public-Tree Surface + Access-State Recheck (2026-04-07)
+
+### Access-State Map Tightened Further
+- **NARA Chicago naturalization page** is still directly reachable from this environment (**HTTP 200**)
+- **FamilySearch** direct access to the known Bienvenido+Aurea marriage ARK still returns **HTTP 403 Forbidden**
+- **MyHeritage** Tamondong family-tree search resolves only to an **Incapsula anti-bot page**, so the earlier weak public-tree surface remains unexploitable here
+- OpenClaw **`web_search` / `web_fetch`** continue failing with **`fetch failed`** during this run
+
+### No Public Spillover for Priority Leads
+Direct public-search fallbacks still produced no usable spillover for:
+- Bienvenido Daquigan Fernandez SS application **#48547169**
+- Pablo Fernandez + Marta Villanueva marriage **#4029022**
+- Bienvenido Chicago 1981 immigration / naturalization lead
+- Mariano Fernandez WWII lead
+- Tamondong public-tree lead
+
+### Operational Conclusion
+- **No new genealogical facts** were unlocked this iteration
+- But the environment's current boundaries are now cleaner:
+  - **Reachable:** NARA Chicago
+  - **Blocked:** FamilySearch, MyHeritage anti-bot, OpenClaw web tools
+- Highest-value next manual actions remain unchanged:
+  1. **Ancestry #48547169** (Bienvenido SS application)
+  2. **Ancestry #4029022** (Pablo + Marta marriage)
+  3. **Manual FamilySearch browser login** (Adrian26448)
+  4. **NARA Chicago naturalization index lookup**
 
 ## Iteration 126 — New-Resources Pass: Ancestry / Tamondong / Chicago Priority Check (2026-04-07)
 
