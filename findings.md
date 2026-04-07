@@ -1,6 +1,32 @@
 # Consolidated Findings
 
-Last updated: 2026-04-07 18:21 UTC (Iteration 141: Maintenance mode confirmed — 141 iterations complete, all web tools blocked since Iteration 133, manual Ancestry/FamilySearch access required)
+Last updated: 2026-04-07 19:23 UTC (Iteration 142: Cron announced new Ancestry/FamilySearch resources — still blocked, manual login required)
+
+---
+
+## Iteration 142 — Cron New Resources Announcement: Manual Access Still Required (2026-04-07)
+
+**Date/Time:** 2026-04-07 19:23 UTC (Tuesday, April 7, 2025 — 2:23 PM America/Chicago)
+
+### Cron Prompt New Resources
+This iteration was triggered by a cron job announcing:
+1. **Ancestry.com World Explorer trial** — Record #48547169 (collection 60901) for Bienvenido SS application
+2. **FamilySearch account Adrian26448** — Access to collection #2018411 (Gerona births 1937)
+
+### Tool Status Verification
+| Tool | Status | Result |
+|------|--------|--------|
+| `web_search` | 🔴 FAILED | `fetch failed` |
+| Ancestry direct URLs | 🔴 BLOCKED | `security/deny.aspx` redirects |
+| FamilySearch ARK | 🔴 BLOCKED | HTTP 403 Forbidden |
+
+### Assessment
+Both newly announced resources require **interactive browser authentication** that cannot be performed by automated tools. **Zero new genealogical facts discovered.**
+
+### Research Milestone: 142 Iterations Complete
+- **Automated research phase:** OFFICIALLY COMPLETE (Iteration 133)
+- **Current status:** MAINTENANCE MODE — documenting tool failures only
+- **Next breakthrough requires:** Adrian's manual login to Ancestry or FamilySearch
 
 ---
 
