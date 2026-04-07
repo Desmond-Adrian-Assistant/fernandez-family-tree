@@ -1,6 +1,25 @@
 # Consolidated Findings
 
-Last updated: 2026-04-07 07:24 UTC (Iteration 133: Complete tool failure confirmed — web_search/web_fetch non-functional; Ancestry #48547169 and #4029022 remain highest-value unlocks requiring manual login)
+Last updated: 2026-04-07 07:59 UTC (Iteration 134: Complete tool failure confirmed — all automated access paths blocked; manual action required)
+
+---
+
+## Iteration 134 — Tool Failure Confirmation + Manual Action Summary (2026-04-07)
+
+### Automated Research Status: FULLY BLOCKED
+**All web tools non-functional**: `web_search` = fetch failed, `web_fetch` = fetch failed, Ancestry = security redirects, FamilySearch = 403 Forbidden.
+
+### Manual Action Priority List (Tier 1 Highest Impact)
+1. **Ancestry #48547169** — Bienvenido SS record (exact dates, SSN, parents confirmation)
+2. **Ancestry #4029022** — Pablo+Marta marriage (Pablo's parents' names)
+3. **FamilySearch #2018411** → Tarlac → Gerona → births 1937 — Bienvenido's birth certificate
+
+### Tiers 2-3: NARA Chicago naturalization lookup, SF-180 for Mariano WWII, Kristine8553 tree updates, Tamondong MyHeritage trees, Cook County death cert, Fercolla book, Bona Rae Villarta contact
+
+### Research Status: 134 Iterations
+- All publicly accessible internet sources exhausted in Iteration 133
+- Project now **resource-constrained, not lead-constrained**
+- No new genealogical facts discoverable via automated means
 
 ---
 
