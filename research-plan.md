@@ -4,6 +4,7 @@
 Each iteration should: read previous findings → identify the highest-value unexplored lead → research it → document results → update findings.md
 
 ## Iteration Log
+- **Iteration 130 (2026-04-07 02:29 UTC)** — Official USCIS + NARA pages clarified that Bienvenido's A-file is **not yet transferable to NARA** because A-files move **100 years after birth year**; with a **1937** birth, NARA eligibility would be **2037**. This narrows the current federal path to **USCIS Genealogy / record request** plus **NARA Chicago naturalization indexes**.
 - **Iteration 129 (2026-04-07 02:16 UTC)** — Live NARA pages directly re-confirmed Chicago naturalization coverage (petition indexes / declarations / petitions all 1872-1991) and officially corroborated Mariano-relevant guerrilla file references **102-22**, **304**, **202**, and **185-series**. No new genealogical identities unlocked.
 - **Iteration 128 (2026-04-07 01:22 UTC)** — Direct Ancestry probes for record #48547169 and #4029022 both hit `security/deny.aspx` redirects; blocked response bodies exposed no metadata; DuckDuckGo HTML fallback now returns anomaly challenge / HTTP 202; NARA Chicago remained reachable; no new genealogical facts.
 
@@ -56,7 +57,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Ancestry Chicago Tribune Obituary Index, 1988-1997 — **REQUIRES SUBSCRIPTION**
 - [ ] Ancestry Chicago Sun-Times Obituary Index, 1988-1995 — **REQUIRES SUBSCRIPTION**
 - [ ] FamilySearch Archdiocese of Chicago Cemetery Records, 1864-1989
-- [ ] Search for Fernandez family immigration records (likely post-1965) *(Iteration 125: live NARA Chicago page re-confirmed Northern District of Illinois naturalization indexes / declarations / petitions for Chicago 1872-1991; still best archive path outside Ancestry. Iteration 126: targeted web_search for Chicago 1981 immigration / naturalization failed at tool level with `fetch failed`. Iteration 127: direct HTTP check reconfirmed NARA Chicago page is still reachable, but no public search spillover was found. Iteration 128: DuckDuckGo HTML fallback now returns anomaly challenge / HTTP 202, further reducing public-search fallback options.)*
+- [ ] Search for Fernandez family immigration records (likely post-1965) *(Iteration 125: live NARA Chicago page re-confirmed Northern District of Illinois naturalization indexes / declarations / petitions for Chicago 1872-1991; still best archive path outside Ancestry. Iteration 126: targeted web_search for Chicago 1981 immigration / naturalization failed at tool level with `fetch failed`. Iteration 127: direct HTTP check reconfirmed NARA Chicago page is still reachable, but no public search spillover was found. Iteration 128: DuckDuckGo HTML fallback now returns anomaly challenge / HTTP 202, further reducing public-search fallback options. **Iteration 130:** live USCIS + NARA pages clarified that Bienvenido's **A-file would not be NARA-transfer eligible until 2037** (100 years after 1937 birth year), so the correct current federal path is **USCIS Genealogy / record request** plus **NARA Chicago naturalization indexes**, not a present-day NARA A-file search.)*
 - [ ] Check US naturalization records for Raul Fernandez
 - [ ] Search US census records for Aurea/Raul Fernandez
 - [x] Ask Adrian: Did Bienvenido die in Philippines or US? → **CHICAGO, IL**
@@ -74,6 +75,7 @@ Each iteration should: read previous findings → identify the highest-value une
 - [ ] Check if any Filipino genealogy societies have Fernandez records
 - [ ] Search for more Tamondong gobernadorcillos/captains in San Carlos historical records
 - [ ] Manual Ancestry unlock: open **#48547169 (collection 60901)** for Bienvenido Daquigan Fernandez SS application — current highest-value single record *(Iteration 128: direct URL probe now confirmed this environment hits Ancestry `security/deny.aspx` before any useful metadata is exposed)*
+- [ ] Submit **USCIS Genealogy / record request** for Bienvenido Fernandez — best current federal path for deceased-immigrant records *(Iteration 130: live USCIS page confirmed Genealogy is a fee-for-service program for deceased immigrants; live NARA A-file page clarified Bienvenido's 1937 birth year means A-file transfer eligibility is not until **2037**)*
 - [ ] Manual Ancestry unlock: open **#4029022 (collection 60130)** for Pablo Fernandez + Marta Villanueva marriage — best path to extend Fernandez line one generation further *(Iteration 128: direct URL probe also confirmed `security/deny.aspx` barrier here)*
 - [ ] Research Barangay Ano (Francisco Tamondong connection) and other San Carlos barangays
 - [x] Search San Carlos City barangay officials for family surnames — **Eduardo C. Tamondong = Captain of Sapinit; 3 Rosario captains; Macalanda captain of Tandoc**

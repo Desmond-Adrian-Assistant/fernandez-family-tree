@@ -1,6 +1,34 @@
 # Consolidated Findings
 
-Last updated: 2026-04-07 02:16 UTC (Iteration 129: live NARA pages re-confirmed Chicago naturalization coverage 1872-1991 and directly corroborated Mariano-relevant guerrilla file references 102-22, 304, 202, and 185-series; no new genealogical identities unlocked)
+Last updated: 2026-04-07 02:29 UTC (Iteration 130: official USCIS + NARA pages clarified that Bienvenido's A-file is not yet transferable to NARA because A-files move 100 years after birth year; for a 1937 birth, NARA eligibility is 2037; current federal path is USCIS Genealogy + NARA Chicago naturalization)
+
+## Iteration 130 — Official USCIS / NARA Immigration-Path Clarification (2026-04-07)
+
+### Live Federal-Archive Clarification
+Direct official-source fetches tightened the Chicago 1981 paper-trail strategy.
+
+### USCIS Genealogy = Active Official Path for Bienvenido
+- The live **USCIS Genealogy** page explicitly describes the service as a **fee-for-service program** providing access to historical immigration and naturalization records of **deceased immigrants**
+- This gives Bienvenido Fernandez an official federal-record path outside Ancestry
+
+### Bienvenido's A-file Is NOT Yet at NARA
+- The live NARA **Alien Files (A-Files)** page states A-files become eligible for transfer to NARA custody **100 years after the immigrant's year of birth**
+- Bienvenido was born in **1937**
+- Therefore, an A-file for Bienvenido would not become NARA-transfer eligible until **2037**
+
+### Chicago Naturalization Path Still Valid
+- NARA Chicago still explicitly lists for **Illinois, Northern District, Chicago**:
+  - **Petition indexes: 1872-1991**
+  - **Declarations of intention: 1872-1991**
+  - **Petitions: 1872-1991**
+- This keeps Bienvenido's reported **1981 Chicago arrival** inside a documented naturalization-search window
+
+### Operational Conclusion
+- **Do not spend time on current NARA A-file searches for Bienvenido**
+- Best federal path is now:
+  1. **USCIS Genealogy / record request**
+  2. **NARA Chicago naturalization index lookup**
+- No new genealogical identities or dates were unlocked this iteration
 
 ## Iteration 129 — Live NARA Corroboration Pass: Mariano WWII + Chicago Naturalization (2026-04-07)
 
